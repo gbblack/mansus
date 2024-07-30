@@ -128,6 +128,33 @@ fn it_adds_two() {
 }
 ```
 
-Each file in `tests` is a separate crate so the source code must be brought into scope each time.
+Each file in `tests` is a separate crate so the source code must be brought into scope each time. As such we also don't need to use `#[cfg(test)]` since it is not part of the crate build.
 
-`cargo test` includes these test files as well when runnign tests for the whole crate.
+`cargo test` includes these test files as well when running tests for the whole crate.
+
+If we want to run a specific integration test we add the `--test` argument before the integration filename.
+
+##### Submodules in Integration Tests
+
+If we want integration to share some functionality, such as setup and tear down, then we have to store all the files holding those functions in a subfolder *common* and name the file *mod.rs*.
+
+```txt
+├── Cargo.lock
+├── Cargo.toml
+├── src
+│   └── lib.rs
+└── tests
+    ├── common
+    │   └── mod.rs
+    └── integration_test.rs
+```
+
+We bring this common module into scope using `mod common` and we call `common::<function>` to use one of the common functions defined within.
+
+##### Integration tests for Binary Crates
+
+Only library crates expose functions that other crates can use so your integration crates can never cover code from a binary crate. 
+
+>This is one of the reasons Rust projects that provide a binary have a straightforward src/main.rs file that calls logic that lives in the src/lib.rs file. Using that structure, integration tests can test the library crate with use to make the important functionality available. If the important functionality works, the small amount of code in the src/main.rs file will work as well, and that small amount of code doesn’t need to be tested.
+> [more understanding required](https://doc.rust-lang.org/book/ch11-03-test-organization.html)
+
