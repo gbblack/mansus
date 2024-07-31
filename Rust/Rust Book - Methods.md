@@ -87,4 +87,4 @@ To call an associated function we use the `::` syntax with the struct name `let 
 
 ##### Multiple `impl` Blocks
 
-Every struct is allowed many `impl` blocks, where this is useful is in [[Chapter 10]]
+Every struct is allowed many `impl` blocks, where this is useful is in [[Rust Book - Generics|Chapter 10 of the Rust Book]].

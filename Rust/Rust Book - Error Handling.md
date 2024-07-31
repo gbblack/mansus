@@ -1,4 +1,4 @@
-In rust there are two types or errors: *recoverable* and *unrecoverable*. To handle these two errors Rust does not use exceptions it instead uses the type `Result<T, E>` for recoverable errors and `panic!` [[macro]] for unrecoverable errors. 
+In rust there are two types or errors: *recoverable* and *unrecoverable*. To handle these two errors Rust does not use exceptions it instead uses the type `Result<T, E>` for recoverable errors and `panic!` [[macros]] for unrecoverable errors. 
 
 ### Unrecoverable Errors
 

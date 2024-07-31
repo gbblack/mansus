@@ -141,3 +141,47 @@ let n = example_closure(5); // fails
 
 Closures can captures values in three ways, mimicking the ways a function can take a parameter, borrowing immutably/mutably and taking ownership. 
 
+A closure can capture any value in the environment that is already in scope.
+
+```rust
+fn main() {
+    let list = vec![1, 2, 3];
+    println!("Before defining closure: {list:?}");
+
+    let only_borrows = || println!("From closure: {list:?}");
+
+    println!("Before calling closure: {list:?}");
+    only_borrows();
+    println!("After calling closure: {list:?}");
+}
+```
+
+In this example the `only_borrows` closure will print the list value as if nothing is specified  in the body after `||` it will capture whatever is valid and in scope, in this case `list`. This is an example of an immutable capture closure.
+
+If we change the body to include some behaviour the closure will become a mutable borrow closure.
+
+```rust
+fn main() {
+    let mut list = vec![1, 2, 3];
+    println!("Before defining closure: {list:?}");
+
+    let mut borrows_mutably = || list.push(7);
+
+    borrows_mutably();
+    println!("After calling closure: {list:?}");
+}
+```
+
+There's no `println!` as part of the closure in this example as you can't make an immutable borrow, which is what `println!` [[println! macro|does ]], on a mutable borrow.
+
+If you wan the closure to take ownership of the value we need to use the `move` keyword.
+
+##### Moving Captured Values Out of Closures and the `Fn` Traits
+
+Once a value is moved into a closure the closure body can make changes to that value that persist when evaluated later. Depending on how the closure changes (or not) the values inside of it affects the traits the closure implements, and thus can only be called once.
+A closure will implement on or all of these `Fn` traits depending on the functioning of the body:
+- `FnOnce`: applies to closures that can be called once. All closure implement this trait. If a closure `moves` values out of its body this will be the only trait it implements.
+- `FnMut`: applies to closures that don't move values out of its body but instead change the values. These can be called more than once.
+- `Fn`: applies to closures that don't do anything to their values and to ones who capture nothing. These closures can be called many times without changing the environment they're capturing in.
+
+[more into](https://doc.rust-lang.org/book/ch13-01-closures.html)

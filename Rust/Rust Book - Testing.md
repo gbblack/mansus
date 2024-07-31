@@ -9,9 +9,9 @@ A test in Rust is a function with the `test` attribute. [[Attributes]] are metad
 
 When we generate a new module in Rust a test module with a test function is also generated for us. 
 
-To assert a function we use the `assert_eq!` [[macro]].
+To assert a function we use the `assert_eq!` [[macros]].
 
-For documentation on test see [[Chapter 14]]
+For documentation on test see [[Rust Book - Advanced Cargo and Crates]]
 
 ##### Checking Results with the `assert!` Macro
 
