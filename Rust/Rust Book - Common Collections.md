@@ -14,9 +14,9 @@ To create a new empty vector we call `Vec::new` like this:
 let v: Vec<i32> = Vec::new();
 ```
 
-Vectors are implemented using [[generics]], `<>`, and if the vector is created empty we must annotate the type so the compiler knows what kind of values to expect.
+Vectors are implemented using [[Rust Book - Generics|generics]], `<>`, and if the vector is created empty we must annotate the type so the compiler knows what kind of values to expect.
 
-If we are creating the vector with some values already included we can use this [[macro]]: `vec!`.
+If we are creating the vector with some values already included we can use this [[macros]]: `vec!`.
 This creates a vector already initialised with the values you pass it.
 
 ```rust
@@ -135,7 +135,7 @@ let s = String::from("initial string");
 
 ##### Updating a String
 
-When growing or updating a string you can treat it just like a Vector by pushing or popping elements in and out of it. You can also use `+` operator or `format!` [[macro]] to concatenate a string.
+When growing or updating a string you can treat it just like a Vector by pushing or popping elements in and out of it. You can also use `+` operator or `format!` [[macros]] to concatenate a string.
 
 To append to a string we use the `push_str` method.
 
@@ -179,7 +179,7 @@ scores.insert(String::from("Blue"), 10);
 scores.insert(String::from("Yellow"), 50);
 ```
 
-Hash maps, like [[vectors]] store their data on the [[heap]].
+Hash maps, like [[Rust Book - Common Collections#Storing with Vectors|vectors]] store their data on the [[heap]].
 
 Also like vectors all the keys must be of the same type and all the values must be of the same type.
 
@@ -201,5 +201,5 @@ let score = scores.get(&team_name).copied().unwrap_or(0);
 
 ##### Hash Maps and Ownership
 
-hash maps can contain different levels of [[Rust Book - Ownership|ownership]]. If stored values contain the [[Copy]] [[Trait]] then the value keeps its ownership, if however it does not have this trait then ownership is passed onto the hash map. [[Chapter 15|see more]]
+hash maps can contain different levels of [[Rust Book - Ownership|ownership]]. If stored values contain the [[Copy Trait]] then the value keeps its ownership, if however it does not have this trait then ownership is passed onto the hash map. [[Chapter 15|see more]]
 

@@ -164,7 +164,7 @@ fn returns_summarizable() -> impl Summary {
 ```
 
 
-This functionality is especially useful for [[Chapter 13]].
+This functionality is especially useful for [[Rust Book - Iterators|iterators]] and [[Rust Book - Closures|closures]] as both these features are essentially types that only the compiler knows or types with very long definitions. The `impl Trait` syntax allows you to specify that some type returns an `Iterator` trait without needing to type it out. 
 
 The limitation is that you can only return by trait if you're also returning a single type. So in our above example both struct `NewsArticle` and `Tweet` implemented the `Summary` trait but in this return example we can only return `Tweet` not both. More info in [[Chapter 17]].
 

@@ -98,7 +98,7 @@ You can use index notation to access individual values: `black[0] // will give y
 
 ##### Unit-Like Structs Without Any Fields
 
-A struct without a field is called a *unit like struct*. These are useful for when you need to apply a [[trait]] to some type but do not know the data you'd like top store. 
+A struct without a field is called a *unit like struct*. These are useful for when you need to apply a [[Rust Book - Traits|trait]] to some type but do not know the data you'd like top store. 
 
 ```rust
 struct AlwaysEqual;
@@ -112,6 +112,6 @@ Since the struct is empty there's no need for `{}`.
 
 ##### Ownership of Struct Data
 
-We want structs to own all of their data so it is best to use `String` over `&str` for the fields as it keeps the ownership belonging to each struct instance. If you try to give a field the type string slice you'll get a compiler error because you have not specified a [[lifetime]].
+We want structs to own all of their data so it is best to use `String` over `&str` for the fields as it keeps the ownership belonging to each struct instance. If you try to give a field the type string slice you'll get a compiler error because you have not specified a [[Rust Book - Lifetimes|lifetime]].
 
 When using structs that you plan to reuse pass a reference to the struct into functions and so that the function that needs to use the struct can keep its ownership.

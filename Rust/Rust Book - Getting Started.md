@@ -32,7 +32,7 @@ You can use `rustc` to compile rust source code and then execute the compiles fi
 
 > [!info]
 >All executable rust files must contain a `main` function.
->Functions with an `!` before the parameters are [[Rust macros|macros]].
+>Functions with an `!` before the parameters are [[macros]].
 >```rust
 > println!("Hello World!") // macro call
 > println("HelloWorld!") // function call
