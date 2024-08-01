@@ -144,7 +144,7 @@ let mut s = String::from("foo");
 s.push_str("bar"); // foobar
 ```
 
-When concatenating with `+` rust can coerces disparate string types together, i.e. `str` and `String` see more [[Chapter 15]].
+When concatenating with `+` rust can coerces disparate string types together, i.e. `str` and `String`, [[Rust Book - Smart Pointers|see more]].
 
 when needing to concatenate mutliple string its best to use the `format!` macro.
 
@@ -201,5 +201,5 @@ let score = scores.get(&team_name).copied().unwrap_or(0);
 
 ##### Hash Maps and Ownership
 
-hash maps can contain different levels of [[Rust Book - Ownership|ownership]]. If stored values contain the [[Copy Trait]] then the value keeps its ownership, if however it does not have this trait then ownership is passed onto the hash map. [[Chapter 15|see more]]
+hash maps can contain different levels of [[Rust Book - Ownership|ownership]]. If stored values contain the [[Copy Trait]] then the value keeps its ownership, if however it does not have this trait then ownership is passed onto the hash map. [[Rust Book - Smart Pointers|see more]]
 

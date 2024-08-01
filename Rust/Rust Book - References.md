@@ -18,7 +18,7 @@ fn calculate_length(s: &String) -> usize {
 
 In this example the parameter `s` needs to be of type String reference, and the variable `s1` while initialised as a `String` is *passed* as a reference using `&`.
 
-To dereference something you use the `*` operator. See more [[Rust - Chapter 15]]
+To dereference something you use the `*` operator, [[Rust Book - Smart Pointers|see more]].
 
 When using references values do not pass ownership and as such are valid until they leave scope.
 

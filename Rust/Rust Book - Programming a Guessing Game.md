@@ -17,4 +17,4 @@ So to import we write:
 check the [[std|std library]] library `prelude` for all std libraries that are imported by default and don't need to be explicitly brought in.
 
 
-TBC
+[[TBC]]
