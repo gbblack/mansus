@@ -1,0 +1,16 @@
+- Neovim as my IDE
+- Rust as my go to language
+- tmux to manage dev environment
+- Spanish, using Anki
+- Drawing
+- Godot
+- Blender
+- Basic music
+- Journalling
+- Nixos Linux distro
+- Touch typing
+- Mechanical Keyboards
+- Beadsprites
+- Gamepad Controller repair
+- Self Hosting
+- GitLab
