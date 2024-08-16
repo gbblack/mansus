@@ -100,3 +100,13 @@ for element in arr {
 }
 ```
 
+You cannot annotate the type for the variable inside the `for` loop statement. (i.e. `example`) but what you can do is use an [[Rust - integer suffix]] on one of the literals in the range, type inference in the compiler can use that to logic the rest. 
+
+You can also cast the whole statement using `as`.
+
+```rust
+for i in 1..100 as i64 {
+    // ...
+}
+```
+

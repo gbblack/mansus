@@ -123,6 +123,7 @@ This is how you write a strongly typed array, first with the type of the element
 
 ```rust
 let arr: [i32; 5] = [1,2,3,4,5];
+let arr: [i32; 100] = [0; 100] // initialises an array with 100 elements of 0
 ```
 
 To access elements in the array you use the index:
