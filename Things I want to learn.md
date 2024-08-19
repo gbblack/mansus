@@ -20,3 +20,10 @@
 - Self Hosting
 - GitLab
 - Proper Version Control
+- Drums
+- Deployment
+- Computer Software Architecture
+- Open Source Contribution
+- Vinyl Collecting
+- Best Record + CD players
+- Speakers

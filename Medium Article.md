@@ -1,5 +1,7 @@
 ---
 source: https://shahbhat.medium.com/building-a-decentralized-messaging-with-end-to-end-encryption-using-open-standards-5e8f6229730e
+tags:
+  - "#gRPC"
 ---
 
 # Building A Decentralized Messaging with End-to-End Encryption using Open Standards

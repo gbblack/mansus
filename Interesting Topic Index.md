@@ -5,3 +5,8 @@
 Book - Patterns for API design
 [summary of that book](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
 Book - Tidy First?
+[[REST API]]
+[[GraphQL]]
+gRPC
+API theory(?)
+HTTP/1.1 - [[HTTP/2]]
