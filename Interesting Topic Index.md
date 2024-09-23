@@ -9,4 +9,5 @@ Book - Tidy First?
 [[GraphQL]]
 gRPC
 API theory(?)
-HTTP/1.1 - [[HTTP/2]]
+HTTP/1.1 - [[2]]
+[how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
