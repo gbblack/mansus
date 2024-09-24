@@ -110,7 +110,7 @@ For consistency here are some rules for styling the notes as they are being writ
 
 12. When writing a line break use this format: `---`.
 
-13. Use highlight (`==`) extremely rarely, if you feel like something should be highlighted, link it instead.
+13. Titles should be written where the first letter of every word starts with a capital, i.e. "Here Is An Example Of A Title"
 
 ## Note Taking 
 
