@@ -66,6 +66,7 @@ These fields have been chosen with the intention they will create value over tim
 - `weight`, for tracking how many times this note was visited/rewritten, denoting its importance.
 - `author`: to show a potential preference for a writer or publication.
 - `source date`: the date the source was created, displaying the recency of the information.
+- `type`: the type of source in a literature note, to show a potential preference for certain medias.
 
 When adding or removing a field the main thing to consider is its potential use as a vector for spontaneous insight when queried. The existing fields were chose with these values in mind:
 
