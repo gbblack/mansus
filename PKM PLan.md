@@ -112,6 +112,8 @@ For consistency here are some rules for styling the notes as they are being writ
 
 13. Titles should be written where the first letter of every word starts with a capital, i.e. "Here Is An Example Of A Title"
 
+14. When using footnotes add two space after the `:` for inline spacing if it exceeds two lines.
+
 ## Note Taking 
 
 In the case of Literature notes, where you're not trying to translate the author's understanding into your own these steps are simplified. You still pass through all four but the first pass might include everything thing you think interesting from the source, while the second trims it down to its most relevant pieces.The polishing required here is minimal, just a reference to the original and the appropriate metadata.
