@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+  - "#history"
 path: 
 status: Night
 source: 

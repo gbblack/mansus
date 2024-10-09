@@ -39,7 +39,7 @@ Each template for every kind of note should include these metadata fields in thi
 The `created` and `status` fields will be filled in automatically.
 The rest will need to filled in manually each time. Some notes do not require all these fields and others may require more, but for now I think this is a good start.
 
-`created`: The day the note was created written in this format: `YYYY-MM-DD`
+`created`: The day the note was created written in this format: `DD-MM-YYYY`
 
 `status` should reflect how complete a note is. The status reflects how much work is left to be done on a note until it is considered complete. The stages/values are:
 
@@ -117,3 +117,5 @@ For consistency here are some rules for styling the notes as they are being writ
 ## Note Taking 
 
 In the case of Literature notes, where you're not trying to translate the author's understanding into your own these steps are simplified. You still pass through all four but the first pass might include everything thing you think interesting from the source, while the second trims it down to its most relevant pieces.The polishing required here is minimal, just a reference to the original and the appropriate metadata.
+
+Use ==highlights== on the final pass through of a note for completion.
