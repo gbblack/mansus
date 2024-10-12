@@ -24,4 +24,12 @@ Only once every stage is complete can this note graduate to the `Dusk` status.
 For the Literature Note, as it is a mix between your own and others' thinking there should be a clear divide of authorship at a glance.
 
 All external writing should be in block quote format.
+Above the block should be the page number the quote excerpt is on.
+Or the timestamp if its an audio/visual medium.
+For articles place nothing.
+
+At the footer of the note should be proper citations in case formal references are needed.
+
+-> could be an actual block rather than a Footer, will need to check what looks better.
+
 

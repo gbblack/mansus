@@ -25,3 +25,18 @@ Johny Decimal: https://johnnydecimal.com/10-19-concepts/11-core/11.02-areas-and-
 Simon Späti Blog: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
 
 Julia Evans Blog: https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
+
+https://matklad.github.io/ (rust analyzer dev's original blog)
+
+https://thecopenhagenbook.com/ (web security guide)
+
+https://cheatsheetseries.owasp.org/index.html (app security resource)
+
+https://archive.ph/kwt1b (stepping away from Fandom for wikis)
+https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
+
+https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/ (reflections on modern medical care and their clumsy handling of terminal diagnoses)
+
+https://www.htmlforpeople.com/intro/ (Guide/resource to learning HTML from scratch)
+
+https://learngitbranching.js.org/
