@@ -1,5 +1,3 @@
-Anarchist Library: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood (Family and ownership across cultures)
-
 Jascha's Blog: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html (focusing on efficiency makes things worse)
 
 Knight Columbia: https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech (Protocols over Platform)

@@ -1,9 +1,14 @@
 ---
 aliases: 
-tags:
-  - "#history"
+tags: []
 path: 
 status: Night
+author: 
+publication: 
 source: 
 created:
 ---
+> [!note] Nota Bene
+
+---
+### Reference

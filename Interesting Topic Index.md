@@ -12,3 +12,4 @@ API theory(?)
 HTTP/1.1 - [[2]]
 [how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
 MusicBrainz: https://musicbrainz.org/ (music wiki?? could be cool)
+https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf (citation guide)
