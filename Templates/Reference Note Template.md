@@ -1,7 +1,8 @@
 ---
 aliases: 
 tags: 
-type: 
+type:
+  - reference
 created:
 ---
 > [!note] Nota Bene

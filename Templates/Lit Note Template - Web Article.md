@@ -17,7 +17,7 @@ First Name Initial. Last Name, "Web Article Title", Website.
 Available: link (Accessed MMM ddd, yyyy)
 
 ---
-##### Completeness check
+##### Completeness
 
 - [ ] Filled out `Citation` block using IEEE style.
 - [ ] Completed or removed `Nota Bene`

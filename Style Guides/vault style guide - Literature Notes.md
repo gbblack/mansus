@@ -2,9 +2,9 @@
 
 ##### What is a Literature Note?
 
-A Literarure Note is any Note taking in the words/thoughts of another person or source. They are the notes taken on a book, article, video, podcast and so on.
+A Literature Note is any Note taking in the words/thoughts of another person or source. They are the notes taken on a book, article, video, podcast and so on.
 
-Literature Notes are often born from, but not always, [[Fleeting Notes]]. In the Fleeting Note we might have underlines an interesting sentence in a book, or have highlighted an entire paragraph graph in an article.
+Literature Notes are often born from, but not always, [[vault style guide - Fleeting Notes|Fleeting Notes]]. In the Fleeting Note we might have underlines an interesting sentence in a book, or have highlighted an entire paragraph graph in an article.
 
 Whatever the case a Literature Note is where the second step of distillation occurs.
 
@@ -12,8 +12,8 @@ Whatever the case a Literature Note is where the second step of distillation occ
 
 Literature Notes will have a `status` property denoting how "complete" it is. Once the note reaches the status of `Dusk` the note can be considered finished and therefore be "sunsetted" as a full addition to my second brain.
 
-To reach the `Dusk` status we must forst pass through the other three:
-- `Night`: the earliest stage, when the relevent fleeting notes have been dumped into the Literature Note. Initial impressions might be included here but only barebones examples.
+To reach the `Dusk` status we must first pass through the other three:
+- `Night`: the earliest stage, when the relavent fleeting notes have been dumped into the Literature Note. Initial impressions might be included here but only barebones examples.
 - `Dawn`: the second stage, where interpretation occurs, here the quote or ideas that spoke to me most are formatted in a quote block and benesth, in my own words, is my interpretation of them.
 - `Noon`: penultimate stage, here I pour over my own thoughts and the original quotes. Using the distillation methods from [[PARA]] I **bold** and then ==highlight== the most important insights from this thinking. Finally I check that I've kept to my styling and formatting app/playwright/playwright-report, completed the metadata and tagged appropriately. 
 

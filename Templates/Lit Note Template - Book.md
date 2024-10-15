@@ -1,7 +1,8 @@
 ---
 aliases: 
 tags: 
-type: 
+type:
+  - literature/book
 status: Night
 author: 
 publication: 
@@ -16,7 +17,7 @@ created:
 First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
 
 ---
-##### Completeness check
+##### Completeness
 
 - [ ] Filled out `Citation` block using IEEE style.
 - [ ] Completed or removed `Nota Bene`
