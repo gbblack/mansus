@@ -1,9 +1,8 @@
 ---
 aliases: 
-tags: 
-type:
+tags:
   - permanent
-status: Night
+  - status/night
 created:
 ---
 ##### Bibliography

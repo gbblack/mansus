@@ -1,8 +1,7 @@
 ---
-tags: 
-type:
+tags:
   - literature/web_article
-status: Night
+  - status/night
 author: 
 publication: 
 source: 

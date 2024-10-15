@@ -1,11 +1,11 @@
 ---
-tags: 
-type:
+tags:
   - literature/book_chapter
-status: Night
+  - status/night
 source: "[[Fundamentals of Software Architecture, An Engineering Approach|FSAeng]]"
 created: 2024-10-14
 ---
+
 
 > [!note] Nota Bene
 

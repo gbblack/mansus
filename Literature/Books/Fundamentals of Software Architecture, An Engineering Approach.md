@@ -1,11 +1,7 @@
 ---
-aliases:
-  - FSAeng
 tags:
-  - software_architecture
-type:
   - literature/book
-status: Night
+  - status/night
 source: Fundamentals of Software Architecture An Engineering Approach
 created: 2024-10-13
 author:
@@ -14,7 +10,8 @@ author:
 ---
 ### Chapter Index
 
-[[FSAeng - Introduction]]
+[[Fundamentals of Software Architecture, An Engineering Approach - Introduction|Introduction]]
+
 
 ##### Citation
 

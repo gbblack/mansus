@@ -1,12 +1,7 @@
 ---
 tags:
-  - history
-  - anthropology
-  - ancient_rome
-  - native_americans
-type:
   - literature/web_article
-status: Noon
+  - status/noon
 author:
   - David Graeber
   - David Wengrow

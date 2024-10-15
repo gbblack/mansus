@@ -1,7 +1,6 @@
 ---
 aliases: 
-tags: 
-type:
+tags:
   - reference
 created:
 ---

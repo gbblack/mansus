@@ -1,9 +1,8 @@
 ---
 aliases: 
-tags: 
-type:
+tags:
   - literature/book
-status: Night
+  - status/night
 author: 
 publication: 
 source: 
