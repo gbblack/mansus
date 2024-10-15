@@ -4,9 +4,9 @@ tags:
   - anthropology
   - ancient_rome
   - native_americans
-path:
-  - literature/article
-status: Dusk
+type:
+  - literature/web_article
+status: Noon
 author:
   - David Graeber
   - David Wengrow
@@ -58,7 +58,7 @@ In the Wendat life violence is reserved for the outsider alone, while care is sa
 > [!note] Nota Bene
 > I initially found this article in the archive of the website Anarchist Library but the original is actually an article from Harper's Magazine referencing chapter 12 of the authors' book: *From the Dawn of Everything*. The reference will point to the source I actually used, Anarchist Library.
 
-### Reference
+##### Citation
 
 D.Graeber, D. Wengrow, "Flesh and Blood", Anarchist Library.
 Available: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood (Accessed Oct 3rd, 2024).

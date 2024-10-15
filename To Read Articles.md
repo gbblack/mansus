@@ -38,3 +38,5 @@ https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/ (reflections on m
 https://www.htmlforpeople.com/intro/ (Guide/resource to learning HTML from scratch)
 
 https://learngitbranching.js.org/
+
+https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)

@@ -3,7 +3,7 @@ aliases:
   - FSAeng
 tags:
   - software_architecture
-path:
+type:
   - literature/book
 status: Night
 source: Fundamentals of Software Architecture An Engineering Approach
@@ -16,8 +16,6 @@ author:
 
 [[FSAeng - Introduction]]
 
-### Reference
-
-In Bibliography when referencing whole text:
+##### Citation
 
 M. Richards, N. Ford, *Fundamentals of Software Architecture: An Engineering Approach*, 1st ed. Sebastopol, CA, USA: O'Reilly Media, 2020.

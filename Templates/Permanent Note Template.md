@@ -1,9 +1,11 @@
 ---
 aliases: 
 tags: 
-path: 
+type: 
 status: Night
 created:
 ---
-### Bibliography
+##### Bibliography
 
+##### Completeness
+- [ ] 

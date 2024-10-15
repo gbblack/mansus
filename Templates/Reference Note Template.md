@@ -1,6 +1,10 @@
 ---
 aliases: 
 tags: 
-path: 
+type: 
 created:
 ---
+> [!note] Nota Bene
+
+---
+##### Sources
