@@ -9,6 +9,8 @@ created: 2024-10-14
 
 > [!note] Nota Bene
 
+##### Mind Map
+
 ---
 ##### Citation
 

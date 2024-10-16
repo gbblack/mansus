@@ -18,7 +18,7 @@ Make a mind map of the chapter (for practice):
 
 1. Create an index note for the entire textbook, give it the name of the book and inside include a bibliography format.
 2. Read the Table of contents and see how the book is structured.
-3. Create a note for the first chapter. Write a Literature Note and make a Mindmap for chapter 1 in this note.
+3. Create a note for the first chapter. Write a Literature Note and make a Mindmap for chapter 1 in this note. Include a aummary of the chapter, in your own words.
 4. Do this for every chapter.
 5. Link all the chapter Notes into the index
 6. Create a textbook wide mind map? (maybe)

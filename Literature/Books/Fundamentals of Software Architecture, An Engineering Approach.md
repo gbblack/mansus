@@ -12,7 +12,6 @@ author:
 
 [[Fundamentals of Software Architecture, An Engineering Approach - Introduction|Introduction]]
 
-
 ##### Citation
 
 M. Richards, N. Ford, *Fundamentals of Software Architecture: An Engineering Approach*, 1st ed. Sebastopol, CA, USA: O'Reilly Media, 2020.

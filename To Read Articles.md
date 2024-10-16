@@ -31,6 +31,7 @@ https://thecopenhagenbook.com/ (web security guide)
 https://cheatsheetseries.owasp.org/index.html (app security resource)
 
 https://archive.ph/kwt1b (stepping away from Fandom for wikis)
+
 https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
 
 https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/ (reflections on modern medical care and their clumsy handling of terminal diagnoses)
@@ -40,3 +41,5 @@ https://www.htmlforpeople.com/intro/ (Guide/resource to learning HTML from scrat
 https://learngitbranching.js.org/
 
 https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)
+
+https://graphite.rs/features/ (open source 2d art software)

@@ -46,3 +46,5 @@ _Examples of citations for different materials:_
 | **Thesis/Dissertation**               | [1] J. O. Williams, “Narrow-band analyzer,” Ph.D. dissertation, Dept. Elect. Eng., Harvard Univ., Cambridge, MA, 1993.                                                                                                                                                                                                                                  |
 
 https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf
+
+http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf
