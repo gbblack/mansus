@@ -5,6 +5,9 @@ tags:
   - status/night
 created:
 ---
+# Title
+
+---
 ##### Bibliography
 
 ##### Completeness

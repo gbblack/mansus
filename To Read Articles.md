@@ -43,3 +43,7 @@ https://learngitbranching.js.org/
 https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)
 
 https://graphite.rs/features/ (open source 2d art software)
+
+https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie the Crowd)
+
+http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)

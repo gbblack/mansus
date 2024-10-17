@@ -7,6 +7,9 @@ publication:
 source: 
 created:
 ---
+# Full Title
+### Notes
+
 > [!note] Nota Bene
 
 ---

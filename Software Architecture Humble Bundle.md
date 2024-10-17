@@ -1,6 +1,5 @@
 All o'reilly books
 
-Learning Systems Thinking
 Building Multi Tenant SaaS Architectures
 Head First: Software Architecture
 Enabling Microservice success
@@ -23,7 +22,6 @@ Building Microservices, 2nd Edition
 Practical Process Automation
 Flow Architectures
 The Software Architect Elevator
-Fundamentals of Software Architecture - got it
 Monolith to Microservices
 Technology Strategy Patterns
 Designing Distributed Systems

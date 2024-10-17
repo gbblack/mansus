@@ -8,7 +8,16 @@ publication:
 source: 
 created:
 ---
+# Full Book Title
+
+If the book is short or literary use the Notes block. If it is a technical book for learning split use the Chapter Indec block to split it into more digestible pieces.
+### Notes
+
 > [!note] Nota Bene
+
+### Chapter Index
+
+- Note Name for Chapter|and H1 Title using `#`
 
 ---
 ##### Citation

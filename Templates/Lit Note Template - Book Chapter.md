@@ -8,6 +8,11 @@ publication:
 source: 
 created:
 ---
+# Chapter Title
+
+Book Index Link
+### Notes
+
 > [!note] Nota Bene
 
 ---
