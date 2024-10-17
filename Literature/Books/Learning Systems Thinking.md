@@ -7,7 +7,7 @@ author:
 publication:
   - O'Reilly
 source: "[[Diana Montalion - Learning Systems Thinking_ Essential Nonlinear Skills and Practices for Software Professionals-O'Reilly Media (2024).pdf]]"
-created:
+created: 2024-10-17
 ---
 # Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals
 ### Chapter Index

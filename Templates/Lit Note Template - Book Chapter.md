@@ -15,6 +15,8 @@ Book Index Link
 
 > [!note] Nota Bene
 
+### Summary
+
 ---
 ##### Citation
 
