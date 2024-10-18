@@ -18,8 +18,6 @@ JOOQ Vlog: https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-oper
 
 Adam Trojanczyk: https://trojanczyk.eu/build-trust/ (team building)
 
-Johny Decimal: https://johnnydecimal.com/10-19-concepts/11-core/11.02-areas-and-categories/ (PKM system)
-
 Simon Späti Blog: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
 
 Julia Evans Blog: https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
