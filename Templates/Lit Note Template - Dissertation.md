@@ -15,7 +15,9 @@ created:
 ---
 ##### Citation
 
+```
 First Name Initial. Last Name, "Name of Paper", level of education. dissertation (or thesis depending), Abbrev. Department., Abbrev. Univ., City of Uni, (US State Only), Country, Year.
+```
 
 ---
 ##### Completeness

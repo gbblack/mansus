@@ -15,8 +15,10 @@ created:
 ---
 ##### Citation
 
+```
 First Name Initial. Last Name, "Web Article Title", Website.
 Available: link (Accessed MMM ddd, yyyy)
+```
 
 ---
 ##### Completeness

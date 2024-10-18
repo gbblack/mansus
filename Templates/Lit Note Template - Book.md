@@ -10,19 +10,31 @@ created:
 ---
 # Full Book Title
 
-If the book is short or literary use the Notes block. If it is a technical book for learning split use the Chapter Indec block to split it into more digestible pieces.
-### Notes
-
-> [!note] Nota Bene
-
+If it is a technical book for learning split use the Chapter Index block to split it into more digestible pieces.
 ### Chapter Index
 
-- Note Name for Chapter|and H1 Title using `#`
+- Note Name for Chapter|and H1 Title using for display
+### Summary
+
+> [!abstract] Main Point (Subject to Change)
+
+### Note
+
+> [!question] What are the main points of the book?
+> What was the author trying to say? Identify the overarching ideas and how the author connected them.
+
+Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
+
+### Quotes
+
+> Only make and use this block if you're not splitting it up into chapters
 
 ---
 ##### Citation
 
+```
 First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
+```
 
 ---
 ##### Completeness

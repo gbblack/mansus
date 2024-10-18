@@ -20,7 +20,9 @@ Book Index Link
 ---
 ##### Citation
 
+```
 First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+```
 
 ---
 ##### Completeness
