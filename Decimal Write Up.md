@@ -18,7 +18,7 @@ Areas:
 ---
 #### 10-19 Projects
 
-This area will contain all my non dev work and projects. currently bare but hopefully will grow over time. Will contiain an archive for completed projects, like one that is "looking for a house".
+This area will contain all my non dev work and projects. currently bare but hopefully will grow over time. Will contain an archive for completed projects, like one that is "looking for a house".
 
 10 Meta
 11 Writing
