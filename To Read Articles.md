@@ -45,3 +45,15 @@ https://graphite.rs/features/ (open source 2d art software)
 https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie the Crowd)
 
 http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)
+
+https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8 (grid shader)
+
+https://passo.uno/what-docs-as-code-means/ (docs as code)
+
+https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/ (time as a dimension)
+
+https://dhruvmethi.substack.com/p/bureaucracy (bureaucracy creation)
+
+https://aworkinglibrary.com/writing/accountability-sinks (accountability)
+
+https://dancres.github.io/Pages/ (distributed systems)

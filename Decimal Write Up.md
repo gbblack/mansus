@@ -16,6 +16,15 @@ Areas:
 50-59 Life Admin
 
 ---
+#### 00-09 System Meta
+
+Tis area contains any and everything related to the system itself as well as a staging area for things that are unfinished or not decided on
+
+00 Meta - this holds the Index for the entire system
+11 Inbox - for files related to things that haven't been addressed yet
+12 Bookmarks - links, files, topics anything i think is interesting I want to take a look at later that isn't a file already in the system otherwise that goes into Inbox
+13 To Dos - common todo files for repeated tasks, such as to to dos to complete a literature note, or maybe the things needed to be done to consider an edited video complete.
+09 Archive
 #### 10-19 Projects
 
 This area will contain all my non dev work and projects. currently bare but hopefully will grow over time. Will contain an archive for completed projects, like one that is "looking for a house".
