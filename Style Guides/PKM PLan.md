@@ -44,8 +44,7 @@ The rest will need to filled in manually each time. Some notes do not require al
 `status` should reflect how complete a note is. The status reflects how much work is left to be done on a note until it is considered complete. The stages/values are:
 
 - `Night`: For empty or bare bone notes. What Luhmann called Fleeting notes. Until handwritten notes or scribbles are added to the knowledge base they are considered `Night` notes.
-- `Dawn`: These notes have been given a first pass. The writing in this note is mostly unoriginal, containing what was considered most valuable from the resources you're pulling from.
-- `Noon`: This note has had a second pass through, where words have been rewritten to fit your own understanding of the topic.
+- `Day`: These are notes that are a work in progress real effort has been made already but they have not been fully digested.
 - `Dusk`: This note is complete. It includes all the formatting such as footnotes, tags, links and references. This note can be set aside and considered fully digested. Luhmann would call this a Permanent Note.
 
 `path`: This holds the path to the note's location in the knowledge base, it should always start with home and then include any indexes that contain this note. Gives clarity on what area of interest the note falls into.

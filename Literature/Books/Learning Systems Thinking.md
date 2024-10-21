@@ -12,10 +12,13 @@ created: 2024-10-17
 # Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals
 
 Total pages in pdf: 394.
-### Chapter Index
+### Book Index
 
-- [[Learning Systems Thinking - 00|Preface]]
-- A System of Thinking
+00 -  [[Learning Systems Thinking - 00|Preface]]
+
+Part 1 - A System of Thinking
+
+01 - [[Learning Systems Thinking - 01|A System of Thinking]]
 - What Is Systems Thinking?
 - Crafting Conceptual Integrity
 - Shifting Your Perspective
@@ -35,16 +38,13 @@ Total pages in pdf: 394.
 
 ### Note
 
-> [!question] What are the main points of the book?
-> What was the author trying to say? Identify the overarching ideas and how the author connected them.
-
 Write this section from the chapter summaries. Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words. 
 
 ---
 ##### Citation
 
 ```
-First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
+D. Montalion, "Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals", 1st. Sebastopol, CA, USA: O'Reilly, 2024.
 ```
 
 ---

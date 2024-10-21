@@ -1,13 +1,17 @@
 ---
 tags:
   - literature/book_chapter
-  - status/night
+  - status/noon
 source: "[[Diana Montalion - Learning Systems Thinking_ Essential Nonlinear Skills and Practices for Software Professionals-O'Reilly Media (2024).pdf]]"
 created: 2024-10-17
 ---
 # Preface
 
 [[Learning Systems Thinking]]
+
+> [!abstract] Summary
+> In this section Montalion sets the tone and the philosophy of the book. The idea that the fields of technology and communication are one and the same. The Internet has become so complicated as to be outside the scope of a single individual and therefore it requires communication with others, both literal and software, for anything to succeed. This communication is facilitated by changing from linear thinking to thinking in systems.
+> 
 ### Quotes
 
 9
@@ -55,15 +59,10 @@ created: 2024-10-17
 17
 > Because everything is a system. Everywhere we are part of those systems.
 > We need to think in and communicate about systems.
-### Summary
-
-In this section Montalion sets the tone and the philosophy of the book. The idea that the fields of technology and communication are one and the same. The Internet has become so complicated as to be outside the scope of a single individual and therefore it requires communication with others, both literal and software, for anything to succeed. 
-
-She exposes the fallacy of specialisation, as the internet got more complex so did the responsibilities of the technologists who built and managed it. They needed to work with more people, more tools, and  every year more education was required until they simply could not keep up. Today to succeed you must be an expert in communication, to people and to software. To become that expert we must replace our linear thinking with one of systems.
 
 ---
 ##### Citation
 
 ```
-First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+D. Montalion, "Preface" in *Learning Systems Thing: Essential Nonlinear Skills for Software Professionals*, 1st. D. Michelson, S. Evans, L. Wheeler, Eds. Sebastopol, CA, USA: O'Reilly, 2024, pp. start 6-15.
 ```
