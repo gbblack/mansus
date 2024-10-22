@@ -57,3 +57,5 @@ https://dhruvmethi.substack.com/p/bureaucracy (bureaucracy creation)
 https://aworkinglibrary.com/writing/accountability-sinks (accountability)
 
 https://dancres.github.io/Pages/ (distributed systems)
+
+https://news.ycombinator.com/item?id=41905167 (where to start with UI/UX design)
