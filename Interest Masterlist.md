@@ -63,3 +63,7 @@ https://news.ycombinator.com/item?id=41905167 (where to start with UI/UX design)
 https://refactoring.guru/design-patterns
 
 https://datatracker.ietf.org/doc/html/rfc7540 (HTTP2)
+
+https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
+
+[https://docs.tigerbeetle.com/about/vopr/](https://docs.tigerbeetle.com/about/vopr/ "https://docs.tigerbeetle.com/about/vopr/")

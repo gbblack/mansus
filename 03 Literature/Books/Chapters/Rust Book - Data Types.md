@@ -1,7 +1,7 @@
 
 Two types: scalar compound
 
-Rust is statically types so the compilerr needs to know the type of all variables to suceed.
+Rust is statically types so the compiler needs to know the type of all variables to succeed.
 
 The compiler can make best guess to compile based on the value being stored like seen when shadowing. But it's better to annotate the variable with the type for clarity.
 

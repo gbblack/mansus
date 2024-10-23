@@ -46,7 +46,7 @@ For this Area I'm splitting the ten categories into the discipline or sections I
 14 CLI Tools
 15 Games
 16 Shared - for any common utilities I would use across projects
-17 Snippets - for coding proactoce like leetcode or rustlinga
+17 Snippets - for coding practice like leetcode or rustlinga
 18 Other People - github repos cloned from another profile
 19 ??
 
