@@ -6,6 +6,7 @@ author:
 source: 
 created:
 ---
+[[Home]]
 # Full Title
 ### Notes
 

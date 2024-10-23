@@ -7,6 +7,7 @@ publication:
 source: 
 created:
 ---
+[[Home]]
 # Full Book Title
 
 ### Summary

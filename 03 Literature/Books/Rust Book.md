@@ -1,5 +1,11 @@
-
-
+---
+tags:
+  - literature/book
+  - status/noon
+source: 
+created: 2024-10-23
+author: []
+---
 ### Index
 
 - [[Rust Book - Advanced Cargo and Crates]]

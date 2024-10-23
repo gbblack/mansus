@@ -2,9 +2,9 @@
 tags:
   - literature/book_chapter
   - status/night
-source: 
 created:
 ---
+[[Home]]
 Book Index Link
 # Chapter Title
 

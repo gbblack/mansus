@@ -12,6 +12,8 @@ created: 2024-10-17
 > 
 ### Quotes
 
+NEED TO UPDATE PAGE NUMBERS ACCORDING TO EPUB
+
 9
 > It became apparent that ==communications and computing served each other== so intimately that they might actually become the same thing.
 > —Tracy Kidder, The Soul of a New Machine (Little, Brown and Company)

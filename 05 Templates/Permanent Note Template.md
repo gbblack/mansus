@@ -4,6 +4,7 @@ tags:
   - status/night
 created:
 ---
+[[Home]]
 # Title
 
 ---
