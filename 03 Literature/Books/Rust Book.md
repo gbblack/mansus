@@ -1,10 +1,7 @@
-Core concepts:
-- Ownership
-- Borrowing
-- Lifetimes
-- Traits
 
-Notes:
+
+### Index
+
 - [[Rust Book - Advanced Cargo and Crates]]
 - [[Rust Book - Closures]]
 - [[Rust Book - Common Collections]]
