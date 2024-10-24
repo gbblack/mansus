@@ -75,3 +75,5 @@ MusicBrainz: https://musicbrainz.org/ (music wiki?? could be cool)
 Book - Patterns for API design
 [summary of that book](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
 Book - Tidy First?
+
+https://news.ycombinator.com/item?id=41923635 (top comment)
