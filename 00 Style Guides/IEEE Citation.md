@@ -1,5 +1,7 @@
 This is the style I will be trying.
 
+https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf (citation guide)
+
 **In-text Citing**   It is not necessary to mention an author's name, pages used, or date of publication in the in-text citation. Instead, refer to the source with a number in a square bracket, e.g. [1], that will then correspond to the full citation in your reference list.
 
 - Place bracketed citations within the line of text, before any punctuation, with a space before the first bracket.

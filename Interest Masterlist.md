@@ -67,3 +67,11 @@ https://datatracker.ietf.org/doc/html/rfc7540 (HTTP2)
 https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 [https://docs.tigerbeetle.com/about/vopr/](https://docs.tigerbeetle.com/about/vopr/ "https://docs.tigerbeetle.com/about/vopr/")
+
+[how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
+
+MusicBrainz: https://musicbrainz.org/ (music wiki?? could be cool)
+
+Book - Patterns for API design
+[summary of that book](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
+Book - Tidy First?

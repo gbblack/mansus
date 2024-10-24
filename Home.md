@@ -1,4 +1,4 @@
-Nothing in it ye, will need more fleshed out vault to see how I want to use this.
+Nothing in it yet, will need more fleshed out vault to see how I want to use this.
 
 I do want it to be the landing page of the vault and the jumping off point for daily use.
 

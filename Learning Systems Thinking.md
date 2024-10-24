@@ -3,11 +3,14 @@ tags:
   - literature/book
   - status/noon
   - software_architecture
-author: Diana Montalion
-publication: O'Reilly
-loc: "[[41.14 Software Architecture]]"
 created: 2024-10-17
+author:
+  - Diana Montalion
+publication:
+  - O'Reilly
+source: "[[41.14 Software Architecture]]"
 ---
+[[Home]]
 # Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals
 ### Book Index
 
