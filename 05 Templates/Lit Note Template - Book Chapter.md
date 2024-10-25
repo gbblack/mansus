@@ -4,7 +4,6 @@ tags:
   - status/night
 created:
 ---
-[[Home]]
 Book Index Link
 # Chapter Title
 

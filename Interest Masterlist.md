@@ -77,3 +77,23 @@ Book - Patterns for API design
 Book - Tidy First?
 
 https://news.ycombinator.com/item?id=41923635 (top comment)
+
+https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/ (Google Books, have read need to digest)
+
+https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/ (local news, specifically Chicagos architecture writer at the tribune)
+
+https://buttondown.com/hillelwayne/archive/tla-from-first-principles/ (TLA, Temporal Logic of actions? basically concurrency)
+
+http://species-in-pieces.com/ (cool css exhibit)
+
+https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred (Laipianism, indigenous religion of Myanmar. Initial thought: Nothing christianity touches stays the same, it devours and becomes
+
+https://technology.riotgames.com/news/peeking-valorants-netcode (networkign live games for fairness)
+
+https://medium.com/@pierre_49652/flox-better-alternative-to-dev-containers-d02e1a2ec423 (alternative to dev containers)
+
+https://lackofimagination.org/2024/10/self-documenting-code/ (good code as documentation)
+
+https://fishshell.com/ (fish shell)
+
+https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (refelction on the life and work of John Wheeler)
