@@ -97,3 +97,28 @@ https://lackofimagination.org/2024/10/self-documenting-code/ (good code as docum
 https://fishshell.com/ (fish shell)
 
 https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (refelction on the life and work of John Wheeler)
+
+https://candost.blog/on-good-software-engineers/  (what makes a good software engineer)
+
+https://infrequently.org/2024/10/platforms-are-competitions/ (the web is losing)
+
+https://globalchinapulse.net/character-amnesia-in-china/ (character amnesia in chinese writing)
+
+https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test (1912 test)
+
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+
+https://bitfieldconsulting.com/posts/testing-legacy-code (testing old code)
+
+https://freenet.org/ (open source internet?)
+
+https://catlikecoding.com/godot/ (Godot 2D tutorials)
+
+https://codeberg.org/ezcrypt/ezcrypt (tool for file encryption)
+
+https://paulgraham.com/writes.html (on forgetting writing)
+
+https://map.simonsarris.com/p/school-is-not-enough (learning through practice)
+
+https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer)
+
