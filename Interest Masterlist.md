@@ -123,3 +123,5 @@ https://map.simonsarris.com/p/school-is-not-enough (learning through practice)
 https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer)
 
 https://lmnt.me/blog/nothing-left-to-solve.html
+
+https://computer.rip/2024-10-26-buy-payphones-and-retire.html 
