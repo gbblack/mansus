@@ -125,3 +125,85 @@ https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer
 https://lmnt.me/blog/nothing-left-to-solve.html
 
 https://computer.rip/2024-10-26-buy-payphones-and-retire.html 
+
+https://greyenlightenment.com/2024/10/31/academic-style-writing-persists-because-it-works/ (academic writing)
+
+https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/ (drawing a programming language)
+
+https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan (english language in japan
+
+https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/ (the journey Newtonian physics took from the West to China)
+
+https://medium.com/@hagan.rivers/interaction-design-for-trees-5e915b408ed2 (interaction design and trees)
+
+https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742 (graphics post for making the Obra Dinn shader)
+
+https://mattlakeman.org/2024/11/08/notes-on-guyana/ (Guyana
+
+https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/ (NoSql database schema)
+
+https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf (research on the patterns of languages)
+
+https://edition.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html (oil rig city)
+
+https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough (procrastination)
+
+https://blog.ppresume.com/posts/on-typesetting-engines (typesetting)
+
+https://www.publicbooks.org/tickets-are-for-remembering/ (show tickets)
+
+https://wellcomecollection.org/stories/the-soul-in-the-stomach (article on the history and validity of a gut feeling)
+
+https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html (digitisation of a 1767 cambridge meeting transcript)
+
+https://thejenkinscomic.net/shaderblocks/ (shader tool?)
+
+https://matthew-bird.com/blogs/Audio-Decomposition.html (a tool to break down an audio track into its composite parts)
+
+https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/ (ice cream)
+
+https://poniesandlight.co.uk/reflect/debug_print_text/ (text rendering)
+
+https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html (mathematician Paul Erdos)
+
+https://www.filfre.net/2024/11/grim-fandango/ (the game Grim Fandango)
+
+https://docs.visprex.com/ (CSV visualisation tool)
+
+https://fearlesssalarynegotiation.com/salary-expectations-interview-question/ (negotiating salary)
+
+https://parentheticallyspeaking.org/articles/write-a-book/ (writing a book)
+
+https://github.com/JohannesKaufmann/html-to-markdown (html to markdown tool)
+
+https://www.johndcook.com/blog/2024/11/10/the-postage-stamp-problem/ (postal stamps)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API (MDN API for locking a process in app for better resource sharing among threads in multiple tabs)
+
+https://docs.ironcalc.com/ (open source spreadsheet alternative, written in rust)
+
+https://aaronparecki.com/2024/08/31/9/too-many-projects (resiliency of web projects)
+
+https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/ (1978 article on catastrophe)
+
+https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/ (conversation on PKM)
+
+https://www.orgroam.com/manual.html (org roam user manual)
+
+https://www.asimov.press/p/end-tb (ending tuberculosis)
+
+https://www.mulesoft.com/api-university/what-grpc-api-and-how-does-it-work (crash course in gRPC)
+
+https://bford.info/cachedir/ (cache management)
+
+https://pudding.cool/2024/10/nba-uniforms/ (NBA jerseys, cool website)
+
+https://publicapis.dev/ (a list of public apis)
+
+https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/ (math to mushroom)
+
+https://transactional.blog/how-to-learn/disk-io (file I/O?)
+
+https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/ (maps of colonial mexico)
+
+http://rachelbythebay.com/w/2024/11/03/metrics/ (employee metrics are :/)
