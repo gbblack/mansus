@@ -207,3 +207,29 @@ https://transactional.blog/how-to-learn/disk-io (file I/O?)
 https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/ (maps of colonial mexico)
 
 http://rachelbythebay.com/w/2024/11/03/metrics/ (employee metrics are :/)
+
+https://ankush.dev/p/neumann_architecture (von neumann architecture)
+
+https://www.seangoedecke.com/how-to-ship/ (shipping big projects)
+
+https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file (finding spotify songs??)
+
+https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html (how many people you cant afford to lose before your product stalls)
+
+https://jero.zone/posts/reverse-engineering-apis (reverse engineering apis)
+
+https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323 (listening to mars in 1924)
+
+https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck (history of playing cards)
+
+https://deannadikeman.com/leaving-and-waving (waving when saying goodbye)
+
+https://challahscript.com/what_i_wish_someone_told_me_about_postgres (postgres tips)
+
+https://devfonts.gafi.dev/ (cool fonts)
+
+https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/ (doodling)
+
+https://securityis.substack.com/p/security-is-a-useless-controls-problem (security mindset)
+
+https://blainsmith.com/articles/go-grpc-gateway-openapi/ (grpc and swagger)
