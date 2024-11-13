@@ -233,3 +233,13 @@ https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/ (doodling)
 https://securityis.substack.com/p/security-is-a-useless-controls-problem (security mindset)
 
 https://blainsmith.com/articles/go-grpc-gateway-openapi/ (grpc and swagger)
+
+https://www.fermyon.com/blog/introducing-spin-v3 (serverless wasm?)
+
+https://ziglang.org/devlog/2024/#2024-11-04 (naming integers)
+
+https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/ (delegating)
+
+https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/ (recipe formatting for the web, focused on storing not display)
+
+https://heather-buchel.com/blog/2024/11/carving-space/ (finding work you love)

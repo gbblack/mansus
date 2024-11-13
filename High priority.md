@@ -1,0 +1,1 @@
+https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ - plain text accounting, really want to try setting something like this up so I can keep track of my spending
