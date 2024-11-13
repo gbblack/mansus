@@ -243,3 +243,35 @@ https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-
 https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/ (recipe formatting for the web, focused on storing not display)
 
 https://heather-buchel.com/blog/2024/11/carving-space/ (finding work you love)
+
+https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership (leadership, intuition and Self Awareness)
+
+https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/ (history of tree architecture)
+
+https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/ (ternary operators)
+
+https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades (GIMP 3.0)
+
+https://www.onallbands.com/ham-radio-101-what-is-wspr/ (Ham radio 101)
+
+https://pudding.cool/2022/06/aztec-gods/ (Aztec pantheon)
+
+https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit (Story telling 101)
+
+https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen (cleaning supplies)
+
+https://www.rugu.dev/en/blog/linux-asceticism/ (Linux Ascetism)
+
+https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/ (Be angry, the world is worth fighting for)
+
+https://github.com/bayandin/awesome-awesomeness (repo of repos)
+
+https://bitfieldconsulting.com/posts/functional (functional programming in Go)
+
+https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer (effective engineering)
+
+https://bhoot.dev/2024/on-linux-file-and-links/ (Linux mental model)
+
+https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids (latchkey kids)
+
+https://blog.johnys.io/commercial-opportunities-in-a-renaissance-of-self-hosting/ (self hosting)

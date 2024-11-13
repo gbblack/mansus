@@ -1,15 +1,15 @@
 ---
 tags:
   - literature/web_article
-  - status/night
 author: 
 publication: 
 source: 
 created:
 ---
-[[Home]]
 # Full Title
-### Notes
+
+> [!abstract] Summary
+### Highlights
 
 > [!note] Nota Bene
 
@@ -22,13 +22,21 @@ Available: link (Accessed MMM ddd, yyyy)
 ```
 
 ---
-##### Completeness
-
-- [ ] Filled out `Citation` block using IEEE style.
-- [ ] Completed or removed `Nota Bene`
-- [ ] Filled in properties with correct data
-- [ ] Captured Relevant Fleeting notes in Block Quotes (`Dawn`)
-- [ ] Written, in your own words, your thoughts/understanding of each block
-- [ ] Bold the most essential parts of your ideas (`Noon`)
-- [ ] Highlight the crucial parts of the bolded section
-- [ ] Once all other checks complete update status to `Dusk` and delete this section
+##### Completion Checklist
+###### I. To Become Dark
+- [ ] Complete the `Citation` section.
+- [ ] Write the Full title in the heading.
+- [ ] Complete the all metadata except `tags`.
+- [ ] Read the article once in its entirety with focus, no music.
+- [ ] Add tag `status/dark`.
+###### II. From Dark to Dawn
+- [ ] Read the article again, this time copy pasting interesting sections into the note under `Highlights`.
+- [ ] Write the article `Summary`, in your own words only.
+- [ ] Update status tag to `status/dawn`.
+###### III. From Dawn to Day
+- [ ] Bold the portions of the `Highlights` you find most interesting.
+- [ ] Highlight the best parts of the bolded sections.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.

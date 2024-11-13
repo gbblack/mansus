@@ -1,18 +1,17 @@
 ---
 tags:
   - literature/book
-  - status/night
+  - status/dark
 author: 
 publication: 
 source: 
 created:
 ---
-[[Home]]
 # Full Book Title
 
-### Summary
-
 > [!abstract] Main Point (Subject to Change)
+
+### Summary
 ### Chapter Index
 
 - Note Name for Chapter|display name
@@ -25,13 +24,22 @@ First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Cou
 ```
 
 ---
-##### Completeness
 
-- [ ] Filled out `Citation` block using IEEE style.
-- [ ] Completed or removed `Nota Bene`
-- [ ] Filled in properties with correct data
-- [ ] Captured Relevant Fleeting notes in Block Quotes (`Dawn`)
-- [ ] Written, in your own words, your thoughts/understanding of each block
-- [ ] Bold the most essential parts of your ideas (`Noon`)
-- [ ] Highlight the crucial parts of the bolded section
-- [ ] Once all other checks complete update status to `Dusk` and delete this section
+##### Completion Checklist
+###### I. To Become Dark
+- [ ] Complete the `Citation` section.
+- [ ] Write the Full title in the heading.
+- [ ] Complete all the metadata except `tags`.
+- [ ] Add tag `status/dark`.
+###### II. From Dark to Dawn
+- [ ] In the `Index` section add each chapter to the list, following the structure of the book.
+- [ ] Chapter by chapter link the `Index` chapter names to the corresponding chapter note.
+- [ ] Write the book `Summary`.
+- [ ] Update status to `status/dawn`
+###### III. From Dawn to Day
+- [ ] Complete the `Main Point`, treat it as an interpretation of the book, or maybe your learnings. It differs from the `Summary` in that it is not a rephrasing of the book but your own original understanding of it.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Make sure all the chapter notes are complete.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.

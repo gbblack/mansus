@@ -1,9 +1,11 @@
 ---
 tags:
   - literature/web_article
-  - status/noon
-author: David Graeber, David Wengrow
-publication: Anarchist Library, Harpers Magazine
+  - status/dawn
+author:
+  - David Graeber, David Wengrow
+publication:
+  - Anarchist Library, Harpers Magazine
 source: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
 created: 2024-10-03
 ---

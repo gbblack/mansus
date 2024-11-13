@@ -1,10 +1,10 @@
 ---
 tags:
   - literature/book
-  - status/noon
+  - status/dawn
 source: 
 created: 2024-10-23
-author: []
+author:
 ---
 ### Index
 

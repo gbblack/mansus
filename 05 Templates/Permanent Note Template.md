@@ -1,7 +1,7 @@
 ---
 tags:
   - permanent
-  - status/night
+  - status/dark
 created:
 ---
 [[Home]]

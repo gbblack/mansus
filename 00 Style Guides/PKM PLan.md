@@ -1,3 +1,9 @@
+> [!warning] Update
+> New status names because i like the alliteration:
+> `Dark` -> `Dawn` -> `Day`
+
+
+
 ## Second Brain Structure
 
 - Use PARA: Projects, Area, Resources, Archives.

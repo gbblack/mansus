@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - literature/dissertation
-  - status/night
+  - status/dark
 author:
   - William R. Reaves
 source: "[[REEVES-DISSERTATION-2014.pdf]]"

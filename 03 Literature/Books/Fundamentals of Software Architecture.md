@@ -1,7 +1,7 @@
 ---
 tags:
   - literature/book
-  - status/night
+  - status/dark
 source: "[[41.14 Software Architecture]]"
 created: 2024-10-13
 author:

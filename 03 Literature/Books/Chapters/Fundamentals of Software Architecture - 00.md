@@ -1,7 +1,7 @@
 ---
 tags:
   - literature/book_chapter
-  - status/night
+  - status/dark
 created: 2024-10-14
 ---
 # Introduction
