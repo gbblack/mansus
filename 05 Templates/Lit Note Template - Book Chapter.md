@@ -1,7 +1,6 @@
 ---
 tags:
   - literature/book_chapter
-  - status/dark
 created:
 ---
 Book Index Link
@@ -9,7 +8,12 @@ Book Index Link
 
 > [!abstract] Summary
 
-### Quotes
+### Highlights
+---
+
+---
+
+> [!note] Nota Bene
 
 ---
 ##### Citation
@@ -21,18 +25,19 @@ First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First N
 ---
 ##### Completion Checklist
 ###### I. To Become Dark
+- [ ] Write the Chapter title in the heading.
+- [ ] Fill in the `created` property.
+- [ ] Link to the book's index note.
 - [ ] Complete the `Citation` section.
-- [ ] Write the Full title in the heading.
-- [ ] Complete the all metadata except `tags`.
-- [ ] Read the paper once in its entirety with focus, no music.
+- [ ] Read the chapter once in its entirety with focus, no music.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
-- [ ] Read the paper again, this time copy pasting interesting sections into the note under `Highlights`.
-- [ ] Write the article `Summary`.
+- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`.
+- [ ] **Bold** the portions of the `Highlights` you find most interesting.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ] Bold the portions of the `Highlights` you find most interesting.
-- [ ] Highlight the best parts of the bolded sections.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Write the chapter `Summary`.
 - [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.

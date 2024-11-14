@@ -10,9 +10,6 @@ created:
 
 > [!abstract] Summary
 ### Highlights
-
-> [!note] Nota Bene
-
 ---
 ##### Citation
 
@@ -21,7 +18,7 @@ First Name Initial. Last Name, "Web Article Title", Website.
 Available: link (Accessed MMM ddd, yyyy)
 ```
 
----
+> [!note] Nota Bene
 ##### Completion Checklist
 ###### I. To Become Dark
 - [ ] Complete the `Citation` section.
@@ -34,8 +31,8 @@ Available: link (Accessed MMM ddd, yyyy)
 - [ ] Write the article `Summary`, in your own words only.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ] Bold the portions of the `Highlights` you find most interesting.
-- [ ] Highlight the best parts of the bolded sections.
+- [ ] **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.

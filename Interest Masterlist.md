@@ -22,7 +22,7 @@ Simon Späti Blog: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM 
 
 Julia Evans Blog: https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
 
-https://matklad.github.io/ (rust analyzer dev's original blog)
+
 
 https://thecopenhagenbook.com/ (web security guide)
 
@@ -275,3 +275,5 @@ https://bhoot.dev/2024/on-linux-file-and-links/ (Linux mental model)
 https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids (latchkey kids)
 
 https://blog.johnys.io/commercial-opportunities-in-a-renaissance-of-self-hosting/ (self hosting)
+
+https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a slipbox)

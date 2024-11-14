@@ -6,3 +6,10 @@ https://matklad.github.io/
 https://lilymara.xyz/pages/blogroll/
 https://seirdy.one/posts/2021/01/12/password-strength/
 https://www.scattered-thoughts.net/writing/serious-fun/
+
+Coding Blog:
+https://matklad.github.io/ (rust analyzer dev's original blog)
+
+Digital Gardens:
+
+https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file (a github repo lisitng public digital gardens)

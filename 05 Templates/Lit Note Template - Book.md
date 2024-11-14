@@ -1,7 +1,6 @@
 ---
 tags:
   - literature/book
-  - status/dark
 author: 
 publication: 
 source: 
@@ -20,7 +19,10 @@ created:
 
 Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
 
-### Quotes
+### Highlights
+---
+
+> [!note] Nota Bene
 
 ---
 ##### Citation
@@ -32,18 +34,17 @@ First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Cou
 ---
 ##### Completion Checklist
 ###### I. To Become Dark
+- [ ] Write the Book title in the heading.
+- [ ] Fill in all the metadata except for `tags`.
 - [ ] Complete the `Citation` section.
-- [ ] Write the Full title in the heading.
-- [ ] Complete the all metadata except `tags`.
-- [ ] Read the paper once in its entirety with focus, no music.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
-- [ ] Read the paper again, this time copy pasting interesting sections into the note under `Highlights`.
-- [ ] Write the article `Summary`.
+- [ ] As you read capture the sections that most resonate and paste them in `Highlights`.
+- [ ] **Bold** the portions of the `Highlights` you find most interesting.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ] Bold the portions of the `Highlights` you find most interesting.
-- [ ] Highlight the best parts of the bolded sections.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Write the book `Summary`.
 - [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.

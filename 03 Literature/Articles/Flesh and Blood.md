@@ -32,7 +32,7 @@ Here the author compares the Roman understanding of family as ownership to the N
 
 > what struck them as most remarkable was that “the French whipped, hanged, and put to death men from among themselves” rather than external enemies
 
-This quote reference the Wendat tribesmen who visited France and were most struck not by the violence itself but rather than it was done by a people unto itself, an attack from the inside. This internal violence is the manifestation of the absolute power over another Roman's describe as freedom. ==The law is *free* to brutalise you as you are not *free* to disobey it.==
+This quote reference the Wendat tribesmen who visited France and were most struck not by the violence itself but rather than it was done by a people unto itself, an attack from the inside. This internal violence is the manifestation of the absolute power over another Roman's describe as freedom. The law is *free* to brutalise you as you are not *free* to disobey it.
 
 > While Native American rituals showed the desire to seize the strength and courage of an outsider so as to combat him better, the European ritual revealed the existence of a dissymmetry, an irrevocable imbalance of power within society itself. As a Wendat traveler observed of the French system, anyone—guilty or innocent—might end up being made a public example.
 

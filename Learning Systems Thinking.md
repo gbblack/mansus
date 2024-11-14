@@ -55,7 +55,7 @@ Write this section from the chapter summaries. Break down the book into all the 
 D. Montalion, "Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals", 1st. Sebastopol, CA, USA: O'Reilly, 2024.
 ```
 
-> [!note] Version
+> [!note] Nota Bene
 > I am referencing the `epub` file version when using page numbers.
 
 ---

@@ -1,7 +1,6 @@
 ---
 tags:
   - literature/book
-  - status/dark
 author: 
 publication: 
 source: 
@@ -9,12 +8,16 @@ created:
 ---
 # Full Book Title
 
-> [!abstract] Main Point (Subject to Change)
-
-### Summary
+> [!abstract] Summary
 ### Chapter Index
 
 - Note Name for Chapter|display name
+---
+
+> [!question] What are the main points of the book?
+> What was the author trying to say? Identify the overarching ideas and how the author connected them.
+
+Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
 
 ---
 ##### Citation
@@ -27,19 +30,18 @@ First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Cou
 
 ##### Completion Checklist
 ###### I. To Become Dark
-- [ ] Complete the `Citation` section.
-- [ ] Write the Full title in the heading.
+- [ ] Write the Book title in the heading.
 - [ ] Complete all the metadata except `tags`.
+- [ ]  Complete the `Citation` section.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
 - [ ] In the `Index` section add each chapter to the list, following the structure of the book.
-- [ ] Chapter by chapter link the `Index` chapter names to the corresponding chapter note.
-- [ ] Write the book `Summary`.
+- [ ] Chapter by chapter link the `Index` chapter names to the corresponding chapter note. Do this as you read not all at once.
+- [ ] Make sure all the chapter notes are complete.
 - [ ] Update status to `status/dawn`
 ###### III. From Dawn to Day
+- [ ] Write the book `Summary`.
 - [ ] Complete the `Main Point`, treat it as an interpretation of the book, or maybe your learnings. It differs from the `Summary` in that it is not a rephrasing of the book but your own original understanding of it.
-- [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
-- [ ] Make sure all the chapter notes are complete.
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.
