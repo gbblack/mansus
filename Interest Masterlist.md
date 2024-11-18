@@ -4,8 +4,6 @@ Knight Columbia: https://knightcolumbia.org/content/protocols-not-platforms-a-te
 
 JASON Format Blog: https://jasonformat.com/islands-architecture/ (Islands web design architecture)
 
-Lelouch Blog: https://lelouch.dev/blog/you-are-probably-not-dumb/ (short post on starting at the beginning)
-
 Rethinking Software: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum (5 non scrum workflow examples)
 
 Rethinking Software: https://rethinkingsoftware.substack.com/p/the-joy-of-literate-programming ([[Literate Programming]])
@@ -21,8 +19,6 @@ Adam Trojanczyk: https://trojanczyk.eu/build-trust/ (team building)
 Simon Späti Blog: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
 
 Julia Evans Blog: https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
-
-
 
 https://thecopenhagenbook.com/ (web security guide)
 
@@ -277,3 +273,7 @@ https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids (latchkey kid
 https://blog.johnys.io/commercial-opportunities-in-a-renaissance-of-self-hosting/ (self hosting)
 
 https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a slipbox)
+
+https://htmx.org/essays/you-cant/ (web app myths)
+
+https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html (self host a wiki)

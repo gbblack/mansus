@@ -6,6 +6,7 @@ publication:
 source: 
 created:
 ---
+Any Links
 # Full Title
 
 > [!abstract] Summary
@@ -14,8 +15,14 @@ created:
 ##### Citation
 
 ```
-First Name Initial. Last Name, "Web Article Title", Website.
-Available: link (Accessed MMM ddd, yyyy)
+First Name Initial. Last Name, "Web Article Title", Website Name.
+Available: link
+```
+
+No Author:
+
+```
+"Page Title." Website Name. URL
 ```
 
 > [!note] Nota Bene
