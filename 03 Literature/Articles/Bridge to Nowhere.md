@@ -38,6 +38,7 @@ created: 2024-11-18
 > **They ==deserve the truth== — all of it. They deserve to be ==treated as capable adults==.** They don't need to be coddled as if the unvarnished truth will destroy their will to live. They don't deserve baseless praise for next-generation sequencing or the vaporware of personalized medicine.
 
 > The current ==**dismal== state-of-the-art ==care==** means that for the vast majority of patients diagnosed with glioblastoma, surgery is a bridge to nowhere.
+---
 ##### Citation
 
 ```

@@ -21,10 +21,11 @@ Break down the book into all the points its trying to prove/make. And rewrite th
 
 ---
 ##### Citation
-
 ```
 First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
 ```
+
+> [!note] Nota Bene
 
 ---
 
@@ -32,7 +33,7 @@ First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Cou
 ###### I. To Become Dark
 - [ ] Write the Book title in the heading.
 - [ ] Complete all the metadata except `tags`.
-- [ ]  Complete the `Citation` section.
+- [ ] Complete the `Citation` section.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
 - [ ] In the `Index` section add each chapter to the list, following the structure of the book.

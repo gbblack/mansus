@@ -10,8 +10,8 @@ created: 2024-10-17
 > [!abstract] Summary
 > Montalion sets the tone and the philosophy of the book. The idea that the fields of technology and communication are one and the same. The Internet has become so complicated as to be outside the scope of a single individual and therefore it requires communication with others, both literal and software, for anything to succeed. This communication is facilitated by changing from linear thinking to the nonlinear process of thinking in systems.
 > 
-### Quotes
 
+### Highlights
 6
 > It became apparent that ==communications and computing served each other== so intimately that they might actually become the same thing.
 > —Tracy Kidder, The Soul of a New Machine (Little, Brown and Company)
@@ -54,10 +54,8 @@ created: 2024-10-17
 
 > Because ==everything is a system==. Everywhere we are part of those systems.
 > We need to think in and communicate about systems.
-
 ---
 ##### Citation
-
 ```
 D. Montalion, "Preface" in *Learning Systems Thinking: Essential Nonlinear Skills for Software Professionals*, 1st. D. Michelson, S. Evans, L. Wheeler, Eds. Sebastopol, CA, USA: O'Reilly, 2024, pp. start 6-15.
 ```

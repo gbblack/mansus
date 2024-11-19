@@ -6,6 +6,7 @@ publication:
 source: 
 created:
 ---
+Any Links
 # Full Book Title
 
 ### Summary
@@ -22,14 +23,13 @@ Break down the book into all the points its trying to prove/make. And rewrite th
 ### Highlights
 ---
 
-> [!note] Nota Bene
-
 ---
 ##### Citation
-
 ```
 First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
 ```
+
+> [!note] Nota Bene
 
 ---
 ##### Completion Checklist
@@ -39,11 +39,11 @@ First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Cou
 - [ ] Complete the `Citation` section.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
-- [ ] As you read capture the sections that most resonate and paste them in `Highlights`.
+- [ ] As you read capture the sections that most resonate and paste them in `Highlights`. Include the page number right above the block.
 - [ ] **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Write the book `Summary`.
 - [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.

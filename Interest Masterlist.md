@@ -2,8 +2,6 @@ Jascha's Blog: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html 
 
 Knight Columbia: https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech (Protocols over Platform)
 
-JASON Format Blog: https://jasonformat.com/islands-architecture/ (Islands web design architecture)
-
 Rethinking Software: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum (5 non scrum workflow examples)
 
 Rethinking Software: https://rethinkingsoftware.substack.com/p/the-joy-of-literate-programming ([[Literate Programming]])
@@ -27,8 +25,6 @@ https://cheatsheetseries.owasp.org/index.html (app security resource)
 https://archive.ph/kwt1b (stepping away from Fandom for wikis)
 
 https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
-
-https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/ (reflections on modern medical care and their clumsy handling of terminal diagnoses)
 
 https://www.htmlforpeople.com/intro/ (Guide/resource to learning HTML from scratch)
 

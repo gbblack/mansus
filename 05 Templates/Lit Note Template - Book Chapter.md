@@ -3,7 +3,7 @@ tags:
   - literature/book_chapter
 created:
 ---
-Book Index Link
+Book Index Link and others
 # Chapter Title
 
 > [!abstract] Summary
@@ -12,15 +12,13 @@ Book Index Link
 ---
 
 ---
-
-> [!note] Nota Bene
-
----
 ##### Citation
 
 ```
 First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
 ```
+
+> [!note] Nota Bene
 
 ---
 ##### Completion Checklist
@@ -32,11 +30,11 @@ First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First N
 - [ ] Read the chapter once in its entirety with focus, no music.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
-- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`.
+- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`. Include the page number right above the block.
 - [ ] **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Write the chapter `Summary`.
 - [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.

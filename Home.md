@@ -14,7 +14,7 @@ For now I am of the mind that all index notes should link to the home note
 # 11 Mansus
 
 > *The Mansus has no walls*
-> –Cultist Simulator
+> – Cultist Simulator
 
 ### Reading
 
