@@ -22,7 +22,8 @@ Break down the book into all the points its trying to prove/make. And rewrite th
 
 ### Highlights
 ---
-
+9 (page number)
+> example highlight
 ---
 ##### Citation
 ```

@@ -4,8 +4,6 @@ Knight Columbia: https://knightcolumbia.org/content/protocols-not-platforms-a-te
 
 Rethinking Software: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum (5 non scrum workflow examples)
 
-Rethinking Software: https://rethinkingsoftware.substack.com/p/the-joy-of-literate-programming ([[Literate Programming]])
-
 A Working Library: https://aworkinglibrary.com/writing/coming-home (reflection on personal websites)
 
 London Magazine: https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/ (architecture of pubs)
@@ -39,8 +37,6 @@ https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie
 http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)
 
 https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8 (grid shader)
-
-https://passo.uno/what-docs-as-code-means/ (docs as code)
 
 https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/ (time as a dimension)
 
@@ -130,7 +126,7 @@ https://medium.com/@hagan.rivers/interaction-design-for-trees-5e915b408ed2 (inte
 
 https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742 (graphics post for making the Obra Dinn shader)
 
-https://mattlakeman.org/2024/11/08/notes-on-guyana/ (Guyana
+https://mattlakeman.org/2024/11/08/notes-on-guyana/ (Guyana)
 
 https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/ (NoSql database schema)
 
@@ -273,3 +269,34 @@ https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a 
 https://htmx.org/essays/you-cant/ (web app myths)
 
 https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html (self host a wiki)
+
+https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/ (reading coding book twice)
+
+
+https://jvernay.fr/en/blog/skyline-2d-packer/implementation/ (2d graphics algorithm)
+
+http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html (text layout and rendering)
+
+https://smoores.dev/post/phonetic_matching/ (phonetic matching)
+
+https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/ (Bhutan)
+
+https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ (threads vs async/await)
+
+https://benthams.substack.com/p/the-best-charity-isnt-what-you-think (charity)
+
+https://bitfieldconsulting.com/posts/constraints (Go constraints)
+
+https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html (attention to automation)
+
+https://garten.salat.dev/fake-shaders3.html (shader example)
+
+https://arxiv.org/abs/2210.00714 (paper on TCP in datacenter)
+
+https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/ (embedding model)
+
+https://firehose3d.theo.io/ (cool website)
+
+https://blog.oup.com/2017/11/sentence-structure-for-writers/ (sentence structure)
+
+https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding (positional encoding)
