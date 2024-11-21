@@ -300,3 +300,17 @@ https://firehose3d.theo.io/ (cool website)
 https://blog.oup.com/2017/11/sentence-structure-for-writers/ (sentence structure)
 
 https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding (positional encoding)
+
+https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review (paradise lost)
+
+https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/ (mathematical thinking)
+
+https://abenezer.org/blog/hyrum-law-in-golang (Hyrum' law in Golang)
+
+https://catonmat.net/unix-utilities-pipe-viewer (unix tool - pipe viewer)
+
+https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true (shadow boxing)
+
+https://www.jstor.org/stable/3824296 (thinking too much)
+
+https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (grpc communication)

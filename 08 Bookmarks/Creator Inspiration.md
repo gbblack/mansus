@@ -13,4 +13,5 @@ https://matklad.github.io/ (rust analyzer dev's original blog)
 Digital Gardens:
 
 https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file (a github repo lisitng public digital gardens)
-https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!
+https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
+https://untested.sonnet.io/
