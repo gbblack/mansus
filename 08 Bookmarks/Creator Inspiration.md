@@ -9,9 +9,9 @@ https://oldcompcz.github.io/jgs/joan_stark/index-2.html (ascii art)
 
 Coding Blog:
 https://matklad.github.io/ (rust analyzer dev's original blog)
-
+https://eddyerburgh.me/how-i-take-notes-from-technical-books (specifically this post)
 Digital Gardens:
-
+https://notes.shichao.io/ (technical notes!)
 https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file (a github repo lisitng public digital gardens)
 https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
 https://untested.sonnet.io/

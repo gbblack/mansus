@@ -314,3 +314,47 @@ https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=tru
 https://www.jstor.org/stable/3824296 (thinking too much)
 
 https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (grpc communication)
+
+https://www.benji.dog/articles/git-config/ (git user config)
+
+https://www.historytoday.com/archive/making-history/pilgrim-historian (pilgrimmage history)
+
+https://www.thenation.com/article/culture/slouch-back-pain-history/ (american culture and bad posture)
+
+https://www.combinationsmag.com/build-network-societies-not-network-states/ (network societies)
+
+https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/ (ivy league)
+
+https://bitfieldconsulting.com/posts/career (career mistake)
+
+https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/ (picture of the sun)
+
+https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/ (large correct programs)
+
+https://htmx.org/essays/codin-dirty/ (coding dirty)
+
+https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/ (physics of butterfly wings)
+
+https://blog.separateconcerns.com/2017-05-07-itc.html (interval tree clocks)
+
+https://blog.logto.io/iam-oauth-oidc-saml-sso-jwt (understanding auth strategies)
+
+https://thunderseethe.dev/posts/traits-are-a-local-maxima/ (rust traits)
+
+https://www.scottsmitelli.com/articles/large-chainsaw-model/ (large chainsaw model)
+
+https://github.com/jesseduffield/lazydocker (lazydocker cli tool)
+
+https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core (demon core)
+
+https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/ (blogging retrospective)
+
+https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal (dostoevsky)
+
+https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (local grpc communication)
+
+https://www.karllhughes.com/posts/plumbing (software engineering)
+
+https://c4model.com/ (C4 model)
+
+https://cliffle.com/blog/rust-typestate/ (type states)
