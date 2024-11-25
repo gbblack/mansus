@@ -12,7 +12,7 @@ author:
 # Fundamentals of Software Architecture: An Engineering Approach
 ### Chapter Index
 
-[[Fundamentals of Software Architecture - 00#Introduction|Introduction]]
+[[Fundamentals of Software Architecture-00#Introduction|Introduction]]
 
 ##### Citation
 

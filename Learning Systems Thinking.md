@@ -16,11 +16,11 @@ source: "[[41.14 Software Architecture]]"
 
 ### Index
 ---
-[[Learning Systems Thinking - 00|Preface]]
+[[Learning Systems Thinking-00|Preface]]
 
 Part I - A System of Thinking
 
-1. [[Learning Systems Thinking - 01|What Is Systems Thinking?]]
+1. [[Learning Systems Thinking-01|What Is Systems Thinking?]]
 2. [[Learning Systems Thinking - 02|Crafting Conceptual Integrity]]
 3. Shifting Your Perspective
 

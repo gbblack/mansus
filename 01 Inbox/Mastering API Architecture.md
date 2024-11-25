@@ -8,7 +8,7 @@ author:
   - Matthew Auburn
 publication:
   - O'Reilly
-source: "[[41.14 Software Architecture]]"
+source: "[[41.22 API]]"
 created: 2024-11-25
 ---
 # Mastering API Architecture: Design, Operate, and Evolve API-Based Systems
@@ -48,7 +48,6 @@ J. Gough, D. Bryant, M. Auburn, *Mastering API Architecture*, 1st. Sebastopol, C
 > [!note] Nota Bene
 
 ---
-
 ##### Completion Checklist
 ###### II. From Dark to Dawn
 - [x] In the `Index` section add each chapter to the list, following the structure of the book.
