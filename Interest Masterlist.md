@@ -358,3 +358,5 @@ https://www.karllhughes.com/posts/plumbing (software engineering)
 https://c4model.com/ (C4 model)
 
 https://cliffle.com/blog/rust-typestate/ (type states)
+
+https://ashore.io/journal/crossover-creativity/poisoning-the-day (productivity ethos)
