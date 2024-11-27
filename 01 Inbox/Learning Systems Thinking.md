@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book
+  - literature/book_index
   - software_architecture
   - status/dark
 created: 2024-10-17

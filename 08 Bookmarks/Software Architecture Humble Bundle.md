@@ -7,7 +7,6 @@ Serverless Deployment on AWS
 Communication Patterns
 Building on Event Driven Data Mesh
 Building Evolutionary Architectures
-Mastering API Architecture
 RESTful Web API Patterns & Practices Cookbook
 Software Architecture Patterns Second Edition
 Foundations of Scalable Systems

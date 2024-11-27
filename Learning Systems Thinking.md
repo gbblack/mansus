@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book
+  - literature/book_index
   - software_architecture
   - status/dawn
 created: 2024-10-17
