@@ -15,3 +15,5 @@ https://notes.shichao.io/ (technical notes!)
 https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file (a github repo lisitng public digital gardens)
 https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
 https://untested.sonnet.io/
+
+https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f/docs/showcase.md

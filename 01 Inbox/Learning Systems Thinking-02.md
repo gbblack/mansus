@@ -4,7 +4,7 @@ tags:
   - status/dark
 created: 2024-10-22
 ---
-[[Learning Systems Thinking]]
+[[Learning Systems Thinking 1]]
 # Crafting Conceptual Integrity
 
 > [!abstract] Summary

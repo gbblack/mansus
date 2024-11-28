@@ -1,10 +1,12 @@
 ---
 tags:
   - permanent
-created:
+created: 2024-11-28
 ---
-# Title
+# API Guidelines
 ---
+REST Guidelines:
+Microdoft REST API Guidelines.
 ##### Bibliography
 
 ##### Completeness

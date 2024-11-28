@@ -4,7 +4,7 @@ tags:
   - status/dawn
 created: 2024-10-17
 ---
-[[Learning Systems Thinking]]
+[[Learning Systems Thinking 1]]
 # Preface
 
 > [!abstract] Summary

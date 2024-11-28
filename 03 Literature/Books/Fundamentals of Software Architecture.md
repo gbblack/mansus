@@ -8,7 +8,7 @@ author:
   - Mark Richards
   - Neal Ford
 ---
-[[The Woods]]
+[[The Wood]]
 # Fundamentals of Software Architecture: An Engineering Approach
 ### Chapter Index
 

@@ -4,7 +4,7 @@ tags:
   - status/day
 created: 2024-10-21
 ---
-[[Learning Systems Thinking]]
+[[Learning Systems Thinking 1]]
 # What is Systems Thinking?
 
 > [!abstract] Summary
