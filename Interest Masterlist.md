@@ -371,3 +371,29 @@ https://www.hamiltonnolan.com/p/how-to-think-about-politics-without (thinking ab
 https://everything2.com/title/Books+that+will+induce+a+mindfuck (reading list)
 
 https://www.theremingoat.com/blog/beginners-guide (keyboard switches)
+
+https://linus.coffee/note/software-industry/ (software reality)
+
+https://herman.bearblog.dev/forced-to-upgrade/ (upgrading)
+
+https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117 (honeycrisp apples)
+
+https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file (obsidian plugin)
+
+https://www.cyberdemon.org/2024/03/20/submodules.html (git submodules)
+
+https://www.openread.academy/en/paper/reading?corpusId=503252214 (paper on handwriting vs typing)
+
+https://kristoff.it/blog/raii-rust-linux/ (rust linux drama)
+
+https://rm4n0s.github.io/posts/6-cant-driven-development/ (can't driven development)
+
+https://www.math.uh.edu/~dblecher/pf2.html (how to study math, could be good for programming too)
+
+https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus (food menu tricks)
+
+https://docs.racket-lang.org/ctp/index.html (category theory)
+
+https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/ (read a book)
+
+https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
