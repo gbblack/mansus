@@ -14,19 +14,20 @@ created: 2024-11-25
 ##### **The Architecture Journey**
 - Architecture changes over time due to varying influences: technology, business requirements and constraints.
 - Adding incremental value to the software architecture overtime leads to [[Evolutionary Architecture|evolutionary architecture]]. 
-- With the shift to [[SOA]]. APIs have become inherently evolutionary.
+- With the shift to [[SOA]], APIs have become inherently evolutionary.
 - [[API-First]] design is the resultant approach to implement this evolutionary architecture.
 ##### **A Brief Introduction to APIs**
-- [[API]] fall into two categories: *in process* and *out of process*.
-- [[in process]] is an internal API invocation where the process remains the same after the call (e.g. a function invoking anther).
+- [[API|APIs]] fall into two categories: *in process* and *out of process*.
+- [[in process]] is an internal API invocation where the process remains the same after the call (e.g. a function invoking another).
 - [[out of process]] is an external API invocation where the process calls upon another different process (e.g. An HTTP request to another service).
 ##### **Running Example: Conference System Case Study**
-Figure 1 - need to draw
-Figure 2
+![[MasteringAPIArchitecture-0001.png]]
+![[MasteringAPIArchitecture-0002.png]]
+
 - The [[API Controller]] handles all the requests and routes them to the appropriate module.
 - This follows the [[front controller pattern]] which uses many in process invocations.
 - The other components use out of process invocations to handle queries to one another.
-Figure 3
+![[MasteringAPIArchitecture-0003.png]]
 **Types of APIs in the Conference Case Study**
 - Web App -> API Controller is out of process
 - API Controller -> Attendee Component is in process.
@@ -38,7 +39,7 @@ Figure 3
 - It needs to be updated into an evolutionary architecture.
 - The way to do this is by modeling [[API Interactions|API interactions]], especially [[traffic patterns]].
 **Case Study: An Evolutionary Step**
-Figure 4
+![[MasteringAPIArchitecture-0004.png]]
 - [[North-south traffic]]: is an [[ingress flow]], where interactions involves a public facing component.
 - [[East-west traffic]]: is a [[service-to-service]] way of communicating, where interactions involve only components that are part of the same system.
 ##### **API Infrastructure and Traffic Patterns**
@@ -50,12 +51,13 @@ Figure 4
 **C4 Container Diagram**
 - This diagram (2) is to describe the major participants inside a component.
 **C4 Component Diagram**
-- This diagram (3) is to fine the roles and responsibilities inside each container and their interactions. This can be a good map to a codebase.
+- This diagram (3) is to define the roles and responsibilities inside each container and their interactions. This can be a good map to a codebase.
 ##### **Using Architecture Decision Records**
 - [[Architecture Decision Records|ADRs]] are a way of documenting decisions to maintain clarity in software over time.
 - There are four sections of ADR: status, context, decision, and consequences.
 - Each proposed ADR must eventually be either accepted or rejected.
 - They must be made public for easy review and feedback while the ADR is being considered.
+![[MasteringAPIArchitecture-0005.png]]
 **Mastering API: ADR Guidelines**
 - [[ADR Guidelines]] provide context for architecture decision to help the design process.
 ### **Highlights**
