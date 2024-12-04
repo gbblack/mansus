@@ -20,13 +20,5 @@ https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f
 
 https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook (data engineering handbook)
 
-https://github.com/godotengine/godot/issues/100000 (reflection on 10 years of godot)
 
-https://interactionmagic.com/UX-LEGO-Interfaces/ (lego brick interfaces)
-
-https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/ (line drawings)
-
-https://www.henrikkarlsson.xyz/p/art-gallery (working at an art gallery)
-
-https://www.baldurbjarnason.com/2024/the-deterioration-of-google/ (failing google)
 

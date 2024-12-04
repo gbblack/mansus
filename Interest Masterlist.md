@@ -364,6 +364,16 @@ https://ashore.io/journal/crossover-creativity/poisoning-the-day (productivity e
 https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Architectural Styles and  
 the Design of Network-based Software Architectures)
 
+https://github.com/godotengine/godot/issues/100000 (reflection on 10 years of godot)
+
+https://interactionmagic.com/UX-LEGO-Interfaces/ (lego brick interfaces)
+
+https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/ (line drawings)
+
+https://www.henrikkarlsson.xyz/p/art-gallery (working at an art gallery)
+
+https://www.baldurbjarnason.com/2024/the-deterioration-of-google/ (failing google)
+
 https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/ (the power of physical books in a digital age)
 
 https://www.hamiltonnolan.com/p/how-to-think-about-politics-without (thinking about politicians)
