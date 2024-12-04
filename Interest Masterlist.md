@@ -397,3 +397,17 @@ https://docs.racket-lang.org/ctp/index.html (category theory)
 https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/ (read a book)
 
 https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
+
+https://egoless.engineering/ (presentation on better engineering)
+
+https://ryanbrewer.dev/posts/getting-started-category-theory.html (category theory)
+
+https://mariakonnikova.substack.com/p/gratitude-despite-the-odds (poet brodsky and gratitude)
+
+https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/ (dark mode css)
+
+https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit (Princeton book on bullshit)
+
+https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/ (dependency management)
+
+https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)
