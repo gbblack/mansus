@@ -4,6 +4,7 @@ tags:
   - "#reference"
   - "#terminal"
 ---
+# Cargo Commands
 ***
 
 | Command                    | Description                                                                                 |

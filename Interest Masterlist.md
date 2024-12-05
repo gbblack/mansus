@@ -421,3 +421,5 @@ https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit (Princeton
 https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/ (dependency management)
 
 https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)
+
+https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/

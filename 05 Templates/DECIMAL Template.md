@@ -5,9 +5,9 @@ tags:
 
 ### Dark
 ---
-Sources are being worked on
+Sources that are being worked on
 ### Day
 ---
 Sources that are complete
-Book Index link - Mon YYY of completion
+Book Index link - Mon YYYY of completion
 Should be listed alphabetically here
