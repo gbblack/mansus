@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/web_article
+  - type/article
   - learning
   - status/day
 source: https://lelouch.dev/blog/you-are-probably-not-dumb/

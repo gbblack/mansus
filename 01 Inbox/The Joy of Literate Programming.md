@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/web_article
+  - type/article
   - status/dark
 author:
   - Adam Ard

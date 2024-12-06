@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_index
+  - type/book_index
 author: 
 publication: 
 source: 

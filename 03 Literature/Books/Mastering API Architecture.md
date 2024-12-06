@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book
+  - type/book
   - status/dark
 author:
   - James Gough

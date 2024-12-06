@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/web_article
+  - type/article
   - code_documentation
   - best_practices
   - status/day

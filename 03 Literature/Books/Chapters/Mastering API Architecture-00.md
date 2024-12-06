@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_chapter
+  - type/book_chapter
   - status/day
 created: 2024-11-25
 ---

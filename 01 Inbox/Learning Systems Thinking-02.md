@@ -1,10 +1,10 @@
 ---
 tags:
-  - literature/book_chapter
+  - type/book_chapter
   - status/dark
 created: 2024-10-22
 ---
-[[Learning Systems Thinking 1]]
+[[03 Literature/Books/Learning Systems Thinking-01]]
 # Crafting Conceptual Integrity
 
 > [!abstract] Summary

@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/web_article
+  - type/article
   - medical_care
   - agency
   - status/day

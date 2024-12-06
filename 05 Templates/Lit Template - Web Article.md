@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/web_article
+  - type/article
 author: 
 publication: 
 source: 

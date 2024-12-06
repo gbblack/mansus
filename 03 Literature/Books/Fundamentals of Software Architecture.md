@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_index
+  - type/book_index
   - status/dark
 source: "[[41.14 Software Architecture]]"
 created: 2024-10-13

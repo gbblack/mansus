@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/dissertation
+  - type/dissertation
 author: 
 source: 
 created:

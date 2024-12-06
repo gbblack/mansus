@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_index
+  - type/book_index
   - software_architecture
   - status/dark
 created: 2024-10-17
@@ -19,7 +19,7 @@ source: "[[41.14 Software Architecture]]"
 [[Learning Systems Thinking-00|Preface]]
 
 **Part I - A System of Thinking**
-1. [[Learning Systems Thinking-01|What Is Systems Thinking?]]
+1. [[01 Inbox/Learning Systems Thinking-01|What Is Systems Thinking?]]
 2. [[Learning Systems Thinking-02|Crafting Conceptual Integrity]]
 3. Shifting Your Perspective
 **Part II - You Are A Systems Thinker**

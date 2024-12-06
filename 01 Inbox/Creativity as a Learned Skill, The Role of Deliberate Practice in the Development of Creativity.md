@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - literature/dissertation
+  - type/dissertation
 author:
   - William R. Reaves
 source: 

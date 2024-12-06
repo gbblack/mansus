@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_index
+  - type/book_index
   - status/dawn
 source: 
 created: 2024-10-23

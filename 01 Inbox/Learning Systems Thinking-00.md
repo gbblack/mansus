@@ -1,10 +1,10 @@
 ---
 tags:
-  - literature/book_chapter
+  - type/book_chapter
   - status/dawn
 created: 2024-10-17
 ---
-[[Learning Systems Thinking 1]]
+[[03 Literature/Books/Learning Systems Thinking-01]]
 # Preface
 
 > [!abstract] Summary

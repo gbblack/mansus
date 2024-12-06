@@ -1,6 +1,6 @@
 ---
 tags:
-  - literature/book_chapter
+  - type/book_chapter
 created:
 ---
 Book Index Link and others

@@ -1,10 +1,10 @@
 ---
 tags:
-  - literature/book_chapter
+  - type/book_chapter
   - status/day
 created: 2024-10-21
 ---
-[[Learning Systems Thinking 1]]
+[[03 Literature/Books/Learning Systems Thinking-01]]
 # What is Systems Thinking?
 
 > [!abstract] Summary
