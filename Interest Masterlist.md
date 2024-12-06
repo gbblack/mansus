@@ -423,3 +423,5 @@ https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditche
 https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)
 
 https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/
+
+https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer (operational research)

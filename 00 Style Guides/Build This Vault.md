@@ -12,7 +12,7 @@ In the tags we have two meta tags: `status` and `type`.
 ##### Status
 The status tags display how "complete" a note is. There are 3 explicit statuses and one implicit.
 
-The first and implicit status is no status at all, all [[vault style guide - Fleeting Notes|Fleeting Notes]] fall into this category. Until real work begins no status is added.
+The first and implicit status is no status at all, all [[Fleeting Notes]] fall into this category. Until real work begins no status is added.
 
 The three status states are:
 - `Dark`: This a first pass over a material or idea.

@@ -28,9 +28,8 @@ Each area is split into another at most 10 categories, I will be reserving the 0
 This area holds all files related to the system itself. Currently empty and not sure how I wish to use it.
 #### 10-19 Projects
 
-This area will contain all my non dev work and projects. currently bare but hopefully will grow over time. Will contain an archive for completed projects, like one that is "looking for a house".
-
 This area will hold non programming projects, this Mansus lives in category 11. Hence the name.
+included in the scope of projects are long form tasks, such as "Looking for a new house", "Digitising all my CDs" or "Scrapbooking all my letters". Any files related to the ongoing project should live here, but once its complete move all temp files to the Archive and rearrange any permanent materials to their new place in the DECIMAL system.
 
 10 Projects Meta
 11 Mansus
@@ -59,7 +58,7 @@ This are is for all my cooking related knowledge. Recipes, meal tracking, ingred
 
 This area is to hold all my media files, of any kind. So long as something is not part of an application it should live here. By far will be the largest area and see the most use. 
 
-This is also what The DECIMAL files from this vault will be referencing. They each correspond to an ID in this area so that I don't have to store source files in Obsidian. 
+This is also what the DECIMAL files from this vault will be referencing. They each correspond to an ID in this area so that I don't have to store source files in Obsidian. 
 
 40 Media Meta
 41 Literature

@@ -9,7 +9,7 @@ Here is my strategy below, extremely new and open to change:
 1. Make an index note of the textbook who's name is the title, this should be stored in `Literature/Books`.
 2. Fill in the index and link to the books chapter notes, named as such `title-#` with the `#` being the chapter number. Introductions or prefaces are `00`. In the case a chapter needs to be split into two notes we can add a letter: `00a`.
 3. Each chapter should only link back to the index, and contain no contextual tags.
-4. The index note should hold all the link and tags that reference the book.
+4. The index note should hold all the links and tags that reference the book.
 5. Once complete the chapter note should be stored in `Literature/Books/Chapters`.
 
 More granular steps to take for each note is within their templates.
