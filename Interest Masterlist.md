@@ -128,7 +128,7 @@
 127. https://garten.salat.dev/fake-shaders3.html (shader example)
 128. https://arxiv.org/abs/2210.00714 (paper on TCP in datacenter)
 129. https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/ (embedding model)
-130. https://firehose3d.theo.io/ (cool website)
+130.  (cool website)
 131. https://blog.oup.com/2017/11/sentence-structure-for-writers/ (sentence structure)
 132. https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding (positional encoding)
 133. https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review (paradise lost)
@@ -159,8 +159,7 @@
 158. https://www.karllhughes.com/posts/plumbing (software engineering)
 159. https://cliffle.com/blog/rust-typestate/ (type states)
 160. https://ashore.io/journal/crossover-creativity/poisoning-the-day (productivity ethos)
-161. https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Architectural Styles and  
-162. the Design of Network-based Software Architectures)
+161. https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Architectural Styles and the Design of Network-based Software Architectures)
 163. https://github.com/godotengine/godot/issues/100000 (reflection on 10 years of godot)
 164. https://interactionmagic.com/UX-LEGO-Interfaces/ (lego brick interfaces)
 165. https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/ (line drawings)
@@ -188,7 +187,6 @@
 187. https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/ (dependency management)
 188. https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/
 189. https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer (operational research)
-190. https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/ (homelessness in cities)
 191. https://worksinprogress.co/issue/the-world-of-tomorrow/
 192. https://seirdy.one/posts/2021/01/12/password-strength/
 193. https://www.scattered-thoughts.net/writing/serious-fun/

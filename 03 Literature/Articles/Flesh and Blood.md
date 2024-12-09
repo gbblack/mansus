@@ -36,8 +36,8 @@ created: 2024-10-03
 > Children were to submit to their parents, wives to husbands, and subjects to rulers, whose authority came from God. In each case the superior party was expected to inflict stern chastisement when he considered it appropriate: that is, to exercise violence with impunity.
 
 > Wendat torture, in the same period, created searing, unforgettable spectacles of pain and suffering to make clear that no form of physical chastisement should ever be countenanced inside a community or household. ==**Violence and care==, in the Wendat case, were to be entirely separated.**
+##### **Citation**
 ---
-##### Citation
 ```
 D.Graeber, D. Wengrow, "Flesh and Blood", Anarchist Library.
 Available: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood

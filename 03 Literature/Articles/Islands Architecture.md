@@ -28,8 +28,8 @@ created: 2024-11-18
 > the document should at least contain **the most ==essential content==.** For example: a news page’s HTML would contain the article body
 
 > **All of the ==other content is secondary== to this information**, and its inclusion in the HTML becomes a product decision. How vital is this bit of information to a user visiting the page? How important is that widget to the business model?
+##### **Citation**
 ---
-##### Citation
 ```
 "Islands Architecture." JASON Format. https://jasonformat.com/islands-architecture/
 ```

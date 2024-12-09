@@ -17,8 +17,8 @@ created: 2024-11-18
 > The gap in comprehension wasn’t due to a lack of ability but rather ==**a gap== in prerequisite knowledge**.
 
 > Each ==**foundational concept== I mastered ==laid the groundwork== for more complex theories** and problems.
+##### **Citation**
 ---
-##### Citation
 ```
 "You Are NOT Dumb, You Just Lack the Prerequisites." lelouch. https://lelouch.dev/blog/you-are-probably-not-dumb/
 ```

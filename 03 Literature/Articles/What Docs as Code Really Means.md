@@ -33,8 +33,8 @@ Any Links
 > Both sides need each other: you can’t move the needle of great docs without the dedication of the entire engineering org, and **engineers struggle to create great docs without a docs architect.**
 
 >we’re ==**architects of understanding==, building bridges between complex systems** and the humans who use them.
+##### **Citation**
 ---
-##### Citation
 ```
 F. Benedetti, "What docs as code really means", passo.uno.
 Available: https://passo.uno/what-docs-as-code-means/

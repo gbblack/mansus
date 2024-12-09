@@ -44,3 +44,11 @@ Links to cool projects I want to check out.
 | 2D Art                 | https://graphite.rs/features/                 |
 | C4 Model               | https://c4model.com/                          |
 | Spreadsheets           | https://docs.ironcalc.com/                    |
+
+### Showcase
+Links to cool stuff on the internet.
+
+| Focus                     | Link                        |
+| ------------------------- | --------------------------- |
+| Tunnel of Blue Sky tweets | https://firehose3d.theo.io/ |
+|                           |                             |
