@@ -1,427 +1,196 @@
-Jascha's Blog: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html (focusing on efficiency makes things worse)
-
-Knight Columbia: https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech (Protocols over Platform)
-
-Rethinking Software: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum (5 non scrum workflow examples)
-
-A Working Library: https://aworkinglibrary.com/writing/coming-home (reflection on personal websites)
-
-London Magazine: https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/ (architecture of pubs)
-
-JOOQ Vlog: https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/ (sql reference help)
-
-Adam Trojanczyk: https://trojanczyk.eu/build-trust/ (team building)
-
-Simon Späti Blog: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
-
-Julia Evans Blog: https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
-
-https://thecopenhagenbook.com/ (web security guide)
-
-https://cheatsheetseries.owasp.org/index.html (app security resource)
-
-https://archive.ph/kwt1b (stepping away from Fandom for wikis)
-
-https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
-
-https://www.htmlforpeople.com/intro/ (Guide/resource to learning HTML from scratch)
-
-https://learngitbranching.js.org/
-
-https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)
-
-https://graphite.rs/features/ (open source 2d art software)
-
-https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie the Crowd)
-
-http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)
-
-https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8 (grid shader)
-
-https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/ (time as a dimension)
-
-https://dhruvmethi.substack.com/p/bureaucracy (bureaucracy creation)
-
-https://aworkinglibrary.com/writing/accountability-sinks (accountability)
-
-https://dancres.github.io/Pages/ (distributed systems)
-
-https://news.ycombinator.com/item?id=41905167 (where to start with UI/UX design)
-
-https://refactoring.guru/design-patterns
-
-https://datatracker.ietf.org/doc/html/rfc7540 (HTTP2)
-
-https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
-
-[https://docs.tigerbeetle.com/about/vopr/](https://docs.tigerbeetle.com/about/vopr/ "https://docs.tigerbeetle.com/about/vopr/")
-
-[how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
-
-MusicBrainz: https://musicbrainz.org/ (music wiki?? could be cool)
-
-Book - Patterns for API design
-[summary of that book](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
-Book - Tidy First?
-
-https://news.ycombinator.com/item?id=41923635 (top comment)
-
-https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/ (Google Books, have read need to digest)
-
-https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/ (local news, specifically Chicagos architecture writer at the tribune)
-
-https://buttondown.com/hillelwayne/archive/tla-from-first-principles/ (TLA, Temporal Logic of actions? basically concurrency)
-
-http://species-in-pieces.com/ (cool css exhibit)
-
-https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred (Laipianism, indigenous religion of Myanmar. Initial thought: Nothing christianity touches stays the same, it devours and becomes
-
-https://technology.riotgames.com/news/peeking-valorants-netcode (networkign live games for fairness)
-
-https://medium.com/@pierre_49652/flox-better-alternative-to-dev-containers-d02e1a2ec423 (alternative to dev containers)
-
-https://lackofimagination.org/2024/10/self-documenting-code/ (good code as documentation)
-
-https://fishshell.com/ (fish shell)
-
-https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (refelction on the life and work of John Wheeler)
-
-https://candost.blog/on-good-software-engineers/  (what makes a good software engineer)
-
-https://infrequently.org/2024/10/platforms-are-competitions/ (the web is losing)
-
-https://globalchinapulse.net/character-amnesia-in-china/ (character amnesia in chinese writing)
-
-https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test (1912 test)
-
-https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
-
-https://bitfieldconsulting.com/posts/testing-legacy-code (testing old code)
-
-https://freenet.org/ (open source internet?)
-
-https://catlikecoding.com/godot/ (Godot 2D tutorials)
-
-https://codeberg.org/ezcrypt/ezcrypt (tool for file encryption)
-
-https://paulgraham.com/writes.html (on forgetting writing)
-
-https://map.simonsarris.com/p/school-is-not-enough (learning through practice)
-
-https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer)
-
-https://lmnt.me/blog/nothing-left-to-solve.html
-
-https://computer.rip/2024-10-26-buy-payphones-and-retire.html 
-
-https://greyenlightenment.com/2024/10/31/academic-style-writing-persists-because-it-works/ (academic writing)
-
-https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/ (drawing a programming language)
-
-https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan (english language in japan
-
-https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/ (the journey Newtonian physics took from the West to China)
-
-https://medium.com/@hagan.rivers/interaction-design-for-trees-5e915b408ed2 (interaction design and trees)
-
-https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742 (graphics post for making the Obra Dinn shader)
-
-https://mattlakeman.org/2024/11/08/notes-on-guyana/ (Guyana)
-
-https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/ (NoSql database schema)
-
-https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf (research on the patterns of languages)
-
-https://edition.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html (oil rig city)
-
-https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough (procrastination)
-
-https://blog.ppresume.com/posts/on-typesetting-engines (typesetting)
-
-https://www.publicbooks.org/tickets-are-for-remembering/ (show tickets)
-
-https://wellcomecollection.org/stories/the-soul-in-the-stomach (article on the history and validity of a gut feeling)
-
-https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html (digitisation of a 1767 cambridge meeting transcript)
-
-https://thejenkinscomic.net/shaderblocks/ (shader tool?)
-
-https://matthew-bird.com/blogs/Audio-Decomposition.html (a tool to break down an audio track into its composite parts)
-
-https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/ (ice cream)
-
-https://poniesandlight.co.uk/reflect/debug_print_text/ (text rendering)
-
-https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html (mathematician Paul Erdos)
-
-https://www.filfre.net/2024/11/grim-fandango/ (the game Grim Fandango)
-
-https://docs.visprex.com/ (CSV visualisation tool)
-
-https://fearlesssalarynegotiation.com/salary-expectations-interview-question/ (negotiating salary)
-
-https://parentheticallyspeaking.org/articles/write-a-book/ (writing a book)
-
-https://github.com/JohannesKaufmann/html-to-markdown (html to markdown tool)
-
-https://www.johndcook.com/blog/2024/11/10/the-postage-stamp-problem/ (postal stamps)
-
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API (MDN API for locking a process in app for better resource sharing among threads in multiple tabs)
-
-https://docs.ironcalc.com/ (open source spreadsheet alternative, written in rust)
-
-https://aaronparecki.com/2024/08/31/9/too-many-projects (resiliency of web projects)
-
-https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/ (1978 article on catastrophe)
-
-https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/ (conversation on PKM)
-
-https://www.orgroam.com/manual.html (org roam user manual)
-
-https://www.asimov.press/p/end-tb (ending tuberculosis)
-
-https://www.mulesoft.com/api-university/what-grpc-api-and-how-does-it-work (crash course in gRPC)
-
-https://bford.info/cachedir/ (cache management)
-
-https://pudding.cool/2024/10/nba-uniforms/ (NBA jerseys, cool website)
-
-https://publicapis.dev/ (a list of public apis)
-
-https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/ (math to mushroom)
-
-https://transactional.blog/how-to-learn/disk-io (file I/O?)
-
-https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/ (maps of colonial mexico)
-
-http://rachelbythebay.com/w/2024/11/03/metrics/ (employee metrics are :/)
-
-https://ankush.dev/p/neumann_architecture (von neumann architecture)
-
-https://www.seangoedecke.com/how-to-ship/ (shipping big projects)
-
-https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file (finding spotify songs??)
-
-https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html (how many people you cant afford to lose before your product stalls)
-
-https://jero.zone/posts/reverse-engineering-apis (reverse engineering apis)
-
-https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323 (listening to mars in 1924)
-
-https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck (history of playing cards)
-
-https://deannadikeman.com/leaving-and-waving (waving when saying goodbye)
-
-https://challahscript.com/what_i_wish_someone_told_me_about_postgres (postgres tips)
-
-https://devfonts.gafi.dev/ (cool fonts)
-
-https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/ (doodling)
-
-https://securityis.substack.com/p/security-is-a-useless-controls-problem (security mindset)
-
-https://blainsmith.com/articles/go-grpc-gateway-openapi/ (grpc and swagger)
-
-https://www.fermyon.com/blog/introducing-spin-v3 (serverless wasm?)
-
-https://ziglang.org/devlog/2024/#2024-11-04 (naming integers)
-
-https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/ (delegating)
-
-https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/ (recipe formatting for the web, focused on storing not display)
-
-https://heather-buchel.com/blog/2024/11/carving-space/ (finding work you love)
-
-https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership (leadership, intuition and Self Awareness)
-
-https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/ (history of tree architecture)
-
-https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/ (ternary operators)
-
-https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades (GIMP 3.0)
-
-https://www.onallbands.com/ham-radio-101-what-is-wspr/ (Ham radio 101)
-
-https://pudding.cool/2022/06/aztec-gods/ (Aztec pantheon)
-
-https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit (Story telling 101)
-
-https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen (cleaning supplies)
-
-https://www.rugu.dev/en/blog/linux-asceticism/ (Linux Ascetism)
-
-https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/ (Be angry, the world is worth fighting for)
-
-https://github.com/bayandin/awesome-awesomeness (repo of repos)
-
-https://bitfieldconsulting.com/posts/functional (functional programming in Go)
-
-https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer (effective engineering)
-
-https://bhoot.dev/2024/on-linux-file-and-links/ (Linux mental model)
-
-https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids (latchkey kids)
-
-https://blog.johnys.io/commercial-opportunities-in-a-renaissance-of-self-hosting/ (self hosting)
-
-https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a slipbox)
-
-https://htmx.org/essays/you-cant/ (web app myths)
-
-https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html (self host a wiki)
-
-https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/ (reading coding book twice)
-
-
-https://jvernay.fr/en/blog/skyline-2d-packer/implementation/ (2d graphics algorithm)
-
-http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html (text layout and rendering)
-
-https://smoores.dev/post/phonetic_matching/ (phonetic matching)
-
-https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/ (Bhutan)
-
-https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ (threads vs async/await)
-
-https://benthams.substack.com/p/the-best-charity-isnt-what-you-think (charity)
-
-https://bitfieldconsulting.com/posts/constraints (Go constraints)
-
-https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html (attention to automation)
-
-https://garten.salat.dev/fake-shaders3.html (shader example)
-
-https://arxiv.org/abs/2210.00714 (paper on TCP in datacenter)
-
-https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/ (embedding model)
-
-https://firehose3d.theo.io/ (cool website)
-
-https://blog.oup.com/2017/11/sentence-structure-for-writers/ (sentence structure)
-
-https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding (positional encoding)
-
-https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review (paradise lost)
-
-https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/ (mathematical thinking)
-
-https://abenezer.org/blog/hyrum-law-in-golang (Hyrum' law in Golang)
-
-https://catonmat.net/unix-utilities-pipe-viewer (unix tool - pipe viewer)
-
-https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true (shadow boxing)
-
-https://www.jstor.org/stable/3824296 (thinking too much)
-
-https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (grpc communication)
-
-https://www.benji.dog/articles/git-config/ (git user config)
-
-https://www.historytoday.com/archive/making-history/pilgrim-historian (pilgrimmage history)
-
-https://www.thenation.com/article/culture/slouch-back-pain-history/ (american culture and bad posture)
-
-https://www.combinationsmag.com/build-network-societies-not-network-states/ (network societies)
-
-https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/ (ivy league)
-
-https://bitfieldconsulting.com/posts/career (career mistake)
-
-https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/ (picture of the sun)
-
-https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/ (large correct programs)
-
-https://htmx.org/essays/codin-dirty/ (coding dirty)
-
-https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/ (physics of butterfly wings)
-
-https://blog.separateconcerns.com/2017-05-07-itc.html (interval tree clocks)
-
-https://blog.logto.io/iam-oauth-oidc-saml-sso-jwt (understanding auth strategies)
-
-https://thunderseethe.dev/posts/traits-are-a-local-maxima/ (rust traits)
-
-https://www.scottsmitelli.com/articles/large-chainsaw-model/ (large chainsaw model)
-
-https://github.com/jesseduffield/lazydocker (lazydocker cli tool)
-
-https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core (demon core)
-
-https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/ (blogging retrospective)
-
-https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal (dostoevsky)
-
-https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (local grpc communication)
-
-https://www.karllhughes.com/posts/plumbing (software engineering)
-
-https://c4model.com/ (C4 model)
-
-https://cliffle.com/blog/rust-typestate/ (type states)
-
-https://ashore.io/journal/crossover-creativity/poisoning-the-day (productivity ethos)
-
-https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Architectural Styles and  
-the Design of Network-based Software Architectures)
-
-https://github.com/godotengine/godot/issues/100000 (reflection on 10 years of godot)
-
-https://interactionmagic.com/UX-LEGO-Interfaces/ (lego brick interfaces)
-
-https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/ (line drawings)
-
-https://www.henrikkarlsson.xyz/p/art-gallery (working at an art gallery)
-
-https://www.baldurbjarnason.com/2024/the-deterioration-of-google/ (failing google)
-
-https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/ (the power of physical books in a digital age)
-
-https://www.hamiltonnolan.com/p/how-to-think-about-politics-without (thinking about politicians)
-
-https://everything2.com/title/Books+that+will+induce+a+mindfuck (reading list)
-
-https://www.theremingoat.com/blog/beginners-guide (keyboard switches)
-
-https://linus.coffee/note/software-industry/ (software reality)
-
-https://herman.bearblog.dev/forced-to-upgrade/ (upgrading)
-
-https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117 (honeycrisp apples)
-
-https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file (obsidian plugin)
-
-https://www.cyberdemon.org/2024/03/20/submodules.html (git submodules)
-
-https://www.openread.academy/en/paper/reading?corpusId=503252214 (paper on handwriting vs typing)
-
-https://kristoff.it/blog/raii-rust-linux/ (rust linux drama)
-
-https://rm4n0s.github.io/posts/6-cant-driven-development/ (can't driven development)
-
-https://www.math.uh.edu/~dblecher/pf2.html (how to study math, could be good for programming too)
-
-https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus (food menu tricks)
-
-https://docs.racket-lang.org/ctp/index.html (category theory)
-
-https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/ (read a book)
-
-https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
-
-https://egoless.engineering/ (presentation on better engineering)
-
-https://ryanbrewer.dev/posts/getting-started-category-theory.html (category theory)
-
-https://mariakonnikova.substack.com/p/gratitude-despite-the-odds (poet brodsky and gratitude)
-
-https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/ (dark mode css)
-
-https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit (Princeton book on bullshit)
-
-https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/ (dependency management)
-
-https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)
-
-https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/
-
-https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer (operational research)
+1. https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html (focusing on efficiency makes things worse)
+2. https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech (Protocols over Platform)
+3. https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum (5 non scrum workflow examples)
+4. https://aworkinglibrary.com/writing/coming-home (reflection on personal websites)
+5. https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/ (architecture of pubs)
+6. https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/ (sql reference help)
+7. https://trojanczyk.eu/build-trust/ (team building)
+8. https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
+9. https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
+10. https://archive.ph/kwt1b (stepping away from Fandom for wikis)
+11. https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
+12. https://learngitbranching.js.org/
+13. https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)
+14. https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie the Crowd)
+15. http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)
+16. https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8 (grid shader)
+17. https://bigthink.com/starts-with-a-bang/time-yes-dimension-not-like-space/ (time as a dimension)
+18. https://dhruvmethi.substack.com/p/bureaucracy (bureaucracy creation)
+19. https://aworkinglibrary.com/writing/accountability-sinks (accountability)
+20. https://news.ycombinator.com/item?id=41905167 (where to start with UI/UX design)
+21. https://refactoring.guru/design-patterns
+22. https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
+23. [https://docs.tigerbeetle.com/about/vopr/](https://docs.tigerbeetle.com/about/vopr/ "https://docs.tigerbeetle.com/about/vopr/")
+24. [how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
+25. https://news.ycombinator.com/item?id=41923635 (top comment)
+26. https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/ (Google Books, have read need to digest)
+27. https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/ (local news, specifically Chicagos architecture writer at the tribune)
+28. https://buttondown.com/hillelwayne/archive/tla-from-first-principles/ (TLA, Temporal Logic of actions? basically concurrency)
+29. http://species-in-pieces.com/ (cool css exhibit)
+30. https://aeon.co/essays/the-indigenous-faith-that-reveres-its-own-alphabet-as-sacred (Laipianism, indigenous religion of Myanmar. Initial thought: Nothing christianity touches stays the same, it devours and becomes
+31. https://technology.riotgames.com/news/peeking-valorants-netcode (networkign live games for fairness)
+32. https://medium.com/@pierre_49652/flox-better-alternative-to-dev-containers-d02e1a2ec423 (alternative to dev containers)
+33. https://lackofimagination.org/2024/10/self-documenting-code/ (good code as documentation)
+34. https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (reflection on the life and work of John Wheeler)
+35. https://candost.blog/on-good-software-engineers/  (what makes a good software engineer)
+36. https://infrequently.org/2024/10/platforms-are-competitions/ (the web is losing)
+37. https://globalchinapulse.net/character-amnesia-in-china/ (character amnesia in chinese writing)
+38. https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test (1912 test)
+39. https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+40. https://bitfieldconsulting.com/posts/testing-legacy-code (testing old code)
+41. https://catlikecoding.com/godot/ (Godot 2D tutorials)
+42. https://paulgraham.com/writes.html (on forgetting writing)
+43. https://map.simonsarris.com/p/school-is-not-enough (learning through practice)
+44. https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer)
+45. https://lmnt.me/blog/nothing-left-to-solve.html
+46. https://computer.rip/2024-10-26-buy-payphones-and-retire.html 
+47. https://greyenlightenment.com/2024/10/31/academic-style-writing-persists-because-it-works/ (academic writing)
+48. https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/ (drawing a programming language)
+49. https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan (english language in japan
+50. https://royalsociety.org/blog/2024/09/gravitys-eastern-voyage/ (the journey Newtonian physics took from the West to China)
+51. https://medium.com/@hagan.rivers/interaction-design-for-trees-5e915b408ed2 (interaction design and trees)
+52. https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742 (graphics post for making the Obra Dinn shader)
+53. https://mattlakeman.org/2024/11/08/notes-on-guyana/ (Guyana)
+54. https://karmanivero.us/projects/entity-manager/evolving-a-nosql-db-schema/ (NoSql database schema)
+55. https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf (research on the patterns of languages)
+56. https://edition.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html (oil rig city)
+57. https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough (procrastination)
+58. https://blog.ppresume.com/posts/on-typesetting-engines (typesetting)
+59. https://www.publicbooks.org/tickets-are-for-remembering/ (show tickets)
+60. https://wellcomecollection.org/stories/the-soul-in-the-stomach (article on the history and validity of a gut feeling)
+61. https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html (digitisation of a 1767 cambridge meeting transcript)
+62. https://thecookscook.com/features/denise-landis-the-cook-writes/we-all-scream-for-ice-cream/ (ice cream)
+63. https://poniesandlight.co.uk/reflect/debug_print_text/ (text rendering)
+64. https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html (mathematician Paul Erdos)
+65. https://www.filfre.net/2024/11/grim-fandango/ (the game Grim Fandango)
+66. https://fearlesssalarynegotiation.com/salary-expectations-interview-question/ (negotiating salary)
+67. https://parentheticallyspeaking.org/articles/write-a-book/ (writing a book)
+68. https://www.johndcook.com/blog/2024/11/10/the-postage-stamp-problem/ (postal stamps)
+69. https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API (MDN API for locking a process in app for better resource sharing among threads in multiple tabs)
+70. https://aaronparecki.com/2024/08/31/9/too-many-projects (resiliency of web projects)
+71. https://www.nybooks.com/articles/1978/06/15/the-charms-of-catastrophe/ (1978 article on catastrophe)
+72. https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/ (conversation on PKM)
+73. https://www.orgroam.com/manual.html (org roam user manual)
+74. https://www.asimov.press/p/end-tb (ending tuberculosis)
+75. https://www.mulesoft.com/api-university/what-grpc-api-and-how-does-it-work (crash course in gRPC)
+76. https://bford.info/cachedir/ (cache management)
+77. https://pudding.cool/2024/10/nba-uniforms/ (NBA jerseys, cool website)
+78. https://publicapis.dev/ (a list of public apis)
+79. https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/ (math to mushroom)
+80. https://transactional.blog/how-to-learn/disk-io (file I/O?)
+81. https://magazine.tcu.edu/spring-2020/tracing-colonial-mexico-with-maps-and-ink/ (maps of colonial mexico)
+82. http://rachelbythebay.com/w/2024/11/03/metrics/ (employee metrics are :/)
+83. https://ankush.dev/p/neumann_architecture (von neumann architecture)
+84. https://www.seangoedecke.com/how-to-ship/ (shipping big projects)
+85. https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html (how many people you cant afford to lose before your product stalls)
+86. https://jero.zone/posts/reverse-engineering-apis (reverse engineering apis)
+87. https://www.iflscience.com/in-1924-the-us-turned-off-their-radios-to-search-for-life-on-mars-73323 (listening to mars in 1924)
+88. https://playingcarddecks.com/blogs/all-in/history-playing-cards-modern-deck (history of playing cards)
+89. https://deannadikeman.com/leaving-and-waving (waving when saying goodbye)
+90. https://challahscript.com/what_i_wish_someone_told_me_about_postgres (postgres tips)
+91. https://devfonts.gafi.dev/ (cool fonts)
+92. https://chalkdustmagazine.com/features/the-doodle-theorem-and-beyond/ (doodling)
+93. https://securityis.substack.com/p/security-is-a-useless-controls-problem (security mindset)
+94. https://blainsmith.com/articles/go-grpc-gateway-openapi/ (grpc and swagger)
+95. https://www.fermyon.com/blog/introducing-spin-v3 (serverless wasm?)
+96. https://ziglang.org/devlog/2024/#2024-11-04 (naming integers)
+97. https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/ (delegating)
+98. https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/ (recipe formatting for the web, focused on storing not display)
+99. https://heather-buchel.com/blog/2024/11/carving-space/ (finding work you love)
+100. https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership (leadership, intuition and Self Awareness)
+101. https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/ (history of tree architecture)
+102. https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/ (ternary operators)
+103. https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades (GIMP 3.0)
+104. https://www.onallbands.com/ham-radio-101-what-is-wspr/ (Ham radio 101)
+105. https://pudding.cool/2022/06/aztec-gods/ (Aztec pantheon)
+106. https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit (Story telling 101)
+107. https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen (cleaning supplies)
+108. https://www.rugu.dev/en/blog/linux-asceticism/ (Linux Ascetism)
+
+109. https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/ (Be angry, the world is worth fighting for)
+110. https://bitfieldconsulting.com/posts/functional (functional programming in Go)
+111. https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer (effective engineering)
+112. https://bhoot.dev/2024/on-linux-file-and-links/ (Linux mental model)
+113. https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids (latchkey kids)
+114. https://blog.johnys.io/commercial-opportunities-in-a-renaissance-of-self-hosting/ (self hosting)
+115. https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a slipbox)
+116. https://htmx.org/essays/you-cant/ (web app myths)
+117. https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html (self host a wiki)
+118. https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/ (reading coding book twice)
+119. https://jvernay.fr/en/blog/skyline-2d-packer/implementation/ (2d graphics algorithm)
+120. http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html (text layout and rendering)
+121. https://smoores.dev/post/phonetic_matching/ (phonetic matching)
+122. https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/ (Bhutan)
+123. https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ (threads vs async/await)
+124. https://benthams.substack.com/p/the-best-charity-isnt-what-you-think (charity)
+125. https://bitfieldconsulting.com/posts/constraints (Go constraints)
+126. https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html (attention to automation)
+127. https://garten.salat.dev/fake-shaders3.html (shader example)
+128. https://arxiv.org/abs/2210.00714 (paper on TCP in datacenter)
+129. https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/ (embedding model)
+130. https://firehose3d.theo.io/ (cool website)
+131. https://blog.oup.com/2017/11/sentence-structure-for-writers/ (sentence structure)
+132. https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding (positional encoding)
+133. https://www.newstatesman.com/culture/books/book-of-the-day/2024/11/political-afterlife-paradise-lost-milton-orlando-reade-review (paradise lost)
+134. https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/ (mathematical thinking)
+135. https://abenezer.org/blog/hyrum-law-in-golang (Hyrum' law in Golang)
+136. https://catonmat.net/unix-utilities-pipe-viewer (unix tool - pipe viewer)
+137. https://www.espn.com/espn/eticket/story?page=091216/jimmyrobinson&redirected=true (shadow boxing)
+138. https://www.jstor.org/stable/3824296 (thinking too much)
+139. https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (grpc communication)
+140. https://www.benji.dog/articles/git-config/ (git user config)
+141. https://www.historytoday.com/archive/making-history/pilgrim-historian (pilgrimmage history)
+142. https://www.thenation.com/article/culture/slouch-back-pain-history/ (american culture and bad posture)
+143. https://www.combinationsmag.com/build-network-societies-not-network-states/ (network societies)
+144. https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/ (ivy league)
+145. https://bitfieldconsulting.com/posts/career (career mistake)
+146. https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/ (picture of the sun)
+147. https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/ (large correct programs)
+148. https://htmx.org/essays/codin-dirty/ (coding dirty)
+149. https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/ (physics of butterfly wings)
+150. https://blog.separateconcerns.com/2017-05-07-itc.html (interval tree clocks)
+151. https://blog.logto.io/iam-oauth-oidc-saml-sso-jwt (understanding auth strategies)
+152. https://thunderseethe.dev/posts/traits-are-a-local-maxima/ (rust traits)
+153. https://www.scottsmitelli.com/articles/large-chainsaw-model/ (large chainsaw model)
+154. https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core (demon core)
+155. https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/ (blogging retrospective)
+156. https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal (dostoevsky)
+157. https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/ (local grpc communication)
+158. https://www.karllhughes.com/posts/plumbing (software engineering)
+159. https://cliffle.com/blog/rust-typestate/ (type states)
+160. https://ashore.io/journal/crossover-creativity/poisoning-the-day (productivity ethos)
+161. https://ics.uci.edu/~fielding/pubs/dissertation/top.htm (Architectural Styles and  
+162. the Design of Network-based Software Architectures)
+163. https://github.com/godotengine/godot/issues/100000 (reflection on 10 years of godot)
+164. https://interactionmagic.com/UX-LEGO-Interfaces/ (lego brick interfaces)
+165. https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/ (line drawings)
+166. https://www.henrikkarlsson.xyz/p/art-gallery (working at an art gallery)
+167. https://www.baldurbjarnason.com/2024/the-deterioration-of-google/ (failing google)
+168. https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/ (the power of physical books in a digital age)
+169. https://www.hamiltonnolan.com/p/how-to-think-about-politics-without (thinking about politicians)
+170. https://everything2.com/title/Books+that+will+induce+a+mindfuck (reading list)
+171. https://www.theremingoat.com/blog/beginners-guide (keyboard switches)
+172. https://linus.coffee/note/software-industry/ (software reality)
+173. https://herman.bearblog.dev/forced-to-upgrade/ (upgrading)
+174. https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117 (honeycrisp apples)
+175. https://www.cyberdemon.org/2024/03/20/submodules.html (git submodules)
+176. https://www.openread.academy/en/paper/reading?corpusId=503252214 (paper on handwriting vs typing)
+177. https://kristoff.it/blog/raii-rust-linux/ (rust linux drama)
+178. https://rm4n0s.github.io/posts/6-cant-driven-development/ (can't driven development)
+179. https://www.math.uh.edu/~dblecher/pf2.html (how to study math, could be good for programming too)
+180. https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus (food menu tricks)
+181. https://docs.racket-lang.org/ctp/index.html (category theory)
+182. https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/ (read a book)
+183. https://egoless.engineering/ (presentation on better engineering)
+184. https://ryanbrewer.dev/posts/getting-started-category-theory.html (category theory)
+185. https://mariakonnikova.substack.com/p/gratitude-despite-the-odds (poet brodsky and gratitude)
+186. https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/ (dark mode css)
+187. https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/ (dependency management)
+188. https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/
+189. https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer (operational research)
+190. https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/ (homelessness in cities)
+191. https://worksinprogress.co/issue/the-world-of-tomorrow/
+192. https://seirdy.one/posts/2021/01/12/password-strength/
+193. https://www.scattered-thoughts.net/writing/serious-fun/
+194. https://eddyerburgh.me/how-i-take-notes-from-technical-books 
+195. https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)

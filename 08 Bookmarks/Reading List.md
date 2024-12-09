@@ -12,3 +12,9 @@ Another Country
 
 Effective Note taking by Fiona McPherson (maybe)
 
+https://www.therulesofprogramming.com/
+Patterns for API design - [summary](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
+Tidy First?
+https://typescript-book.com/
+
+https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit (Princeton book on bullshit)
