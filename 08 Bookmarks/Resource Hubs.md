@@ -18,6 +18,8 @@ Links to pages that are knowledge bases/wikis on a given topic.
 | React               | https://github.com/enaqx/awesome-react                                   |
 | Distributed Systems | https://dancres.github.io/Pages/                                         |
 | Web Security        | https://thecopenhagenbook.com/                                           |
+| JSON                | https://json5.org/                                                       |
+| Git                 | https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control     |
 
 ### Tools
 Links to tools that I might want to look into.
@@ -33,17 +35,20 @@ Links to tools that I might want to look into.
 | Spotify           | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file |
 | Obsidian Plugin   | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file |
 | Fish Shell        | https://fishshell.com/                                          |
+| Dev Tool Manager  | https://github.com/jdx/mise                                     |
+| Email Manager     | https://github.com/pimalaya/himalaya                            |
 
 ### Projects
 Links to cool projects I want to check out.
 
-| Topic                  | Link                                          |
-| ---------------------- | --------------------------------------------- |
-| Decentralized Internet | https://freenet.org/                          |
-| HTTP2                  | https://datatracker.ietf.org/doc/html/rfc7540 |
-| 2D Art                 | https://graphite.rs/features/                 |
-| C4 Model               | https://c4model.com/                          |
-| Spreadsheets           | https://docs.ironcalc.com/                    |
+| Topic                  | Link                                                            |
+| ---------------------- | --------------------------------------------------------------- |
+| Decentralized Internet | https://freenet.org/                                            |
+| HTTP2                  | https://datatracker.ietf.org/doc/html/rfc7540                   |
+| 2D Art                 | https://graphite.rs/features/                                   |
+| C4 Model               | https://c4model.com/                                            |
+| Spreadsheets           | https://docs.ironcalc.com/                                      |
+| Internal Notifications | https://chairnerd.seatgeek.com/mailroom-notification-framework/ |
 
 ### Showcase
 Links to cool stuff on the internet.
@@ -51,4 +56,4 @@ Links to cool stuff on the internet.
 | Focus                     | Link                        |
 | ------------------------- | --------------------------- |
 | Tunnel of Blue Sky tweets | https://firehose3d.theo.io/ |
-|                           |                             |
+

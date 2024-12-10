@@ -10,8 +10,6 @@ Another Country
 
 ### Textbooks
 
-Effective Note taking by Fiona McPherson (maybe)
-
 https://www.therulesofprogramming.com/
 Patterns for API design - [summary](https://shahbhat.medium.com/patterns-for-api-design-7cf38ff5139)
 Tidy First?

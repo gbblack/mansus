@@ -192,3 +192,11 @@
 193. https://www.scattered-thoughts.net/writing/serious-fun/
 194. https://eddyerburgh.me/how-i-take-notes-from-technical-books 
 195. https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/ (digitisation)
+196. https://airport.revolvertype.com/ (airports)
+197. https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html (no more JS)
+198. https://www.eetimes.com/the-age-of-chiplets-is-upon-us/ (chiplets)
+199. https://rarehistoricalphotos.com/honeywell-kitchen-computer/ (honeywell kitchen)
+200. https://en.chessbase.com/post/how-god-plays-chess (god plays chess)
+201. https://aftermath.site/website-musk-twitter-facebook-internet (make your own site)
+202. https://calcwithdec.dev/posts/pictures-pensions/ (visualising pensions)
+203. http://pdp-6.net/knight-tv/knight-tv.html (Knight TV)
