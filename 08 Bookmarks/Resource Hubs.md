@@ -53,6 +53,7 @@ Links to cool projects I want to check out.
 | Spreadsheets           | https://docs.ironcalc.com/                                      |
 | Internal Notifications | https://chairnerd.seatgeek.com/mailroom-notification-framework/ |
 | JSON                   | https://json5.org/                                              |
+| Org Roam               | https://www.orgroam.com/manual.html                             |
 
 ### Showcase
 Links to cool stuff on the internet.
