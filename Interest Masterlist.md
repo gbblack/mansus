@@ -200,3 +200,5 @@
 201. https://aftermath.site/website-musk-twitter-facebook-internet (make your own site)
 202. https://calcwithdec.dev/posts/pictures-pensions/ (visualising pensions)
 203. http://pdp-6.net/knight-tv/knight-tv.html (Knight TV)
+204. https://asteriskmag.com/issues/08/the-depths-of-wikipedians (depths of wikipedia)
+205. https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/ (user lock in)
