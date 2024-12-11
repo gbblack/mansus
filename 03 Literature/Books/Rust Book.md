@@ -18,7 +18,7 @@ author:
 - [[Rust Book - Error Handling]]
 - [[Rust Book - Functions]]
 - [[Rust Book - Generics]]
-- [[Rust Book - Getting Started]]
+- [[The Rust Programming Language-01]]
 - [[Rust Book - Iterators]]
 - [[Rust Book - Lifetimes]]
 - [[Rust Book - Managing Projects]]

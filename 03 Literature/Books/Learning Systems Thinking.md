@@ -10,7 +10,6 @@ publication:
   - O'Reilly
 source: "[[41.14 Software Architecture]]"
 ---
-[[Home]]
 # Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals
 
 > [!abstract] Summary
@@ -19,7 +18,7 @@ source: "[[41.14 Software Architecture]]"
 [[Learning Systems Thinking-00|Preface]]
 
 **Part I - A System of Thinking**
-1. [[01 Inbox/Learning Systems Thinking-01|What Is Systems Thinking?]]
+1. [[Learning Systems Thinking-01|What Is Systems Thinking?]]
 2. [[Learning Systems Thinking-02|Crafting Conceptual Integrity]]
 3. Shifting Your Perspective
 **Part II - You Are A Systems Thinker**
