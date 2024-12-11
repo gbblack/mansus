@@ -18,7 +18,6 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | React                 | https://github.com/enaqx/awesome-react                                   |
 | Distributed Systems   | https://dancres.github.io/Pages/                                         |
 | Web Security          | https://thecopenhagenbook.com/                                           |
-| JSON                  | https://json5.org/                                                       |
 | Git                   | https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control     |
 | Electronic Music      | https://msp.ucsd.edu/techniques.htm                                      |
 | React Hooks for Forms | https://www.react-hook-form.com/                                         |
@@ -41,6 +40,7 @@ Links to tools that I might want to look into.
 | Email Manager     | https://github.com/pimalaya/himalaya                            |
 | Color Generator   | https://www.iamsajid.com/colors/                                |
 
+
 ### Projects
 Links to cool projects I want to check out.
 
@@ -52,6 +52,7 @@ Links to cool projects I want to check out.
 | C4 Model               | https://c4model.com/                                            |
 | Spreadsheets           | https://docs.ironcalc.com/                                      |
 | Internal Notifications | https://chairnerd.seatgeek.com/mailroom-notification-framework/ |
+| JSON                   | https://json5.org/                                              |
 
 ### Showcase
 Links to cool stuff on the internet.
