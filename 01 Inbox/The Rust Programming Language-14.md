@@ -10,7 +10,17 @@ created:
 ### **Note**
 ---
 ##### **Customizing Builds with Release Profiles**
-##### **Cargo Workspace**
+**Publishing a Crate to Crates.io**
+**Making Useful Documentation Comments**
+**Exporting a Convenient Public API with pub use**
+**Setting up a Crates.io Account**
+**Adding Metadata to a New Crate**
+**Publishing Crates.io**
+**Publishing a New Version of an Existing Crate**
+**Deprecating Versions from Crates.io with cargo yank**
+##### **Cargo Workspaces**
+**Creating a Workspace**
+**Creating the Second Package in the Workspace**
 ##### **Installing Binaries from Crates.io with `cargo install`**
 ##### **Extending Cargo with Custom Commands**
 ### **Highlights**

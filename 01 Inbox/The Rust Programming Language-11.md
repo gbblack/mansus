@@ -10,8 +10,20 @@ created:
 ### **Note**
 ---
 ##### **How to Write Tests**
+**The Anatomy of a Test Function**
+**Checking Results with the `assert!` Macro**
+**Testing Equality with the `assert_eq!` and `assert_ne!` Macros**
+**Adding Custom Failure Messages**
+**Checking for Panics with `should_panic`**
+**Using `Result<T, E>` in Tests**
 ##### **Controlling How Tests Are Run**
+**Running Tests in Parallel or Consecutively**
+**Showing Function Output**
+**Running a Subset of Tests by Name**
+**Ignoring Some Tests Unless Specifically Requested**
 ##### **Test Organization**
+**Unit Tests**
+**Integration Tests**
 ### **Highlights**
 ---
 9 (page number)

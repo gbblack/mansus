@@ -10,8 +10,19 @@ created:
 ### **Note**
 ---
 ##### **Closures: Anonymous Functions that Capture Their Environment**
+**Capturing the Environment with Closures**
+**Closure Type Inference and Annotation**
+**Capturing References of Moving Ownership**
+**Moving Captured Values Out of Closures and the Fn Traits**
 ##### **Processing a Series of Items with Iterators**
+**The Iterator Trait and the next Method**
+**Methods That Consume the Iterator**
+**Methods That Produce Other Iterators**
+**Using Closures That Capture Their Environment**
 ##### **Improving Our I/O Project**
+**Removing a clone Using an Iterator**
+**Making Code Clearer with Iterator Adapters**
+**Choosing Between Loops and Iterators**
 ##### **Comparing Performance: Loops vs. Iterators**
 ### **Highlights**
 ---
