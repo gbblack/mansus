@@ -1,3 +1,84 @@
+---
+tags:
+  - type/book_chapter
+created:
+---
+[[The Rust Programming Language]]
+# **Common Collections**
+
+> [!abstract] Summary
+### **Note**
+---
+##### **Storing Lists of Values with Vectors**
+**Creating a New Vector**
+**Updating a Vector**
+**Reading Elements of Vectors**
+**Iterating over the Values in a Vector**
+**Using an Enum to Stor Multiple Types**
+**Dropping a Vector Drops Its Elements**
+##### **Storing UTF-8 Encoded Text With Strings**
+**What Is a String?**
+**Creating a New String**
+**Updating a String**
+**Indexing Into Strings**
+**Slicing Strings**
+**Methods for Iterating Over Strings**
+**Strings Are Not So Simple**
+##### **Storing Keys with Associated Values in Hash Maps**
+**Creating a New Hash Map**
+**Accessing Values in a Hash Map**
+**Hash Maps and Ownership**
+**Updating a Hash Map**
+**Hashing Functions**
+### **Highlights**
+---
+9 (page number)
+> example highlight
+##### **Citation**
+---
+```
+First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+```
+
+> [!note] Nota Bene
+
+---
+##### Completion Checklist
+###### I. To Become Dark
+- [ ] Write the Chapter title in the heading.
+- [ ] Fill in the `created` property.
+- [ ] Link to the book's index note.
+- [ ] Complete the `Citation` section.
+- [ ] Read the chapter once in its entirety with focus, no music.
+- [ ] Add tag `status/dark`.
+###### II. From Dark to Dawn
+- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`. Include the page number right above the block.
+- [ ] **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Update status tag to `status/dawn`.
+###### III. From Dawn to Day
+- [ ] Write the chapter `Summary`.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.
+
+**For a technical text:**
+###### II. From Dark to Dawn
+- [ ] Wait at least 5mins before beginning this section.
+- [ ] In the `Note` section breakdown the chapter into its subheading: all the sections in bold.
+- [ ] In bullet points, under each section and sub section heading summarise the major points of that section. In these bullet point make links to anything that could be referenced in a permanent note. This will take awhile.
+- [ ] While summating the sections copy paste interesting sections into the note under `Highlights`. Include the page number right above the block. These highlights should only be the author's own reflections that you think are interesting, nothing definitive. There may be nothing.
+- [ ] Update status tag to `status/dawn`.
+###### III. From Dawn to Day
+- [ ]  **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Write the chapter `Summary`.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.
+
 common data structures are called collections in Rust. Collections contain data of multiple types under one grouping. These collections are always stored on the heap.
 
 - **Vector**: allows for a variable number of values of the same type to be stored together.

@@ -16,24 +16,24 @@ created: 2024-12-11
 ### **Index**
 ---
 0. Foreword and Introduction
-1. Getting Started
+1. [[The Rust Programming Language-01|Getting Started]]
 2. Programming a Guessing Game
-3. Common Programming Concepts
-4. Understanding Ownership
-5. Using Structs to Structure Related Data
-6. Enums and Pattern Matching
-7. Managing Growing Projects with Packages, Crates, and Modules
-8. Common Collections
-9. Error Handling
-10. Generic Types, Traits, and Lifetimes
-11. Writing Automated Tests
+3. [[The Rust Programming Language-03|Common Programming Concepts]]
+4. [[The Rust Programming Language-04|Understanding Ownership]]
+5. [[The Rust Programming Language-05|Using Structs to Structure Related Data]]
+6. [[The Rust Programming Language-06|Enums and Pattern Matching]]
+7. [[The Rust Programming Language-07|Managing Growing Projects with Packages, Crates, and Modules]]
+8. [[The Rust Programming Language-08|Common Collections]]
+9. [[The Rust Programming Language-09|Error Handling]]
+10. [[The Rust Programming Language-10|Generic Types, Traits, and Lifetimes]]
+11. [[The Rust Programming Language-11|Writing Automated Tests]]
 12. An I/O Project: Building a Command Line Program
-13. Functional Language Features: Iterators and Closures
-14. More about Cargo and Crates.io
-15. Smart Pointers
+13. [[The Rust Programming Language-13|Functional Language Features: Iterators and Closures]]
+14. [[The Rust Programming Language-14|More about Cargo and Crates.io]]
+15. [[The Rust Programming Language-15|Smart Pointers]]
 16. Fearless Concurrency
-17. Object Oriented Programming Features of Rust
-18. Patterns and Matching
+17. [[The Rust Programming Language-17|Object Oriented Programming Features of Rust]]
+18. [[The Rust Programming Language-18|Patterns and Matching]]
 19. Advanced Features
 20. Final Project: Building a Multithreaded Web Server
 21. Appendix

@@ -1,3 +1,84 @@
+---
+tags:
+  - type/book_chapter
+created:
+---
+[[The Rust Programming Language]]
+# **Understanding Ownership**
+
+> [!abstract] Summary
+### **Note**
+---
+##### **What is Ownership?**
+**The Stack anf the Heap**
+**Ownership Rules**
+**Variable Scope**
+**The `String` Type**
+**Memory and Allocation**
+Variables and Data Interacting with Move
+Scope and Assignment
+Variables and Data Interacting with Clone
+Stack-Only Data: Copy
+**Ownership and Functions**
+**Return Values and Scope**
+##### **References and Borrowing**
+**Mutable References**
+**Dangling References**
+**The Rules of Reference**
+##### **The Slice Type**
+**String Slices**
+String Literals as Slices
+String Slices as Parameters
+**Other Slices**
+### **Highlights**
+---
+9 (page number)
+> example highlight
+##### **Citation**
+---
+```
+First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+```
+
+> [!note] Nota Bene
+
+---
+##### Completion Checklist
+###### I. To Become Dark
+- [ ] Write the Chapter title in the heading.
+- [ ] Fill in the `created` property.
+- [ ] Link to the book's index note.
+- [ ] Complete the `Citation` section.
+- [ ] Read the chapter once in its entirety with focus, no music.
+- [ ] Add tag `status/dark`.
+###### II. From Dark to Dawn
+- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`. Include the page number right above the block.
+- [ ] **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Update status tag to `status/dawn`.
+###### III. From Dawn to Day
+- [ ] Write the chapter `Summary`.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.
+
+**For a technical text:**
+###### II. From Dark to Dawn
+- [ ] Wait at least 5mins before beginning this section.
+- [ ] In the `Note` section breakdown the chapter into its subheading: all the sections in bold.
+- [ ] In bullet points, under each section and sub section heading summarise the major points of that section. In these bullet point make links to anything that could be referenced in a permanent note. This will take awhile.
+- [ ] While summating the sections copy paste interesting sections into the note under `Highlights`. Include the page number right above the block. These highlights should only be the author's own reflections that you think are interesting, nothing definitive. There may be nothing.
+- [ ] Update status tag to `status/dawn`.
+###### III. From Dawn to Day
+- [ ]  **Bold** the portions of the `Highlights` you find most interesting.
+- [ ] ==Highlight== the best parts of the bolded sections.
+- [ ] Write the chapter `Summary`.
+- [ ] Remove or complete the `Nota Bene` as necessary.
+- [ ] Fill in the context tags for the metadata.
+- [ ] Update status tag to `status/day`.
+- [ ] Remove this checklist.
+
 In Rust ownership is what sets it apart. Rust does not have garbage collection what it instead has for memory management is ownership.
 
 The ownership is defined by a set of rules the compiler checks, if any are broken the code won't compile.
@@ -201,3 +282,121 @@ ownership works the same every time, assigning a value to another variable moves
 This can be tedious for reusing data.
 
 To solve this rust uses [[Rust Book - References|references]] to use a value without passing ownership.
+
+References, like pointers, are addresses to stored data. But unlike pointers a reference is guaranteed to point to a valid value.
+
+To denote a reference you append `&` before the type:
+
+```rust
+fn main() {
+    let s1 = String::from("hello");
+
+    let len = calculate_length(&s1);
+
+    println!("The length of '{s1}' is {len}.");
+}
+
+fn calculate_length(s: &String) -> usize {
+    s.len()
+}
+```
+
+In this example the parameter `s` needs to be of type String reference, and the variable `s1` while initialised as a `String` is *passed* as a reference using `&`.
+
+To dereference something you use the `*` operator, [[Rust Book - Smart Pointers#Treating Smart Pointers Like Regular References with the `Deref` Trait|see more]].
+
+When using references values do not pass ownership and as such are valid until they leave scope.
+
+We call the action of creating a reference *borrowing*.
+
+Borrowed values are immutable by default.
+
+The string literal is actually a [[Rust Book - Slice Type|slice]] of the binary thus making it the immutable reference: `&str`.
+
+##### Mutable References
+
+To make a reference mutable we use `&mut` instead. 
+
+Mutable references have one big difference to immutable ones and that is there can only be one mutable reference to each value at a time, *simultaneously*. This means that there can be multiple mutable references to the same value in multiple different scopes but only one per scope:
+
+```rust
+    let mut s = String::from("hello");
+
+    {
+        let r1 = &mut s;
+    } // r1 goes out of scope here, so we can make a new reference with no problems.
+
+    let r2 = &mut s;
+```
+
+This is done so rust can avoid *data races*. A data race is when at compile time these three behaviours occur:
+
+- Two or more pointers access the same data at the same time
+- At least one of the pointers is being used to write tot the data
+- There is no mechanism being used to synchronize access to the data
+
+These data races can cause unexpected behaviour and cause problems at run time.
+
+You also cannot have a mutable reference to a value that already has an immutable reference within that same scope.
+
+
+
+
+A slice lets you reference a contiguous sequence of elements in a collection and since it is a reference this slice does not have ownership.
+##### String Slices
+
+A `String slice` is a reference to a part of a string, written as:
+
+```rust
+    let s = String::from("hello world");
+
+    let hello = &s[0..5];
+    let world = &s[6..11];
+```
+
+Slices are created by indicating a range in `[]` with it written like:
+
+```rust
+[start..end] // start: inclusive, end: not inclusive
+```
+
+To start at index 0 rust understands these two ranges to be the same:
+
+```rust
+[0..2]
+[..2]
+```
+
+And these to be the same:
+
+```rust
+[3..len]
+[3..]
+```
+
+if you want to take a slice of the entire string you can drop both ends:
+
+```rust
+[0..len]
+[..]
+```
+
+##### String Slices as Parameters
+
+String literals are actually just slices of the binary, they are type `&str` and are an immutable reference. As such it is better practice to pass around a `&str` (string slice) rather than a `String` since as a reference ownership is not changed.
+
+This can keep your code more generic.
+
+##### Other Slices
+
+A `&str` is specific to slices but a slice can be applied to any collection. We can slice an array like so:
+
+```rust
+let a = [1, 2, 3, 4, 5];
+
+let slice = &a[1..3];
+
+assert_eq!(slice, &[2, 3]);
+```
+
+The slice above has the type: `&[i32]` and works the same as string slices do.
