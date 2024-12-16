@@ -205,3 +205,8 @@
 204. https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/ (storing time data)
 205. https://www.alexmurrell.co.uk/articles/the-age-of-average (why everything looks the same)
 206. https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it (managing work and deadlines)
+207. https://www.eatingpolicy.com/p/bringing-elon-to-a-knife-fight (changing the government)
+208. https://thereader.mitpress.mit.edu/the-bitter-aftertaste-of-technical-sweetness/ (scientific hubris)
+209. https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/ (dumb TVs)
+210. https://blog.jonas.foo/whats_vim.html (what is vim)
+211. https://www.deobald.ca/essays/2024-12-09-optimistic-computing/ (optimistic computing)

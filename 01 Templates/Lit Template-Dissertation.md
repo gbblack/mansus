@@ -18,9 +18,6 @@ Any Links
 ```
 First Name Initial. Last Name, "Name of Paper", level of education. dissertation (or thesis depending), Abbrev. Department., Abbrev. Univ., City of Uni, (US State Only), Country, Year.
 ```
-
-> [!note] Nota Bene
-
 ---
 ##### Completion Checklist
 ###### I. To Become Dark
@@ -36,7 +33,6 @@ First Name Initial. Last Name, "Name of Paper", level of education. dissertation
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
 - [ ] Write the paper `Summary`.
-- [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.

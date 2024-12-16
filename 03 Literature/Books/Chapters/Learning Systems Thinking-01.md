@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/book_chapter
+  - type/chapter
   - status/day
 created: 2024-10-21
 ---

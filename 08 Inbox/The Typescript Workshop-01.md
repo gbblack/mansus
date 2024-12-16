@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/book_chapter
+  - type/chapter
 created: 2024-12-11
 ---
 [[The TypeScript Workshop]]

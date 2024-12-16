@@ -1,28 +1,23 @@
 ---
 tags:
-  - type/book_chapter
+  - type/chapter
 created:
 ---
 [[The Rust Programming Language]]
-# **More about Cargo and Crates.io**
+# **Error Handling**
 
 > [!abstract] Summary
 ### **Note**
 ---
-##### **Customizing Builds with Release Profiles**
-**Publishing a Crate to Crates.io**
-**Making Useful Documentation Comments**
-**Exporting a Convenient Public API with pub use**
-**Setting up a Crates.io Account**
-**Adding Metadata to a New Crate**
-**Publishing Crates.io**
-**Publishing a New Version of an Existing Crate**
-**Deprecating Versions from Crates.io with cargo yank**
-##### **Cargo Workspaces**
-**Creating a Workspace**
-**Creating the Second Package in the Workspace**
-##### **Installing Binaries from Crates.io with `cargo install`**
-##### **Extending Cargo with Custom Commands**
+##### **Unrecoverable Errors with `panic!`**
+##### **Recoverable Errors with Result**
+**Matching on Different Errors**
+**Propagating Errors**
+##### **To `panic!` or Not to `panic!`**
+**Examples, Prototype Code, and Tests**
+**Cases In Which You Have More Information Than the Compiler**
+**Guidelines for Eror Handling**
+**Creating Custom Types for Validation**
 ### **Highlights**
 ---
 9 (page number)
@@ -71,21 +66,23 @@ S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programmin
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.
-Complete documentation: [cargo](https://doc.rust-lang.org/cargo/)
-##### Customizing Builds with Release Profiles
 
-In Rust [[release profiles]] are predefined and customizable profiles with different configurations that allow a programmer to have more control over various options compiling code. Each profile is independently configured.
+In rust there are two types or errors: *recoverable* and *unrecoverable*. To handle these two errors Rust does not use exceptions it instead uses the type `Result<T, E>` for recoverable errors and `panic!` [[macros]] for unrecoverable errors. 
 
-Cargo has two main profiles: the `dev` profile for when `cargo build` is run and the `release` profile when you run `cargo build --release`. The `dev` profile has good defaults for development and the `release` profile has good defaults for release builds.
+### Unrecoverable Errors
 
-If you want to change or update these default configurations we can do that by updating the `[profile.*]` section in the *Cargo.toml* file. This way we can override to add any values to the default. 
+There are two ways to cause a `panic!` error. The first is by taking an action that causes the code to panic, such as accessing an array index that is out of bounds, or by explicitly calling `panic!`. The default behaviour of panic is to print a failure message, clean up the stack and quit. You can also config through environment variables were Rust will display the call stack to better report the bug.
+
+> [!info] Unwinding or aborting in response to a panic
+> When the Rust cleans up the stack when a panic occurs this is called **unwinding**. This occurs by default but can take time and be a lot of work. Rust gives you the option to *abort* it instead which ends the program without cleaning it.
+> Any memory that the program was using will then need to be cleaned up by the OS. To switch from the default behaviour to aborting you add `panic = 'abort'` to the appropriate `[profile]` sections in the *Cargo.toml* file. This can be done on a mode by mode basis
+
+To call panic directly we do something like this:
 
 ```rust
-[profile.dev]
-opt-level = 0
-
-[profile.release]
-opt-level = 3
+fn main() {
+    panic!("crash and burn");
+}
 ```
 
-The `opt-level` setting controls the number of optimizations Rust applies, ranged form 0 to 3. More optimizations makes for a longer compile time so the default `dev` is set to 0 to keep it form slowing down. For `release` that value is 3. To override this setting just change the value. 
+Mostly though we will be encountering panic when it is triggered in someone else's code. To backtrace the call stack and see exactly where and what failed we can call `RUST_BACKTRACE` after the program quits: `RUST_BACKTRACE=1 cargo run`. The only requirement is that it is set to anything that is not 0.

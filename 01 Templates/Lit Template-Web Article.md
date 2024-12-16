@@ -24,9 +24,6 @@ No Author:
 ```
 "Page Title." Website Name. URL
 ```
-
-> [!note] Nota Bene
-
 ---
 ##### Completion Checklist
 ###### I. To Become Dark
@@ -42,7 +39,6 @@ No Author:
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
 - [ ] Write the article `Summary`.
-- [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.

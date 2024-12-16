@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/book_chapter
+  - type/chapter
 created:
 ---
 [[The Rust Programming Language]]
