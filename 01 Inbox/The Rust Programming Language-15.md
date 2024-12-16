@@ -10,11 +10,25 @@ created:
 ### **Note**
 ---
 ##### **Using `Box<T>` to Point to Data on the Heap**
+**Using `Box<T>` to Store Data on the Heap**
+**Enabling Recursive Types with Boxes**
 ##### **Treating Smart Pointers Like regular References with the `Deref` Trait**
+**Following the Pointer to the Value**
+**Using `Box<T>` Like a Reference**
+**Defining Our Own Smart Pointer**
+**Implementing the `Deref` Trait**
+**Implicit Deref Coercions with Functions and Methods**
 ##### **Running Code on Cleanup with the `Drop` Trait**
 ##### **`Rc<T>`, the Reference Counted Smart Pointer**
+**Using `Rc<T>` to Share Data**
+**Cloning an `Rc<T>` Increases the Reference Count**
 ##### **`RefCell<T>` and the Interior Mutability Pattern**
+**Enforcing Borrowing Rules at Runtime with `RefCell<T>`**
+**Interior Mutability: A Mutable Borrow to and Immutable Value**
+**Allowing Multiple Owners of Mutable Data with `Rc<T>` and `RefCell<T>`**
 ##### **Reference Cycles Can Leak Memory**
+**Creating a Reference Cycle**
+**Preventing Reference Cycles Using `Weak<T>`**
 ### **Highlights**
 ---
 9 (page number)
@@ -22,7 +36,7 @@ created:
 ##### **Citation**
 ---
 ```
-First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
 
 > [!note] Nota Bene

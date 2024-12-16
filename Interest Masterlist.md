@@ -200,3 +200,8 @@
 199. https://asteriskmag.com/issues/08/the-depths-of-wikipedians (depths of wikipedia)
 200. https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/ (user lock in)
 201. https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/ (open source maintaining)
+202. https://jvns.ca/blog/2024/11/26/terminal-rules/ (terminals)
+203. https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate (ashton tate)
+204. https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/ (storing time data)
+205. https://www.alexmurrell.co.uk/articles/the-age-of-average (why everything looks the same)
+206. https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it (managing work and deadlines)

@@ -39,6 +39,7 @@ Links to tools that I might want to look into.
 | Dev Tool Manager  | https://github.com/jdx/mise                                     |
 | Email Manager     | https://github.com/pimalaya/himalaya                            |
 | Color Generator   | https://www.iamsajid.com/colors/                                |
+| Python UI         | https://github.com/Textualize/textual?tab=readme-ov-file        |
 
 
 ### Projects

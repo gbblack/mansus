@@ -10,9 +10,27 @@ created: 2024-12-12
 ### **Note**
 ---
 ##### **Variables and Mutability**
+- Variables are [[immutable]] by default, declared by `let`.
+- This means once a variable is assigned a value it cannot be changed.
+- A variable can be made mutable by adding the `mut` keyword: `let mut <var>`
 **Constants**
+- Constants are similar to immutable variables in that once a value is assigned it cannot be changed.
+- They differ in that you can't use `mut` on a constant, declared by `const`.
+- A constant *must* have an annotated type.
+- Constant can be declared in any scope, including global.
+- Finally constant must be assigned a constant expression, a value that is computed at runtime cannot be a constant.
+- The naming convention for constant is ALL_CAPS.
+- Constants are valid for as long as the program is running and within the scope it was declared in.
+- A good use for constants is using them for hard coded values.
 **Shadowing**
+- A variable can be redeclared using the same name as a previous one.
+- This is called [[shadowing]], with the first variable being shadowed by the second.
+- The variable can regress to the original value once the shadow (second) variable falls out of scope. 
+- Shadowing is different than the `mut` keyword because its essentially creates a whole new variable, we may even change the type in doing so.
 ##### **Data Types**
+- All values in Rust have a Data Type, telling the compiler what kind of data the variable holds
+- This makes Rust a statically-typed language.
+- 
 **Scalar Types**
 Integer Types
 Floating-Point Types
@@ -44,7 +62,7 @@ Looping Through a Collection with `for`
 ##### **Citation**
 ---
 ```
-S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
+S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 74-112.
 ```
 
 > [!note] Nota Bene
@@ -68,26 +86,6 @@ S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programmin
 - [ ] Remove this checklist.
 
 ***
-### Variables and Mutability
-
-**Variables**
-
-Variables by default are immutable.
-Variables are declared with `let`.
-If you want to make a variable mutable use `let mut`.
-
-`let` variables cannot be used in global scope.
-
-**Constants**
-
-Constants are like variables and are immutable by default, but unlike variables they cannot use the `mut` keyword and thus never be mutated.
-
-Constants are declared with `const`. The type of the variable **must** be declared.
-Constants can be declared in any scope and are very useful for holding information that needs to be accessed throughout the program.
-
-Rust's name in convention for constants `IS_LIKE_THIS`.
-
-They are often used for hardcoded values that need to be referenced by other parts of the code, such as the max of a range or the speed of light.
 
 **Shadowing**
 

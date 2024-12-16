@@ -10,8 +10,20 @@ created:
 ### **Note**
 ---
 ##### **Characteristics of Object-Oriented Languages**
+**Objects Contain Data and Behavior**
+**Encapsulation That Hides Impleementation Details**
+**Inheritance as a Type System and as Code Sharing**
 ##### **Using Trait Objects That Allow for Values on Different Types**
+**Defining a Trait for Common Behavior**
+**Implementing the Trait**
+**Trait Objects Perform Dynamic Dispatch**
 ##### **Implementing and Object-Oriented Design Pattern**
+**Defining Post and Creating a New Instance in the Draft State**
+**Storing the Text of the Post Content**
+**Ensuring the Content of a Draft Post Is Empty**
+**Requesting a Review Changes the Post's State**
+**Adding approve to Change the Behavior of content**
+**Trade-offs of the State Pattern**
 ### **Highlights**
 ---
 9 (page number)
@@ -19,7 +31,7 @@ created:
 ##### **Citation**
 ---
 ```
-First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
 
 > [!note] Nota Bene
