@@ -1,6 +1,7 @@
 ---
 tags:
   - type/chapter
+  - status/day
 created: 2024-12-12
 ---
 [[The Rust Programming Language]]

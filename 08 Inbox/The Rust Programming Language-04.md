@@ -1,43 +1,49 @@
 ---
 tags:
   - type/chapter
-created:
+  - status/dark
+created: 2024-12-17
 ---
 [[The Rust Programming Language]]
 # **Understanding Ownership**
 
 > [!abstract] Summary
-### **Note**
+## **Note**
 ---
-##### **What is Ownership?**
-**The Stack anf the Heap**
-**Ownership Rules**
-**Variable Scope**
-**The `String` Type**
-**Memory and Allocation**
-Variables and Data Interacting with Move
-Scope and Assignment
-Variables and Data Interacting with Clone
-Stack-Only Data: Copy
-**Ownership and Functions**
-**Return Values and Scope**
-##### **References and Borrowing**
-**Mutable References**
-**Dangling References**
-**The Rules of Reference**
-##### **The Slice Type**
-**String Slices**
-String Literals as Slices
-String Slices as Parameters
-**Other Slices**
-### **Highlights**
----
-9 (page number)
-> example highlight
+### **What is Ownership?**
+- [[Ownership]] is the feature that sets Rust apart. It is what allows for memory safety without garbage collection.
+- Ownership is the set of rules Rust uses to govern memory. If any of these rules are broken the code won't compile, which is how Rust can have memory safety.
+##### **The Stack and the Heap**
+- In Rust understanding the difference between how memory is allocated on the stack vs. the heap is essential as Rust is a systems language.
+- Both the stack and heap store memory for code to access at runtime. The difference lies in how they are structured.
+- The stack stores values in the order it receives them, and returns them in the opposite order, this is known as *last in first out*.
+- Think of the stack as a stack of plates, you both place and grab off the top.
+- Adding to the stack is called *pushing* and removing from the stack is *popping*.
+- All data on the stack must have a known, fixed size.
+- The heap is what it sounds like, a heap of space. When allocating memory to the heap the allocator finds and empty spot big enough to hold the data, marks it as in use and then returns a [[pointer]] which has the address of the location in memoy.
+##### **Ownership Rules**
+##### **Variable Scope**
+##### **The `String` Type**
+##### **Memory and Allocation**
+**Variables and Data Interacting with Move**
+**Scope and Assignment**
+**Variables and Data Interacting with Clone**
+**Stack-Only Data: Copy**
+##### **Ownership and Functions**
+##### **Return Values and Scope**
+### **References and Borrowing**
+##### **Mutable References**
+##### **Dangling References**
+##### **The Rules of Reference**
+### **The Slice Type**
+##### **String Slices**
+**String Literals as Slices**
+**String Slices as Parameters**
+##### **Other Slices**
 ##### **Citation**
 ---
 ```
-S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
+S. Klabnik and C. Nichols, "Understanding Ownership" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 113-137.
 ```
 
 > [!note] Nota Bene
@@ -52,47 +58,16 @@ S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programmin
 - [ ] Read the chapter once in its entirety with focus, no music.
 - [ ] Add tag `status/dark`.
 ###### II. From Dark to Dawn
-- [ ] Read the chapter again, this time copy pasting interesting sections into the note under `Highlights`. Include the page number right above the block.
-- [ ] **Bold** the portions of the `Highlights` you find most interesting.
-- [ ] ==Highlight== the best parts of the bolded sections.
-- [ ] Update status tag to `status/dawn`.
-###### III. From Dawn to Day
-- [ ] Write the chapter `Summary`.
-- [ ] Remove or complete the `Nota Bene` as necessary.
-- [ ] Fill in the context tags for the metadata.
-- [ ] Update status tag to `status/day`.
-- [ ] Remove this checklist.
-
-**For a technical text:**
-###### II. From Dark to Dawn
 - [ ] Wait at least 5mins before beginning this section.
 - [ ] In the `Note` section breakdown the chapter into its subheading: all the sections in bold.
 - [ ] In bullet points, under each section and sub section heading summarise the major points of that section. In these bullet point make links to anything that could be referenced in a permanent note. This will take awhile.
 - [ ] While summating the sections copy paste interesting sections into the note under `Highlights`. Include the page number right above the block. These highlights should only be the author's own reflections that you think are interesting, nothing definitive. There may be nothing.
 - [ ] Update status tag to `status/dawn`.
 ###### III. From Dawn to Day
-- [ ]  **Bold** the portions of the `Highlights` you find most interesting.
-- [ ] ==Highlight== the best parts of the bolded sections.
 - [ ] Write the chapter `Summary`.
-- [ ] Remove or complete the `Nota Bene` as necessary.
 - [ ] Fill in the context tags for the metadata.
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.
-
-In Rust ownership is what sets it apart. Rust does not have garbage collection what it instead has for memory management is ownership.
-
-The ownership is defined by a set of rules the compiler checks, if any are broken the code won't compile.
-
-### Stack and Heap
-
-Since rust is a systems language knowing the difference between the stack and the heap is important as it will affect your code.
-
-##### Stack
-
-The Stack stores values in the order they come in and thus removes them in reverse, this is called *last in, first out* (think of a stack of plates).
-
-When you add data you *push* onto the stack and when removing you *pop* off the stack.
-All data on the stack must have a known fixed size on compile time.
 
 ##### Heap
 

@@ -1,11 +1,13 @@
 ### Lists
+Links to lists of interesting people
 
 | Link                                                                                              |     |
 | ------------------------------------------------------------------------------------------------- | --- |
 | https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f/docs/showcase.md |     |
 | https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file                            |     |
-|                                                                                                   |     |
+
 ### Blogs
+Links to individual Blogs
 
 | Link                                 |                                   |
 | ------------------------------------ | --------------------------------- |
@@ -19,6 +21,7 @@
 | https://www.scattered-thoughts.net/  |                                   |
 | https://eddyerburgh.me/              |                                   |
 ### Vaults
+Links to published Obsidian vaults
 
 | Link                                                                  |     |
 | --------------------------------------------------------------------- | --- |
@@ -26,6 +29,7 @@
 | https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well |     |
 | https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0                |     |
 ### Gardens
+Links to Digital Gardens
 
 | Link                                              |
 | ------------------------------------------------- |
