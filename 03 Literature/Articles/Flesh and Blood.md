@@ -16,7 +16,6 @@ created: 2024-10-03
 
 > [!abstract] Summary
 > A comparison on Roman and later European violence occurring within the home/society vs. the Native American understanding of violence occurring only to those outside the community. The difference in defining freedom in relation to one's absolute power over another rather than the assimilation of the other into oneself.
-
 ### Highlights
 ---
 > British anthropologist named A. M. Hocart proposed that **monarchs and ==institutions of government were originally derived from rituals== designed to channel powers of life from the cosmos into human society.** He suggested that “the first kings must have been dead kings,” and that individuals so honored only really became sacred rulers at their funerals.
