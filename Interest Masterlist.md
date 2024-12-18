@@ -204,3 +204,5 @@
 205. https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral (doing the right thing)
 206. https://medium.com/make-work-better/w-edwards-demings-red-beads-experiment-dea18bfc2aba (performance and systems)
 207. https://danluu.com/nothing-works/ (finding things that work well)
+208. https://martinfowler.com/articles/design-token-based-ui-architecture.html (design tokens)
+209. https://olivernguyen.io/w/namespace.error/ (error handling in Go)

@@ -40,6 +40,7 @@ Links to tools that I might want to look into.
 | Email Manager     | https://github.com/pimalaya/himalaya                            |
 | Color Generator   | https://www.iamsajid.com/colors/                                |
 | Python UI         | https://github.com/Textualize/textual?tab=readme-ov-file        |
+| OAuth             | https://github.com/openauthjs/openauth                          |
 
 
 ### Projects
