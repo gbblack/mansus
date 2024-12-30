@@ -3,8 +3,7 @@
 
 ### Fiction
 ---
-- **The Master and Margarita** by Mikhail Bulgakov
-- **Tomorrow, and Tomorrow, and Tomorrow** by Gabrielle Zevin
+- **Things Fall Apart** by Chinua Achebe.
 ### Non Fiction
 ---
 ### Technical
@@ -70,3 +69,8 @@
 2. **Building a Second Brain** by Tiago Forte.
 3. **One Hundred Years of Solitude** by Gabriel García Márquez.
 4. **A Memory Called Empire** by Arkady Martine.
+5. **The Master and Margarita** by Mikhail Bulgakov.
+
+### Abandoned
+---
+1. **Tomorrow, and Tomorrow, and Tomorrow** by Gabrielle Zevin.

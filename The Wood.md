@@ -13,7 +13,7 @@ LIMIT 5
 ## Latest Literature Notes
 ```dataview
 LIST
-FROM #literature AND -#literature/book_index AND -"05 Templates"
+FROM #type AND -#type/book_index AND -"05 Templates"
 LIMIT 5
 ```
 

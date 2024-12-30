@@ -7,7 +7,6 @@
 7. https://trojanczyk.eu/build-trust/ (team building)
 8. https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
 9. https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
-10. https://archive.ph/kwt1b (stepping away from Fandom for wikis)
 11. https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
 12. https://learngitbranching.js.org/
 13. https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)

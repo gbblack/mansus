@@ -115,7 +115,6 @@ created: 2024-12-12
 - The [[char]] type is Rust's most basic alphabetical type.
 - char literals must be specified with single quotes, `let c: char = 'c';`.
 - This type is 4 bytes and represents the [[Unicode Scalar Value]], not [[ASCII]].
-
 ##### **Compound Types**
 - Compound types are those that combine multiple values into one type.
 
@@ -161,7 +160,6 @@ created: 2024-12-12
 
 - We can call a function that has been defined using the function name + parentheses containing any of its parameters.
 - Rust doesn't care about the order in which we declare our functions so long as the caller has access to the scope the function is defined in.
-
 ##### **Parameters**
 - Parameters are special variables that are a part of a function's signature.
 - The words arguments and parameters are used interchangeably to refer to these values.
@@ -175,7 +173,6 @@ created: 2024-12-12
 > ```
 
 - In a function signature all parameters *must* be typed.
-
 ##### **Statements and Expressions**
 - A function body is made out of a series of statements, ended optionally by an expression.
 - Rust is unique in that there is a distinction between statements and expressions.
