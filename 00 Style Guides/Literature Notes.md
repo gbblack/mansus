@@ -15,6 +15,6 @@ This vault is inspired by Luhmann's Zettelkasten but it differs greatly in purpo
 
 The process for breaking down text, as defined [[How to Read a Hard Book|here]], can be applied to all writing. The difficult to implement process are for sources that cannot be read, such as audio or video. 
 
-I have not decided how I'm going to takle those sources, for now I'll need to practice and see what works.
+I have not decided how I'm going to tackle those sources, for now I'll need to practice and see what works.
 
 Literature notes are also ill suited for digesting practice, things such as tutorials, guides or exercises. These types of learning should be recorded and engaged with differently.

@@ -12,7 +12,7 @@ You could even think of each note a s a blog post on the topic. Write them as if
 These notes should host links to related material, creating the networked affect that makes Zettelkasten so powerful. Once a collection of these have been made then insights can be derived from where they intersect and from there your understanding goes from being an audience to this learning to a participant.
 ### How do I take a Permanent Note?
 
-Currently I have no place or ideas for structuring this class of notes. They will all vary widely and fundamentally only need to meet two criteris:
+Currently I have no place or ideas for structuring this class of notes. They will all vary widely and fundamentally only need to meet two criteria:
 1. Be written entirely in your own words, using your own understanding.
 2. Keep them concise, you need to be able to hold the entirety of the note in your brain easily.
 

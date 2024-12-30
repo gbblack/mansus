@@ -187,7 +187,7 @@ created: 2024-12-12
 - As such most return do NOT use the `return` keyword and are instead passed implicitly.
 - The `return` keyword is for returning early from a function block.
 
-> [!example] Implicit Final Expression Return
+> [!example]- Implicit Final Expression Return
 >```rust
 fn five() -> i32 { 5 } // returns 5
 

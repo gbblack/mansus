@@ -20,7 +20,7 @@ created: 2024-12-11
 ---
 0. Preface
 1. [[The Typescript Workshop-01|TypeScript Fundamentals]]
-2. Declaration Files
+2. [[The TypeScript Workshop-02|Declaration Files]]
 3. Functions
 4. Classes and Objects
 5. Interfaces and Inheritance

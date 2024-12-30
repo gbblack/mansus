@@ -1,14 +1,21 @@
 ---
 tags:
   - type/chapter
-created at:
+created at: 2024-12-30
 ---
-Book Index Link and others
-# **Chapter Title**
+[[The TypeScript Workshop]]
+# **Declaration Files**
 
 > [!abstract] Summary
 ## **Note**
 ---
+### **Introduction**
+### **Declaration Files**
+##### **Exceptions**
+### **Third-Party Code Libraries**
+##### **DefinitelyTyped**
+##### **Analyzing an External Declaration File**
+##### **Development Workflow with DefinitelyTyped**
 ## **Highlights**
 ---
 9 (page number)
@@ -16,7 +23,7 @@ Book Index Link and others
 ##### **Citation**
 ---
 ```
-First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.
+B. Grynhaus, J. Hudgens, R. Hunte, M. Morgan and W. Stefanovski, "Declaration Files" in *The TypeScript Workshop*, 1st. M. Dhyani, R. Rodrigues, S. Shinde, S. Zagade, Eds. Birmingham, UK: Packt, 2021, pp. tbd.
 ```
 ---
 ##### Completion Checklist

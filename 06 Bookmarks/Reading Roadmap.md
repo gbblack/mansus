@@ -1,11 +1,9 @@
 # Reading Roadmap
 ## Currently Reading
 
-### Fiction
+### Novels
 ---
-- **Things Fall Apart** by Chinua Achebe.
-### Non Fiction
----
+- **The Picture of Dorian Gray** by Oscar Wilde.
 ### Technical
 ---
 - [[The Rust Programming Language]]
@@ -15,22 +13,17 @@
 - [[The TypeScript Workshop]]
 ## To Read
 
-### Fiction
+### Novels
 ---
 
-| Title           | More Info |
-| --------------- | --------- |
-| Moby Dick       |           |
-| Frankenstein    |           |
-| The Chrysalids  |           |
-| Neuromancer     |           |
-| Another Country |           |
-### Non Fiction
----
-
-| Title       | More Info                                                             |
-| ----------- | --------------------------------------------------------------------- |
-| On Bullshit | https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit |
+| Title           | More Info                                                             |
+| --------------- | --------------------------------------------------------------------- |
+| Moby Dick       |                                                                       |
+| Frankenstein    |                                                                       |
+| The Chrysalids  |                                                                       |
+| Neuromancer     |                                                                       |
+| Another Country |                                                                       |
+| On Bullshit     | https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit |
 ### Technical
 ---
 
@@ -70,6 +63,7 @@
 3. **One Hundred Years of Solitude** by Gabriel García Márquez.
 4. **A Memory Called Empire** by Arkady Martine.
 5. **The Master and Margarita** by Mikhail Bulgakov.
+6. **Things Fall Apart** by Chinua Achebe.
 
 ### Abandoned
 ---
