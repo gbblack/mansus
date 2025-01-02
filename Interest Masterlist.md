@@ -212,3 +212,5 @@
 214. https://jirevwe.github.io/exploring-alternatives-to-uuidv4-enter-ulids.html (alternative to uuid)
 215. https://minds.md/zakirullin/cognitive (cognitive load)
 216. https://www.persuasion.community/p/the-big-five-publishers-have-killed (the death of literary fiction publishing)
+217. https://berthub.eu/articles/posts/on-long-term-software-development/ (maintainable code)
+218. https://newsletter.squishy.computer/p/the-zombocom-problem (the everything problem)
