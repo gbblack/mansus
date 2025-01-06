@@ -6,6 +6,8 @@ tags:
   - status/day
 author:
   - Paul Graham
+publication:
+  - Paul Graham
 source: https://paulgraham.com/writes.html
 created: 2024-12-17
 ---

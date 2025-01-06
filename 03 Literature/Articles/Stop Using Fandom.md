@@ -2,6 +2,8 @@
 tags:
   - type/article
   - status/day
+publication:
+  - j3s
 source: https://j3s.sh/thought/stop-using-fandom.html
 created: 2024-12-22
 ---
@@ -31,5 +33,5 @@ created: 2024-12-22
 ##### **Citation**
 ---
 ```
-"Stop Using Fandom." jes eats rice pudding. https://j3s.sh/thought/stop-using-fandom.html
+"Stop Using Fandom." j3s. https://j3s.sh/thought/stop-using-fandom.html
 ```

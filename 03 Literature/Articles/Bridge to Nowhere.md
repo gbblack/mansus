@@ -6,6 +6,8 @@ tags:
   - status/day
 author:
   - Richard L. Apodaca
+publication:
+  - Depth First
 source: https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/
 created: 2024-11-18
 ---

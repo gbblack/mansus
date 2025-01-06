@@ -6,6 +6,8 @@ tags:
   - status/day
 author:
   - Fabrizio Ferri Benedetti
+publication:
+  - passo
 source: https://passo.uno/what-docs-as-code-means/
 created: 2024-11-19
 ---
@@ -36,6 +38,6 @@ Any Links
 ##### **Citation**
 ---
 ```
-F. Benedetti, "What docs as code really means", passo.uno.
+F. Benedetti, "What docs as code really means", passo.
 Available: https://passo.uno/what-docs-as-code-means/
 ```

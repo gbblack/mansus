@@ -8,8 +8,6 @@
 8. https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ (PKM workflow)
 9. https://jvns.ca/blog/2024/10/01/terminal-colours/ (terminal colours)
 11. https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (same topic as above)
-12. https://learngitbranching.js.org/
-13. https://www.greptile.com/blog/how-we-engineer (eng team structure for getting work done, could be interesting for George)
 14. https://publicdomainreview.org/essay/the-man-and-the-crowd/ (on the silent movie the Crowd)
 15. http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork (simplifying complex systems)
 16. https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8 (grid shader)
@@ -17,7 +15,6 @@
 18. https://dhruvmethi.substack.com/p/bureaucracy (bureaucracy creation)
 19. https://aworkinglibrary.com/writing/accountability-sinks (accountability)
 20. https://news.ycombinator.com/item?id=41905167 (where to start with UI/UX design)
-21. https://refactoring.guru/design-patterns
 22. https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 23. [https://docs.tigerbeetle.com/about/vopr/](https://docs.tigerbeetle.com/about/vopr/ "https://docs.tigerbeetle.com/about/vopr/")
 24. [how to approach rust applications](https://dpc.pw/posts/how-i-structure-my-apps-in-rust-and-other-languages)
@@ -31,14 +28,12 @@
 33. https://lackofimagination.org/2024/10/self-documenting-code/ (good code as documentation)
 34. https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (reflection on the life and work of John Wheeler)
 35. https://candost.blog/on-good-software-engineers/  (what makes a good software engineer)
-36. https://infrequently.org/2024/10/platforms-are-competitions/ (the web is losing)
 37. https://globalchinapulse.net/character-amnesia-in-china/ (character amnesia in chinese writing)
 38. https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test (1912 test)
 39. https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
 40. https://catlikecoding.com/godot/ (Godot 2D tutorials)
 41. https://map.simonsarris.com/p/school-is-not-enough (learning through practice)
 42. https://www.filfre.net/2016/11/the-prophet-of-cyberspace/ (author of neuromancer)
-43. https://lmnt.me/blog/nothing-left-to-solve.html
 44. https://computer.rip/2024-10-26-buy-payphones-and-retire.html 
 45. https://greyenlightenment.com/2024/10/31/academic-style-writing-persists-because-it-works/ (academic writing)
 46. https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/ (drawing a programming language)
@@ -104,7 +99,6 @@
 106. https://luhmann.surge.sh/communicating-with-slip-boxes (Luhmann, talking with a slipbox)
 107. https://htmx.org/essays/you-cant/ (web app myths)
 108. https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html (self host a wiki)
-109. https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/ (reading coding book twice)
 110. https://jvernay.fr/en/blog/skyline-2d-packer/implementation/ (2d graphics algorithm)
 111. http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html (text layout and rendering)
 112. https://smoores.dev/post/phonetic_matching/ (phonetic matching)
@@ -112,7 +106,6 @@
 114. https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/ (threads vs async/await)
 115. https://benthams.substack.com/p/the-best-charity-isnt-what-you-think (charity)
 116. https://bitfieldconsulting.com/posts/constraints (Go constraints)
-117. https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html (attention to automation)
 118. https://garten.salat.dev/fake-shaders3.html (shader example)
 119. https://arxiv.org/abs/2210.00714 (paper on TCP in datacenter)
 120. https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/ (embedding model)
@@ -214,3 +207,14 @@
 216. https://www.persuasion.community/p/the-big-five-publishers-have-killed (the death of literary fiction publishing)
 217. https://berthub.eu/articles/posts/on-long-term-software-development/ (maintainable code)
 218. https://newsletter.squishy.computer/p/the-zombocom-problem (the everything problem)
+219. https://refactoringenglish.com/chapters/rules-for-software-tutorials/ (writing tutorials)
+220. https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/ (own on the internet)
+222. https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/ (caring about quality)
+223. https://slate.com/life/2024/11/food-cooking-recipes-thanksgiving-2024.html (important recipes)
+226. https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops (stop buying new laptops)
+227. https://allenpike.com/2024/an-unreasonable-amount-of-time (too much time)
+228. https://www.theintrinsicperspective.com/p/in-2025-blogs-will-be-the-last-bastion (blogs will save the internet)
+229. https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/ (walter Isaacson)
+230. https://rogueengine.io/blog/your-app-should-have-been-a-website (makes websites not apps)
+231. https://ameye.dev/notes/rendering-outlines/ (drawing outlines in games)
+232. https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html (fast and polite web crawler)

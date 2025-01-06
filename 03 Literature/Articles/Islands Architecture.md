@@ -4,6 +4,8 @@ tags:
   - software_architecture
   - frontend
   - status/day
+publication:
+  - JASON Format
 source: https://jasonformat.com/islands-architecture/
 created: 2024-11-18
 ---

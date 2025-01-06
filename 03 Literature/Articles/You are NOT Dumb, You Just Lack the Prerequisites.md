@@ -3,6 +3,8 @@ tags:
   - type/article
   - learning
   - status/day
+publication:
+  - lelouch
 source: https://lelouch.dev/blog/you-are-probably-not-dumb/
 created: 2024-11-18
 ---

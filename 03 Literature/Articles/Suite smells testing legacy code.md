@@ -5,6 +5,8 @@ tags:
   - status/day
 author:
   - John Arundel
+publication:
+  - Bitfield Consulting
 source: https://bitfieldconsulting.com/posts/testing-legacy-code
 created: 2024-12-17
 ---

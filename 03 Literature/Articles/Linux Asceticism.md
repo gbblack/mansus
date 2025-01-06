@@ -6,6 +6,8 @@ tags:
   - status/day
 author:
   - Uğur Erdem Seyfi
+publication:
+  - rugu
 source: https://www.rugu.dev/en/blog/linux-asceticism/
 created: 2024-12-17
 ---

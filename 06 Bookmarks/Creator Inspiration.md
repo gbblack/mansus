@@ -20,6 +20,7 @@ Links to individual Blogs
 | https://seirdy.one/                  |                                   |
 | https://www.scattered-thoughts.net/  |                                   |
 | https://eddyerburgh.me/              |                                   |
+| https://olano.dev/blog/              |                                   |
 ### Vaults
 Links to published Obsidian vaults
 
@@ -36,3 +37,4 @@ Links to Digital Gardens
 | https://untested.sonnet.io/                       |
 | https://notes.andymatuschak.org/About_these_notes |
 | https://notes.shichao.io/                         |
+| https://blogscroll.com/                           |

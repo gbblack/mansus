@@ -6,6 +6,8 @@ tags:
   - status/day
 author:
   - Aaron Parecki
+publication:
+  - Aaron Parecki
 source: https://aaronparecki.com/2024/08/31/9/too-many-projects
 created: 2024-12-11
 ---

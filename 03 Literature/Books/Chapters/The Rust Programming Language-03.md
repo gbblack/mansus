@@ -165,7 +165,7 @@ created: 2024-12-12
 - The words arguments and parameters are used interchangeably to refer to these values.
 - In the example below the function `another_function` has one argument, `x` that is of type `i32`.
 
-> [!example]
+> [!example]-
 > ```rust
 > fn another_function(x:i32) {
 > 	println!("The value of x is: {x}");

@@ -1,36 +1,42 @@
 ---
 tags:
   - type/chapter
-created:
+created: 2025-01-06
 ---
 [[The Rust Programming Language]]
 # **Using Structs to Structure Related Data**
 
 > [!abstract] Summary
-### **Note**
+## **Note**
 ---
-##### **Defining and Instantiating Structs**
-**Using the Field Init Shorthand**
-**Creating Instances from Other Instances with Struct Update Syntax**
-**Using Tuple Structs Without Named Fields to Create Different Types**
-**Unit-Like Structs Without Any Fields**
-##### **An Example Program Using Structs**
-**Refactoring with Tuples**
-**Refactoring with Structs: Adding More Meaning**
-**Adding Useful Functionality with Derived Traits**
-##### **Method Syntax**
-**Defining Methods**
-**Methods with More Parameters**
-**Associated Functions**
-**Multiple `impl` Blocks**
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+- A `struct` (structure) is a custom data type that allows you to package and name multiple values into a meaningful group.
+- Structs are similar to a `type` from a language like TypeScript.
+### **Defining and Instantiating Structs**
+- Structs are similar to tuples in that they can package multiple value types into one structure but unlike a tuple these values can be given names.
+- This makes structs more flexible than tuples as you don't need to rely on order alone to access the values, you can use their names.
+- To define a struct: `struct <name> { active: bool, age: i32, email: String }`.
+- Once defined a struct must be instantiated. This is done by creating an *instance* of a struct with each of its fields given a concrete value.
+- Written as: `let user = User { active: true, age: 12, email: "example@gamil.com };`.
+- To access a value from an instantiated struct we can use dot notation: `user.age -> 12`.
+- If an instance is mutable we can also change the value with this notation: `user.age = 15;`.
+- The entire instance of the struct must be mutable for this, Rust does not allow for mutability in only some fields and not others.
+##### **Using the Field Init Shorthand**
+##### **Creating Instances from Other Instances with Struct Update Syntax**
+##### **Using Tuple Structs Without Named Fields to Create Different Types**
+##### **Unit-Like Structs Without Any Fields**
+### **An Example Program Using Structs**
+##### **Refactoring with Tuples**
+##### **Refactoring with Structs: Adding More Meaning**
+##### **Adding Useful Functionality with Derived Traits**
+### **Method Syntax**
+##### **Defining Methods**
+##### **Methods with More Parameters**
+##### **Associated Functions**
+##### **Multiple `impl` Blocks**
+###### **Citation**
 ---
 ```
-S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
+S. Klabnik and C. Nichols, "Using Structs to Structure Related Data" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
 
 > [!note] Nota Bene
@@ -44,9 +50,6 @@ S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programmin
 - [ ] Complete the `Citation` section.
 - [ ] Read the chapter once in its entirety with focus, no music.
 - [ ] Add tag `status/dark`.
-
-
-**For a technical text:**
 ###### II. From Dark to Dawn
 - [ ] Wait at least 5mins before beginning this section.
 - [ ] In the `Note` section breakdown the chapter into its subheading: all the sections in bold.
@@ -62,41 +65,6 @@ S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programmin
 - [ ] Update status tag to `status/day`.
 - [ ] Remove this checklist.
 
-
-A *struct* (structure) is the same thing as a custom *type* in Typescript.
-Or a data model for a database.
-We can also think of a struct as a pattern to match an object's data attributes.
-
-##### Defining and Instantiating Structs
-
-Structs are similar tuples but are different in that you name each data type to give them more context/understanding. Since the data has names they no longer need to be in a specific order.
-
-The struct is initialised using the `struct` keyword:
-
-```rust
-struct User {
-	active: bool,
-	username: String,
-	email: String,
-	sign_in_count: u64
-}
-```
-
-To use a struct when created i.e. create an instance, we need to state each of the fields in the original struct and then give concrete values that match the type for each field. We don't need to specify in the same order.
-
-```rust
-fn main() {
-    let user1 = User {
-        active: true,
-        username: String::from("someusername123"),
-        email: String::from("someone@example.com"),
-        sign_in_count: 1
-    };
-}
-```
-
-To access these values we use dot notation so `user1.active` will return `true`.
-We can also change a value by assigning new values in dot notation: `user.active = false;`
 
 Since structs work similarly to types when used in a function we can define a parameter or return type as being an instance of a struct.
 

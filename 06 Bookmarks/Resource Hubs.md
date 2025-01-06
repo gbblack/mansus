@@ -21,6 +21,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | Git                   | https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control     |
 | Electronic Music      | https://msp.ucsd.edu/techniques.htm                                      |
 | React Hooks for Forms | https://www.react-hook-form.com/                                         |
+| Design Patterns       | https://refactoring.guru/design-patterns                                 |
 
 ### Tools
 Links to tools that I might want to look into.
@@ -41,6 +42,7 @@ Links to tools that I might want to look into.
 | Color Generator   | https://www.iamsajid.com/colors/                                |
 | Python UI         | https://github.com/Textualize/textual?tab=readme-ov-file        |
 | OAuth             | https://github.com/openauthjs/openauth                          |
+| Git Branching     | https://learngitbranching.js.org/                               |
 
 
 ### Projects
