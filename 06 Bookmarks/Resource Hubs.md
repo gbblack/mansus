@@ -22,27 +22,30 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | Electronic Music      | https://msp.ucsd.edu/techniques.htm                                      |
 | React Hooks for Forms | https://www.react-hook-form.com/                                         |
 | Design Patterns       | https://refactoring.guru/design-patterns                                 |
+| REST API (original?)  | https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm      |
+| Hypertext as state    | https://en.wikipedia.org/wiki/HATEOAS                                    |
 
 ### Tools
 Links to tools that I might want to look into.
 
-| Topic             | Link                                                            |
-| ----------------- | --------------------------------------------------------------- |
-| Encryption        | https://codeberg.org/ezcrypt/ezcry                              |
-| Shaders           | https://thejenkinscomic.net/shaderbloc                          |
-| Audio             | https://matthew-bird.com/blogs/Audio-Decomposition.html         |
-| CSV Visualisation | https://docs.visprex.com/                                       |
-| HTML to md        | https://github.com/JohannesKaufmann/html-to-markdown            |
-| Docker            | https://github.com/jesseduffield/lazydocker                     |
-| Spotify           | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file |
-| Obsidian Plugin   | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file |
-| Fish Shell        | https://fishshell.com/                                          |
-| Dev Tool Manager  | https://github.com/jdx/mise                                     |
-| Email Manager     | https://github.com/pimalaya/himalaya                            |
-| Color Generator   | https://www.iamsajid.com/colors/                                |
-| Python UI         | https://github.com/Textualize/textual?tab=readme-ov-file        |
-| OAuth             | https://github.com/openauthjs/openauth                          |
-| Git Branching     | https://learngitbranching.js.org/                               |
+| Topic              | Link                                                            |
+| ------------------ | --------------------------------------------------------------- |
+| Encryption         | https://codeberg.org/ezcrypt/ezcry                              |
+| Shaders            | https://thejenkinscomic.net/shaderbloc                          |
+| Audio              | https://matthew-bird.com/blogs/Audio-Decomposition.html         |
+| CSV Visualisation  | https://docs.visprex.com/                                       |
+| HTML to md         | https://github.com/JohannesKaufmann/html-to-markdown            |
+| Docker             | https://github.com/jesseduffield/lazydocker                     |
+| Spotify            | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file |
+| Obsidian Plugin    | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file |
+| Fish Shell         | https://fishshell.com/                                          |
+| Dev Tool Manager   | https://github.com/jdx/mise                                     |
+| Email Manager      | https://github.com/pimalaya/himalaya                            |
+| Color Generator    | https://www.iamsajid.com/colors/                                |
+| Python UI          | https://github.com/Textualize/textual?tab=readme-ov-file        |
+| OAuth              | https://github.com/openauthjs/openauth                          |
+| Git Branching      | https://learngitbranching.js.org/                               |
+| Linux Server Admin | https://github.com/livialima/linuxupskillchallenge              |
 
 
 ### Projects
