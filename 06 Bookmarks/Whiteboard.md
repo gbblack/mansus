@@ -7,3 +7,20 @@ Progressive Hydration:
 
 Writing and Thinking:
 - [[Writes and Write-Nots]]
+
+Freedom as a state of exception to Law
+- [[Flesh and Blood]]
+
+Learning as a skill to be practiced
+- [[You are NOT Dumb, You Just Lack the Prerequisites]]
+
+On writing
+- [[Writes and Write-Nots]]
+
+Theory Crafting
+- [[Software Design is Knowledge Building]]
+
+Indieweb
+- [[Stop Using Fandom]]
+- [[Thoughts on the Resiliency of Web Projects]]
+- [[blogs rot wikis wait]]

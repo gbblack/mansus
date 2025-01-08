@@ -53,7 +53,7 @@ created: 2024-11-25
 - Error standards are essential for upfront design and consistency.
 - Status codes MUST be accurate as they imply a certain type of fault to the developer.
 ##### **ADR Guideline: Choosing an API Standard**
-- When making a decision on API standards pick a guideline that matches the style of the API being developed. Write it up in an ADR.
+- When making a decision on API standards pick a guideline that matches the style of the API being developed. Write it up in an ADR (Architecture Decision Record).
 ### **Specifying REST APIs Using OpenAPI**
 ### **Practical Application of OpenAPI Specifications**
 ##### **Code Generation**
@@ -74,10 +74,6 @@ created: 2024-11-25
 ##### **Does the Golden Specification Exist?**
 ##### **Challenges of Combined Specifications**
 
-### **Highlights**
----
-9 (page number)
-> example highlight
 ##### **Citation**
 ---
 ```
