@@ -220,3 +220,7 @@
 222. https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e (paper on property based testing)
 223. https://en.wikipedia.org/wiki/Raising_of_Chicago (the literal raising of chicago)
 224. https://computer.rip/2024-01-06-usb-on-the-go.html (the USB, my beloved)
+225. https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck (writing as transformation)
+226. https://www.scopeofwork.net/the-honorable-parts/ (American labour)
+227. https://passo.uno/seven-action-model/ (documentation framework)
+228. https://antonz.org/til/ (today i learned is junkfood)
