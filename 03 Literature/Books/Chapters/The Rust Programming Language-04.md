@@ -76,6 +76,7 @@ created: 2024-12-17
 - Passing a variable to a function moves or copies the value, just like an assignment.
 
 > [!example]-
+>
 > ```rust
 > fn main() {
 > 	let s = String::from("hello"); // s comes into scope
@@ -114,6 +115,7 @@ created: 2024-12-17
 - From there the reference can be made mutable by putting `&` and `mut` together: `&mut`.
 
 > [!example]-
+>
 > ```rust
 > let mut s = String::from("hello");
 > let r = &mut s;
@@ -155,6 +157,7 @@ created: 2024-12-17
 - This is done by adding the `&` before the array brackets: `&[i32]`.
 ##### **Citation**
 ---
+
 ```
 S. Klabnik and C. Nichols, "Understanding Ownership" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 113-137.
 ```
