@@ -24,6 +24,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | Design Patterns       | https://refactoring.guru/design-patterns                                 |
 | REST API (original?)  | https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm      |
 | Hypertext as state    | https://en.wikipedia.org/wiki/HATEOAS                                    |
+| Ricing                | https://github.com/fosslife/awesome-ricing                               |
 
 ### Tools
 Links to tools that I might want to look into.
