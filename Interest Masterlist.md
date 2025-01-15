@@ -224,3 +224,4 @@
 226. https://www.scopeofwork.net/the-honorable-parts/ (American labour)
 227. https://passo.uno/seven-action-model/ (documentation framework)
 228. https://antonz.org/til/ (today i learned is junkfood)
+229. https://www.vijayp.dev/blog/rewrite-plain-html/ (rewriting his website in plaint HTML and CSS)
