@@ -21,8 +21,20 @@ created: 2025-01-06
 - If an instance is mutable we can also change the value with this notation: `user.age = 15;`.
 - The entire instance of the struct must be mutable for this, Rust does not allow for mutability in only some fields and not others.
 ##### **Using the Field Init Shorthand**
+- When parameter names and `struct` fields are the same we can use the *field init shorthand* syntax to simplify instantiation.
+- Written as: `User { active: true, username, email, ..}`
+- Instead of needing to write `email: email`.
 ##### **Creating Instances from Other Instances with Struct Update Syntax**
+- When creating a new instance of a struct that shares a  lot of existing values with an existing struct we can use the *struct update syntax*.
+- Written as: 
+  `let user2 = User { email: String::from("another@gmail.com"), ..user1}`.
+- The `..` notation specifies that any field not explicitly set have the same values as `user1`, it disregards order.
+
+> [!note]- Nota Bene
+> In this example as `email` is of type `String` the data of the values are moved form `user1` to `user2` thus making `user1` invalid. If we had instead updated the `active` value which implements a boolean primitive type `user1` would still be valid since primitive types implement the `Copy` trait and as such those values are being copied, not moved, over.
+> In the case we would like to use `&str` instead of `String` then the `struct`, to keep `user1` valid, we must use lifetimes; which guarantee the validity of a field within a `struct` so long as the `struct` itself is valid. More [[The Rust Programming Language-10|here]].
 ##### **Using Tuple Structs Without Named Fields to Create Different Types**
+- 
 ##### **Unit-Like Structs Without Any Fields**
 ### **An Example Program Using Structs**
 ##### **Refactoring with Tuples**

@@ -13,17 +13,20 @@
 - [[The TypeScript Workshop]]
 ## To Read
 
+https://www.rd.com/list/books-read-before-die/?utm_source=chatgpt.com (a list of potential books)
+
 ### Novels
 ---
 
-| Title           | More Info                                                             |
-| --------------- | --------------------------------------------------------------------- |
-| Moby Dick       |                                                                       |
-| Frankenstein    |                                                                       |
-| The Chrysalids  |                                                                       |
-| Neuromancer     |                                                                       |
-| Another Country |                                                                       |
-| On Bullshit     | https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit |
+| Title              | More Info                                                             |
+| ------------------ | --------------------------------------------------------------------- |
+| Moby Dick          |                                                                       |
+| Frankenstein       |                                                                       |
+| The Chrysalids     |                                                                       |
+| Neuromancer        |                                                                       |
+| Another Country    |                                                                       |
+| On Bullshit        | https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit |
+| The Color of Water | A black man's memories of his white mother, written in 1995           |
 ### Technical
 ---
 
