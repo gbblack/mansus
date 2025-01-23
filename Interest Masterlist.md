@@ -225,3 +225,8 @@
 227. https://passo.uno/seven-action-model/ (documentation framework)
 228. https://antonz.org/til/ (today i learned is junkfood)
 229. https://www.vijayp.dev/blog/rewrite-plain-html/ (rewriting his website in plaint HTML and CSS)
+230. https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/ (pareto principle in tech is not great)
+231. http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html (nonsense published in academic journals)
+232. https://allthatjazz.me/posts/doom-scrolling-struggles (doom scrolling)
+233. https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html (mental? and physical? gardening)
+234. https://jon.work/og/#1 (file systems and aesthetics)
