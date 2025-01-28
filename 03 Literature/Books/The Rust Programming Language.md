@@ -1,7 +1,8 @@
 ---
 tags:
   - type/book_index
-  - status/dark
+  - status/dawn
+  - programming/rust
 author:
   - Steve Klabnik
   - Carol Nichols
