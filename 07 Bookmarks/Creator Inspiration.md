@@ -39,3 +39,6 @@ Links to Digital Gardens
 | https://untested.sonnet.io/                       |
 | https://notes.andymatuschak.org/About_these_notes |
 | https://notes.shichao.io/                         |
+
+cool transparent nav
+https://www.awwwards.com/inspiration/hover-projects-list-rodeo-films
