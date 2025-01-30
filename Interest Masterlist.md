@@ -236,3 +236,7 @@
 238. https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/ (chicago nd gambling)
 239. https://www.seangoedecke.com/on-writing/ (writing a tech blog)
 240. https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/ (writing software docs)
+241. https://jimmyhmiller.github.io/discovery-coding (discovery coding)
+242. http://mikhailian.mova.org/node/291 (forgetting web tech)
+243. https://www.henrikkarlsson.xyz/p/start-a-blog (writing a blog)
+244. https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz (the making of clint eastwood)
