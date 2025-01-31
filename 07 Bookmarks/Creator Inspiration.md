@@ -34,16 +34,12 @@ Links to published Obsidian vaults
 ### Gardens
 Links to Digital Gardens
 
-| Link                                              |
-| ------------------------------------------------- |
-| https://untested.sonnet.io/                       |
-| https://notes.andymatuschak.org/About_these_notes |
-| https://notes.shichao.io/                         |
-<<<<<<< Updated upstream
+| Link                                                                 |
+| -------------------------------------------------------------------- |
+| https://untested.sonnet.io/                                          |
+| https://notes.andymatuschak.org/About_these_notes                    |
+| https://notes.shichao.io/                                            |
+| https://www.awwwards.com/inspiration/hover-projects-list-rodeo-films |
+| https://foreverliketh.is/                                            |
+|                                                                      |
 
-cool transparent nav
-https://www.awwwards.com/inspiration/hover-projects-list-rodeo-films
-=======
-| https://foreverliketh.is/                         |
-https://www.jmenning.com/webdev/php-is-good-actually
->>>>>>> Stashed changes
