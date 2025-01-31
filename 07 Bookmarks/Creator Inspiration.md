@@ -39,6 +39,11 @@ Links to Digital Gardens
 | https://untested.sonnet.io/                       |
 | https://notes.andymatuschak.org/About_these_notes |
 | https://notes.shichao.io/                         |
+<<<<<<< Updated upstream
 
 cool transparent nav
 https://www.awwwards.com/inspiration/hover-projects-list-rodeo-films
+=======
+| https://foreverliketh.is/                         |
+https://www.jmenning.com/webdev/php-is-good-actually
+>>>>>>> Stashed changes

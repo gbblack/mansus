@@ -14,7 +14,7 @@ created: 2024-12-17
 # **Writes and Write-Nots**
 
 > [!abstract] Summary
-> The author predicts that the rise of AI will reduce writing, and therefore thinking, from an essential leaned skill to an optional one.
+> The author predicts that the rise of AI will reduce writing, and therefore thinking, from an essential learned skill to an optional one.
 ### **Highlights**
 ---
 > in a **couple decades there ==won't be many people who can write.**==
