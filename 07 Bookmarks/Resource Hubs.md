@@ -62,6 +62,7 @@ Links to cool projects I want to check out.
 | Internal Notifications | https://chairnerd.seatgeek.com/mailroom-notification-framework/ |
 | JSON                   | https://json5.org/                                              |
 | Org Roam               | https://www.orgroam.com/manual.html                             |
+| Hoppscotch             | https://github.com/hoppscotch/hoppscotch                        |
 
 ### Showcase
 Links to cool stuff on the internet.

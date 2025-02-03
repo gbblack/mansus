@@ -14,9 +14,8 @@ created: 2025-01-30
 > [!abstract] Summary
 ### **Index**
 ---
-- Note Name for Chapter|display name
 - [[The Rules of Programming-00|Preface, The Story of the Rules, and How to Disagree with the Rules]]
-- The Rules of Programming-01|Rule 1: As Simple as Possible, but No Simpler
+- [[The Rules of Programming-01|Rule 1: As Simple as Possible, but No Simpler]]
 - The Rules of Programming-02|Rule 2: Bugs Are Contagious
 - The Rules of Programming-03|Rule 3: A Good Name Isthe Best Documentation
 - The Rules of Programming-04|Rule 4: Generalization Takes Three Examples
@@ -26,7 +25,7 @@ created: 2025-01-30
 - The Rules of Programming-07|Rule 7: Eliminate Failure Cases
 - The Rules of Programming-08|Rule 8: Code That Isn't Running Doesn't Work
 - The Rules of Programming-09|Rule 9: Write Collapsible Code
-- The Rules of Programmign-10|Rule 10: Localize Complexity
+- The Rules of Programming-10|Rule 10: Localize Complexity
 - The Rules of Programming-11|Rule 11: Is It Twice as Good?
 - The Rules of Programming-12|Rule 12: Big Teams Need Strong Conventions
 - The Rules of Programming-13|Rule 13: Find the Pebble That Started the Avalanche
