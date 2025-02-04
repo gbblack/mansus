@@ -14,7 +14,7 @@ Links to individual Blogs
 | ------------------------------------ | ------------------------------------ |
 | https://worksinprogress.co/          |                                      |
 | https://terriblesoftware.org/        |                                      |
-| https://shilin.ca/                   |                                      |
+| https://shilin.ca/                   | cool colours                         |
 | https://matklad.github.io/           | rust analyzer dev's original blog    |
 | https://blog.x-e.ro/                 |                                      |
 | https://lilymara.xyz/pages/blogroll/ |                                      |
@@ -43,3 +43,4 @@ Links to Digital Gardens
 | https://foreverliketh.is/                                            |
 | https://www.ssp.sh/brain/                                            |
 
+https://martinfowler.com/
