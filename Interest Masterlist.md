@@ -260,3 +260,6 @@
 260. https://hamvocke.com/blog/better-off-without-pull-requests/ (CI over pull requests)
 261. https://hamvocke.com/ (great blog, great style)
 262. https://martinfowler.com/articles/continuousIntegration.html (the whys and hows of actual CI)
+263. https://martinfowler.com/articles/codemods-api-refactoring.html#LeveragingSourceGraphsAndTest-drivenCodemods (AST's and codemods guide)
+264. https://www.thoughtworks.com/insights/blog/guidelines-structuring-automated-tests (testing strategy)
+265. https://www.thoughtworks.com/insights/blog/service-testing-enterprise-applications (automated tests for services)
