@@ -263,3 +263,4 @@
 263. https://martinfowler.com/articles/codemods-api-refactoring.html#LeveragingSourceGraphsAndTest-drivenCodemods (AST's and codemods guide)
 264. https://www.thoughtworks.com/insights/blog/guidelines-structuring-automated-tests (testing strategy)
 265. https://www.thoughtworks.com/insights/blog/service-testing-enterprise-applications (automated tests for services)
+266. https://codeberg.org/simonrepp/faircamp (music page static site generator)
