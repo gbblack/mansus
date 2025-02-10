@@ -4,26 +4,25 @@ tags:
 created at:
 ---
 Book Index Link and others
-# **Chapter Title**
+# Chapter Title
 
 > [!abstract] Summary
-## **Note**
+## Note
 ---
 
-### **Major Sub Heading**
+### Major Sub Heading
 - every line like this, ends in .
 - do NOT create a new line between the heading and the first bullet point.
-##### **Minor Subheading**
+#### Minor Subheading
 - leave new line between each headings.
-
-**Block Heading**
+##### Block Heading
 - In the case of a callout leave a newline at the top.
 
 > [!example]- Test
 
 - and the bottom.
 - Example callout should be closed by default.
-###### **Citation**
+###### Citation
 ---
 ```
 First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.

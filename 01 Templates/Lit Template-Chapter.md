@@ -4,16 +4,16 @@ tags:
 created:
 ---
 Book Index Link and others
-# **Chapter Title**
+# Chapter Title
 
 > [!abstract] Summary
-### **Note**
+### Note
 ---
-### **Highlights**
+### Highlights
 ---
 9 (page number)
 > example highlight
-##### **Citation**
+##### Citation
 ---
 ```
 First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.

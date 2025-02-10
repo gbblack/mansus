@@ -7,12 +7,12 @@ source:
 created:
 ---
 Any Links
-# **Full Title**
+# Full Title
 
 > [!abstract] Summary
-### **Highlights**
+## Highlights
 ---
-##### **Citation**
+##### Citation
 ---
 ```
 First Name Initial. Last Name, "Web Article Title", Website Name.
