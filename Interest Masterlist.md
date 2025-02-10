@@ -275,3 +275,5 @@
 275. https://codestyleandtaste.com/i-like-globals.html (global variables)
 276. https://antirez.com/news/134 (open source paradox)
 277. https://fullsteak.dev/posts/fullstack-rescript-architecture-overview (fully functional API?)
+278. https://components.one/posts/gamer-and-nihilist-product-hunt (product hunt retro)
+

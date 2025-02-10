@@ -8,7 +8,9 @@
 - [[Learning Systems Thinking]]
 - [[Fundamentals of Software Architecture]]
 - [[The TypeScript Workshop]]
-- [[The Rules of Programming]]
+- [In Progress::[[The Rules of Programming]]]
+
+
 ## To Read
 
 https://www.rd.com/list/books-read-before-die/?utm_source=chatgpt.com (a list of potential books)
@@ -47,9 +49,6 @@ https://www.rd.com/list/books-read-before-die/?utm_source=chatgpt.com (a list of
 | Monolith to Microservices                                               |                                                                       |
 | Technology Strategy Patterns                                            |                                                                       |
 | Designing Distributed Systems                                           |                                                                       |
-
-
-
 ## Read
 ### 2024
 ---
