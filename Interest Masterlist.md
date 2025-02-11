@@ -276,4 +276,7 @@
 276. https://antirez.com/news/134 (open source paradox)
 277. https://fullsteak.dev/posts/fullstack-rescript-architecture-overview (fully functional API?)
 278. https://components.one/posts/gamer-and-nihilist-product-hunt (product hunt retro)
-
+279. https://furbo.org/2025/02/07/making-software-fun/ (fun software)
+280. https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/ (undergrad discovered new hash table? tiny pointers)
+281. https://zknill.io/posts/patterns-for-building-realtime/ (patterns for realtime features)
+282. https://web.pixelshannon.com/make/ (make your own website)
