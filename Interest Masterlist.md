@@ -280,3 +280,7 @@
 280. https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/ (undergrad discovered new hash table? tiny pointers)
 281. https://zknill.io/posts/patterns-for-building-realtime/ (patterns for realtime features)
 282. https://web.pixelshannon.com/make/ (make your own website)
+283. https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/ (pinball philosophy)
+284. https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/ (last words)
+285. https://blog.jannikwempe.com/github-actions-trunk-based-development (tbd)
+286. https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/ (more tbd)
