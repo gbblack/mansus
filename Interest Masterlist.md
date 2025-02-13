@@ -284,3 +284,7 @@
 284. https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/ (last words)
 285. https://blog.jannikwempe.com/github-actions-trunk-based-development (tbd)
 286. https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/ (more tbd)
+287. https://www.worksinprogress.news/p/the-prophet-of-parking (parking professor)
+288. https://perthirtysix.com/visualizing-data-is-an-art (visualising data)
+289. https://blog.disintegrator.dev/posts/clean-room-testing-using/ (integration testing in JS)
+290. https://www.seangoedecke.com/taking-a-position/ (decisiveness as a senior engineer)
