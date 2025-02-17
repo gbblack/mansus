@@ -9,7 +9,6 @@ Book Index Link and others
 > [!abstract] Summary
 ## Note
 ---
-
 ### Major Sub Heading
 - every line like this, ends in .
 - do NOT create a new line between the heading and the first bullet point.
@@ -22,7 +21,7 @@ Book Index Link and others
 
 - and the bottom.
 - Example callout should be closed by default.
-###### Citation
+### Citation
 ---
 ```
 First Name Initial. Last Name, "Chapter Title" in *Book Title*, edition. First Name Initial. Last Name (for all editors), Ed(s). City, (US State Only), Country: Publication, Year, pp. start page-end page.

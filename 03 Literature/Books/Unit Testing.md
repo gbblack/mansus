@@ -5,17 +5,17 @@ author:
   - Vladimir Khorikov
 publication:
   - Manning
-source: 
+source: "[[41.16 Testing]]"
 created: 2025-02-10
 ---
-# **Unit testing: Principles, Practices and Patterns**
+# Unit testing: Principles, Practices and Patterns
 
 > [!abstract] Summary
-### **Index**
+## Index
 ---
 **Part 1–The bigger picture**
 1. [[Unit Testing-01|The goal of unit testing]]
-2. Unit Testing-02|What is a unit test?
+2. [[Unit Testing-02|What is a unit test?]]
 3. Unit Testing-03|The anatomy of a unit test
 **Part 2–Making your tests work for you**
 4. Unit Testing-04|The four pillars of a good unit test
@@ -28,17 +28,17 @@ created: 2025-02-10
 10. Unit Testing-10|Testing the database
 **Part 4–Unit testing anti-pattern**
 11. Unit Testing-11|Unit testing anti-patterns
-### **Note**
+## Note
 ---
 
 > [!question] What are the main points of the book?
 > What was the author trying to say? Identify the overarching ideas and how the author connected them.
 
 Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
-##### **Citation**
+## Citation
 ---
 ```
-First Name Initial. Last Name, *Book Title*, edition. City, (US State Only), Country: Publication, Year.
+V. Khorikov, *Unit Testing: Principles, Practices, and Patterns*, 1st. Shelter Island, NY, USA: Manning, 2020.
 ```
 ---
 ##### Completion Checklist

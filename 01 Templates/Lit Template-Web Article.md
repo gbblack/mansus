@@ -12,7 +12,7 @@ Any Links
 > [!abstract] Summary
 ## Highlights
 ---
-##### Citation
+## Citation
 ---
 ```
 First Name Initial. Last Name, "Web Article Title", Website Name.
