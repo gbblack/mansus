@@ -294,3 +294,7 @@
 294. https://www.linux.org/threads/a-list-of-online-services-to-regain-control-over-your-privacy-online.55222/ (services to increase privacy)
 295. https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/ (product development techniques)
 296. https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/ (a decade later)
+297. https://rubenerd.com/boring-tech-is-mature-not-old/ (old tech is good actually)
+298. https://www.scottsmitelli.com/articles/ideal-candidate/ (no idea)
+299. https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/ (disobedience)
+300. https://dagger.io/blog/replaced-react-with-go (go and wasm instead of react)
