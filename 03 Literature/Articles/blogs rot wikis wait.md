@@ -8,11 +8,11 @@ publication:
 source: https://j3s.sh/thought/blogs-rot-wikis-wait.html
 created: 2025-01-03
 ---
-# **blogs rot. wikis wait.**
+# blogs rot. wikis wait.
 
 > [!abstract] Summary
 > A poem on the different mindsets when making a wiki vs. a blog.
-### **Highlights**
+## Highlights
 ---
 > wiki is my abyss
 
@@ -26,7 +26,7 @@ created: 2025-01-03
 
 > blogs rot. 
 > wikis wait.
-##### **Citation**
+## Citation
 ---
 ```
 "blogs rot. wikis wait." j3s. https://j3s.sh/thought/blogs-rot-wikis-wait.html

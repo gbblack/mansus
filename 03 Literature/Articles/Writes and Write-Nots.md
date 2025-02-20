@@ -11,11 +11,11 @@ publication:
 source: https://paulgraham.com/writes.html
 created: 2024-12-17
 ---
-# **Writes and Write-Nots**
+# Writes and Write-Nots
 
 > [!abstract] Summary
 > The author predicts that the rise of AI will reduce writing, and therefore thinking, from an essential learned skill to an optional one.
-### **Highlights**
+## Highlights
 ---
 > in a **couple decades there ==won't be many people who can write.**==
 
@@ -45,7 +45,7 @@ created: 2024-12-17
 > This situation is not unprecedented. In preindustrial times most people's jobs made them strong. **Now if you want to be strong, you work out. So t==here are still strong people, but only those who choose to be.**==
 
 > ==**There will still be smart people, but only those who choose to be.**==
-##### **Citation**
+## Citation
 ---
 ```
 P. Graham, "Writes and Write-Nots", Paul Graham.

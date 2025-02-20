@@ -10,11 +10,11 @@ publication:
 source: https://lmnt.me/blog/nothing-left-to-solve.html
 created: 2025-01-06
 ---
-# **Nothing Left to Solve**
+# Nothing Left to Solve
 
 > [!abstract] Summary
 > A post on the idea that some software problems can be considered solved, and that doing more work on these problems worsen them rather than improve them.
-### **Highlights**
+## Highlights
 ---
 > if they want to **develop something that appeals to everyone**, there must be a ==**genuine problem to address.**==
 
@@ -25,7 +25,7 @@ created: 2025-01-06
 > we have ==**solved some software problems**==
 
 > Some things **may ==not require redesigning==. We might have simply figured them out.**
-##### **Citation**
+## Citation
 ---
 ```
 L. Mantia, "Nothing Left to Solve", lmnt.

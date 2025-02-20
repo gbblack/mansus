@@ -301,3 +301,4 @@
 301. https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf (what makes a good software engineer dissertation)
 302. https://www.educationprogress.org/p/schools-should-pursue-excellence (excellence in schools)
 303. https://paperstack.com/an_early_social_unnetwork/ (early social network)
+304. https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a (cons of mocking)

@@ -15,7 +15,7 @@ created: 2024-11-18
 
 > [!abstract] Summary
 > Reflections on modern medical care when concerning terminal diagnoses. The procedures doctors follow are focused around pushing for surgery and clinical trials rather than relating the true reality of the situation to the patient. This reduces patient agency at a time when they are most vulnerable, and misrepresents the cost of care.
-### Highlights
+## Highlights
 ---
 > ==**I don't remember being asked== if I wanted one. Rather, ==I was _told_== that I would have one** and that it would happen soon.
 
@@ -40,7 +40,7 @@ created: 2024-11-18
 > **They ==deserve the truth== — all of it. They deserve to be ==treated as capable adults==.** They don't need to be coddled as if the unvarnished truth will destroy their will to live. They don't deserve baseless praise for next-generation sequencing or the vaporware of personalized medicine.
 
 > The current ==**dismal== state-of-the-art ==care==** means that for the vast majority of patients diagnosed with glioblastoma, surgery is a bridge to nowhere.
-##### **Citation**
+## Citation
 ---
 ```
 R. Apodaca, "Bridge to Nowhere", Depth-First.

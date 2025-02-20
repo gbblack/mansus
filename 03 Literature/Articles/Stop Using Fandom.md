@@ -7,11 +7,11 @@ publication:
 source: https://j3s.sh/thought/stop-using-fandom.html
 created: 2024-12-22
 ---
-# **Stop Using Fandom**
+# Stop Using Fandom
 
 > [!abstract] Summary
 > A call to action to move wikis away from the hosting site Fandom, as it exploits its user generated content for ad revenue.
-### **Highlights**
+## Highlights
 ---
 > you will experience what i like to call **=="attention assault"==**
 
@@ -30,7 +30,7 @@ created: 2024-12-22
 > one predictable **outcome. ==mass exodus.==**
 
 > ==**over 300== wikis have ==migrated away== from fandom**, and i can only hope that this trajectory accelerates.
-##### **Citation**
+## Citation
 ---
 ```
 "Stop Using Fandom." j3s. https://j3s.sh/thought/stop-using-fandom.html

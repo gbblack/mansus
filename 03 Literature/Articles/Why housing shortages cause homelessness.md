@@ -16,7 +16,7 @@ created: 2024-12-09
 > [!abstract] Summary
 > Areas with the highest housing costs also have the highest rates of homelessness. This is because in high cost areas family and friends cannot afford the extra space (rooms) necessary to house loved ones who are at the edge of homelessness.
 
-### **Highlights**
+## Highlights
 ---
 > Her story echoes the widely repeated observation that ‘people don’t become homeless when they run out of money, **they ==become homeless when they run out of relationships’.**==
 
@@ -79,7 +79,7 @@ created: 2024-12-09
 > Trying to solve **homelessness ==without addressing the housing market== is like trying to ==towel a floor dry when the roof has blown off==.**
 
 > Houston’s reasonable-priced market rate housing also helps **people who ==managed to stop being homeless== to stay housed even if their fortunes decline.**
-##### **Citation**
+## Citation
 ---
 ```
 S. Furth, "Why housing shortages cause homelessness", Works In Progress.

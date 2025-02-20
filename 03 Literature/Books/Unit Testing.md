@@ -33,6 +33,8 @@ created: 2025-02-10
 
 > [!question] What are the main points of the book?
 > What was the author trying to say? Identify the overarching ideas and how the author connected them.
+https://olano.dev/blog/unit-testing-principles/
+link above a good example for overall book note? the sections for each chapter are a reflection of my own understanding of them, unlike the literature notes which should be a paraphrasing of the author's words as much as possible. Allows for another pass over the material which is good for retention and memory, and hopefully once this is done the book can be said to be fully digested. Also makes this note a great source of truth for this book for future revision and referencing.
 
 Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
 ## Citation

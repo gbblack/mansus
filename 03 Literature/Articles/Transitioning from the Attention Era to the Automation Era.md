@@ -10,11 +10,11 @@ publication:
 source: https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html
 created: 2025-01-06
 ---
-# **Transitioning from the Attention Era to the Automation Era**
+# Transitioning from the Attention Era to the Automation Era
 
 > [!abstract] Summary
 > An article presenting the idea that with the rise of AI the economy of attention will have to shift to one of automation.
-### **Highlights**
+## Highlights
 ---
 > ==**transitioning== from** earning and packaging ==**attention== to** selling summarization and ==**automation.**==
 
@@ -29,7 +29,7 @@ created: 2025-01-06
 > One question raised is **==what will be automated and what will deserve attention?==**
 
 > Sadly, it’s not hard to imagine the market continuing to bifurcate along economic lines: **those with money will be able to ==pay for automation== while those without will have to ==sell their attention.==**
-##### **Citation**
+## Citation
 ---
 ```
 D. Breunig, "Transitioning from the Attention Era to the Automation Era", dbreunig.

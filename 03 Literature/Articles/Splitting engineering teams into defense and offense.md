@@ -11,11 +11,11 @@ publication:
 source: https://www.greptile.com/blog/how-we-engineer
 created: 2025-01-03
 ---
-# **Splitting engineering teams into defense and offense**
+# Splitting engineering teams into defense and offense
 
 > [!abstract] Summary
 > An article describing an engineering team structure split into two groups: defensive for work that maintains the product, and offensive for work that adds to it.
-### **Highlights**
+## Highlights
 ---
 > the reason we get anything done at all in these circumstances has to do with a specific way in which we **==structure== our engineering team.**
 
@@ -40,7 +40,7 @@ created: 2025-01-03
 > A mental model that I have found useful is to **view ==event-driven engineering as “defensive”== and ==long-running processes as “offensive”.==**
 
 > ==**Defensive== engineering exists to ==maintain your product==**, whereas ==**offensive== engineering exists to ==expand it.==**
-##### **Citation**
+## Citation
 ---
 ```
 D. Gupta, "Splitting engineering teams into defense and offense", Website Name.

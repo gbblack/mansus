@@ -12,11 +12,11 @@ source: https://aaronparecki.com/2024/08/31/9/too-many-projects
 created: 2024-12-11
 ---
 Any Links
-# **Thoughts on the Resiliency of Web Projects**
+# Thoughts on the Resiliency of Web Projects
 
 > [!abstract] Summary
 > The author's reflection on his old web projects. He finds that projects can become a chore to maintain if they are not dead simple and using basic tech that does not have many dependencies. He sets aside considerations for maintenance before beginning, to help reduce this effect.
-### **Highlights**
+## Highlights
 ---
 > This is also making me seriously **reconsider the ==value== of spinning up any ==new projects.==**
 
@@ -31,7 +31,7 @@ Any Links
 > If a database is required, is it possible to create it in a way that does not result in **ever-growing storage needs?**
 
 > Is this going to store data or be a **service that ==other people== are going to use?** If so, plan on a registration form so that I have a way to **contact people eventually when I need to change it** or shut it down.
-##### **Citation**
+## Citation
 ---
 ```
 "Thoughts on the Resiliency of Web Projects." Aaron Parecki. https://aaronparecki.com/2024/08/31/9/too-many-projects

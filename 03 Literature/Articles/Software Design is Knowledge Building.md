@@ -9,11 +9,11 @@ publication:
 source: https://olano.dev/blog/software-design-is-knowledge-building/
 created: 2025-01-03
 ---
-# **Software Design is Knowledge Building**
+# Software Design is Knowledge Building
 
 > [!abstract] Summary
 > An article on the idea that the building of a program is the building of its theory, the knowledge held by the programmer, and this theory is required to maintain and modify the program. The viability of the program longterm is in its theory not its code.
-### **Highlights**
+## Highlights
 ---
 > a seemingly **functional 6-month-old project ==automatically turns into a haunted forest just by changing hands.**== Regardless of its age, `SVC` is textbook legacy software because, more often than not, **==a question== posed about the system, to any team member, ==results in the same answer: _I don’t know_.**==
 
@@ -52,7 +52,7 @@ created: 2025-01-03
 > the ultimate **goal of ==software design== should be (organizational) ==knowledge building.==**
 
 > rather than thinking in terms of the burden on future maintainers, think: **how much will this decision affect—how much will it help or hinder—their ==building of a mental model==** of the system, of the business, of the world.
-##### **Citation**
+## Citation
 ---
 ```
 "Software Design is Knowledge Building." olano. https://olano.dev/blog/software-design-is-knowledge-building

@@ -16,7 +16,7 @@ Any Links
 
 > [!abstract] Summary
 > Documentation as code is more than an afterthought. It is infrastructure, same as software and requires architects and standards in the same way. Doing this creates more robust software that is better understood by all who engage with it.
-### Highlights
+## Highlights
 ---
 > Writing **good documentation is ==key infrastructure work**==. Remove documentation, or fail to provide it, and your products cease to exist
 
@@ -35,7 +35,7 @@ Any Links
 > Both sides need each other: you can’t move the needle of great docs without the dedication of the entire engineering org, and **engineers struggle to create great docs without a docs architect.**
 
 >we’re ==**architects of understanding==, building bridges between complex systems** and the humans who use them.
-##### **Citation**
+## Citation
 ---
 ```
 F. Benedetti, "What docs as code really means", passo.

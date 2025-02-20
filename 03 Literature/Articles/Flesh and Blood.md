@@ -16,7 +16,7 @@ created: 2024-10-03
 
 > [!abstract] Summary
 > A comparison on Roman and later European violence occurring within the home/society vs. the Native American understanding of violence belonging only to those outside the community. The difference in defining freedom in relation to one's absolute power over another rather than the assimilation of the other into oneself.
-### Highlights
+## Highlights
 ---
 > British anthropologist named A. M. Hocart proposed that **monarchs and ==institutions of government were originally derived from rituals== designed to channel powers of life from the cosmos into human society.** He suggested that “the first kings must have been dead kings,” and that individuals so honored only really became sacred rulers at their funerals.
 
@@ -35,7 +35,7 @@ created: 2024-10-03
 > Children were to submit to their parents, wives to husbands, and subjects to rulers, whose authority came from God. In each case the superior party was expected to inflict stern chastisement when he considered it appropriate: that is, to exercise violence with impunity.
 
 > Wendat torture, in the same period, created searing, unforgettable spectacles of pain and suffering to make clear that no form of physical chastisement should ever be countenanced inside a community or household. ==**Violence and care==, in the Wendat case, were to be entirely separated.**
-##### **Citation**
+## Citation
 ---
 ```
 D.Graeber, D. Wengrow, "Flesh and Blood", Anarchist Library.

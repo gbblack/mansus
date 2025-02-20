@@ -11,11 +11,11 @@ publication:
 source: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
 created: 2025-01-07
 ---
-# **Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law**
+# Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law
 
 > [!abstract] Summary
 > An article comparing the problem of overfitting (and its solutions) in machine learning apply to the real world focus on efficiency.
-### **Highlights**
+## Highlights
 ---
 > ==**Increased efficiency== can sometimes, counterintuitively, lead to ==worse outcomes.==** This is true almost everywhere. We will name this phenomenon the strong version of Goodhart's law.
 
@@ -64,7 +64,7 @@ created: 2025-01-07
 > ==**Increase== capabilities / ==capacity.==**
 > ...
 > this would correspond to **developing ==capabilities== that are ==so great== that there is ==no longer any tradeoff==** required between performance on the goal and the proxy.
-##### **Citation**
+## Citation
 ---
 ```
 J. Sohl-Dickstein, "Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law", Jascha's Blog.

@@ -11,11 +11,11 @@ publication:
 source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
 created: 2025-01-06
 ---
-# **The only computer science book worth reading twice?**
+# The only computer science book worth reading twice?
 
 > [!abstract] Summary
 > A post praising the Computer Science textbook SICP from 1984. Though dated this book still offers essential insights into the fundamentals of Computer Science, especially in regards to its underlying nature.
-### **Highlights**
+## Highlights
 ---
 > **==_Structure and interpretation of computer programs_==** by Hal Abelson and Jerry Sussman (MIT Press. 1984. ISBN 0-262-01077-1), also known as _SICP_.
 
@@ -30,7 +30,7 @@ created: 2025-01-06
 > ==**Mathematics**== provides a framework f**or dealing precisely with notions of ==“what is.”**== ==**Computation**== provides a framework for **dealing precisely with notions of ==“how to."==**
 
 > SICP is to computer science what Feynman’s _Lectures on Physics_ are to physics: **an ==accessible distillation of the essence== of the subject** that’s stood the test of time.
-##### **Citation**
+## Citation
 ---
 ```
 S. Dobson, "The only computer science book worth reading twice?", Simon Dobson.

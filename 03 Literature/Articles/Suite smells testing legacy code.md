@@ -10,7 +10,7 @@ publication:
 source: https://bitfieldconsulting.com/posts/testing-legacy-code
 created: 2024-12-17
 ---
-# **Suite smells: testing legacy code**
+# Suite smells: testing legacy code
 
 > [!abstract] Summary
 > The article describes two process of testing legacy code:
@@ -18,7 +18,7 @@ created: 2024-12-17
 > 2. As you work on old code break it down into smaller pieces and test those.
 > 
 >Doing this reliably over time will eventually create a well tested codebase.
-### **Highlights**
+## Highlights
 ---
 > how to write **robust, reliable, and above all ==_correct_ programs==.**
 
@@ -55,7 +55,7 @@ created: 2024-12-17
 > agree with your team that **for a ==short trial== period, you’ll ==write tests for everything== you do.**.If anyone gets stuck on how to test something, the whole team will pitch in to help.
 
 > If **the result is a ==correct program with robust tests==, then ==who cares what order==** those things are written in?
-##### **Citation**
+## Citatibon
 ---
 ```
 J. Arundel, "Suite smells: testing legacy code", Bitfield Consulting.
