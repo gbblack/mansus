@@ -298,3 +298,6 @@
 298. https://www.scottsmitelli.com/articles/ideal-candidate/ (no idea)
 299. https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/ (disobedience)
 300. https://dagger.io/blog/replaced-react-with-go (go and wasm instead of react)
+301. https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf (what makes a good software engineer dissertation)
+302. https://www.educationprogress.org/p/schools-should-pursue-excellence (excellence in schools)
+303. https://paperstack.com/an_early_social_unnetwork/ (early social network)

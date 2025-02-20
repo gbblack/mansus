@@ -2,6 +2,8 @@
 tags:
   - type/chapter
   - status/day
+  - rust/types
+  - rust/basics
 created: 2024-12-12
 ---
 [[The Rust Programming Language]]

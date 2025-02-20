@@ -11,10 +11,10 @@ publication:
 source: "[[41.09 Rust]]"
 created: 2024-12-11
 ---
-# **The Rust Programming Language**
+# The Rust Programming Language
 
 > [!abstract] Summary
-### **Index**
+## Index
 ---
 0. Foreword and Introduction
 1. [[The Rust Programming Language-01|Getting Started]]
@@ -38,14 +38,14 @@ created: 2024-12-11
 19. Advanced Features
 20. Final Project: Building a Multithreaded Web Server
 21. Appendix
-### **Note**
+## Note
 ---
 
 > [!question] What are the main points of the book?
 > What was the author trying to say? Identify the overarching ideas and how the author connected them.
 
 Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
-##### **Citation**
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, *The Rust Programming Language*, 2nd. San Francisco, CA, USA: No Starch Press, 2023.

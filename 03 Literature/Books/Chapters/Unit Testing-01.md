@@ -5,13 +5,12 @@ tags:
 created at: 2025-02-10
 ---
 [[Unit Testing]]
-# 1. The goal of unit testing
+# The goal of unit testing
 
 > [!abstract] Summary
 > An introduction to unit testing as tools to help create sustainable software. Includes brief overview of the why's and how's of the approache to unit testing taken throughout the book.
 ## Note
 ---
-
 > [!tip]- Table of Contents
 > 1. [[#The current state of unit testing]]
 > 2. [[#The goal of unit testing]]
@@ -26,7 +25,6 @@ created at: 2025-02-10
 > 	2. [[#It targets only the most important parts of your code base]]
 > 	3. [[#It provides maximum value with minimum maintenance costs]]
 > 5. [[#What you will learn in this book]]
-
 ### The current state of unit testing
 - Currently there is consensus that we should be writing units tests, but not much understanding on what makes a good unit test.
 - This lack of distinction can make testing a chore that can hinder a project.

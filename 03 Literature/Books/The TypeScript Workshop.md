@@ -13,10 +13,10 @@ publication:
 source: "[[41.05 JS and TypeScript]]"
 created: 2024-12-11
 ---
-# **The TypeScript Workshop**
+# The TypeScript Workshop
 
 > [!abstract] Summary
-### **Index**
+## Index
 ---
 0. Preface
 1. [[The Typescript Workshop-01|TypeScript Fundamentals]]
@@ -33,14 +33,14 @@ created: 2024-12-11
 12. Guide to Promises in TypeScript
 13. Async/Await in Typescript
 14. TypeScript and React
-### **Note**
+## Note
 ---
 
 > [!question] What are the main points of the book?
 > What was the author trying to say? Identify the overarching ideas and how the author connected them.
 
 Break down the book into all the points its trying to prove/make. And rewrite their argument for that point in your own words.
-##### **Citation**
+## Citation
 ---
 ```
 B. Grynhaus, J. Hudgens, R. Hunte, M. Morgan and W. Stefanovski, *The TypeScript Workshop*, 1st. Birmingham, UK: Packt, 2021.

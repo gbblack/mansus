@@ -9,8 +9,7 @@ created: 2024-10-21
 
 > [!abstract] Summary
 > Systems thinking is a practice that must be developed and maintained. It is not a thing you learn but a process you do. It allows for nonlinear thinking so as to be able to navigate complex problems. Communication is integral to systems thinking as it is the foundation of the network the system is built upon.
-
-### Highlights
+## Highlights
 ---
 25
 > **Systems ==thinking is a practice==,** a perspective, a framework, an emerging language
@@ -56,8 +55,8 @@ created: 2024-10-21
 
 38
 > **Systems thinking is a ==mindshift==, away from linear and reductionist approaches toward nonlinear ones.** The “right” way to achieve this mindshift depends on your skills and circumstances. There are many right ways.
+## Citation
 ---
-##### Citation
 ```
 D. Montalion, "What is Systems Thinking?" in *Learning Systems Thing: Essential Nonlinear Skills for Software Professionals*, 1st. D. Michelson, S. Evans, L. Wheeler, Eds. Sebastopol, CA, USA: O'Reilly, 2024, pp. start 25-43.
 ```

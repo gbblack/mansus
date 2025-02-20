@@ -2,6 +2,8 @@
 tags:
   - type/chapter
   - status/day
+  - rust
+  - cargo
 created at: 2024-05-21
 ---
 [[The Rust Programming Language]]
