@@ -4,43 +4,37 @@ tags:
 created:
 ---
 [[The Rust Programming Language]]
-# **Common Collections**
+# Common Collections
 
 > [!abstract] Summary
-### **Note**
+## Note
 ---
-##### **Storing Lists of Values with Vectors**
-**Creating a New Vector**
-**Updating a Vector**
-**Reading Elements of Vectors**
-**Iterating over the Values in a Vector**
-**Using an Enum to Stor Multiple Types**
-**Dropping a Vector Drops Its Elements**
-##### **Storing UTF-8 Encoded Text With Strings**
-**What Is a String?**
-**Creating a New String**
-**Updating a String**
-**Indexing Into Strings**
-**Slicing Strings**
-**Methods for Iterating Over Strings**
-**Strings Are Not So Simple**
-##### **Storing Keys with Associated Values in Hash Maps**
-**Creating a New Hash Map**
-**Accessing Values in a Hash Map**
-**Hash Maps and Ownership**
-**Updating a Hash Map**
-**Hashing Functions**
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+##### Storing Lists of Values with Vectors
+Creating a New Vector
+Updating a Vector
+Reading Elements of Vectors
+Iterating over the Values in a Vector
+Using an Enum to Stor Multiple Types
+Dropping a Vector Drops Its Elements
+##### Storing UTF-8 Encoded Text With Strings
+What Is a String?
+Creating a New String
+Updating a String
+Indexing Into Strings
+Slicing Strings
+Methods for Iterating Over Strings
+Strings Are Not So Simple
+##### Storing Keys with Associated Values in Hash Maps
+Creating a New Hash Map
+Accessing Values in a Hash Map
+Hash Maps and Ownership
+Updating a Hash Map
+Hashing Functions
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
-
-> [!note] Nota Bene
 
 ---
 ##### Completion Checklist

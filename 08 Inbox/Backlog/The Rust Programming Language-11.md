@@ -4,31 +4,27 @@ tags:
 created:
 ---
 [[The Rust Programming Language]]
-# **Writing Automated Tests**
+# Writing Automated Tests
 
 > [!abstract] Summary
-### **Note**
+### Note
 ---
-##### **How to Write Tests**
-**The Anatomy of a Test Function**
-**Checking Results with the `assert!` Macro**
-**Testing Equality with the `assert_eq!` and `assert_ne!` Macros**
-**Adding Custom Failure Messages**
-**Checking for Panics with `should_panic`**
-**Using `Result<T, E>` in Tests**
-##### **Controlling How Tests Are Run**
-**Running Tests in Parallel or Consecutively**
-**Showing Function Output**
-**Running a Subset of Tests by Name**
-**Ignoring Some Tests Unless Specifically Requested**
-##### **Test Organization**
-**Unit Tests**
-**Integration Tests**
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+##### How to Write Tests
+The Anatomy of a Test Function
+Checking Results with the `assert!` Macro
+Testing Equality with the `assert_eq!` and `assert_ne!` Macros
+Adding Custom Failure Messages
+Checking for Panics with `should_panic`
+Using `Result<T, E>` in Tests
+##### Controlling How Tests Are Run
+Running Tests in Parallel or Consecutively
+Showing Function Output
+Running a Subset of Tests by Name
+Ignoring Some Tests Unless Specifically Requested
+##### Test Organization
+Unit Tests
+Integration Tests
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.

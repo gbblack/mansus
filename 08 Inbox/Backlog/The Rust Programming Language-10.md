@@ -4,41 +4,37 @@ tags:
 created:
 ---
 [[The Rust Programming Language]]
-# **Generic Types, Traits, and Lifetimes**
+# Generic Types, Traits, and Lifetimes
 
 > [!abstract] Summary
-### **Note**
+### Note
 ---
-**Removing Duplication by Extracting a Function**
-##### **Generic Data Types**
-**In Function Definitions**
-**In Struct Definitions**
-**In Enum Definitions**
-**In Method Definitions**
-**Performance of Code Using Generics**
-##### **Traits: Defining Shared Behavior**
-**Defining a Trait**
-**Implementing a Trait on a Type**
-**Default Implementations**
-**Traits as Parameters**
-**Returning Types That Implement Traits**
-**Using Trait Bounds to Conditionally Implement Methods**
-##### **Validating References with Lifetimes**
-**Preventing Dangling References with Lifetimes**
-**The Borrow Checker**
-**Generic Lifetimes in Functions**
-**Lifetime Annotations in Function Signatures**
-**Thinking in Terms of Lifetimes**
-**Lifetime Annotations in Struct Definitions**
-**Lifetime Elision**
-**Lifetime Annotations in Method Definitions**
-**The Static Lifetime**
-**Genetic Type Parameters, Trait Bounds, and Lifetimes Together**
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+Removing Duplication by Extracting a Function
+##### Generic Data Types
+In Function Definitions
+In Struct Definitions
+In Enum Definitions
+In Method Definitions
+Performance of Code Using Generics
+##### Traits: Defining Shared Behavior
+Defining a Trait
+Implementing a Trait on a Type
+Default Implementations
+Traits as Parameters
+Returning Types That Implement Traits
+Using Trait Bounds to Conditionally Implement Methods
+##### Validating References with Lifetimes
+Preventing Dangling References with Lifetimes
+The Borrow Checker
+Generic Lifetimes in Functions
+Lifetime Annotations in Function Signatures
+Thinking in Terms of Lifetimes
+Lifetime Annotations in Struct Definitions
+Lifetime Elision
+Lifetime Annotations in Method Definitions
+The Static Lifetime
+Genetic Type Parameters, Trait Bounds, and Lifetimes Together
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.

@@ -302,3 +302,7 @@
 302. https://www.educationprogress.org/p/schools-should-pursue-excellence (excellence in schools)
 303. https://paperstack.com/an_early_social_unnetwork/ (early social network)
 304. https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a (cons of mocking)
+305. https://sunshowers.io/posts/open-closed-universes/ (type systems as universes)
+306. https://sunshowers.io/posts/there-is-no-free-will/ (there is no free will)
+307. https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/ (some tests are stronger than others)
+308. https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/ (non determinism)

@@ -4,23 +4,19 @@ tags:
 created at: 2024-12-30
 ---
 [[The TypeScript Workshop]]
-# **Declaration Files**
+# Declaration Files
 
 > [!abstract] Summary
-## **Note**
+## Note
 ---
-### **Introduction**
-### **Declaration Files**
-##### **Exceptions**
-### **Third-Party Code Libraries**
-##### **DefinitelyTyped**
-##### **Analyzing an External Declaration File**
-##### **Development Workflow with DefinitelyTyped**
-## **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+### Introduction
+### Declaration Files
+##### Exceptions
+### Third-Party Code Libraries
+##### DefinitelyTyped
+##### Analyzing an External Declaration File
+##### Development Workflow with DefinitelyTyped
+## Citation
 ---
 ```
 B. Grynhaus, J. Hudgens, R. Hunte, M. Morgan and W. Stefanovski, "Declaration Files" in *The TypeScript Workshop*, 1st. M. Dhyani, R. Rodrigues, S. Shinde, S. Zagade, Eds. Birmingham, UK: Packt, 2021, pp. tbd.

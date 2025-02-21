@@ -4,14 +4,14 @@ tags:
 created: 2025-01-06
 ---
 [[The Rust Programming Language]]
-# **Using Structs to Structure Related Data**
+# Using Structs to Structure Related Data
 
 > [!abstract] Summary
-## **Note**
+## Note
 ---
 - A `struct` (structure) is a custom data type that allows you to package and name multiple values into a meaningful group.
 - Structs are similar to a `type` from a language like TypeScript.
-### **Defining and Instantiating Structs**
+### Defining and Instantiating Structs
 - Structs are similar to tuples in that they can package multiple value types into one structure but unlike a tuple these values can be given names.
 - This makes structs more flexible than tuples as you don't need to rely on order alone to access the values, you can use their names.
 - To define a struct: `struct <name> { active: bool, age: i32, email: String }`.
@@ -20,11 +20,11 @@ created: 2025-01-06
 - To access a value from an instantiated struct we can use dot notation: `user.age -> 12`.
 - If an instance is mutable we can also change the value with this notation: `user.age = 15;`.
 - The entire instance of the struct must be mutable for this, Rust does not allow for mutability in only some fields and not others.
-##### **Using the Field Init Shorthand**
+#### Using the Field Init Shorthand
 - When parameter names and `struct` fields are the same we can use the *field init shorthand* syntax to simplify instantiation.
 - Written as: `User { active: true, username, email, ..}`
 - Instead of needing to write `email: email`.
-##### **Creating Instances from Other Instances with Struct Update Syntax**
+#### Creating Instances from Other Instances with Struct Update Syntax
 - When creating a new instance of a struct that shares a  lot of existing values with an existing struct we can use the *struct update syntax*.
 - Written as: 
   `let user2 = User { email: String::from("another@gmail.com"), ..user1}`.
@@ -33,26 +33,23 @@ created: 2025-01-06
 > [!note]- Nota Bene
 > In this example as `email` is of type `String` the data of the values are moved form `user1` to `user2` thus making `user1` invalid. If we had instead updated the `active` value which implements a boolean primitive type `user1` would still be valid since primitive types implement the `Copy` trait and as such those values are being copied, not moved, over.
 > In the case we would like to use `&str` instead of `String` then the `struct`, to keep `user1` valid, we must use lifetimes; which guarantee the validity of a field within a `struct` so long as the `struct` itself is valid. More [[The Rust Programming Language-10|here]].
-##### **Using Tuple Structs Without Named Fields to Create Different Types**
+##### Using Tuple Structs Without Named Fields to Create Different Types
 - 
-##### **Unit-Like Structs Without Any Fields**
-### **An Example Program Using Structs**
-##### **Refactoring with Tuples**
-##### **Refactoring with Structs: Adding More Meaning**
-##### **Adding Useful Functionality with Derived Traits**
-### **Method Syntax**
-##### **Defining Methods**
-##### **Methods with More Parameters**
-##### **Associated Functions**
-##### **Multiple `impl` Blocks**
-###### **Citation**
+##### Unit-Like Structs Without Any Fields
+### An Example Program Using Structs
+##### Refactoring with Tuples
+##### Refactoring with Structs: Adding More Meaning
+##### Adding Useful Functionality with Derived Traits
+### Method Syntax
+##### Defining Methods
+##### Methods with More Parameters
+##### Associated Functions
+##### Multiple `impl` Blocks
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Using Structs to Structure Related Data" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
-
-> [!note] Nota Bene
-
 ---
 ##### Completion Checklist
 ###### I. To Become Dark

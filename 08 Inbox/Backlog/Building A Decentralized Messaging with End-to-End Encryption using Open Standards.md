@@ -7,12 +7,12 @@ author:
 source: https://weblog.plexobject.com/archives/2381
 created: 2024-12-17
 ---
-# **Building A Decentralized Messaging with End-to-End Encryption using Open Standards**
+# Building A Decentralized Messaging with End-to-End Encryption using Open Standards
 
 > [!abstract] Summary
-### **Highlights**
+## Highlights
 ---
-##### **Citation**
+## Citation
 ---
 ```
 S. Bhatti, "Building A Decentralized Messaging with End-to-End Encryption using Open Standards", Shahzad Bhatti.

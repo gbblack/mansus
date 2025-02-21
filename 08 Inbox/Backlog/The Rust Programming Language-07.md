@@ -4,35 +4,30 @@ tags:
 created:
 ---
 [[The Rust Programming Language]]
-# **Managing Growing Projects with Packages, Crates, and Modules**
+# Managing Growing Projects with Packages, Crates, and Modules
 
 > [!abstract] Summary
-### **Note**
+### Note
 ---
-##### **Packages and Crates**
-##### **Defining Modules to Control Scope and Privacy**
-##### **Paths for Referring to an Item in the Module Tree**
-**Exposing Paths with the `pub` Keyword**
-**Starting relative Paths with `super`**
-**Making Structs and Enums Public**
-##### **Bringing Paths Into Scope with the `use` Keyword**
-**Creating Idiomatic `use` Paths**
-**Providing New names with the `as` Keyword**
-**Re-exporting Names with `pub use`**
-**Using Nested Paths to Clean Up Large use Lists**
-**The Glob Operator**
-##### **Separating Modules Into Different Files**
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+##### Packages and Crates
+##### Defining Modules to Control Scope and Privacy
+##### Paths for Referring to an Item in the Module Tree
+Exposing Paths with the `pub` Keyword
+Starting relative Paths with `super`
+Making Structs and Enums Public
+##### Bringing Paths Into Scope with the `use` Keyword
+Creating Idiomatic `use` Paths
+Providing New names with the `as` Keyword
+Re-exporting Names with `pub use`
+Using Nested Paths to Clean Up Large use Lists
+The Glob Operator
+##### Separating Modules Into Different Files
+
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
-
-> [!note] Nota Bene
 
 ---
 ##### Completion Checklist

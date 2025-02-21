@@ -4,42 +4,33 @@ tags:
 created:
 ---
 [[The Rust Programming Language]]
-# **Patterns and Matching**
+# Patterns and Matching
 
 > [!abstract] Summary
-### **Note**
+## Note
 ---
-##### **All the Places Patterns Can Be Used**
-**`match` Arms**
-**Conditional `if let` Expressions**
-`**while let` Conditional Loops**
-**`for` Loops**
-`**let` Statements**
-**Function Parameters**
-##### **Refutability: Whether a Pattern Might Fail to Match**
-##### **Pattern Syntax**
-**Matching Literals**
-**Matching Named Variables**
-**Multiple Patterns**
-**Matching Ranges of Values with `..=`**
-**Destructuring to Break Apart Values**
-**Ignoring Values in a Pattern**
-**Extra Conditionals with Match Guards**
-**@ Bindings**
-
-### **Highlights**
----
-9 (page number)
-> example highlight
-##### **Citation**
+##### All the Places Patterns Can Be Used
+`match` Arms
+Conditional `if let` Expressions
+`while let` Conditional Loops
+`for` Loops
+`let` Statements
+Function Parameters
+### Refutability: Whether a Pattern Might Fail to Match
+### Pattern Syntax
+Matching Literals
+Matching Named Variables
+Multiple Patterns
+Matching Ranges of Values with `..=`
+Destructuring to Break Apart Values
+Ignoring Values in a Pattern
+Extra Conditionals with Match Guards
+@ Bindings
+## Citation
 ---
 ```
 S. Klabnik and C. Nichols, "Common Programming Concepts" in *The Rust Programming Language*, 2nd. J. Franklin, J. Kepler, K. Horlbeck Olsen, L. Chadwick, Eds. San Francisco, CA, USA: No Starch Press, 2023, pp. 48-?.
 ```
-
-> [!note] Nota Bene
-
----
 ##### Completion Checklist
 ###### I. To Become Dark
 - [ ] Write the Chapter title in the heading.

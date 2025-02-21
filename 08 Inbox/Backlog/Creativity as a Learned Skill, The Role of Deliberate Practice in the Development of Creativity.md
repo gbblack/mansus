@@ -8,14 +8,14 @@ source:
 created: 2024-10-16
 ---
 Any Links
-# **Full Title**
+# Full Title
 
 > [!abstract] Summary
-### **Highlights**
+## Highlights
 ---
 9 (page number)
 > example highlight
-##### **Citation**
+## Citation
 ---
 ```
 W. R. Reeves, "CREATIVITY AS A LEARNED SKILL: THE ROLE OF DELIBERATE PRACTICE IN THE DEVELOPMENT OF CREATIVITY", Ph.D. dissertation, FACULTY?, Austin Univ., Austin, TX, USA, 2014.

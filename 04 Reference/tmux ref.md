@@ -1,11 +1,11 @@
 **Prefix:** Caps + a
 
-My caps lock now input as Control.
+My caps lock now inputs as Control.
 
 ## Commands
 ### Session related
 
-|                                   | **Command**            |
+| Action                            | **Command**            |
 | --------------------------------- | ---------------------- |
 | Rename session                    | `prefix + $`           |
 | New session                       | `tmux`                 |
@@ -14,7 +14,7 @@ My caps lock now input as Control.
 | Kill the current session          | `:kill-session`        |
 ### Window related
 
-|                            | **Command**  |
+| Action                     | **Command**  |
 | -------------------------- | ------------ |
 | Create new window          | `prefix + c` |
 | List all windows           | `prefix + w` |
@@ -25,7 +25,7 @@ My caps lock now input as Control.
 | Next window                | `prefix + n` |
 ### Pane related
 
-|                           | **Command**          |
+| Action                    | **Command**          |
 | ------------------------- | -------------------- |
 | Split window veritcally   | `prefix + %`         |
 | Split window horizontally | `prefix + "`         |
