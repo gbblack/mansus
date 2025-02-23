@@ -8,7 +8,7 @@ created at: 2025-02-10
 # The goal of unit testing
 
 > [!abstract] Summary
-> An introduction to unit testing as tools to help create sustainable software. Includes brief overview of the why's and how's of the approache to unit testing taken throughout the book.
+> An introduction to unit testing as tools to help create sustainable software. Includes a brief overview of the why's and how's of the approach to unit testing taken throughout the book.
 ## Note
 ---
 > [!tip]- Table of Contents
@@ -103,5 +103,5 @@ created at: 2025-02-10
 ## Citation
 ---
 ```
-V. Khorikov, "The goal of unit testing" in *Unit Testing: Principles, Practices, and Patterns*, 1st. M. Stephens, M. Michaels, S. Zaydel, A. Dragosavljevic, A. Calcara, T. Taylor, F. Buran, Eds. Shelter Island, NY, USA: Manning, 2020, pp. 25-41.
+V. Khorikov, "The goal of unit testing" in *Unit Testing: Principles, Practices, and Patterns*, 1st. M. Stephens, M. Michaels, S. Zaydel, A. Dragosavljevic, A. Calcara, T. Taylor, F. Buran, Eds. Shelter Island, NY, USA: Manning, 2020, pp. 3-19.
 ```

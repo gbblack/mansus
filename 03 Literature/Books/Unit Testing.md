@@ -16,7 +16,7 @@ created: 2025-02-10
 **Part 1–The bigger picture**
 1. [[Unit Testing-01|The goal of unit testing]]
 2. [[Unit Testing-02|What is a unit test?]]
-3. Unit Testing-03|The anatomy of a unit test
+3. [[Unit Testing-03|The anatomy of a unit test]]
 **Part 2–Making your tests work for you**
 4. Unit Testing-04|The four pillars of a good unit test
 5. Unit Testing-05|Mocks and test fragility
