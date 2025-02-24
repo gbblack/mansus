@@ -1,6 +1,6 @@
 ---
 tags:
-  - reference
+  - type/reference
 created:
 ---
 # Title

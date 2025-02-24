@@ -6,7 +6,6 @@ publication:
 source: 
 created:
 ---
-Any Links
 # Full Book Title
 
 > [!abstract] Summary

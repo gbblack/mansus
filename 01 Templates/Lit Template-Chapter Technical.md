@@ -3,7 +3,7 @@ tags:
   - type/chapter
 created at:
 ---
-Book Index Link and others
+Book Index Link
 # Chapter Title
 
 > [!abstract] Summary

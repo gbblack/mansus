@@ -1,8 +1,8 @@
 ---
 created at: 2024-05-21
 tags:
-  - "#reference"
   - "#terminal"
+  - type/reference
 ---
 # Cargo Commands
 ***

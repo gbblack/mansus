@@ -3,8 +3,8 @@ tags:
   - type/article
   - anthropology
   - freedom
-  - philosophy_of_violence
   - status/day
+  - violence
 author:
   - David Graeber, David Wengrow
 publication:

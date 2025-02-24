@@ -1,9 +1,9 @@
 ---
 tags:
   - type/article
-  - code_documentation
   - best_practices
   - status/day
+  - documentation
 author:
   - Fabrizio Ferri Benedetti
 publication:
