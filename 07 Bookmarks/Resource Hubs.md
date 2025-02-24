@@ -67,10 +67,19 @@ Links to cool projects I want to check out.
 ### Showcase
 Links to cool stuff on the internet.
 
-| Focus                     | Link                                       |
-| ------------------------- | ------------------------------------------ |
-| Tunnel of Blue Sky tweets | https://firehose3d.theo.io/                |
-| List of Public APIs       | https://publicapis.dev/                    |
-| History of NBA Jerseys    | https://pudding.cool/2024/10/nba-uniforms/ |
-| Collection of cool fonts  | https://devfonts.gafi.dev/                 |
-| CSS animal exhibit        | http://species-in-pieces.com/              |
+| Focus                     | Link                                                                                      |
+| ------------------------- | ----------------------------------------------------------------------------------------- |
+| Tunnel of Blue Sky tweets | https://firehose3d.theo.io/                                                               |
+| List of Public APIs       | https://publicapis.dev/                                                                   |
+| History of NBA Jerseys    | https://pudding.cool/2024/10/nba-uniforms/                                                |
+| Collection of cool fonts  | https://devfonts.gafi.dev/                                                                |
+| CSS animal exhibit        | http://species-in-pieces.com/                                                             |
+| Aztec Pantheon            | https://pudding.cool/2022/06/aztec-gods/                                                  |
+| Cleaning Supplies         | https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen |
+| Random Indie Blogs        | https://indieblog.page/                                                                   |
+|                           |                                                                                           |
+
+---
+## Dissertations
+
+1. https://www.jstor.org/stable/3824296 (thinking too much)
