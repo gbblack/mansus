@@ -25,7 +25,7 @@
 25. https://medium.com/@pierre_49652/flox-better-alternative-to-dev-containers-d02e1a2ec423 (alternative to dev containers)
 26. https://lackofimagination.org/2024/10/self-documenting-code/ (good code as documentation)
 27. https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/ (reflection on the life and work of John Wheeler)
-28. https://candost.blog/on-good-software-engineers/  (what makes a good software engineer)
+28. https://candost.blog/on-good-software-engineers/ (what makes a good software engineer)
 29. https://globalchinapulse.net/character-amnesia-in-china/ (character amnesia in chinese writing)
 30. https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test (1912 test)
 31. https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
