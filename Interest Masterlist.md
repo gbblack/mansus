@@ -325,3 +325,6 @@
 325. https://localghost.dev/blog/this-page-is-under-construction/ (personal websites)
 326. https://hypercritical.co/2025/02/25/hyperspace (file systems)
 327. https://publicdomainreview.org/collection/bruegel-twelve-proverbs/ (Flemish proverbs from the 1500s)
+328. https://paul-samuels.com/blog/2025/02/23/project-scripts/ (project scripts)
+329. https://cosmographia.substack.com/p/photographs-of-the-old-west (photos of the old west)
+330. https://www.theatlantic.com/ideas/archive/2025/02/jobs-unemployment-big-freeze/681831/ (american jobs freeze)
