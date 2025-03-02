@@ -25,6 +25,8 @@ Links to individual Blogs
 | https://andrewwalpole.com/blog/      | His codepens are interesting for CSS |
 | https://herman.bearblog.dev/         |                                      |
 | https://sunshowers.io/               |                                      |
+| https://www.trevorlasn.com/          |                                      |
+| https://reillyspitzfaden.com/        |                                      |
 ### Vaults
 Links to published Obsidian vaults
 
