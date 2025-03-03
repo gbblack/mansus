@@ -328,3 +328,5 @@
 328. https://paul-samuels.com/blog/2025/02/23/project-scripts/ (project scripts)
 329. https://cosmographia.substack.com/p/photographs-of-the-old-west (photos of the old west)
 330. https://www.theatlantic.com/ideas/archive/2025/02/jobs-unemployment-big-freeze/681831/ (american jobs freeze)
+331. https://joeyh.name/blog/entry/become_ungoogleable/ (ungoogleable)
+332. https://www.keepcool.co/p/no-one-is-coming-to-save-us-time-to-cowboy-up (no one is gonna save you)
