@@ -330,3 +330,23 @@
 330. https://www.theatlantic.com/ideas/archive/2025/02/jobs-unemployment-big-freeze/681831/ (american jobs freeze)
 331. https://joeyh.name/blog/entry/become_ungoogleable/ (ungoogleable)
 332. https://www.keepcool.co/p/no-one-is-coming-to-save-us-time-to-cowboy-up (no one is gonna save you)
+333. bufferbuffer.com (writing small docs)
+334. https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/ (japanese pencils)
+335. https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/ (UK broke its economy)
+336. https://www.marble.onl/posts/evals_are_not_all_you_need.html (evals)
+337. https://ma.tt/2009/07/not-lonely-at-all/ (nor lonely)
+338. https://tolstoyan.substack.com/p/youth (youth and aging)
+339. https://www.scriptarchive.com/ (script archive)
+340. https://www.salon.com/2025/02/26/from-maga-to-monarchy-how-tech-billionaires-are-engineering-american-autocracy/ (maga to monarchy)
+341. https://hr.cornell.edu/2025-hiring-pause (hiring pause)
+342. https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development (css mastery)
+343. https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html (follow up on the foia case)
+344. https://initialcommit.com/blog/im-making-a-git-game (git game)
+345. https://www.lurklurk.org/effective-rust/title-page.html (effective rust book)
+346. https://www.oddbird.net/2025/02/12/fluid-type/ (fluid typography)
+347. https://olduse.net/ (viva olduse.net)
+348. https://davekarpf.substack.com/p/paul-graham-and-the-cult-of-the-founder (substack)
+349. https://davekarpf.substack.com/p/paul-graham-proto-techbro
+350. https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer
+351. https://addyo.substack.com/p/the-70-problem-hard-truths-about
+352. https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test
