@@ -330,7 +330,7 @@
 330. https://www.theatlantic.com/ideas/archive/2025/02/jobs-unemployment-big-freeze/681831/ (american jobs freeze)
 331. https://joeyh.name/blog/entry/become_ungoogleable/ (ungoogleable)
 332. https://www.keepcool.co/p/no-one-is-coming-to-save-us-time-to-cowboy-up (no one is gonna save you)
-333. bufferbuffer.com (writing small docs)
+333. https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/ (writing small docs)
 334. https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/ (japanese pencils)
 335. https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/ (UK broke its economy)
 336. https://www.marble.onl/posts/evals_are_not_all_you_need.html (evals)
@@ -350,3 +350,8 @@
 350. https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer
 351. https://addyo.substack.com/p/the-70-problem-hard-truths-about
 352. https://onepercentrule.substack.com/p/life-is-one-long-intelligence-test
+353. https://www.engineersneedart.com/blog/duane/duane.html (duane, shareware author mac)
+354. https://davidwinter.dev/2019/03/14/tmux-the-essentials (tmux essentials)
+355. https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color (vivian maier)
+356. https://worldhistory.substack.com/p/the-ancient-art-of-color (art of color)
+357. https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/ (afraid of tom wolfe?)
