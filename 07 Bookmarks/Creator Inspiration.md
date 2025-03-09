@@ -49,3 +49,5 @@ Links to Digital Gardens
 | https://www.ssp.sh/brain/                                            |
 
 https://martinfowler.com/
+
+https://garden.bradwoods.io/ this whole thing is incredible
