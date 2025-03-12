@@ -9,7 +9,7 @@ created at: 2025-02-22
 # The anatomy of a unit test
 
 > [!abstract] Summary
-> A break down of the AAA structure for writing tests, how to use text fixtures, guidelines for naming tests and using parametrized tests to keep the test suite concise.
+> A breakdown of the AAA structure for writing tests, how to use text fixtures, guidelines for naming tests and using parametrized tests to keep the test suite concise.
 ## Note
 ---
 

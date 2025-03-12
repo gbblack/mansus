@@ -1,6 +1,8 @@
 ---
 tags:
   - type/book_index
+  - testing
+  - software_design
 author:
   - Vladimir Khorikov
 publication:
@@ -18,10 +20,10 @@ created: 2025-02-10
 2. [[Unit Testing-02|What is a unit test?]]
 3. [[Unit Testing-03|The anatomy of a unit test]]
 **Part 2–Making your tests work for you**
-1. [[Unit Testing-04|The four pillars of a good unit test]]
-2. Unit Testing-05|Mocks and test fragility
-3. Unit Testing-06|Styles of unit testing
-4. Unit Testing-07|Refactoring toward valuable unit tests
+4. [[Unit Testing-04|The four pillars of a good unit test]]
+5. [[Unit Testing-05|Mocks and test fragility]]
+6. Unit Testing-06|Styles of unit testing
+7. Unit Testing-07|Refactoring toward valuable unit tests
 **Part 3–Integration testing**
 8. Unit Testing-08|Why integration testing?
 9. Unit Testing-09|Mocking best practices
