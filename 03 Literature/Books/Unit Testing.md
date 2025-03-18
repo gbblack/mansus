@@ -22,14 +22,14 @@ created: 2025-02-10
 **Part 2–Making your tests work for you**
 4. [[Unit Testing-04|The four pillars of a good unit test]]
 5. [[Unit Testing-05|Mocks and test fragility]]
-6. Unit Testing-06|Styles of unit testing
-7. Unit Testing-07|Refactoring toward valuable unit tests
+6. [[Unit Testing-06|Styles of unit testing]]
+7. [[Unit Testing-07|Refactoring toward valuable unit tests]]
 **Part 3–Integration testing**
-8. Unit Testing-08|Why integration testing?
-9. Unit Testing-09|Mocking best practices
-10. Unit Testing-10|Testing the database
+8. [[Unit Testing-08|Why integration testing?]]
+9. [[Unit Testing-09|Mocking best practices]]
+10. [[Unit Testing-10|Testing the database]]
 **Part 4–Unit testing anti-pattern**
-11. Unit Testing-11|Unit testing anti-patterns
+11. [[Unit Testing-11|Unit testing anti-patterns]]
 ## Note
 ---
 
