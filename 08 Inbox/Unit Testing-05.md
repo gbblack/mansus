@@ -10,7 +10,11 @@ created at: 2025-03-12
 > [!abstract] Summary
 ## Note
 ---
+<<<<<<< Updated upstream
 > [!tip] Table of Contents
+=======
+> [!tip]- Table of Contents
+>>>>>>> Stashed changes
 > 1. [[#Differentiating mocks from stubs]]
 > 	2. [[#The types of test doubles]]
 > 	3. [[#Mock (the tool) vs. Mock (the test double)]]
@@ -18,8 +22,13 @@ created at: 2025-03-12
 > 	5. [[#Using mocks and stubs together]]
 > 	6. [[#How mocks and stubs relate to commands and queries]]
 > 7. [[#Observable behaviour vs. implementation details]]
+<<<<<<< Updated upstream
 > 	8. [[#Observable behaviour os not the same as a public API]]
 > 	9. [[#Leaking implementation details: An example with an operation]]
+=======
+> 	8.  [[#Observable behaviour os not the same as a public API]]
+> 	9.  [[#Leaking implementation details: An example with an operation]]
+>>>>>>> Stashed changes
 > 	10. [[#Well-designed API and encapsulation]]
 > 	11. [[#Leaking implementation details: An example with state]]
 > 12. [[#The relationship between mocks and test fragility]]
@@ -50,5 +59,5 @@ created at: 2025-03-12
 ## Citation
 ---
 ```
-V. Khorikov, "Mocks and test fragility" in *Unit Testing: Principles, Practices, and Patterns*, 1st. M. Stephens, M. Michaels, S. Zaydel, A. Dragosavljevic, A. Calcara, T. Taylor, F. Buran, Eds. Shelter Island, NY, USA: Manning, 2020, pp. -.
+V. Khorikov, "Mocks and test fragility" in *Unit Testing: Principles, Practices, and Patterns*, 1st. M. Stephens, M. Michaels, S. Zaydel, A. Dragosavljevic, A. Calcara, T. Taylor, F. Buran, Eds. Shelter Island, NY, USA: Manning, 2020, pp. 92-118.
 ```
