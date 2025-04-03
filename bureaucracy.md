@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - Midnight Musings
+source: https://dhruvmethi.substack.com/p/bureaucracy
+created: 2025-04-03
 ---
-# Full Title
+# bureaucracy
 
 > [!abstract] Summary
 ## Highlights
@@ -13,14 +14,8 @@ created:
 ## Citation
 ---
 ```
-First Name Initial. Last Name, "Web Article Title", Website Name.
-Available: link
-```
-
-No Author:
-
-```
-"Page Title." Website Name. URL
+D. Methi, "bureaucracy", Midnight Musings.
+https://dhruvmethi.substack.com/p/bureaucracy
 ```
 ---
 ##### Completion Checklist

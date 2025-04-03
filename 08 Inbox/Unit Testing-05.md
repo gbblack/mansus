@@ -10,11 +10,8 @@ created at: 2025-03-12
 > [!abstract] Summary
 ## Note
 ---
-<<<<<<< Updated upstream
+
 > [!tip] Table of Contents
-=======
-> [!tip]- Table of Contents
->>>>>>> Stashed changes
 > 1. [[#Differentiating mocks from stubs]]
 > 	2. [[#The types of test doubles]]
 > 	3. [[#Mock (the tool) vs. Mock (the test double)]]
@@ -22,22 +19,19 @@ created at: 2025-03-12
 > 	5. [[#Using mocks and stubs together]]
 > 	6. [[#How mocks and stubs relate to commands and queries]]
 > 7. [[#Observable behaviour vs. implementation details]]
-<<<<<<< Updated upstream
 > 	8. [[#Observable behaviour os not the same as a public API]]
 > 	9. [[#Leaking implementation details: An example with an operation]]
-=======
-> 	8.  [[#Observable behaviour os not the same as a public API]]
-> 	9.  [[#Leaking implementation details: An example with an operation]]
->>>>>>> Stashed changes
-> 	10. [[#Well-designed API and encapsulation]]
-> 	11. [[#Leaking implementation details: An example with state]]
-> 12. [[#The relationship between mocks and test fragility]]
-> 	13. [[#Defining hexagonal architecture]]
-> 	14. [[#Intra-system vs. inter-system communications]]
-> 	15. [[#Intra-system vs. inter-system communications: An example]]
-> 16. [[#The classical vs. London schools of unit testing, revisited]]
-> 	17. [[#Not all out-of-process dependencies should be mocked out]]
-> 	18. [[#Using mocks to verify behavior]]
+> 	10.  [[#Observable behaviour os not the same as a public API]]
+> 	11.  [[#Leaking implementation details: An example with an operation]]
+> 	12. [[#Well-designed API and encapsulation]]
+> 	13. [[#Leaking implementation details: An example with state]]
+> 114. [#The relationship between mocks and test fragility]]
+> 	15. [[#Defining hexagonal architecture]]
+> 	16. [[#Intra-system vs. inter-system communications]]
+> 	17. [[#Intra-system vs. inter-system communications: An example]]
+> 118. [#The classical vs. London schools of unit testing, revisited]]
+> 	19. [[#Not all out-of-process dependencies should be mocked out]]
+> 	20. [[#Using mocks to verify behavior]]
 ### Differentiating mocks from stubs
 #### The types of test doubles
 #### Mock (the tool) vs. Mock (the test double)

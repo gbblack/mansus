@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - The Map is Mostly Water
+source: https://map.simonsarris.com/p/school-is-not-enough
+created: 2025-04-03
 ---
-# Full Title
+# School is Not Enough
 
 > [!abstract] Summary
 ## Highlights
@@ -13,14 +14,8 @@ created:
 ## Citation
 ---
 ```
-First Name Initial. Last Name, "Web Article Title", Website Name.
-Available: link
-```
-
-No Author:
-
-```
-"Page Title." Website Name. URL
+S. Sarris, "School is Not Enough", The Map is Mostly Water.
+https://map.simonsarris.com/p/school-is-not-enough
 ```
 ---
 ##### Completion Checklist

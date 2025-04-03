@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - rachelbythebay
+source: https://rachelbythebay.com/w/2024/11/03/metrics/
+created: 2025-04-03
 ---
-# Full Title
+# I've had a change of heart regarding employee metrics
 
 > [!abstract] Summary
 ## Highlights
@@ -13,14 +14,8 @@ created:
 ## Citation
 ---
 ```
-First Name Initial. Last Name, "Web Article Title", Website Name.
-Available: link
-```
-
-No Author:
-
-```
-"Page Title." Website Name. URL
+"I've had a change of heart regarding employee metrics", rachelbythebay.
+https://rachelbythebay.com/w/2024/11/03/metrics/
 ```
 ---
 ##### Completion Checklist

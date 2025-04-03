@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - nevermind
+source: https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids
+created: 2025-04-03
 ---
-# Full Title
+# The truth about latchkey kids
 
 > [!abstract] Summary
 ## Highlights
@@ -13,14 +14,8 @@ created:
 ## Citation
 ---
 ```
-First Name Initial. Last Name, "Web Article Title", Website Name.
-Available: link
-```
-
-No Author:
-
-```
-"Page Title." Website Name. URL
+A. Potter, "The truth about latchkey kids", nevermind.
+https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids
 ```
 ---
 ##### Completion Checklist
