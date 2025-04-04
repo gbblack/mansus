@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - Communications of the ACM
+source: https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/
+created: 2025-04-04
 ---
-# Full Title
+# I Was Wrong about the Ethics Crisis
 
 > [!abstract] Summary
 ## Highlights
@@ -13,7 +14,7 @@ created:
 ## Citation
 ---
 ```
-"Page Title." Website Name. URL
+"I Was Wrong about the Ethics Crisis." Communications of the ACM. https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/
 ```
 ---
 ##### Completion Checklist

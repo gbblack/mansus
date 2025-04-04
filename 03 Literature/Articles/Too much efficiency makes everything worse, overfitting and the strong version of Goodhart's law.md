@@ -4,8 +4,6 @@ tags:
   - status/dawn
   - anti_efficiency
   - technical_philosophy
-author:
-  - Jascha Sohl-Dickstein
 publication:
   - Jascha's Blog
 source: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
@@ -67,6 +65,6 @@ created: 2025-01-07
 ## Citation
 ---
 ```
-J. Sohl-Dickstein, "Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law", Jascha's Blog.
+"Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law", Jascha's Blog.
 Available: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
 ```

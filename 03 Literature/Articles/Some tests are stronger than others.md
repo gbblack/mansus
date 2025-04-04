@@ -3,8 +3,6 @@ tags:
   - type/article
   - testing
   - status/day
-author:
-  - Hillel Wayne
 publication:
   - Computer Things
 source: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
@@ -41,6 +39,6 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-H. Wayne, "Some tests are stronger than others", Computer Things.
+"Some tests are stronger than others", Computer Things.
 Available: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
 ```

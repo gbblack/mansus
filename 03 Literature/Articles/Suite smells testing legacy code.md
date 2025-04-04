@@ -3,8 +3,6 @@ tags:
   - type/article
   - testing
   - status/day
-author:
-  - John Arundel
 publication:
   - Bitfield Consulting
 source: https://bitfieldconsulting.com/posts/testing-legacy-code
@@ -58,6 +56,6 @@ created: 2024-12-17
 ## Citatibon
 ---
 ```
-J. Arundel, "Suite smells: testing legacy code", Bitfield Consulting.
+"Suite smells: testing legacy code", Bitfield Consulting.
 Available: https://bitfieldconsulting.com/posts/testing-legacy-code 
 ```

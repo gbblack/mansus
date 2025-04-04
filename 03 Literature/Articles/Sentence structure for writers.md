@@ -3,8 +3,8 @@ tags:
   - type/article
   - status/day
   - writing
-author: David Crystal
-publication: OUPblog
+publication:
+  - OUPblog
 source: https://blog.oup.com/2017/11/sentence-structure-for-writers/
 created: 2025-02-24
 ---
@@ -30,6 +30,6 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-D. Crystal, "Sentence structure for writers: understanding weight and clarity", OUPblog.
+"Sentence structure for writers: understanding weight and clarity", OUPblog.
 Available: https://blog.oup.com/2017/11/sentence-structure-for-writers/
 ```

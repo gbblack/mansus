@@ -3,8 +3,8 @@ tags:
   - type/article
   - status/dawn
   - communication
-author: Mandy Brown
-publication: A working library
+publication:
+  - A working library
 source: https://aworkinglibrary.com/writing/accountability-sinks
 created: 2025-02-24
 ---
@@ -44,6 +44,6 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-M. Brown, "Accountability sinks",A working library.
+"Accountability sinks",A working library.
 Available: https://aworkinglibrary.com/writing/accountability-sinks
 ```

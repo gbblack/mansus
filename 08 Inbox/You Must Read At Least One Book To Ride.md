@@ -2,11 +2,11 @@
 tags:
   - type/article
 publication:
-  - The Map is Mostly Water
-source: https://map.simonsarris.com/p/school-is-not-enough
-created: 2025-04-03
+  - Lucidity
+source: https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
+created: 2025-04-04
 ---
-# School is Not Enough
+# You Must Read At Least One Book To Ride
 
 > [!abstract] Summary
 ## Highlights
@@ -14,8 +14,7 @@ created: 2025-04-03
 ## Citation
 ---
 ```
-S. Sarris, "School is Not Enough", The Map is Mostly Water.
-https://map.simonsarris.com/p/school-is-not-enough
+"You Must Read At Least One Book To Ride." Lucidity. https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
 ```
 ---
 ##### Completion Checklist

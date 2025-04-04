@@ -1,11 +1,12 @@
 ---
 tags:
   - type/article
-publication: 
-source: 
-created:
+publication:
+  - sean goedecke
+source: https://www.seangoedecke.com/on-writing/
+created: 2025-04-04
 ---
-# Full Title
+# Writing a tech blog people want to read
 
 > [!abstract] Summary
 ## Highlights
@@ -13,7 +14,7 @@ created:
 ## Citation
 ---
 ```
-"Page Title." Website Name. URL
+"Writing a tech blog people want to read." sean goedecke. https://www.seangoedecke.com/on-writing/
 ```
 ---
 ##### Completion Checklist

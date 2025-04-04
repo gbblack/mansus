@@ -5,8 +5,6 @@ tags:
   - freedom
   - status/day
   - violence
-author:
-  - David Graeber, David Wengrow
 publication:
   - Anarchist Library
 source: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
@@ -38,7 +36,7 @@ created: 2024-10-03
 ## Citation
 ---
 ```
-D.Graeber, D. Wengrow, "Flesh and Blood", Anarchist Library.
+"Flesh and Blood", Anarchist Library.
 Available: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
 ```
 

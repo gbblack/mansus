@@ -3,8 +3,8 @@ tags:
   - type/article
   - status/day
   - philosophy
-author: Deirdre Sullivan
-publication: npr
+publication:
+  - npr
 source: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
 created: 2025-02-24
 ---
@@ -36,6 +36,6 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-D. Sullivan, "Always Go To The Funeral", npr.
+"Always Go To The Funeral", npr.
 Available: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
 ```

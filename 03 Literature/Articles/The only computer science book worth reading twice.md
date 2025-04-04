@@ -4,8 +4,6 @@ tags:
   - computer_theory
   - recommended_reading
   - status/day
-author:
-  - Simon Dobson
 publication:
   - Simon Dobson
 source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
@@ -33,6 +31,6 @@ created: 2025-01-06
 ## Citation
 ---
 ```
-S. Dobson, "The only computer science book worth reading twice?", Simon Dobson.
+"The only computer science book worth reading twice?", Simon Dobson.
 Available: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice
 ```

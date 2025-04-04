@@ -2,11 +2,11 @@
 tags:
   - type/article
 publication:
-  - rachelbythebay
-source: https://rachelbythebay.com/w/2024/11/03/metrics/
-created: 2025-04-03
+  - Anton Zhiyanov
+source: https://antonz.org/til/
+created: 2025-04-04
 ---
-# I've had a change of heart regarding employee metrics
+# TILs are junk food
 
 > [!abstract] Summary
 ## Highlights
@@ -14,8 +14,7 @@ created: 2025-04-03
 ## Citation
 ---
 ```
-"I've had a change of heart regarding employee metrics", rachelbythebay.
-https://rachelbythebay.com/w/2024/11/03/metrics/
+"TILs are junk food." Anton Zhiyanov. https://antonz.org/til/
 ```
 ---
 ##### Completion Checklist

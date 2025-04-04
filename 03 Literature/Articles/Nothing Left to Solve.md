@@ -3,8 +3,6 @@ tags:
   - type/article
   - software_design
   - status/day
-author:
-  - Louie Mantia
 publication:
   - LMNT
 source: https://lmnt.me/blog/nothing-left-to-solve.html
@@ -28,6 +26,6 @@ created: 2025-01-06
 ## Citation
 ---
 ```
-L. Mantia, "Nothing Left to Solve", lmnt.
+"Nothing Left to Solve", lmnt.
 Available: https://lmnt.me/blog/nothing-left-to-solve.html
 ```

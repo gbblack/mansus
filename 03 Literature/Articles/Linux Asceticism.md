@@ -4,8 +4,6 @@ tags:
   - linux
   - asceticism
   - status/day
-author:
-  - Uğur Erdem Seyfi
 publication:
   - rugu
 source: https://www.rugu.dev/en/blog/linux-asceticism/
@@ -31,6 +29,6 @@ created: 2024-12-17
 ## Citation
 ---
 ```
-U. E. Seyfi, "Linux Asceticism", rugu.
+"Linux Asceticism", rugu.
 Available: https://www.rugu.dev/en/blog/linux-asceticism/
 ```

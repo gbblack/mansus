@@ -2,11 +2,11 @@
 tags:
   - type/article
 publication:
-  - nevermind
-source: https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids
-created: 2025-04-03
+  - Rogue Engine
+source: https://rogueengine.io/blog/your-app-should-have-been-a-website
+created: 2025-04-04
 ---
-# The truth about latchkey kids
+# Your App Should Have Been A Website (And Probably Your Game Too)
 
 > [!abstract] Summary
 ## Highlights
@@ -14,8 +14,7 @@ created: 2025-04-03
 ## Citation
 ---
 ```
-A. Potter, "The truth about latchkey kids", nevermind.
-https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids
+"Your App Should Have Been A Website (And Probably Your Game Too)." Rogue Engine. https://rogueengine.io/blog/your-app-should-have-been-a-website
 ```
 ---
 ##### Completion Checklist

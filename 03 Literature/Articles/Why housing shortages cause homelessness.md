@@ -4,8 +4,6 @@ tags:
   - housing
   - homelessness
   - status/day
-author:
-  - Salim Furth
 publication:
   - Works In Progress
 source: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/
@@ -82,6 +80,6 @@ created: 2024-12-09
 ## Citation
 ---
 ```
-S. Furth, "Why housing shortages cause homelessness", Works In Progress.
+"Why housing shortages cause homelessness", Works In Progress.
 Available: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness
 ```

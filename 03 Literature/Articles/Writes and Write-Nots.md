@@ -4,8 +4,6 @@ tags:
   - writing
   - thinking
   - status/day
-author:
-  - Paul Graham
 publication:
   - Paul Graham
 source: https://paulgraham.com/writes.html
@@ -48,6 +46,6 @@ created: 2024-12-17
 ## Citation
 ---
 ```
-P. Graham, "Writes and Write-Nots", Paul Graham.
+"Writes and Write-Nots", Paul Graham.
 Available: https://paulgraham.com/writes.html
 ```

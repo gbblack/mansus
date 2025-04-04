@@ -3,8 +3,6 @@ tags:
   - type/article
   - status/day
   - tech_thoughts
-author:
-  - Ruben Schade
 publication:
   - Rubenerd
 source: https://rubenerd.com/boring-tech-is-mature-not-old/
@@ -26,6 +24,6 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-R. Schade, "Boring tech is mature, not old", Rubenerd.
+"Boring tech is mature, not old", Rubenerd.
 Available: https://rubenerd.com/boring-tech-is-mature-not-old/
 ```

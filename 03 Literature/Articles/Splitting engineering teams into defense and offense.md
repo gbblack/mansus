@@ -4,8 +4,6 @@ tags:
   - status/day
   - team_structure
   - project_management
-author:
-  - Daksh Gupta
 publication:
   - greptile
 source: https://www.greptile.com/blog/how-we-engineer
@@ -43,6 +41,6 @@ created: 2025-01-03
 ## Citation
 ---
 ```
-D. Gupta, "Splitting engineering teams into defense and offense", Website Name.
+"Splitting engineering teams into defense and offense", Website Name.
 Available: https://www.greptile.com/blog/how-we-engineer
 ```

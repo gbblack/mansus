@@ -4,8 +4,6 @@ tags:
   - best_practices
   - status/day
   - documentation
-author:
-  - Fabrizio Ferri Benedetti
 publication:
   - passo
 source: https://passo.uno/what-docs-as-code-means/
@@ -38,6 +36,6 @@ Any Links
 ## Citation
 ---
 ```
-F. Benedetti, "What docs as code really means", passo.
+"What docs as code really means", passo.
 Available: https://passo.uno/what-docs-as-code-means/
 ```

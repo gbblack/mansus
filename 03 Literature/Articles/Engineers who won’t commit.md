@@ -4,10 +4,8 @@ tags:
   - status/day
   - tech_thoughts
   - leadership
-author:
-  - Sean Goedecke
 publication:
-  - sean godecke
+  - sean goedecke
 source: https://www.seangoedecke.com/taking-a-position/
 created: 2025-02-24
 ---
@@ -47,7 +45,7 @@ created: 2025-02-24
 ## Citation
 ---
 ```
-S. Goedecke, "Engineers who won’t commit", sean goedecke.
+"Engineers who won’t commit", sean goedecke.
 Available: https://www.seangoedecke.com/taking-a-position/
 ```
 

@@ -3,8 +3,6 @@ tags:
   - type/article
   - tech_thoughts
   - status/day
-author:
-  - Bobby Lockhart
 publication:
   - Bobby Lockhart
 source: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
@@ -40,6 +38,6 @@ created: 2025-02-25
 ## Citation
 ---
 ```
-B. Lockhart, "Tech Takes the Pareto Principle Too Far", Bobby Lockhart.
+"Tech Takes the Pareto Principle Too Far", Bobby Lockhart.
 Available: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
 ```
