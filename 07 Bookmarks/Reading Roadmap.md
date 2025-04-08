@@ -11,6 +11,7 @@
 - [[Unit Testing]] by Vladimir Khorikov.
 - **The Chrysalids** by John Wyndham.
 ## Reading List
+https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels
 - Frankenstein
 - Neuromancer
@@ -25,9 +26,15 @@
 - The White Tiger
 - Americanah
 - Brave New World
+- Consider Phlebas
+- The Player of Games
+- Use of Weapons
+- Paradise Lost
+- What In Me Is Dark: The Revolutionary Life of Paradise Lost
 ### Non Fiction
 - On Bullshit
 - Tidy First?
+- A People's History of the United States
 ### Textbooks
 - Patterns for API design
 - Head First: Software Architecture

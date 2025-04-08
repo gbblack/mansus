@@ -8,19 +8,25 @@ Progressive Hydration:
 Writing and Thinking:
 - [[Writes and Write-Nots]]
 
-Freedom as a state of exception to Law
+Freedom as a state of exception to Law:
 - [[Flesh and Blood]]
 
-Learning as a skill to be practiced
+Learning as a skill to be practiced:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
+- [[You Must Read At Least One Book To Ride]]
+- [[TILs are junk food]]
 
-On writing
+why write:
 - [[Writes and Write-Nots]]
 
-Theory Crafting
+Theory Crafting:
 - [[Software Design is Knowledge Building]]
 
-Indieweb
+Indieweb:
 - [[Stop Using Fandom]]
 - [[Thoughts on the Resiliency of Web Projects]]
 - [[blogs rot wikis wait]]
+
+blogging:
+- [[Advice for a friend who wants to start a blog]]
+- [[Writing a tech blog people want to read]]
