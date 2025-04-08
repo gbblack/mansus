@@ -409,3 +409,7 @@
 409. https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing (on knowing)
 410. https://nolanlawson.com/2025/04/02/ai-ambivalence/ (AI meh)
 411. https://alexop.dev/posts/what-is-local-first-web-development/ (local first development)
+412. https://laemeur.sdf.org/words/D29.html (rich text)
+413. https://www.seangoedecke.com/where-the-money-comes-from/ (value of your role)
+414. https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/ (blackhole as a maze)
+415. https://idiallo.com/blog/companies-dont-fix-bugs (companies don't fix bugs)
