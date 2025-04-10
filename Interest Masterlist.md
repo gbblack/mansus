@@ -407,3 +407,4 @@
 407. https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/ (blackhole as a maze)
 408. https://idiallo.com/blog/companies-dont-fix-bugs (companies don't fix bugs)
 409. https://lethain.com/how-to-practice-backend-engineering/ (backend practice)
+410. https://cosmographia.substack.com/p/photographs-of-old-japan (photos of 1800s Japan)
