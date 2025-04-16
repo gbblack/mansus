@@ -51,7 +51,6 @@ Links to tools that I might want to look into.
 | Git Branching      | https://learngitbranching.js.org/                               |
 | Linux Server Admin | https://github.com/livialima/linuxupskillchallenge              |
 
-
 ### Projects
 Links to cool projects I want to check out.
 
