@@ -9,12 +9,11 @@
 - [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **The Chrysalids** by John Wyndham.
+- Neuromancer by William Gibson.
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels
 - Frankenstein
-- Neuromancer
 - Beloved, Toni Morrison
 - In Cold Blood
 - A Long Way Gone
@@ -31,6 +30,14 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Use of Weapons
 - Paradise Lost
 - What In Me Is Dark: The Revolutionary Life of Paradise Lost
+- The Bone People
+- Midnight's Children
+- Schindler's List
+- The Remains of the Day
+- The Sea, the Sea
+- The Famished Road
+- The God of Small Things
+- Careless People
 ### Non Fiction
 - On Bullshit
 - Tidy First?
@@ -63,7 +70,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ## 2024
 ---
 ### Read
-1. **How to Take Smart Notes** by Sönke Ahrens.
+1. ==**How to Take Smart Notes** by Sönke Ahrens.==
 2. **Building a Second Brain** by Tiago Forte.
 3. **One Hundred Years of Solitude** by Gabriel García Márquez.
 4. **A Memory Called Empire** by Arkady Martine.
@@ -76,3 +83,5 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Read
 1. **The Picture of Dorian Gray** by Oscar Wilde.
 2. **Another Country** by James Baldwin.
+3. **The Chrysalids** by John Wyndham.
+4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
