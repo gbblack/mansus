@@ -11,10 +11,9 @@ Writing and Thinking:
 Freedom as a state of exception to Law:
 - [[Flesh and Blood]]
 
-Learning as a skill to be practiced:
+Learning:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
 - [[You Must Read At Least One Book To Ride]]
-- [[TILs are junk food]]
 
 why write:
 - [[Writes and Write-Nots]]

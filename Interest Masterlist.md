@@ -414,3 +414,11 @@
 414. https://www.gleech.org/llms (not using LLM)
 415. https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html (vibe coding)
 416. https://4zm.org/2025/04/05/bitter-prediction.html (AI prediction)
+417. https://www.makingsoftware.com/ (cool site)
+418. https://maxparata.itch.io/punkrunner (racing game?)
+419. https://xn--gckvb8fzb.com/bookmarks/ (cool site and blog)
+420. https://jerf.org/iri/post/2025/go_layered_design/ (layered package design in Go)
+421. https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational
+422. https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html (learning computer science)
+423. https://deps.dev/ (open source dependency tree tracker)
+424. https://pluralistic.net/ (cool site)

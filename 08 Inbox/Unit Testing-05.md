@@ -11,27 +11,28 @@ created at: 2025-03-12
 ## Note
 ---
 
-> [!tip] Table of Contents
+> [!tip]- Table of Contents
 > 1. [[#Differentiating mocks from stubs]]
-> 	2. [[#The types of test doubles]]
-> 	3. [[#Mock (the tool) vs. Mock (the test double)]]
-> 	4. [[#Don't assert interactions with stubs]]
-> 	5. [[#Using mocks and stubs together]]
-> 	6. [[#How mocks and stubs relate to commands and queries]]
-> 7. [[#Observable behaviour vs. implementation details]]
-> 	8. [[#Observable behaviour os not the same as a public API]]
-> 	9. [[#Leaking implementation details: An example with an operation]]
-> 	10.  [[#Observable behaviour os not the same as a public API]]
-> 	11.  [[#Leaking implementation details: An example with an operation]]
-> 	12. [[#Well-designed API and encapsulation]]
-> 	13. [[#Leaking implementation details: An example with state]]
-> 114. [#The relationship between mocks and test fragility]]
-> 	15. [[#Defining hexagonal architecture]]
-> 	16. [[#Intra-system vs. inter-system communications]]
-> 	17. [[#Intra-system vs. inter-system communications: An example]]
-> 118. [#The classical vs. London schools of unit testing, revisited]]
-> 	19. [[#Not all out-of-process dependencies should be mocked out]]
-> 	20. [[#Using mocks to verify behavior]]
+> 	1. [[#The types of test doubles]]
+> 	2. [[#Mock (the tool) vs. Mock (the test double)]]
+> 	3. [[#Don't assert interactions with stubs]]
+> 	4. [[#Using mocks and stubs together]]
+> 	5. [[#How mocks and stubs relate to commands and queries]]
+> 2. [[#Observable behaviour vs. implementation details]]
+> 	1. [[#Observable behaviour os not the same as a public API]]
+> 	2. [[#Leaking implementation details: An example with an operation]]
+> 	3.  [[#Observable behaviour os not the same as a public API]]
+> 	4.  [[#Leaking implementation details: An example with an operation]]
+> 	5. [[#Well-designed API and encapsulation]]
+> 	6. [[#Leaking implementation details: An example with state]]
+> 3. [[#The relationship between mocks and test fragility]]
+> 	1. [[#Defining hexagonal architecture]]
+> 	2. [[#Intra-system vs. inter-system communications]]
+> 	3. [[#Intra-system vs. inter-system communications: An example]]
+> 4. [[#The classical vs. London schools of unit testing, revisited]]
+> 	1. [[#Not all out-of-process dependencies should be mocked out]]
+> 	2. [[#Using mocks to verify behavior]]
+
 ### Differentiating mocks from stubs
 #### The types of test doubles
 #### Mock (the tool) vs. Mock (the test double)
