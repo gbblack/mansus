@@ -438,3 +438,4 @@
 438. https://jessitron.com/2025/05/18/augmented-coding-better-with-principles/ (AI code performance)
 439. https://dcurt.is/thinking (on thinking)
 440. https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding (pathfinding in games)
+441. https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/ (theory crafting)
