@@ -439,3 +439,5 @@
 439. https://dcurt.is/thinking (on thinking)
 440. https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding (pathfinding in games)
 441. https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/ (theory crafting)
+442. https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops (short fiction, maybe from 1909)
+443. https://www.bozemanpass.com/everythings-a-bug-or-an-issue/ (project management strategy where everything is a bug)
