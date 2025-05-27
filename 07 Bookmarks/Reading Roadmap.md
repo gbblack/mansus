@@ -9,7 +9,8 @@
 - [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- Neuromancer by William Gibson.
+- **The Sun Also Rises** by Ernest Hemingway.
+
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels
@@ -20,7 +21,6 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Angela's Ashes
 - Fahrenheit 451
 - Slaughterhouse-Five
-- The Sun Also Rises
 - The Alchemist
 - The White Tiger
 - Americanah
@@ -85,3 +85,4 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 2. **Another Country** by James Baldwin.
 3. **The Chrysalids** by John Wyndham.
 4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
+5. **Neuromancer** by William Gibson.
