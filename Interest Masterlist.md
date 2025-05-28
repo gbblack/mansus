@@ -457,3 +457,8 @@
 457. https://datagubbe.se/usab2/ (the loss of useability)
 458. https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html (root for your friends)
 459. https://lethain.com/stuff-learned-at-carta/ (CTO retrospective on Carta)
+460. https://blog.swgillespie.me/posts/monorepo-ingredients/ (engineering hurdles and strategies for building a monorepo)
+461. https://book.leveldesignbook.com/ (level design handbook)
+462. https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/ (pen and paper as a dev)
+463. https://irian.to/blogs/mastering-vim-grammar (vim grammar)
+464. https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/logic_in_writing.html (writing logically)
