@@ -23,7 +23,6 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Slaughterhouse-Five
 - The Alchemist
 - The White Tiger
-- Americanah
 - Brave New World
 - Consider Phlebas
 - The Player of Games
