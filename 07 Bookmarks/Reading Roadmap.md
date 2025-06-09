@@ -9,7 +9,7 @@
 - [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **The Sun Also Rises** by Ernest Hemingway.
+- **The White Tiger** by Aravind Adiga.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -20,9 +20,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - A Long Way Gone
 - Angela's Ashes
 - Fahrenheit 451
-- Slaughterhouse-Five
 - The Alchemist
-- The White Tiger
 - Brave New World
 - Consider Phlebas
 - The Player of Games
@@ -66,6 +64,16 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Monolith to Microservices
 - Technology Strategy Patterns
 - Designing Distributed Systems
+## 2025
+---
+### Read
+1. **The Picture of Dorian Gray** by Oscar Wilde.
+2. **Another Country** by James Baldwin.
+3. **The Chrysalids** by John Wyndham.
+4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
+5. **Neuromancer** by William Gibson.
+6. **The Sun Also Rises** by Ernest Hemingway.
+7. **For the Love of Go** by Joqhn Arundel.
 ## 2024
 ---
 ### Read
@@ -77,11 +85,3 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 6. **Things Fall Apart** by Chinua Achebe.
 ### Abandoned
 1. **Tomorrow, and Tomorrow, and Tomorrow** by Gabrielle Zevin.
-## 2025
----
-### Read
-1. **The Picture of Dorian Gray** by Oscar Wilde.
-2. **Another Country** by James Baldwin.
-3. **The Chrysalids** by John Wyndham.
-4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
-5. **Neuromancer** by William Gibson.
