@@ -27,6 +27,7 @@ Links to individual Blogs
 | https://sunshowers.io/               |                                      |
 | https://www.trevorlasn.com/          |                                      |
 | https://reillyspitzfaden.com/        |                                      |
+| https://notes.volution.ro/           |                                      |
 ### Vaults
 Links to published Obsidian vaults
 

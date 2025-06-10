@@ -458,3 +458,5 @@
 458. https://arxiv.org/pdf/2503.05040 (code velocity)
 459. https://mattrighetti.com/2025/02/17/rust-testing-sqlx-lazy-people (simple DB testing)
 460. https://www.bramadams.dev/software-is-about-promises/ (the promise of software)
+461. https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/ (constraint setting)
+462. https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/ (pair programming with AI)
