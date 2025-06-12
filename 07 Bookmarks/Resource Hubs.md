@@ -85,3 +85,6 @@ Links to cool stuff on the internet.
 ## Dissertations
 
 1. https://www.jstor.org/stable/3824296 (thinking too much)
+
+## Cool Tools
+https://ikuyo.kenrick95.org/landing (travel planning)
