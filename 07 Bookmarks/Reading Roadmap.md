@@ -9,7 +9,7 @@
 - [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **The White Tiger** by Aravind Adiga.
+- **Slaughterhouse-Five** by Kurt Vonnegut.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -73,7 +73,8 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
 5. **Neuromancer** by William Gibson.
 6. **The Sun Also Rises** by Ernest Hemingway.
-7. **For the Love of Go** by Joqhn Arundel.
+7. **For the Love of Go** by John Arundel.
+8. **The White Tiger** by Aravind Adiga.
 ## 2024
 ---
 ### Read

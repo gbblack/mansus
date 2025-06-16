@@ -462,3 +462,4 @@
 462. https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy (debugger)
 463. https://leanpub.com/logic/ (book on logic)
 464. https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/ (guide to job getting)
+465. https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination (receipt printer for task management)
