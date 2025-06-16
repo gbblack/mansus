@@ -40,6 +40,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Tidy First?
 - A People's History of the United States
 ### Textbooks
+- A Philosophy of Software Design, 2nd Edition
 - Patterns for API design
 - Head First: Software Architecture
 - Building Multi Tenant SaaS Architectures
