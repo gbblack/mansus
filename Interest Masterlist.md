@@ -449,3 +449,4 @@
 449. https://leanpub.com/logic/ (book on logic)
 450. https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/ (guide to job getting)
 451. https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination (receipt printer for task management)
+452. https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/ (monitoring in Go)
