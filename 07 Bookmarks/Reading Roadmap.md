@@ -9,7 +9,7 @@
 - [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **Slaughterhouse-Five** by Kurt Vonnegut.
+- **The Devil in the White City** by Erik Larson.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -76,6 +76,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 6. **The Sun Also Rises** by Ernest Hemingway.
 7. **For the Love of Go** by John Arundel.
 8. **The White Tiger** by Aravind Adiga.
+9. **Slaughterhouse-Five** by Kurt Vonnegut.
 ## 2024
 ---
 ### Read
