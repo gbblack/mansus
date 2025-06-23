@@ -453,3 +453,5 @@
 453. https://substack.com/home/post/p-165655726 (learn de)
 454. https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/ (writing a compiler)
 455. https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html (the programmer according to dijkstra)
+456. https://github.com/typst/typst (cool typesetting tool written in rust, potential replacement for google docs or word)
+457. https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/ (Git Notes)
