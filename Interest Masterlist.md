@@ -456,3 +456,8 @@
 456. https://github.com/typst/typst (cool typesetting tool written in rust, potential replacement for google docs or word)
 457. https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/ (Git Notes)
 458. https://makefiletutorial.com/ (makefile guide)
+459. https://marbleblast.vaniverse.io/ (marble blast game)
+460. https://take.surf/2025/06/19/transparent-ambition (ambition?)
+461. https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/m (job advice)
+462. https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/ (exit interview)
+463. https://github.com/public-apis/public-apis (list of public apis)

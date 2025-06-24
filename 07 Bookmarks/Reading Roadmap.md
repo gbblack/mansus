@@ -39,6 +39,8 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - On Bullshit
 - Tidy First?
 - A People's History of the United States
+- Consolations by David Whyte
+- The Black Swan by Taleb
 ### Textbooks
 - A Philosophy of Software Design, 2nd Edition
 - Patterns for API design
