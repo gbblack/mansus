@@ -461,3 +461,7 @@
 461. https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/m (job advice)
 462. https://blog.petdance.com/2017/03/31/skip-the-exit-interview-when-you-leave-your-job/ (exit interview)
 463. https://github.com/public-apis/public-apis (list of public apis)
+464. https://shanrauf.com/archive/how-to-think-about-time-in-programming (programming time)
+465. https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/ (time management)
+466. https://www.tombihn.com/blogs/main/tokyo-adventures-a-designers-perspective (japanese design)
+467. https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/ (engineers hate their manager)
