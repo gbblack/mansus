@@ -467,3 +467,4 @@
 467. https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/ (engineers hate their manager)
 468. https://southcla.ws/structured-errors-in-go (error management in Go)
 469. https://www.willett.io/posts/precepts/ (infra/prod/deployability advice)
+470. http://genius.cat-v.org/richard-feynman/writtings/letters/problems (feynman's letter to a student)

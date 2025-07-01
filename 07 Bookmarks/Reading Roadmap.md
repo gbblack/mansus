@@ -6,7 +6,6 @@
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant and Matthew Auburn.
 - [[Learning Systems Thinking]] by Diana Montalion.
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
-- [[The TypeScript Workshop]] by Ben Grynhaus, Jordan Hudgens and Rayon Hunte.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - **The Devil in the White City** by Erik Larson.

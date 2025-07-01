@@ -23,27 +23,3 @@ a lil intro block
 a randomiser?
 
 The home note should link to index Maps of Content?
-
-
-```
-        {
-          "common_type": "custom",
-          "file_prefix": "Unique Joins by Country-data",
-          "metric_mappings": [
-            {
-              "ignored_rows": 0,
-              "time_source": "now",
-              "category": "joins",
-              "subcategory": "country",
-              "value_mappings": [
-                {
-                  "avatar_collection_id": 75,
-                  "value": 1,
-                  "field": 0,
-                  "string_to_number": false
-                }
-              ]
-            }
-          ]
-        },
-```
