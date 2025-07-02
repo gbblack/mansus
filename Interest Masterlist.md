@@ -468,3 +468,5 @@
 468. https://southcla.ws/structured-errors-in-go (error management in Go)
 469. https://www.willett.io/posts/precepts/ (infra/prod/deployability advice)
 470. http://genius.cat-v.org/richard-feynman/writtings/letters/problems (feynman's letter to a student)
+471. https://jakearchibald.com/2025/give-footnotes-the-boot/ (footnotes on the web are annoying actually)
+472. https://utk.claranguyen.me/talks.php?id=videogames (graph theory in games)

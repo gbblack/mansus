@@ -34,6 +34,11 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - The Famished Road
 - The God of Small Things
 - Careless People
+- The Ones Who Walk Away from Omelas
+- Dream of the Red Chamber
+- Solaris
+- Candide: or, the Optimist
+- The Trial
 ### Non Fiction
 - On Bullshit
 - Tidy First?
