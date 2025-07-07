@@ -7,6 +7,8 @@ Progressive Hydration:
 
 Writing and Thinking:
 - [[Writes and Write-Nots]]
+- [[Coming home]]
+- [[Writes and Write-Nots]]
 
 Freedom as a state of exception to Law:
 - [[Flesh and Blood]]
@@ -14,9 +16,6 @@ Freedom as a state of exception to Law:
 Learning:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
 - [[You Must Read At Least One Book To Ride]]
-
-why write:
-- [[Writes and Write-Nots]]
 
 Theory Crafting:
 - [[Software Design is Knowledge Building]]
@@ -26,6 +25,6 @@ Indieweb:
 - [[Thoughts on the Resiliency of Web Projects]]
 - [[blogs rot wikis wait]]
 
-blogging:
+blogging (more practical):
 - [[Advice for a friend who wants to start a blog]]
 - [[Writing a tech blog people want to read]]
