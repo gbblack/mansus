@@ -473,3 +473,6 @@
 473. https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/ (lists as monads)
 474. https://florian.github.io//xor-trick/ (xor)
 475. https://entropicthoughts.com/lessons-from-creating-first-text-adventure (text adventure)
+476. https://www.dolthub.com/blog/2024-06-25-polymorphic-associations/ (polymorphic data)
+477. https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html (better writing)
+478. https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html (REST apis arent RESful)
