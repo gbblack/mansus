@@ -8,7 +8,7 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **The Devil in the White City** by Erik Larson.
+- **Zen and the Art of Motorcycle Maintenance** by Robert M. Pirsig.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -77,16 +77,17 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 1. **The Picture of Dorian Gray** by Oscar Wilde.
 2. **Another Country** by James Baldwin.
 3. **The Chrysalids** by John Wyndham.
-4. ==**The Color of Water: A Black Man's Tribute to His White Mother** by James McBride.==
+4. ==**The Color of Water: A Black Man's Tribute to His White Mother**== by James McBride.
 5. **Neuromancer** by William Gibson.
 6. **The Sun Also Rises** by Ernest Hemingway.
 7. **For the Love of Go** by John Arundel.
 8. **The White Tiger** by Aravind Adiga.
 9. **Slaughterhouse-Five** by Kurt Vonnegut.
+10. ==**The Devil in the White City**== by Erik Larson.
 ## 2024
 ---
 ### Read
-1. ==**How to Take Smart Notes** by Sönke Ahrens.==
+1. ==**How to Take Smart Notes**== by Sönke Ahrens.
 2. **Building a Second Brain** by Tiago Forte.
 3. **One Hundred Years of Solitude** by Gabriel García Márquez.
 4. **A Memory Called Empire** by Arkady Martine.
