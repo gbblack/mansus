@@ -39,6 +39,9 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 - Solaris
 - Candide: or, the Optimist
 - The Trial
+
+### Neither
+- Tao Te Ching
 ### Non Fiction
 - On Bullshit
 - Tidy First?
@@ -84,6 +87,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 8. **The White Tiger** by Aravind Adiga.
 9. **Slaughterhouse-Five** by Kurt Vonnegut.
 10. ==**The Devil in the White City**== by Erik Larson.
+11. **The Power of Go Tools** by John Arundel.
 ## 2024
 ---
 ### Read

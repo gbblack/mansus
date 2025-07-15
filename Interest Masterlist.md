@@ -479,3 +479,6 @@
 479. https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore (losing personality)
 480. https://jyn.dev/theory-building-without-a-mentor/ (theory crafting)
 481. https://wizardzines.com/zines/debugging-guide/ (debugging)
+482. https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy (randomness as protection against corruption)
+483. https://www.fldr.zip/blog/sell-yourself (sell yourself when job hunting)
+484. https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/ (judge ai for yourself)
