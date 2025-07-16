@@ -6,16 +6,8 @@ publication:
 source: https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/
 created: 2025-06-16
 ---
-# A Beginner’s Guide to the True Order of SQL Operations
 
-> [!abstract] Summary
-## Highlights
----
-> The SQL language is very intuitive. Until it isn’t. Over the years, a lot of people have criticised the SQL language for a variety of reasons. For instance: IDEs cannot easily guess what auto completion options to offer
 
-> These things are weird, because the _lexical_ order of operations does not match the _logical_ order of operations.
-
-> All the different SQL clauses have extremely complex interdependencies.
 
 
 ## Citation

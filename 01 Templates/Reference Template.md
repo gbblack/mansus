@@ -4,11 +4,4 @@ tags:
 created:
 ---
 # Title
----
 
-|     |     |
-| --- | --- |
-|     |     |
-
-##### Sources
----
