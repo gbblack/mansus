@@ -38,6 +38,7 @@ Links to published Obsidian vaults
 | https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well |     |
 | https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0                |     |
 | https://chadnauseam.com/faq                                           |     |
+|                                                                       |     |
 ### Gardens
 Links to Digital Gardens
 

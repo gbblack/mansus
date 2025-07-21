@@ -8,7 +8,6 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **Zen and the Art of Motorcycle Maintenance** by Robert M. Pirsig.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -88,6 +87,8 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 9. **Slaughterhouse-Five** by Kurt Vonnegut.
 10. ==**The Devil in the White City**== by Erik Larson.
 11. **The Power of Go Tools** by John Arundel.
+12. ==**Zen and the Art of Motorcycle Maintenance**== by Robert M. Pirsig.
+13. ==**Flowers for Algernon**== by Daniel Keyes.
 ## 2024
 ---
 ### Read
