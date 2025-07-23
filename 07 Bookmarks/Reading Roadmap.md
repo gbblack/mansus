@@ -8,7 +8,7 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-
+- **A Visit from the Goon Squad** by Jennifer Egan.
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels
@@ -89,6 +89,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 11. **The Power of Go Tools** by John Arundel.
 12. ==**Zen and the Art of Motorcycle Maintenance**== by Robert M. Pirsig.
 13. ==**Flowers for Algernon**== by Daniel Keyes.
+14. **Snow Country** by Yasunari Kawabata.
 ## 2024
 ---
 ### Read

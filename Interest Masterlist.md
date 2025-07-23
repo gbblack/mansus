@@ -489,3 +489,5 @@
 489. https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html (low quality)
 490. https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/ (bike safety)
 491. https://tsx.is/ (tsx my beloved)
+492. https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking (if no one is writing or reading who's thinking)
+493. https://hardcoresoftware.learningbyshipping.com/p/224-books-to-read-and-gift-2024-eoy (book list)
