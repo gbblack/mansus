@@ -497,3 +497,6 @@
 497. https://brianschrader.com/archive/developing-style-writing-cursive-two-years-in/ (developing cursive)
 498. https://usefulfictions.substack.com/p/how-to-increase-your-surface-area (increase your luck in life through proactive action)
 499. https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty (oop was a mistake)
+500. https://abitmighty.com/posts/the-ultimate-meeting-culture (meeting culture)
+501. https://12factor.net/ (12 factor app, principles)
+502. https://every-layout.dev/ (learn css)
