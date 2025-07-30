@@ -500,3 +500,6 @@
 500. https://abitmighty.com/posts/the-ultimate-meeting-culture (meeting culture)
 501. https://12factor.net/ (12 factor app, principles)
 502. https://every-layout.dev/ (learn css)
+503. https://fffej.substack.com/p/measuring-engineering (estimating cycle time, research paper included in article)
+504. https://github.com/jarulraj/periodic-table (Systems Design Gold Mine)
+505. https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/ (plain html and css insta of single page applications (SPA))
