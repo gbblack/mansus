@@ -29,6 +29,7 @@ Links to individual Blogs
 | https://reillyspitzfaden.com/        |                                      |
 | https://notes.volution.ro/           |                                      |
 | https://seankhliao.com/              |                                      |
+| https://stephango.com/               | CEO of Obsidian                      |
 ### Vaults
 Links to published Obsidian vaults
 
