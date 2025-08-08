@@ -30,6 +30,7 @@ Links to individual Blogs
 | https://notes.volution.ro/           |                                      |
 | https://seankhliao.com/              |                                      |
 | https://stephango.com/               | CEO of Obsidian                      |
+| https://hamatti.org/                 |                                      |
 ### Vaults
 Links to published Obsidian vaults
 
