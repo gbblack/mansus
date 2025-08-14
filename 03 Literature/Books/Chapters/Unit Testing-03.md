@@ -83,7 +83,7 @@ created at: 2025-02-22
 - There should only be one point of entry in the SUT which is what the test uses to trigger the behaviour we are testing.
 - Therefore its important to differentiate the SUT from its dependencies in the test.
 - A good way to do this is by capturing the outcome from the act call in a variable named `sut`.
-#### Dropping the arrange. act and assert comments from tests
+#### Dropping the arrange, act, and assert comments from tests
 - The AAA section should be differentiated from each other for better readability and maintainability.
 - A common way it to include single line comments above each section: `// arrange`. Good for larger tests.
 - If the test is mall having an empty line between the sections is enough.
@@ -138,6 +138,9 @@ created at: 2025-02-22
 ### Using an assertion library to further improve test readability
 - Using an assertion library can help readability. They change how you write assertions to be more readable.
 - They also provide many helper methods to improve your test suite.
+
+Next: [[Unit Testing-04]]
+Previous: [[Unit Testing-02]]
 ## Citation
 ---
 

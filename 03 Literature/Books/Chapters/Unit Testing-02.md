@@ -173,6 +173,9 @@ Definition: A collaborator is a dependency that's either shared or mutable.
 ![[UnitTesting-012.png]]
 - The E2E test will cover all three dependencies, regardless of control. As such E2E tests are run only sparingly and only after all unit and integration tests have passed. 
 - Sometimes E2E tests are only run on build and not locally.
+
+Next: [[Unit Testing-03]]
+Previous: [[Unit Testing-01]]
 ## Citation
 ---
 ```
