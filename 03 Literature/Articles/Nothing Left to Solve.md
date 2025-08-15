@@ -14,15 +14,15 @@ created: 2025-01-06
 > A post on the idea that some software problems can be considered solved, and that doing more work on these problems worsen them rather than improve them.
 ## Highlights
 ---
-> if they want to **develop something that appeals to everyone**, there must be a ==**genuine problem to address.**==
+if they want to **develop something that appeals to everyone**, there must be a ==**genuine problem to address.**==
 
-> **==questioning== whether there is indeed ==a problem**== to solve at the moment.
+**==questioning== whether there is indeed ==a problem**== to solve at the moment.
 
-> At some point, we ==**solidified the layout== of a calculator.** If we change it too much, **we ==diminish== value ==rather than add== to it.**
+At some point, we ==**solidified the layout== of a calculator.** If we change it too much, **we ==diminish== value ==rather than add== to it.**
 
-> we have ==**solved some software problems**==
+we have ==**solved some software problems**==
 
-> Some things **may ==not require redesigning==. We might have simply figured them out.**
+Some things **may ==not require redesigning==. We might have simply figured them out.**
 ## Citation
 ---
 ```

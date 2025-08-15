@@ -14,11 +14,11 @@ created: 2024-11-18
 > The limiting factor in learning isn't intelligence, it is the knowledge base you have. If a topic is too difficult, start at the beginning and work your way forward. 
 ## Highlights
 ---
-> It’s like walking into a movie halfway through—**you can’t understand the plot because you ==missed the beginning==.**
+It’s like walking into a movie halfway through—**you can’t understand the plot because you ==missed the beginning==.**
 
-> The gap in comprehension wasn’t due to a lack of ability but rather ==**a gap== in prerequisite knowledge**.
+The gap in comprehension wasn’t due to a lack of ability but rather ==**a gap== in prerequisite knowledge**.
 
-> Each ==**foundational concept== I mastered ==laid the groundwork== for more complex theories** and problems.
+Each ==**foundational concept== I mastered ==laid the groundwork== for more complex theories** and problems.
 ## Citation
 ---
 ```
