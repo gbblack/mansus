@@ -32,6 +32,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 ### Tools
 Links to tools that I might want to look into.
 
+<<<<<<< Updated upstream
 | Topic                | Link                                                             |
 | -------------------- | ---------------------------------------------------------------- |
 | Encryption           | https://codeberg.org/ezcrypt/ezcry                               |
@@ -52,6 +53,27 @@ Links to tools that I might want to look into.
 | Linux Server Admin   | https://github.com/livialima/linuxupskillchallenge               |
 | Arch Distro          | https://omarchy.org/                                             |
 | plaintext accounting | https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ |
+=======
+| Topic              | Link                                                            |
+| ------------------ | --------------------------------------------------------------- |
+| Encryption         | https://codeberg.org/ezcrypt/ezcry                              |
+| Shaders            | https://thejenkinscomic.net/shaderbloc                          |
+| Audio              | https://matthew-bird.com/blogs/Audio-Decomposition.html         |
+| CSV Visualisation  | https://docs.visprex.com/                                       |
+| HTML to md         | https://github.com/JohannesKaufmann/html-to-markdown            |
+| Docker             | https://github.com/jesseduffield/lazydocker                     |
+| Spotify            | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file |
+| Obsidian Plugin    | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file |
+| Fish Shell         | https://fishshell.com/                                          |
+| Dev Tool Manager   | https://github.com/jdx/mise                                     |
+| Email Manager      | https://github.com/pimalaya/himalaya                            |
+| Color Generator    | https://www.iamsajid.com/colors/                                |
+| Python UI          | https://github.com/Textualize/textual?tab=readme-ov-file        |
+| OAuth              | https://github.com/openauthjs/openauth                          |
+| Git Branching      | https://learngitbranching.js.org/                               |
+| Linux Server Admin | https://github.com/livialima/linuxupskillchallenge              |
+| PC Builds          | https://www.buildcores.com/                                     |
+>>>>>>> Stashed changes
 
 ### Projects
 Links to cool projects I want to check out.
