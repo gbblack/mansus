@@ -8,6 +8,8 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
+- **A Closed and Common** Orbit by Becky Chambers.
+
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels

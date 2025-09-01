@@ -13,3 +13,4 @@ Text/Articles I've read but I don't feel need to be immortalised as notes. Somet
    "blogs rot. wikis wait."
 10. https://publicdomainreview.org/essay/the-man-and-the-crowd/ (Analysis of silent file *The Crowd*, speaking on its criticism of American Individualism )
 11. https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom (short maifesto(esque) article on why wiki need to ditch fandom, and how to do so)
+12. https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking (article higlighting the issue that with AI writing internal docs that no one ever reads that could lead to dire consequences further down the line since no one actual knows what _is_ company policy.)
