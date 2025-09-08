@@ -416,6 +416,8 @@
 415. https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/ (do the simple thing)
 416. https://geohot.github.io//blog/jekyll/update/2025/08/31/you-can-never-go-back.html (nostalgia maybe?)
 417. https://mitchellh.com/writing/feel-it (feeling it)
+418. https://reasonablypolymorphic.com/blog/protos-are-wrong/ (protobufs are bad actually)
+419. https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/ (parsing over validation)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
@@ -490,6 +492,7 @@
 71. https://evanverma.com/rss-is-awesome (RSS)
 72. https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view (open telemtry traces and spans)
 73. https://tornikeo.com/code-is-debt/ (code debt)
+74. https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/ (how to not log secrets)
 
 ## Tools, Books, Wikis
 1. https://www.htmlhobbyist.com/ (html project)
@@ -544,3 +547,4 @@
 50. https://websvg.com/ (free svgs)
 51. https://github.com/renzorlive/vimmaster (vim game)
 52. https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/ (linux containers and vms)
+53. https://helpthisbook.com/lou-franco/swimming-in-tech-debt (in progress book on tech debt)
