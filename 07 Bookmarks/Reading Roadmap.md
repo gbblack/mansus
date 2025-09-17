@@ -8,7 +8,7 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **A Closed and Common** Orbit by Becky Chambers.
+- **Life Ceremony** by Sayaka Murata.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -93,6 +93,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 15. **Rainbow in the Cloud** by Maya Angelou.
 16. **Foundation** by Isaac Asimov.
 17. **A Visit from the Goon Squad** by Jennifer Egan.
+18. **A Closed and Common** Orbit by Becky Chambers.
 ## 2024
 ---
 ### Read

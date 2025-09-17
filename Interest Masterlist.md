@@ -418,6 +418,11 @@
 417. https://mitchellh.com/writing/feel-it (feeling it)
 418. https://reasonablypolymorphic.com/blog/protos-are-wrong/ (protobufs are bad actually)
 419. https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/ (parsing over validation)
+420. https://idiallo.com/blog/writing-code-is-easy-reading-is-hard (reading code is harder than writing)
+421. https://tidyfirst.substack.com/p/programming-deflation (less programmers?)
+422. https://www.lorenstew.art/blog/react-won-by-default/ (react no bueno)
+423. https://harpers.org/archive/1932/10/in-praise-of-idleness/ (idleness)
+424. https://www.jeffwofford.com/wp/?p=2240 (job search)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
@@ -493,6 +498,8 @@
 72. https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view (open telemtry traces and spans)
 73. https://tornikeo.com/code-is-debt/ (code debt)
 74. https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/ (how to not log secrets)
+75. https://www.gresearch.com/news/in-praise-of-dry-run/ (dry run strategy)
+76. https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/ (z3? dunno)
 
 ## Tools, Books, Wikis
 1. https://www.htmlhobbyist.com/ (html project)
@@ -548,3 +555,5 @@
 51. https://github.com/renzorlive/vimmaster (vim game)
 52. https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/ (linux containers and vms)
 53. https://helpthisbook.com/lou-franco/swimming-in-tech-debt (in progress book on tech debt)
+54. https://github.com/go-monk/from-bash-to-go-part-ii (go from bash)
+55. https://www.youtube.com/watch?v=_xJ4maWhSNU (property based testing, video)
