@@ -32,49 +32,26 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 ### Tools
 Links to tools that I might want to look into.
 
-<<<<<<< Updated upstream
-| Topic                | Link                                                             |
-| -------------------- | ---------------------------------------------------------------- |
-| Encryption           | https://codeberg.org/ezcrypt/ezcry                               |
-| Shaders              | https://thejenkinscomic.net/shaderbloc                           |
-| Audio                | https://matthew-bird.com/blogs/Audio-Decomposition.html          |
-| CSV Visualisation    | https://docs.visprex.com/                                        |
-| HTML to md           | https://github.com/JohannesKaufmann/html-to-markdown             |
-| Docker               | https://github.com/jesseduffield/lazydocker                      |
-| Spotify              | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file  |
-| Obsidian Plugin      | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file  |
-| Fish Shell           | https://fishshell.com/                                           |
-| Dev Tool Manager     | https://github.com/jdx/mise                                      |
-| Email Manager        | https://github.com/pimalaya/himalaya                             |
-| Color Generator      | https://www.iamsajid.com/colors/                                 |
-| Python UI            | https://github.com/Textualize/textual?tab=readme-ov-file         |
-| OAuth                | https://github.com/openauthjs/openauth                           |
-| Git Branching        | https://learngitbranching.js.org/                                |
-| Linux Server Admin   | https://github.com/livialima/linuxupskillchallenge               |
-| Arch Distro          | https://omarchy.org/                                             |
-| plaintext accounting | https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ |
-=======
-| Topic              | Link                                                            |
-| ------------------ | --------------------------------------------------------------- |
-| Encryption         | https://codeberg.org/ezcrypt/ezcry                              |
-| Shaders            | https://thejenkinscomic.net/shaderbloc                          |
-| Audio              | https://matthew-bird.com/blogs/Audio-Decomposition.html         |
-| CSV Visualisation  | https://docs.visprex.com/                                       |
-| HTML to md         | https://github.com/JohannesKaufmann/html-to-markdown            |
-| Docker             | https://github.com/jesseduffield/lazydocker                     |
-| Spotify            | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file |
-| Obsidian Plugin    | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file |
-| Fish Shell         | https://fishshell.com/                                          |
-| Dev Tool Manager   | https://github.com/jdx/mise                                     |
-| Email Manager      | https://github.com/pimalaya/himalaya                            |
-| Color Generator    | https://www.iamsajid.com/colors/                                |
-| Python UI          | https://github.com/Textualize/textual?tab=readme-ov-file        |
-| OAuth              | https://github.com/openauthjs/openauth                          |
-| Git Branching      | https://learngitbranching.js.org/                               |
-| Linux Server Admin | https://github.com/livialima/linuxupskillchallenge              |
-| PC Builds          | https://www.buildcores.com/                                     |
->>>>>>> Stashed changes
-
+| Topic              | Link                                                             |
+| ------------------ | ---------------------------------------------------------------- |
+| Encryption         | https://codeberg.org/ezcrypt/ezcry                               |
+| Shaders            | https://thejenkinscomic.net/shaderbloc                           |
+| Audio              | https://matthew-bird.com/blogs/Audio-Decomposition.html          |
+| CSV Visualisation  | https://docs.visprex.com/                                        |
+| HTML to md         | https://github.com/JohannesKaufmann/html-to-markdown             |
+| Docker             | https://github.com/jesseduffield/lazydocker                      |
+| Spotify            | https://github.com/sjdonado/idonthavespotify?tab=readme-ov-file  |
+| Obsidian Plugin    | https://github.com/mark-when/obsidian-plugin?tab=readme-ov-file  |
+| Fish Shell         | https://fishshell.com/                                           |
+| Dev Tool Manager   | https://github.com/jdx/mise                                      |
+| Email Manager      | https://github.com/pimalaya/himalaya                             |
+| Color Generator    | https://www.iamsajid.com/colors/                                 |
+| Python UI          | https://github.com/Textualize/textual?tab=readme-ov-file         |
+| OAuth              | https://github.com/openauthjs/openauth                           |
+| Git Branching      | https://learngitbranching.js.org/                                |
+| Linux Server Admin | https://github.com/livialima/linuxupskillchallenge               |
+| Arch Distro        | https://omarchy.org/                                             |
+| Accounting         | https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ |
 ### Projects
 Links to cool projects I want to check out.
 
@@ -105,10 +82,12 @@ Links to cool stuff on the internet.
 | Random Indie Blogs        | https://indieblog.page/                                                                   |
 |                           |                                                                                           |
 
----
 ## Dissertations
 
 1. https://www.jstor.org/stable/3824296 (thinking too much)
 
 ## Cool Tools
 https://ikuyo.kenrick95.org/landing (travel planning)
+
+
+https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/
