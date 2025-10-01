@@ -418,6 +418,8 @@
 417. https://www.lorenstew.art/blog/react-won-by-default/ (react no bueno)
 418. https://harpers.org/archive/1932/10/in-praise-of-idleness/ (idleness)
 419. https://www.jeffwofford.com/wp/?p=2240 (job search)
+420. https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world (why tiger beetle is cool)
+421. https://refactoringenglish.com/blog/software-essays-that-shaped-me/ (good software essays)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
@@ -494,6 +496,7 @@
 73. https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/ (how to not log secrets)
 74. https://www.gresearch.com/news/in-praise-of-dry-run/ (dry run strategy)
 75. https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/ (z3? dunno)
+76. https://www.matheusmoreira.com/articles/managing-dotfiles-with-make (managing dotfiles with make)
 
 ## Tools, Books, Wikis
 1. https://www.htmlhobbyist.com/ (html project)
