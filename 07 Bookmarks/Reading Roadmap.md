@@ -8,7 +8,7 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **Life Ceremony** by Sayaka Murata.
+- **All Quiet on the Western Front** by Erich Maria Remarque.
 
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
@@ -94,6 +94,9 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 16. **Foundation** by Isaac Asimov.
 17. **A Visit from the Goon Squad** by Jennifer Egan.
 18. **A Closed and Common** Orbit by Becky Chambers.
+19. **Life Ceremony** by Sayaka Murata.
+### Abandoned
+1. **Stand on Zanzibar** by John Brunner.
 ## 2024
 ---
 ### Read
