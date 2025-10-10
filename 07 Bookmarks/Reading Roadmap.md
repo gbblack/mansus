@@ -8,8 +8,7 @@
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **All Quiet on the Western Front** by Erich Maria Remarque.
-
+- **The Word for World is Forest** by Ursula K. Le Guin.
 ## Reading List
 https://everything2.com/title/Books+that+will+induce+a+mindfuck
 ### Novels
@@ -95,6 +94,7 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 17. **A Visit from the Goon Squad** by Jennifer Egan.
 18. **A Closed and Common** Orbit by Becky Chambers.
 19. **Life Ceremony** by Sayaka Murata.
+20. **All Quiet on the Western Front** by Erich Maria Remarque.
 ### Abandoned
 1. **Stand on Zanzibar** by John Brunner.
 ## 2024

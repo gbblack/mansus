@@ -22,3 +22,16 @@ Only include things here that I have consumed but did not keep, either as a note
 
 2025-10-01
 1. [our efforts, in part, define us](https://weakty.com/posts/efforts/)
+
+2025-10-02
+1. [Individuals matter](https://danluu.com/people-matter/)
+2. [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
+3. [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
+
+2025-10-08
+1. [Gore Vidal: American prophet](https://www.newstatesman.com/ideas/2025/10/gore-vidal-american-prophet)
+2. [How To Figure Out What You're Not Good At](https://blog.martin-haehnel.de/2025/10/07/how-to-figure-out-what-you-re-not-good-at/)
+
+2025-10-09
+1. [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
+2. [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2)

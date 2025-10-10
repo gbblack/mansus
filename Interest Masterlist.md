@@ -420,6 +420,9 @@
 419. https://www.jeffwofford.com/wp/?p=2240 (job search)
 420. https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world (why tiger beetle is cool)
 421. https://refactoringenglish.com/blog/software-essays-that-shaped-me/ (good software essays)
+422. https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2 (work delivery in software companies)
+423. https://mitchellh.com/writing/building-large-technical-projects (big projects)
+424. https://romanzipp.com/blog/why-a-homelab-why-self-host (why homelab)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
@@ -554,3 +557,6 @@
 53. https://helpthisbook.com/lou-franco/swimming-in-tech-debt (in progress book on tech debt)
 54. https://github.com/go-monk/from-bash-to-go-part-ii (go from bash)
 55. https://www.youtube.com/watch?v=_xJ4maWhSNU (property based testing, video)
+56. https://www.debuggingbook.org/ (a whole book on debugging, bless)
+57. https://talkpython.fm/books/python-in-production (infra around python)
+58. https://www.amazon.com.au/Moral-Mazes-World-Corporate-Managers/dp/0199729883 (book on middle management)
