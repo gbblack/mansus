@@ -423,6 +423,7 @@
 422. https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2 (work delivery in software companies)
 423. https://mitchellh.com/writing/building-large-technical-projects (big projects)
 424. https://romanzipp.com/blog/why-a-homelab-why-self-host (why homelab)
+425. https://dorotac.eu/posts/fosswon/ (foss lost)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
