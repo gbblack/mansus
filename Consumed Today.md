@@ -35,3 +35,16 @@ Only include things here that I have consumed but did not keep, either as a note
 2025-10-09
 1. [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
 2. [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2)
+
+2025-10-14
+1. [New York Times, AP, Newsmax among news outlets who say they won’t sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
+2. [Defining AI](https://ali-alkhatib.com/blog/defining-ai) -> [[Defining AI|Note]]
+
+2025-10-15
+1. [Does the news reflect what we die from?](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
+2. [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+3. [Updating Desktop Rust](https://tritium.legal/blog/update)
+4. [fast](https://www.catherinejue.com/fast) -> [[fast|Note]]
+5. [Why Superhuman is built for speed: applying the 100ms rule to email](https://blog.superhuman.com/superhuman-is-built-for-speed/?utm_source=catherinejue&utm_medium=email)
+6. [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
+7. [The Burnout Machine](https://unionize.fyi/)

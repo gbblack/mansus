@@ -52,6 +52,7 @@ Links to tools that I might want to look into.
 | Linux Server Admin | https://github.com/livialima/linuxupskillchallenge               |
 | Arch Distro        | https://omarchy.org/                                             |
 | Accounting         | https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ |
+| Web  Dev           | https://webdev.bryanhogan.com/                                   |
 ### Projects
 Links to cool projects I want to check out.
 
