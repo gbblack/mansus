@@ -48,3 +48,34 @@ Only include things here that I have consumed but did not keep, either as a note
 5. [Why Superhuman is built for speed: applying the 100ms rule to email](https://blog.superhuman.com/superhuman-is-built-for-speed/?utm_source=catherinejue&utm_medium=email)
 6. [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 7. [The Burnout Machine](https://unionize.fyi/)
+
+2025-10-16
+1. [Why your boss isn't worried about AI](https://boydkane.com/essays/boss)
+2. [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
+
+2025-10-17
+1. [Object-Oriented Configuration: Why TOML Is the Only Choice](https://agent-ci.com/blog/2025/10/15/object-oriented-configuration-why-toml-is-the-only-choice)
+2. [How to tame a user interface using a spreadsheet](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)
+3. [Monokai Pro Vibrant theme for Nova editor](https://blog.gingerbeardman.com/2025/05/14/monokai-pro-vibrant-theme-for-nova-editor/)
+4. [On Talent](https://www.felixstocker.com/blog/talent)
+5. [Developing Style: Writing Cursive Two Years In](https://brianschrader.com/archive/developing-style-writing-cursive-two-years-in/)
+
+2025-10-20
+1. [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
+2. [Everybody's so Creative!](https://daymare.net/blogs/everbody-so-creative/)
+3. [Naming code, the value-identity relation](https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/naming-code.html)
+4. [Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/)
+
+2925-10-21
+1. [The scariest “user support” email I’ve ever received](https://www.devas.life/the-scariest-user-support-email-ive-ever-received/)
+2. [What I self host](https://fredrikmeyer.net/2025/10/18/what-i-self-host.html)
+3. [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
+4. [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+5. [Temporal Resources: Managing Time When Time Doesn't Exist](https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/)
+
+2025-10-22
+1. [If you’d built a “tool” that stupid, why would you advertise the fact?](https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/)
+2. [My Programming Career is a Historical Artifact](https://payne.io/posts/historical-artifact/)
+3. [You Cannot Outsource Understanding](https://russmiles.substack.com/p/you-cannot-outsource-understanding)
+4. [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+5. [Drawing Text on Screen - What Could Be Simpler?](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
