@@ -79,3 +79,31 @@ Only include things here that I have consumed but did not keep, either as a note
 3. [You Cannot Outsource Understanding](https://russmiles.substack.com/p/you-cannot-outsource-understanding)
 4. [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 5. [Drawing Text on Screen - What Could Be Simpler?](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
+
+2025-10-24
+
+1. [Computer Science Courses that Don't Exist, But Should](https://prog21.dadgum.com/210.html)
+2. [If You Haven't Done It Before, All Bets Are Off](https://prog21.dadgum.com/209.html)
+3. [Simplicity is Wonderful, But Not a Requirement](https://prog21.dadgum.com/167.html)
+4. [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
+5. [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html)
+6. [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html) -> [[ Write Code Like You Just Learned How to Program|Note]]
+7. [Five Memorable Books About Programming](https://prog21.dadgum.com/19.html)
+8. [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought) -> [[When is it better to think without words?|Note]]
+9. [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
+10. [There is No Meritocracy Without Lottocracy](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy) -> [[There is No Meritocracy Without Lottocracy|Note]]
+11. [Sell Yourself Well - What Soham Parekh can teach us](https://www.fldr.zip/blog/sell-yourself) -> [[Sell Yourself Well - What Soham Parekh can teach us|Note]]
+12. [Log by Time, not by Count](https://johnscolaro.xyz/blog/log-by-time-not-by-count) -> [[Log by Time, not by Count|Note]]
+13. [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html) -> [[The bewildering phenomenon of declining quality|Note]]
+14. [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/) -> [[Barnyard]]
+15. [The IndieWeb Doesn't Need to "Take Off"](https://susam.net/indieweb-does-not-need-to-take-off.html) -> [[Barnyard]]
+16. [The New Three-Tier Application](https://www.dbos.dev/blog/new-three-tier-application)
+17. [JSON has become today's machine-readable output format (on Unix)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat) -> [[Barnyard]]
+18. [The tyranny of apps: those without smartphones are unfairly penalised, say campaigners](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners) -> [[Barnyard]]
+19. [YOUTH](https://tolstoyan.substack.com/p/youth)-> [[Barnyard]]
+20. [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/
+21. [How the British Broke Their Own Economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
+22. [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/) -> [[Why writing small docs is a game changer|Note]]
+23. [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels) -> [[Barnyard]]
+24. [Pee If You Want to go Deeper](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
+25. [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide) -> [[Barnyard]]
