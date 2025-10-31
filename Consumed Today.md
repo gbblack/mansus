@@ -107,3 +107,30 @@ Only include things here that I have consumed but did not keep, either as a note
 23. [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels) -> [[Barnyard]]
 24. [Pee If You Want to go Deeper](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 25. [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide) -> [[Barnyard]]
+
+2025-10-27
+1. [You already have a git server](https://maurycyz.com/misc/easy_git/) -> [[Tips&Tricks]]
+2. [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/) -> [[Tips&Tricks]]
+3. [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
+4. [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/) -> [[Mistakes I see engineers making in their code reviews|Note]]
+5. [We’re in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
+6. [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)
+7. [How we run projects at Linear](https://linear.app/now/how-we-run-projects-at-linear)
+8. [Parsing data is nicer than only validating it](https://mtsknn.fi/blog/parse-dont-just-validate/) -> [[Parsing data is nicer than only validating it|Note]]
+
+2025-10-28
+1. [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html "Simplify Your Code: Functional Core, Imperative Shell") -> [[Tips&Tricks]]
+2. [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) -> [[Tips&Tricks]]
+
+2025-10-29
+1. [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art) -> [[Barnyard]]
+
+2025-10-31
+1. [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html) -> [[Tips&Tricks]]
+2. [Free software scares normal people](https://danieldelaney.net/normal/)
+3. [A Classic Graphic Reveals Nature’s Most Efficient Traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
+4. [A heatmap diff viewer for code reviews](https://0github.com/)
+5. [I'm Independently Verifying Go's Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
+6. [I Built an App to Encourage My Kids to Invest — Just One HTML File](https://roberdam.com/en/dinversiones.html)
+7. [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+8. 
