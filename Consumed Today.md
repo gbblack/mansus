@@ -133,4 +133,9 @@ Only include things here that I have consumed but did not keep, either as a note
 5. [I'm Independently Verifying Go's Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 6. [I Built an App to Encourage My Kids to Invest — Just One HTML File](https://roberdam.com/en/dinversiones.html)
 7. [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
-8. 
+
+2025-11-04
+1. [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
+2. [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) -> [[Tips&Tricks]]
+3. [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
+4. [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) -> [[Barnyard]]

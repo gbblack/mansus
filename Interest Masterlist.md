@@ -402,6 +402,8 @@
 401. https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html (friendship)
 402. https://hojberg.xyz/the-programmer-identity-crisis/ (programmer identity)
 403. https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything (lotteryification)
+404. https://alfy.blog/2025/10/31/your-url-is-your-state.html (urls as state)
+405. https://animationobsessive.substack.com/p/when-stick-figures-fought (stick figure fighting)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
