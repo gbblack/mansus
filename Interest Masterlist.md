@@ -404,6 +404,9 @@
 403. https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything (lotteryification)
 404. https://alfy.blog/2025/10/31/your-url-is-your-state.html (urls as state)
 405. https://animationobsessive.substack.com/p/when-stick-figures-fought (stick figure fighting)
+406. https://nilostolte.github.io/tech/articles/ZigCool.html (zig breakdown)
+407. https://www.subbu.org/articles/2025/tangled-mess/ (software is a mess)
+408. https://parkscomputing.com/page/i-hate-screenshots-of-text (death to text screenshots)
 ## Guides and Tutorials
 1.  https://www.youtube.com/watch?v=BL4DCEp7blY (PC building guide)
 2. https://a64.in/posts/learning-basic-electronics-by-building-fireflies/ (basic electronics)
