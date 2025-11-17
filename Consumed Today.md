@@ -139,3 +139,19 @@ Only include things here that I have consumed but did not keep, either as a note
 2. [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) -> [[Tips&Tricks]]
 3. [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 4. [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) -> [[Barnyard]]
+
+2025-11-13
+1. [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks)
+
+2025-11-14
+1. [Parkinson's Law: It's Real, So Use It](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
+2. [Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+3. [Needy Programs](https://tonsky.me/blog/needy-programs/)
+4. [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
+5. [Egoless Engineering](https://egoless.engineering/) -> [[Egoless Engineering]]
+6. [Can't Driven Development](https://rm4n0s.github.io/posts/6-cant-driven-development/) -> [[Can't Driven Development]]
+7. [Free will quite clearly doesn’t exist](https://sunshowers.io/posts/there-is-no-free-will/)
+8. [The world of tomorrow](https://worksinprogress.co/issue/the-world-of-tomorrow/)
+9. [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
+10. [Writing Code Is Easy. Reading It Isn’t.](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard) -> [[Barnyard]]
+11. [Trees not profits: we're giving up our right to ever sell Ecosia](https://blog.ecosia.org/trees-not-profits/)
