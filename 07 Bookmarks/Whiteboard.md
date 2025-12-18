@@ -8,7 +8,8 @@ Progressive Hydration:
 Writing and Thinking:
 - [[Writes and Write-Nots]]
 - [[Coming home]]
-- [[Writes and Write-Nots]]
+- [[As a developer, my most important tools are a pen and a notebook]]
+- [[Thoughts on thinking]]
 
 Freedom as a state of exception to Law:
 - [[Flesh and Blood]]
@@ -23,8 +24,16 @@ Theory Crafting:
 Indieweb:
 - [[Stop Using Fandom]]
 - [[Thoughts on the Resiliency of Web Projects]]
-- [[blogs rot wikis wait]]
+- [[blogs rot. wikis wait.]]
 
 blogging (more practical):
 - [[Advice for a friend who wants to start a blog]]
 - [[Writing a tech blog people want to read]]
+
+local-first app development:
+- [[Linear sent me down a local-first rabbit hole]]
+- [[Local-First & Ejectable]]
+- [Local-first software](https://www.inkandswitch.com/essay/local-first/) <- the manifesto essentially
+
+coding practices:
+- [[The Perfect Commit]]

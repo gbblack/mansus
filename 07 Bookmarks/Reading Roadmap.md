@@ -1,77 +1,63 @@
 # Reading Roadmap
 ## Currently Reading
-
-- **Moby Dick; or, The Whale** by Herman Melville.
 - [[The Rust Programming Language]] by Steve Klabnik and Carol Nichols.
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant and Matthew Auburn.
 - [[Learning Systems Thinking]] by Diana Montalion.
 - [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **Catch-22** by Joseph Heller.
+- **Fahrenheit 451** by Ray Bradbury.
 ## Reading List
-https://everything2.com/title/Books+that+will+induce+a+mindfuck
-### Novels
-- Frankenstein
-- Beloved, Toni Morrison
-- In Cold Blood
-- A Long Way Gone
-- Angela's Ashes
-- Fahrenheit 451
-- The Alchemist
-- Brave New World
-- Consider Phlebas
-- The Player of Games
-- Use of Weapons
-- Paradise Lost
-- What In Me Is Dark: The Revolutionary Life of Paradise Lost
-- The Bone People
-- Midnight's Children
-- Schindler's List
-- The Remains of the Day
-- The Sea, the Sea
-- The Famished Road
-- The God of Small Things
-- Careless People
-- The Ones Who Walk Away from Omelas
-- Dream of the Red Chamber
-- Solaris
-- Candide: or, the Optimist
-- The Trial
-### Neither
-- Tao Te Ching
-### Non Fiction
-- On Bullshit
-- Tidy First?
-- A People's History of the United States
-- Consolations by David Whyte
-- The Black Swan by Taleb
-### Textbooks
-- A Philosophy of Software Design, 2nd Edition
-- Patterns for API design
-- Head First: Software Architecture
-- Building Multi Tenant SaaS Architectures
-- Enabling Microservice success
-- Communication Patterns
-- Building on Event Driven Data Mesh
-- Building Evolutionary Architectures
-- RESTful Web API Patterns & Practices Cookbook
-- Software Architecture Patterns Second Edition
-- Foundations of Scalable Systems
-- Software Architecture Metrics
-- Software Architecture: The Hard Parts
-- Learning Domain Driven Design
-- Building Micro Frontends
-- Continuous API Management
-- Microservices Up & Running
-- The Art of Agile Development, 2nd Edition
-- Building Microservices, 2nd Edition
-- Practical Process Automation
-- Flow Architectures
-- The Software Architect Elevator
-- Monolith to Microservices
-- Technology Strategy Patterns
-- Designing Distributed Systems
+### Short Little Difficult Books
+- **Patriotism** by Yukio Mishima.
+- **The Trial** by Franz Kafka.
+- **The Art of Asking Your Boss for a Raise** by Georges Perec.
+- **The Employees** by Olga Ravn.
+- **The Box Man** by Kobo Abe.
+- **The Last Wolf & Herman** by László Krasznahorkai.
+- **The Loser** by Thomas Bernhard.
+- **Sula** by Toni Morrison.
+- **Child of God** by Cormac McCarthy.
+- **Pedro Páramo** by Juan Rulfo.
+- **Log of the S.S. the Mrs Unguentine** by Stanley Crawford.
+- **The Hearing Trumpet** by Leonora Carrington.
+- **Ubik** by Philip K. Dick.
+- **The Lime Twig** by John Hawkes.
+- **The Taiga Syndrome** by Cristina Rivera Garza.
+### Booker Prize
+- **The Sea, the Sea** by Iris Murdoch.
+- **The Bone People** by Keri Hulme.
+- **Midnight's Children** by Salman Rushdie.
+- **Schindler's Ark** by Thomas Keneally.
+- **The Remains of the Day** by Kazuo Ishiguro.
+- **The Famished Road** by Ben Okri.
+- **The God of Small Things** by Arundhati Roy.
+### My List
+- **Moby Dick; or, The Whale** by Herman Melville.
+- **Frankenstein** by Mary Shelley.
+- **Beloved** by Toni Morrison.
+- **In Cold Blood** by Truman Capote.
+- **A Long Way Gone** by Ishmael Beah.
+- **Angela's Ashes** by Frank McCourt.
+- **The Alchemist** by Paulo Coelho.
+- **Brave New World** by Aldous Huxley.
+- **Consider Phlebas** by Iain M Banks.
+- **The Player of Games** by Iain M Banks.
+- **Use of Weapons** by Iain M Banks.
+- **Paradise Lost** by John Milton.
+- **What In Me Is Dark: The Revolutionary Life of Paradise Lost** by Orlando Reade.
+- **The Ones Who Walk Away from Omelas** by Ursula K. Le Guin.
+- **Dream of the Red Chamber** by Cao Xueqin.
+- **Solaris** by Stanislaw Lem.
+- **Candide: or, the Optimist** by Voltaire.
+- **Careless People** by Sarah Wynn-Williams.
+- **Tao Te Ching** by Lao Tzu.
+- **On Bullshit** by Harry G Frankfurt.
+- **Tidy First?** by Kent Beck.
+- **A People's History of the United States** by Howard Zinn.
+- **Consolations** by David Whyte.
+- **The Black Swan** by Taleb.
+- **How to Read a Book** by Mortimer J. Adler.
 ## 2025
 ---
 ### Read
@@ -96,6 +82,9 @@ https://everything2.com/title/Books+that+will+induce+a+mindfuck
 19. **Life Ceremony** by Sayaka Murata.
 20. **All Quiet on the Western Front** by Erich Maria Remarque.
 21. **The Word for World is Forest** by Ursula K. Le Guin.
+22. **Catch-22** by Joseph Heller.
+23. **Invisible Cities** by Italo Calvino.
+24. **Small Things like These** by Claire Keegan.
 ### Abandoned
 1. **Stand on Zanzibar** by John Brunner.
 ## 2024
