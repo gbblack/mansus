@@ -1,6 +1,76 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-202-12-14
+2025-12-29
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/) -> [[Do the simplest thing that could possibly work-2|Note]]
+- [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/#fnref-3) -> [[Great software design looks underwhelming|Note]]
+- [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) -> [[You aren't gonna need it|Barnyard]]
+- [Money Mistakes You Didn’t Know You’re Making](https://jasuja.us/2025/06/money-mistakes-you-didnt-know-youre-making/) -> [[Money Mistakes You Didn’t Know You’re Making|Tips&Tricks]]
+- [You Have to Feel It](https://mitchellh.com/writing/feel-it)
+- [you can never go back](https://geohot.github.io//blog/jekyll/update/2025/08/31/you-can-never-go-back.html)
+- [Transparent Ambition](https://take.surf/2025/06/19/transparent-ambition)
+- [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) -> [[Git Notes: git's coolest, most unloved­ feature|Tips&Tricks]]
+- [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
+- [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) -> [[The Humble Programmer|Note]]
+- [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)
+- [Who is Free Software for?](https://tante.cc/2025/03/03/who-is-free-software-for/) -> [[Who is Free Software for?|Barnyard]]
+- [Our interfaces have lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
+- [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html) -> [[Milk Kanban|Barnyard]]
+- [Career advice in 2025.](https://lethain.com/career-advice-2025/)
+- [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/) -> [[Digital hygiene|Tips&Tricks]]
+- [Everything’s a bug (or an issue)](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/) -> [[Everything’s a bug (or an issue)|Note]]
+- [Augmented Coding: Better with Principles](https://jessitron.com/2025/05/18/augmented-coding-better-with-principles/)
+- [Enchanting Imposters](https://daily.jstor.org/enchanting-imposters/)
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) -> [[The Programmer Identity Crisis|Barnyard]]
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) -> [[Your URL Is Your State|Tips&Tricks]]
+
+2025-12-27
+- [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) -> [[The age of average|Barnyard]]
+- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/) -> [["Rules" that terminal programs follow|Note]]
+- [You can try to like stuff](https://dynomight.net/liking/)
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive#long) -> [[Cognitive load is what matters|Note]]
+2025-12-26
+- [How I don't use LLMs](https://www.gleech.org/llms)
+- [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
+- [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/) -> [[Reinvent the Wheel|Barnyard]]
+- [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
+- [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/) -> (template for notes?)
+- [Stop Analyzing Your Gut Feelings: A Counter-intuitive Guide to Better Leadership](https://unleashyouradhd.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
+- [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/)
+- [Why I Will Always Be Angry About Software Engineering](https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/) -> [[Why I Will Always Be Angry About Software Engineering|Note]]
+- [The Rise and Fall of Ashton-Tate](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
+- [WhatsApp and the domestication of users](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/) -> [[WhatsApp and the domestication of users|Note]]
+- [Keeping platforms open](https://seirdy.one/posts/2021/02/23/keeping-platforms-open/) -> [[Keeping platforms open|Note]]
+- [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
+
+2025-12-24
+- [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
+- [Why Your ‘Harmonious’ Team Is Actually Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
+- [Becoming the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
+- [stopslopware.net](https://stopslopware.net/)
+- [Memory is running out, and so are excuses for software bloat](https://www.theregister.com/2025/12/23/memory_software_opinion/)
+- [Techie 'forgot' to tell boss their cost-saving idea meant a day of gaming](https://www.theregister.com/2025/12/15/who_me/?td=rt-4a)
+- [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+- [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/)
+- [What Problems to Solve - By Richard Feynman](http://genius.cat-v.org/richard-feynman/writtings/letters/problems) -> [[What Problems to Solve - By Richard Feynman|Barnyard]]
+- [Japan Adventures: A Designer's Perspective](https://www.tombihn.com/blogs/main/tokyo-adventures-a-designers-perspective)
+
+2025-12-23
+- [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
+- [What an error log level should mean (a system administrator's view)](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing) - [[What an error log level should mean (a system administrator's view)|Note]]
+- [Polyglot NixOS: The Same Disk Image for All Architectures](https://x86.lol/generic/2025/12/19/polyglot.html)
+- [Remove black color with shaders](https://yuanchuan.dev/remove-black-color-with-shaders
+- [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+- [I Wish People Were More Public](https://borretti.me/article/i-wish-people-were-more-public)
+2025-12-19
+- [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters) -> [[Speed matters: Why working quickly is more important than it seems|Note]]
+- [It's all about momentum, innit?](https://combo.cc/posts/its-all-about-momentum-innit/) -> [[It's all about momentum, innit?|Barnyard]]
+- [Slowness is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue) -> [[Slowness is a Virtue|Barnyard]]
+- 
+2025-12-18
+- [I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants.](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/) -> [[I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants.|Tips&Tricks]]
+
+2025-12-14
 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
 - [The Documentation System](https://docs.divio.com/documentation-system/) -> [[The Documentation System|Note]]
 - [Eventually consistent plain text accounting](https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/#fn1) -> [[Eventually consistent plain text accounting|Note]]
