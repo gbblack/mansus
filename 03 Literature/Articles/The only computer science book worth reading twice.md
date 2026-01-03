@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[systems thinking]]"
 tags:
-  - type/article
-  - computer_theory
-  - recommended_reading
-  - status/day
+  - reading_list
 publication:
   - Simon Dobson
 source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
-created: 2025-01-06
 ---
 # The only computer science book worth reading twice?
 

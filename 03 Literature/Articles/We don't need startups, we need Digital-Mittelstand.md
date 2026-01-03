@@ -1,13 +1,11 @@
 ---
-tags:
-  - type/article
-  - startup
-  - operations
-  - status/day
+kind: article
+links:
+  - "[[leadership]]"
+  - "[[business model]]"
 publication:
   - Mert Bulan
 source: https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/
-created: 2025-07-03
 ---
 # We don't need startups, we need Digital-Mittelstand
 

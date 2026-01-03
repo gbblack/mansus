@@ -1,8 +1,7 @@
 ---
-tags:
-  - type/article
-  - workplace
-  - status/day
+kind: article
+links:
+  - "[[workplace]]"
 publication:
   - Dan Moore!
 source: https://www.mooreds.com/wordpress/archives/3518

@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[???]]"
 tags:
-  - type/article
-  - scripts
-  - status/day
+  - engineering_practices
 publication:
   - paul-samuels.com
 source: https://paul-samuels.com/blog/2025/02/23/project-scripts/
-created: 2025-06-09
 ---
 # Project Scripts
 

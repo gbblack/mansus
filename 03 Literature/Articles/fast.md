@@ -1,12 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - status/day
-  - technical_philosophy
+  - engineering_values
 publication:
   - catherine jue
 source: https://www.catherinejue.com/fast
-created: 2025-10-15
 ---
 # fast
 

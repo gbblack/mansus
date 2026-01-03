@@ -1,6 +1,7 @@
 ---
-tags:
-  - barnyard
+kind: barnyard
+links:
+  - "[[indieweb]]"
 source: https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom
 ---
 # Why we're helping more wikis move away from Fandom

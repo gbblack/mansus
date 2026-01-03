@@ -1,8 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/dawn
-created: 2024-10-17
 ---
 [[Learning Systems Thinking]]
 # Preface

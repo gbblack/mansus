@@ -1,0 +1,18 @@
+formulas:
+  domain: |-
+    source.replace(
+      /^(?:https?:\/\/)?(?:www\.)?(.+?)\.(?:[a-z]{2,}|[a-z]{2}\.[a-z]{2})(?:[\/?#]|$).*/,
+      "$1"
+    )
+views:
+  - type: table
+    name: Domain split
+    filters:
+      not:
+        - formula.domain.isEmpty()
+    groupBy:
+      property: formula.domain
+      direction: ASC
+    order:
+      - file.name
+    sort: []

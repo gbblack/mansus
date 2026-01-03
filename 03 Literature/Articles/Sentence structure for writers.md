@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[writing]]"
 tags:
-  - type/article
-  - status/day
   - writing
 publication:
   - OUPblog
 source: https://blog.oup.com/2017/11/sentence-structure-for-writers/
-created: 2025-02-24
 ---
 # Sentence structure for writers: understanding weight and clarity
 

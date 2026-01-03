@@ -1,9 +1,8 @@
 ---
+kind: article
 tags:
-  - type/article
 publication: Knight First Amendment Institute
 source: https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-created: 2025-06-10
 ---
 # Protocols, Not Platforms: A Technological Approach to Free Speech
 

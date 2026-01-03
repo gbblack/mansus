@@ -2,18 +2,12 @@ As I go along with my reading I might find ideas for later permanent notes, so a
 
 Once the permanent has actually begun I remove it from this page.
 
-Progressive Hydration:
-- [[Islands Architecture]]
-
 Writing and Thinking:
 - [[Writes and Write-Nots]]
 - [[Coming home]]
 - [[As a developer, my most important tools are a pen and a notebook]]
 - [[Thoughts on thinking]]
-
-Freedom as a state of exception to Law:
-- [[Flesh and Blood]]
-
+- [[The IndieWeb Doesn't Need to "Take Off"]]
 Learning:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
 - [[You Must Read At Least One Book To Ride]]
@@ -25,6 +19,7 @@ Indieweb:
 - [[Stop Using Fandom]]
 - [[Thoughts on the Resiliency of Web Projects]]
 - [[blogs rot. wikis wait.]]
+- [[A website to destroy all websites.]]
 
 blogging (more practical):
 - [[Advice for a friend who wants to start a blog]]

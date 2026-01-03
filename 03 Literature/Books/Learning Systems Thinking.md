@@ -1,14 +1,12 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-  - software_architecture
-  - status/dark
-created: 2024-10-17
+  - systems_thinking
 author:
   - Diana Montalion
 publication:
   - O'Reilly
-source: "[[41.14 Software Architecture]]"
+DECIMAL: "[[41.14 Software Architecture]]"
 ---
 # Learning Systems Thinking: Essential Nonlinear Skills and Practices for Software Professionals
 

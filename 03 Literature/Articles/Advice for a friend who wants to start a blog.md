@@ -1,13 +1,10 @@
 ---
-tags:
-  - type/article
-  - blogging
-  - writing
-  - status/day
+kind: article
+links:
+  - "[[blogging]]"
 publication:
   - Escaping Flatland
 source: https://www.henrikkarlsson.xyz/p/start-a-blog
-created: 2025-04-04
 ---
 # Advice for a friend who wants to start a blog
 

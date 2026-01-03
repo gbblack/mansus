@@ -1,6 +1,7 @@
 ---
-tags:
-  - barnyard
+kind: barnyard
+links:
+  - "[[indieweb]]"
 source: https://j3s.sh/thought/blogs-rot-wikis-wait.html
 ---
 # blogs rot. wikis wait.

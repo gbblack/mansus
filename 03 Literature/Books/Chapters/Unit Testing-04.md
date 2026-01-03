@@ -1,9 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/dawn
-  - unit_testing
-created at: 2025-02-26
 ---
 [[Unit Testing]]
 # The four pillars of a good unit test

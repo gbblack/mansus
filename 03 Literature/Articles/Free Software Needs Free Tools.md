@@ -1,18 +1,18 @@
 ---
+kind: article
+links:
+  - "[[FLOSS]]"
 tags:
-  - type/article
-  - status/dark
-  - open_source
-  - free_software
+  - engineering_values
+  - personal_philosophy
 publication:
   - mako.cc
 source: https://mako.cc/writing/hill-free_tools.html
-created: 2025-06-04
 ---
 # Free Software Needs Free Tools
 
 > [!abstract] Summary
-> Developers committed to open source/free software ideals and principles must also extend them to the tools they use to build their free software. By conceding freedom in tools to create free software you jeopardise that software freedom by its reliance on nonfree closed source tooling. 
+> Developers committed to open source/free software ideals and principles must also extend them to the tools they use to build free software. By relying on non-free closed source tooling, free software developers are jeopardising the very freedoms they seek to facilitate.
 ## Highlights
 ---
 Over the last decade, free software developers have been repeatedly tempted by development tools that offer the ability to build free software more efficiently or powerfully.

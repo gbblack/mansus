@@ -1,6 +1,7 @@
 ---
+kind: barnyard
 tags:
-  - barnyard
+  - personal_philosophy
 source: https://ratfactor.com/tech-nope
 ---
 # I'm an American software developer and the "broligarchs" don't speak for me

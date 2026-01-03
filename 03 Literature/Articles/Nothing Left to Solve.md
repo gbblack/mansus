@@ -1,12 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - software_design
-  - status/day
+  - engineering_values
 publication:
   - LMNT
 source: https://lmnt.me/blog/nothing-left-to-solve.html
-created: 2025-01-06
 ---
 # Nothing Left to Solve
 

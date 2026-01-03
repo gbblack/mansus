@@ -1,14 +1,11 @@
 ---
-tags:
-  - type/article
-  - anthropology
-  - freedom
-  - status/day
-  - violence
+kind: article
+links:
+  - "[[political philosophy]]"
+  - "[[conceptions of violence]]"
 publication:
   - Anarchist Library
 source: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
-created: 2024-10-03
 ---
 # Flesh and Blood
 

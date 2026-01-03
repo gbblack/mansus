@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[testing]]"
 tags:
-  - type/article
-  - testing
-  - status/day
+  - engineering_practices
 publication:
   - Computer Things
 source: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
-created: 2025-02-24
 ---
 # Some tests are stronger than others
 

@@ -1,15 +1,13 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-  - status/dawn
-  - programming/rust
+  - rust
 author:
   - Steve Klabnik
   - Carol Nichols
 publication:
   - No Starch Press
-source: "[[41.09 Rust]]"
-created: 2024-12-11
+DECIMAL: "[[41.09 Rust]]"
 ---
 # The Rust Programming Language
 

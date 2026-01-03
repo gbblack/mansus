@@ -1,12 +1,10 @@
 ---
-tags:
-  - type/article
-  - status/day
-  - psychology
+kind: article
+links:
+  - "[[generational dynamics]]"
 publication:
   - nevermind
 source: https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids
-created: 2025-04-03
 ---
 # The truth about latchkey kids
 

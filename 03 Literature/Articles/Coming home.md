@@ -1,10 +1,8 @@
 ---
-tags:
-  - type/article
-  - status/day
-  - writing
-  - indieweb
-  - thinking
+kind: article
+links:
+  - "[[indieweb]]"
+  - "[[blogging]]"
 publication:
   - A working library
 source: https://aworkinglibrary.com/writing/coming-home

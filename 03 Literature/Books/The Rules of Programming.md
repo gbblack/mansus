@@ -1,13 +1,11 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-  - status/dark
 author:
   - Chris Zimmerman
 publication:
   - O'Reilly
-source: 
-created: 2025-01-30
+source:
 ---
 # The Rules of Programming: How to Write Better Code
 

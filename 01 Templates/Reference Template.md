@@ -1,7 +1,6 @@
 ---
+kind: reference
 tags:
-  - type/reference
-created:
 ---
 # Title
 

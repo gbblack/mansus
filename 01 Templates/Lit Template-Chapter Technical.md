@@ -1,7 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-created at:
 ---
 Book Index Link
 # Chapter Title

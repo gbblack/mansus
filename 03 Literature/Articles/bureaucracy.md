@@ -1,12 +1,10 @@
 ---
-tags:
-  - type/article
-  - leadership
-  - status/day
+kind: article
+links:
+  - "[[leadership]]"
 publication:
   - Midnight Musings
 source: https://dhruvmethi.substack.com/p/bureaucracy
-created: 2025-04-03
 ---
 # bureaucracy
 

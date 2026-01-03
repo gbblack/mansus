@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[cognition??]]"
 tags:
-  - type/article
-  - writing
-  - thinking
-  - status/day
+  - personal_philosophy
 publication:
   - Paul Graham
 source: https://paulgraham.com/writes.html
-created: 2024-12-17
 ---
 # Writes and Write-Nots
 

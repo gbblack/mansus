@@ -1,4 +1,6 @@
 # Reading Roadmap
+
+Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
 ## Currently Reading
 - [[The Rust Programming Language]] by Steve Klabnik and Carol Nichols.
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant and Matthew Auburn.
@@ -58,6 +60,15 @@
 - **Consolations** by David Whyte.
 - **The Black Swan** by Taleb.
 - **How to Read a Book** by Mortimer J. Adler.
+- **[The Eye of Osiris](https://www.gutenberg.org/ebooks/24201)** by R. Austin Freeman.
+- **[The Mystery of Edwin Drood](https://www.gutenberg.org/ebooks/564)** by Charles Dickens.
+- **[The Shadow People](https://www.amazon.com/shadow-people-Margaret-St-Clair/dp/B00005XVNT/?tag=fogus-20)** by Margaret St. Clair.
+- **[Lolly Willowes](https://bookshop.org/p/books/lolly-willowes-warbler-classics-annotated-edition-sylvia-townsend-warner/793f95da3bb968a0?aid=98208&ean=9781959891635&listref=best-things-2025&next=t)** by Sylvia Townsend Warner.
+- **[Patience](https://www.fantagraphics.com/collections/daniel-clowes/products/patience)** by Daniel Clowes.
+- **[Narcissus and Goldmund](https://bookshop.org/p/books/narcissus-and-goldmund-hermann-hesse/2249287049aa22fb?aid=98208&ean=9780553275865&listref=best-things-2025&next=t)** by Herman Hesse.
+- **[We Who Are About To…](https://bookshop.org/p/books/we-who-are-about-to-joanna-russ/a7176b6dc2109f04?aid=98208&ean=9780819567598&listref=best-things-2025&next=t)** by Joanna Russ.
+- **[Fifty Forgotten Records](https://tartaruspress.com/russell-fifty-forgotten-records.html)** by R.B. Russell.
+- **[The Way of All Flesh](https://bookshop.org/p/books/the-way-of-all-flesh-samuel-butler/b5c2be53f34c9706?aid=98208&ean=9780375752490&listref=best-things-2025&next=t)** by Samuel Butler.
 ## 2025
 ---
 ### Read

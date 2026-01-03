@@ -1,13 +1,12 @@
 ---
+kind: article
 tags:
-  - type/article
-  - software_architecture
-  - frontend
-  - status/day
+  - software/frontend
 publication:
   - JASON Format
 source: https://jasonformat.com/islands-architecture/
-created: 2024-11-18
+links:
+  - "[[???]]"
 ---
 # Islands Architecture
 

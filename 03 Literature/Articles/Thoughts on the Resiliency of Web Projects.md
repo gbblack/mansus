@@ -1,13 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - web_resilience
-  - php
-  - status/day
+  - engineering_values
 publication:
   - Aaron Parecki
 source: https://aaronparecki.com/2024/08/31/9/too-many-projects
-created: 2024-12-11
 ---
 Any Links
 # Thoughts on the Resiliency of Web Projects

@@ -1,13 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - medical_care
-  - agency
-  - status/day
+  - individual_agency
 publication:
   - Depth First
 source: https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/
-created: 2024-11-18
 ---
 # Bridge to Nowhere
 

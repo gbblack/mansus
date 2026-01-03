@@ -1,12 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - status/day
-  - philosophy
+  - personal_philosophy
 publication:
   - npr
 source: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
-created: 2025-02-24
 ---
 # Always Go To The Funeral
 

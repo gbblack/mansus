@@ -1,8 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/dawn
-created at: 2025-03-12
 ---
 [[Unit Testing]]
 # Mocks and test fragility

@@ -1,9 +1,8 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-  - status/dark
-source: "[[41.14 Software Architecture]]"
-created: 2024-10-13
+  - software/architecture
+DECIMAL: "[[41.14 Software Architecture]]"
 author:
   - Mark Richards
   - Neal Ford

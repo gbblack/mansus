@@ -1,10 +1,9 @@
 ---
+kind: article
 tags:
-  - type/article
 publication:
   - Julia Evans
 source: https://jvns.ca/blog/2024/10/01/terminal-colours/
-created: 2025-06-16
 ---
 # Terminal colours are tricky
 

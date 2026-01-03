@@ -1,12 +1,10 @@
 ---
-tags:
-  - type/article
-  - leadership
-  - status/day
+kind: article
+links:
+  - "[[leadership]]"
 publication:
   - rachelbythebay
 source: https://rachelbythebay.com/w/2024/11/03/metrics/
-created: 2025-04-03
 ---
 # I've had a change of heart regarding employee metrics
 

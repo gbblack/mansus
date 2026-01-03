@@ -1,8 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/dark
-created: 2024-11-25
 ---
 [[Mastering API Architecture]]
 # Design, Build, and Specify APIs

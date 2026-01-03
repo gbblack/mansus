@@ -29,6 +29,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | CSS Compound Grid     | https://www.smashingmagazine.com/2019/07/inspired-design-decisions-pressing-matters/<br>https://codepen.io/michellebarker/full/zYOMYWv |
 | Webmastery Links      | https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49                                                                  |
 | VanillaJS             | http://vanilla-js.com/                                                                                                                 |
+| Goodot                | https://catlikecoding.com/godot/                                                                                                       |
 
 ### Tools
 Links to tools that I might want to look into.
@@ -90,3 +91,4 @@ Links to cool stuff on the internet.
 
 ## Cool Tools
 https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/
+https://personalsit.es/ -> a collection of personal websites

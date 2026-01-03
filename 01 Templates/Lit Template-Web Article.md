@@ -1,9 +1,8 @@
 ---
+kind: article
 tags:
-  - type/article
-publication: 
-source: 
-created:
+publication:
+source:
 ---
 # Full Title
 

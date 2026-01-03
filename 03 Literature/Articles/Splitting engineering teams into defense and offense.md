@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[leadership]]"
 tags:
-  - type/article
-  - status/day
-  - team_structure
-  - project_management
+  - engineering_practices
 publication:
   - greptile
 source: https://www.greptile.com/blog/how-we-engineer
-created: 2025-01-03
 ---
 # Splitting engineering teams into defense and offense
 

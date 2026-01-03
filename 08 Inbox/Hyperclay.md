@@ -1,5 +1,7 @@
 ---
+kind: tooling
 tags:
-  - tooling
+  - software/frontend
 source: https://hyperclay.com/
 ---
+# Hyperclay

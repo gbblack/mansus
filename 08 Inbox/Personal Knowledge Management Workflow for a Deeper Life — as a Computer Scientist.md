@@ -1,10 +1,9 @@
 ---
+kind: article
 tags:
-  - type/article
 publication:
   - ssp
 source: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/
-created: 2025-06-16
 ---
 # Personal Knowledge Management Workflow for a Deeper Life — as a Computer Scientist
 

@@ -1,12 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - tech_thoughts
-  - status/day
+  - engineering_values
 publication:
   - Bobby Lockhart
 source: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
-created: 2025-02-25
 ---
 # Tech Takes the Pareto Principle Too Far
 

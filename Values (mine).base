@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: My Philosophy
+    filters:
+      or:
+        - file.tags.contains("personal_philosophy")
+        - file.tags.contains("engineering_values")

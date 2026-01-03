@@ -1,9 +1,8 @@
 ---
+kind: dissertation
 tags:
-  - type/dissertation
-author: 
-source: 
-created:
+author:
+source:
 ---
 # Full Title
 

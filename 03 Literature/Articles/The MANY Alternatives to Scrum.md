@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[leadership]]"
 tags:
-  - type/article
-  - project_management
-  - status/day
+  - engineering_practices
 publication:
   - Rethinking Software
 source: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum
-created: 2025-06-16
 ---
 # The MANY Alternatives to Scrum
 

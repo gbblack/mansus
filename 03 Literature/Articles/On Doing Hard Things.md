@@ -1,12 +1,10 @@
 ---
+kind: article
 tags:
-  - type/article
-  - philosophy
-  - status/dawn
+  - personal_philosophy
 publication:
   - parv bhadra
 source: https://parv.bearblog.dev/kayaking/
-created: 2025-08-15
 ---
 # On Doing Hard Things
 

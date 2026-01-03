@@ -1,10 +1,8 @@
 ---
-tags:
-  - type/book
-author: 
-publication: 
-source: 
-created:
+kind: book
+author:
+publication:
+source:
 ---
 # Full Book Title
 

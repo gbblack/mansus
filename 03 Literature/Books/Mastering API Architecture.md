@@ -1,15 +1,14 @@
 ---
+kind: book_index
 tags:
-  - type/book
-  - status/dark
+  - software/API
 author:
   - James Gough
   - Daniel Bryant
   - Matthew Auburn
 publication:
   - O'Reilly
-source: "[[41.22 API]]"
-created: 2024-11-25
+DECIMAL: "[[41.22 API]]"
 ---
 # Mastering API Architecture: Design, Operate, and Evolve API-Based Systems
 

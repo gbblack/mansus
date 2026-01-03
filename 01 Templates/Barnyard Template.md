@@ -1,6 +1,6 @@
 ---
+kind: barnyard
 tags:
-  - barnyard
 source:
 ---
 # Title

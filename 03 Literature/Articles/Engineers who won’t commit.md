@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[leadership]]"
 tags:
-  - type/article
-  - status/day
-  - tech_thoughts
-  - leadership
+  - engineering_values
 publication:
   - sean goedecke
 source: https://www.seangoedecke.com/taking-a-position/
-created: 2025-02-24
 ---
 # Engineers who won’t commit
 

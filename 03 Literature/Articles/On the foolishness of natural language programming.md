@@ -1,18 +1,19 @@
 ---
+kind: article
 tags:
-  - type/article
-  - programming
   - technical_philosophy
   - AI
 publication:
   - The University of Texas at Austin
 source: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
-created: 2025-08-13
+links:
+  - "[[AI]]"
+  - "[[???]]"
 ---
 # On the foolishness of "natural language programming"
 
 > [!abstract] Summary
-> An essay by Dijkstra remarking on the false assumption that natural language programming would outperform traditional programming. He points out that formal symbolism is what makes all this possible, not an obstacle to be overcome.
+> An essay by Dijkstra remarking on the false assumption that natural language programming would outperform traditional programming. He points out that formal symbolism is what makes all this possible, and not an obstacle to be overcome.
 ## Highlights
 ---
 Since the early days of automatic computing we have had **==people that have felt== it as a ==shortcoming that programming required== the ==care and accuracy== that is characteristic for the use of any formal symbolism.** They blamed the mechanical slave for its strict obedience with which it carried out its given instructions, **==even if== a moment's ==thought== would have ==revealed== that those ==instructions contained an obvious mistake==." But a moment is a long time, and thought is a painful process." (A.E.Houseman).**

@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[systems thinking]]"
 tags:
-  - type/article
-  - status/dawn
-  - tdd
-  - software_design
+  - engineering_values
 publication:
   - WikiWikiWeb
 source: https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork
-created: 2025-06-16
 ---
 # Do The Simplest Thing That Could Possibly Work
 

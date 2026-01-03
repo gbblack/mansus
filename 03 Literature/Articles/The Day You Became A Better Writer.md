@@ -1,12 +1,10 @@
 ---
-tags:
-  - type/article
-  - status/dawn
-  - writing
+kind: article
+links:
+  - "[[writing]]"
 publication:
   - DILBERT.BLOG
 source: https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
-created: 2025-08-13
 ---
 # The Day You Became A Better Writer
 

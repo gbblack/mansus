@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[learning]]"
 tags:
-  - type/article
-  - learning
-  - status/day
+  - personal_philosophy
 publication:
   - lelouch
 source: https://lelouch.dev/blog/you-are-probably-not-dumb/
-created: 2024-11-18
 ---
 # You are NOT Dumb, You Just Lack the Prerequisites
 

@@ -1,13 +1,10 @@
 ---
-tags:
-  - type/article
-  - housing
-  - homelessness
-  - status/day
+kind: article
+links:
+  - "[[housing insecurity]]"
 publication:
   - Works In Progress
 source: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/
-created: 2024-12-09
 ---
 # Why housing shortages cause homelessness
 

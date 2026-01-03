@@ -1,10 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/day
-  - classical_testing
-  - unit_testing
-created at: 2025-02-15
 ---
 [[Unit Testing]]
 # What is a unit test?

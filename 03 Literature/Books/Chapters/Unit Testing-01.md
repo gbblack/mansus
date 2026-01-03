@@ -1,8 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/dawn
-created at: 2025-02-10
 ---
 [[Unit Testing]]
 # The goal of unit testing

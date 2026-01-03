@@ -1,14 +1,12 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-  - testing
-  - software_design
+  - software/testing
 author:
   - Vladimir Khorikov
 publication:
   - Manning
-source: "[[41.16 Testing]]"
-created: 2025-02-10
+DECIMAL: "[[41.16 Testing]]"
 ---
 # Unit testing: Principles, Practices and Patterns
 

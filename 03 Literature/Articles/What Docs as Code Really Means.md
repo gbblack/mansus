@@ -1,13 +1,12 @@
 ---
+kind: article
+links:
+  - "[[documentation]]"
 tags:
-  - type/article
-  - best_practices
-  - status/day
-  - documentation
+  - engineering_practices
 publication:
   - passo
 source: https://passo.uno/what-docs-as-code-means/
-created: 2024-11-19
 ---
 Any Links
 # What Docs as Code Really Means

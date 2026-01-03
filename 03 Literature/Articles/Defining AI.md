@@ -1,8 +1,7 @@
 ---
-tags:
-  - type/article
-  - status/day
-  - AI
+kind: article
+links:
+  - "[[AI]]"
 publication:
   - Ali Alkhatib
 source: https://ali-alkhatib.com/blog/defining-ai

@@ -1,13 +1,10 @@
 ---
-tags:
-  - type/article
-  - status/dawn
-  - writing
-  - blogging
+kind: article
+links:
+  - "[[blogging]]"
 publication:
   - sean goedecke
 source: https://www.seangoedecke.com/on-writing/
-created: 2025-04-04
 ---
 # Writing a tech blog people want to read
 

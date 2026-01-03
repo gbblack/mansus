@@ -1,12 +1,10 @@
 ---
-tags:
-  - type/article
-  - status/dawn
-  - AI
+kind: article
 publication:
   - dbreunig
 source: https://www.dbreunig.com/2024/11/18/transitioning-from-the-attention-era-to-the-automation-era.html
-created: 2025-01-06
+links:
+  - "[[???]]"
 ---
 # Transitioning from the Attention Era to the Automation Era
 

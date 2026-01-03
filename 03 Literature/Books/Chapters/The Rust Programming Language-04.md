@@ -1,11 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/day
-  - rust/ownership
-  - rust/referencing
-  - rust/slices
-created: 2024-12-17
 ---
 [[The Rust Programming Language]]
 # Understanding Ownership

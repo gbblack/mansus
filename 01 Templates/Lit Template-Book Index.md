@@ -1,10 +1,9 @@
 ---
+kind: book_index
 tags:
-  - type/book_index
-author: 
-publication: 
-source: 
-created:
+author:
+publication:
+source:
 ---
 # Full Book Title
 

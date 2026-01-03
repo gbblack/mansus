@@ -1,6 +1,9 @@
 ---
+kind: barnyard
+links:
+  - "[[???]]"
 tags:
-  - barnyard
+  - software/GUI
 source: https://www.chrbutler.com/in-defense-of-text-labels
 ---
 # In Defense of Text Labels

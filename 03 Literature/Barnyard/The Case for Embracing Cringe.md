@@ -1,6 +1,7 @@
 ---
+kind: barnyard
 tags:
-  - barnyard
+  - personal_philosophy
 source: https://www.joanwestenberg.com/the-case-for-embracing-cringe/
 ---
 # The Case for Embracing Cringe

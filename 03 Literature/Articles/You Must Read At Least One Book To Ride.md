@@ -1,11 +1,13 @@
 ---
+kind: article
+links:
+  - "[[learning]]"
+  - "[[cognition??]]"
 tags:
-  - type/article
-  - learning
+  - personal_philosophy
 publication:
   - Lucidity
 source: https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
-created: 2025-04-04
 ---
 # You Must Read At Least One Book To Ride
 

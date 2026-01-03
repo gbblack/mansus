@@ -1,10 +1,9 @@
 ---
+kind: article
 tags:
-  - type/article
 publication:
   - jooq
 source: https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/
-created: 2025-06-16
 ---
 ## Citation
 ---

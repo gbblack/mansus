@@ -1,12 +1,9 @@
 ---
-tags:
-  - type/article
-  - status/dawn
-  - communication
+kind: article
+links: "[[accountability]]"
 publication:
   - A working library
 source: https://aworkinglibrary.com/writing/accountability-sinks
-created: 2025-02-24
 ---
 # Accountability sinks
 

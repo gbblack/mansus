@@ -1,13 +1,13 @@
 ---
+kind: article
+links:
+  - "[[ascetism]]"
+  - "[[linux]]"
 tags:
-  - type/article
-  - linux
-  - asceticism
-  - status/day
+  - personal_philosophy
 publication:
   - rugu
 source: https://www.rugu.dev/en/blog/linux-asceticism/
-created: 2024-12-17
 ---
 # Linux Asceticism
 

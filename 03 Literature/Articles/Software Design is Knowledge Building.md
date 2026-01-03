@@ -1,18 +1,15 @@
 ---
-tags:
-  - type/article
-  - status/day
-  - software_design
-  - theory_crafting
+kind: article
+links:
+  - "[[systems thinking]]"
 publication:
   - olano
 source: https://olano.dev/blog/software-design-is-knowledge-building/
-created: 2025-01-03
 ---
 # Software Design is Knowledge Building
 
 > [!abstract] Summary
-> An article on the idea that the building of a program is the building of its theory, the knowledge held by the programmer, and this theory is required to maintain and modify the program. The viability of the program longterm is in its theory not its code.
+> The building of a program is the building of the knowledge held by the programmer, called theory.  T theory is required to maintain and modify the program. The viability of the program longterm is in its theory not its code.
 ## Highlights
 ---
 a seemingly **functional 6-month-old project ==automatically turns into a haunted forest just by changing hands.**== Regardless of its age, `SVC` is textbook legacy software because, more often than not, **==a question== posed about the system, to any team member, ==results in the same answer: _I don’t know_.**==

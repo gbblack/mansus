@@ -1,9 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/day
-  - unit_testing
-created at: 2025-02-22
 ---
 [[Unit Testing]]
 # The anatomy of a unit test

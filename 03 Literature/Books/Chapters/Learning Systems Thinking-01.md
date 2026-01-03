@@ -1,8 +1,6 @@
 ---
+kind: chapter
 tags:
-  - type/chapter
-  - status/day
-created: 2024-10-21
 ---
 [[Learning Systems Thinking]]
 # What is Systems Thinking?

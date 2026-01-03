@@ -1,12 +1,12 @@
 ---
+kind: article
+links:
+  - "[[testing]]"
 tags:
-  - type/article
-  - testing
-  - status/day
+  - engineering_practices
 publication:
   - Bitfield Consulting
 source: https://bitfieldconsulting.com/posts/testing-legacy-code
-created: 2024-12-17
 ---
 # Suite smells: testing legacy code
 
