@@ -7,7 +7,7 @@ Writing and Thinking:
 - [[Coming home]]
 - [[As a developer, my most important tools are a pen and a notebook]]
 - [[Thoughts on thinking]]
-- [[The IndieWeb Doesn't Need to "Take Off"]]
+- [[The IndieWeb Doesn't Need to Take Off]]
 Learning:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
 - [[You Must Read At Least One Book To Ride]]

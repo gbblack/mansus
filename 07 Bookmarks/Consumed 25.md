@@ -217,14 +217,14 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html)
 - Write Code Like You Just Learned How to Program -> [[ Write Code Like You Just Learned How to Program|Note]]
 - [Five Memorable Books About Programming](https://prog21.dadgum.com/19.html)
-- When is it better to think without words? -> [[When is it better to think without words?|Note]]
+- When is it better to think without words? -> [[When is it better to think without words|Note]]
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 - There is No Meritocracy Without Lottocracy -> [[There is No Meritocracy Without Lottocracy|Note]]
 - Sell Yourself Well - What Soham Parekh can teach us -> [[Sell Yourself Well - What Soham Parekh can teach us|Note]]
 - Log by Time, not by Count -> [[Log by Time, not by Count|Note]]
 - The bewildering phenomenon of declining quality -> [[The bewildering phenomenon of declining quality|Note]]
 - The Frontend Treadmill -> [[The Frontend Treadmill|Barnyard]]
-- The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to "Take Off"|Barnyard]]
+- The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]]
 - [The New Three-Tier Application](https://www.dbos.dev/blog/new-three-tier-application)
 - JSON has become today's machine-readable output format (on Unix) -> [[JSON has become today's machine-readable output format (on Unix)|Barnyard]]
 - The tyranny of apps: those without smartphones are unfairly penalised, say campaigners -> [[The tyranny of apps-those without smartphones are unfairly penalised, say campaigners|Barnyard]]

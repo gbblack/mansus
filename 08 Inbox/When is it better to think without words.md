@@ -3,7 +3,7 @@ kind: barnyard
 tags:
 source: https://www.henrikkarlsson.xyz/p/wordless-thought
 ---
-# Title
+# When is it better to think without words?
 
 Some text.
 
