@@ -126,7 +126,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) -> [[Get your work recognized: write a brag document|Tips&Tricks]] <- Great blog
 
 2025-12-12
-- I'm an American software developer and the "broligarchs" don't speak for me -> [[I'm an American software developer and the "broligarchs" don't speak for me|Barnyard]]
+- I'm an American software developer and the "broligarchs" don't speak for me -> [[I'm an American software developer and the broligarchs don't speak for me|Barnyard]]
 - The Case for Embracing Cringe -> [[The Case for Embracing Cringe|Barnyard]]
 - Never Forgive Them -> [[Never Forgive Them|Barnyard]]
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
