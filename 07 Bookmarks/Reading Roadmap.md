@@ -2,13 +2,14 @@
 
 Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
 ## Currently Reading
-- [[The Rust Programming Language]] by Steve Klabnik and Carol Nichols.
-- [[Mastering API Architecture]] by James Gough, Daniel Bryant and Matthew Auburn.
+- [[The Rust Programming Language]] by Steve Klabnik & Carol Nichols.
+- [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
 - [[Learning Systems Thinking]] by Diana Montalion.
-- [[Fundamentals of Software Architecture]] by Mark Richards and Neal Ford.
+- [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
-- **Fahrenheit 451** by Ray Bradbury.
+- [[Every Layout]] by Heydon Pickering & Andy Bell.
+- **Amiable with Big Teeth** by Claude McKay.
 ## Reading List
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
@@ -69,6 +70,10 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 - **[We Who Are About To…](https://bookshop.org/p/books/we-who-are-about-to-joanna-russ/a7176b6dc2109f04?aid=98208&ean=9780819567598&listref=best-things-2025&next=t)** by Joanna Russ.
 - **[Fifty Forgotten Records](https://tartaruspress.com/russell-fifty-forgotten-records.html)** by R.B. Russell.
 - **[The Way of All Flesh](https://bookshop.org/p/books/the-way-of-all-flesh-samuel-butler/b5c2be53f34c9706?aid=98208&ean=9780375752490&listref=best-things-2025&next=t)** by Samuel Butler.
+## 2026
+---
+### Read
+1. ==**Fahrenheit 451**== by Ray Bradbury.
 ## 2025
 ---
 ### Read
@@ -87,7 +92,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 13. ==**Flowers for Algernon**== by Daniel Keyes.
 14. **Snow Country** by Yasunari Kawabata.
 15. **Rainbow in the Cloud** by Maya Angelou.
-16. **Foundation** by Isaac Asimov.
+16. ==**Foundation**== by Isaac Asimov.
 17. **A Visit from the Goon Squad** by Jennifer Egan.
 18. **A Closed and Common** Orbit by Becky Chambers.
 19. **Life Ceremony** by Sayaka Murata.
