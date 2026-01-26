@@ -1,5 +1,7 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-01-26
+- [Video Games as Art](https://gwern.net/video-game-art) -> I liked this
 2026-01-25
 - [The '3.5% rule': How a small minority can change the world](https://www.bbc.co.uk/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
 - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) -> [[Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems|Tips&Tricks]]
