@@ -1,5 +1,12 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-01-28
+- [The Tech Market is Fundamentally Fucked Up - AI is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+- [Having a Go at the St. John's College "Great Books" Curriculum...](https://bibliollcollege.substack.com/p/having-a-go-at-the-st-johns-college)
+- 
+
+2026-01-27
+- [What "The Best" Looks Like ](https://www.kuril.in/blog/what-the-best-looks-like/)
 2026-01-26
 - [Video Games as Art](https://gwern.net/video-game-art) -> I liked this
 2026-01-25

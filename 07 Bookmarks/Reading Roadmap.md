@@ -37,6 +37,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 - **The God of Small Things** by Arundhati Roy.
 ### My List
 - **Moby Dick; or, The Whale** by Herman Melville.
+- **Siddhartha an Indian tale** by Hermann Hesse.
 - **Frankenstein** by Mary Shelley.
 - **Beloved** by Toni Morrison.
 - **In Cold Blood** by Truman Capote.
