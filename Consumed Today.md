@@ -1,9 +1,26 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-02-05
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) -> [[Bookmark|GitHub Actions Is Slowly Killing Your Engineering Team]]
+- [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash)
+- [Systems Thinking](https://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+- [Company as Code](https://blog.42futures.com/p/company-as-code)
+- [Things UNIX can do atomically ](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+
+2026-02-05
+- [The Great Unwind](https://occupywallst.com/yen) -> [[The Great Unwind|Note]]
+
+2026-02-03
+- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) -> [[Barnyard|Something Is Rotten in the State of Cupertino]]
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+- 
+2026-02-02
+- [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
+- [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
+
 2026-01-28
 - [The Tech Market is Fundamentally Fucked Up - AI is Just a Scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 - [Having a Go at the St. John's College "Great Books" Curriculum...](https://bibliollcollege.substack.com/p/having-a-go-at-the-st-johns-college)
-- 
 
 2026-01-27
 - [What "The Best" Looks Like ](https://www.kuril.in/blog/what-the-best-looks-like/)
