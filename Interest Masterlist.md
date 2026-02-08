@@ -1,8 +1,8 @@
 ## Essays and Blogs
 
 1. https://cauenapier.com/ (cool blog)
-2. https://occupywallst.com/yen (no more free money from the yen)
-3. https://talk.bradwoods.io/blog/listen-to-understand/ (listening)
+2. https://talk.bradwoods.io/blog/listen-to-understand/ (listening)
+3. https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary (breakdown of CRDTs)
 4. https://jmoiron.net/blog/wirths-revenge/ (software so slow hardware cant keep up)
 5. https://www.experimental-history.com/p/text-is-king (reading is king)
 6. https://walters.app/blog/composing-apis-clis (apis and clis)
