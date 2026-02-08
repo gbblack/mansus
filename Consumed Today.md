@@ -1,5 +1,8 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-02-08
+- [How to write](https://garden.bradwoods.io/notes/story/how-to-write) -> [[Note|How to write]]
+ 
 2026-02-05
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) -> [[Bookmark|GitHub Actions Is Slowly Killing Your Engineering Team]]
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash)
