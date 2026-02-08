@@ -9,7 +9,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **Amiable with Big Teeth** by Claude McKay.
+- **Fellside** by M.R. Carey.
 ## Reading List
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
@@ -75,6 +75,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 ---
 ### Read
 1. ==**Fahrenheit 451**== by Ray Bradbury.
+2. **Amiable with Big Teeth** by Claude McKay.
 ## 2025
 ---
 ### Read

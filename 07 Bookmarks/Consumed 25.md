@@ -167,7 +167,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Needy Programs](https://tonsky.me/blog/needy-programs/)
 - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 - [Egoless Engineering](https://egoless.engineering/) -> [[Egoless Engineering|Note]]
-- [Can't Driven Development](https://rm4n0s.github.io/posts/6-cant-driven-development/) -> [[Can't Driven Developmen|Notet]]
+- [Can't Driven Development](https://rm4n0s.github.io/posts/6-cant-driven-development/) -> [[Can't Driven Development|Notet]]
 - [Free will quite clearly doesn’t exist](https://sunshowers.io/posts/there-is-no-free-will/)
 - [The world of tomorrow](https://worksinprogress.co/issue/the-world-of-tomorrow/)
 - [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
