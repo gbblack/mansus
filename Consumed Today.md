@@ -1,10 +1,36 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-02-13
+- [The Nature of the Beast](https://cinemasojourns.com/2026/02/07/the-nature-of-the-beast/
+- [ai;dr](https://www.0xsid.com/blog/aidr)
+- [(AI) Slop Terrifies Me](http://ezhik.jp/ai-slop-terrifies-me/) -> [[(AI) Slop Terrifies Me|Barnyard]]
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)-> [[Stop generating, start thinking|Barnyard]]
+- [Text is king](https://www.experimental-history.com/p/text-is-king) -> [[Text is king|Barnyard]]
+- [Why layoffs don’t work](https://thehustle.co/originals/why-layoffs-dont-work)
+- [theory building without a mentor](https://jyn.dev/theory-building-without-a-mentor/) -> [[theory building without a mentor|Note]]
+- [So, You’ve Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now) -> [[So, You’ve Hit an Age Gate. What Now?|Bookmark]]
+- [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html) -> [[Writing First, Tooling Second|Barnyard]]
+- [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+- [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+
+2026-02-12
+- [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
+
+2026-02-11
+- [Competition is not market validation](https://www.ablg.io/blog/competition-is-not-validation)
+- [Communities are not fungible](https://www.joanwestenberg.com/communities-are-not-fungible/) -> [[Communities are not fungible|Barnyard]]
+- [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
+- [2026-01-14: The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+- 
+2026-02-09
+- [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) -> [[Nobody knows how the whole system works|Barnyard]]
+- [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
+
 2026-02-08
 - [How to write](https://garden.bradwoods.io/notes/story/how-to-write) -> [[Note|How to write]]
  
 2026-02-05
-- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) -> [[Bookmark|GitHub Actions Is Slowly Killing Your Engineering Team]]
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) -> [[GitHub Actions Is Slowly Killing Your Engineering Team|Bookmark]]
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash)
 - [Systems Thinking](https://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
 - [Company as Code](https://blog.42futures.com/p/company-as-code)
@@ -14,7 +40,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [The Great Unwind](https://occupywallst.com/yen) -> [[The Great Unwind|Note]]
 
 2026-02-03
-- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) -> [[Barnyard|Something Is Rotten in the State of Cupertino]]
+- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) -> [[Something Is Rotten in the State of Cupertino|Barnyard]]
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
 - 
 2026-02-02

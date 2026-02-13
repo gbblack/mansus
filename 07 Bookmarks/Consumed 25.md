@@ -224,17 +224,17 @@ Idea from: [consumed.today](https://consumed.today/)
 - Log by Time, not by Count -> [[Log by Time, not by Count|Note]]
 - The bewildering phenomenon of declining quality -> [[The bewildering phenomenon of declining quality|Note]]
 - The Frontend Treadmill -> [[The Frontend Treadmill|Barnyard]]
-- The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]]
+- The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]] (done)
 - [The New Three-Tier Application](https://www.dbos.dev/blog/new-three-tier-application)
 - JSON has become today's machine-readable output format (on Unix) -> [[JSON has become today's machine-readable output format (on Unix)|Barnyard]]
 - The tyranny of apps: those without smartphones are unfairly penalised, say campaigners -> [[The tyranny of apps-those without smartphones are unfairly penalised, say campaigners|Barnyard]]
 - [YOUTH](https://tolstoyan.substack.com/p/youth)
 - [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/)
 - [How the British Broke Their Own Economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
-- Why writing small docs is a game changer -> [[Why writing small docs is a game changer|Note]]
-- In Defense of Text Labels -> [[In Defense of Text Labels|Barnyard]]
+- Why writing small docs is a game changer -> [[Why writing small docs is a game changer|Note]] (wip)
+- In Defense of Text Labels -> [[In Defense of Text Labels|Barnyard]] (done)
 - [Pee If You Want to go Deeper](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
-- How the UK is Weakening Safety Worldwide-> [[How the UK is Weakening Safety Worldwide|Barnyard]]
+- How the UK is Weakening Safety Worldwide-> [[How the UK is Weakening Safety Worldwide|Barnyard]] (done)
 
 2025-10-22
 - [If you’d built a “tool” that stupid, why would you advertise the fact?](https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/)
@@ -271,14 +271,14 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Does the news reflect what we die from?](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
 - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 - [Updating Desktop Rust](https://tritium.legal/blog/update)
-- fast -> [[fast|Note]]
+- fast -> [[fast|Note]] (done)
 - [Why Superhuman is built for speed: applying the 100ms rule to email](https://blog.superhuman.com/superhuman-is-built-for-speed/?utm_source=catherinejue&utm_medium=email)
 - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 - [The Burnout Machine](https://unionize.fyi/)
 
 2025-10-14
 - [New York Times, AP, Newsmax among news outlets who say they won’t sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
-- Defining AI -> [[Defining AI|Note]]
+- Defining AI -> [[Defining AI|Note]] (done) 
 
 2025-10-09
 - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
