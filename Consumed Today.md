@@ -1,5 +1,10 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-02-19
+- [The Perils of ISBN](https://rygoldstein.com/posts/perils-of-isbn) -> [[The Perils of ISBN|Note]]
+2026-02-17
+- [Privilege is bad grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/) -> [[Privilege is bad grammar|Barnyard]]
+- 
 2026-02-13
 - [The Nature of the Beast](https://cinemasojourns.com/2026/02/07/the-nature-of-the-beast/
 - [ai;dr](https://www.0xsid.com/blog/aidr)
