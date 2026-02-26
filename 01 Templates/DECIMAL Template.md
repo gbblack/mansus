@@ -1,5 +1,6 @@
 ---
 tags:
+  - DECIMAL
 ---
 # DECIMAL ID Folder
 

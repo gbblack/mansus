@@ -1,6 +1,7 @@
 ---
-kind: chapter
 tags:
+  - chapter_technical
+links:
 ---
 Book Index Link
 # Chapter Title

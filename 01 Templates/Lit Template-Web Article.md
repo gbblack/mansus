@@ -1,8 +1,8 @@
 ---
-kind: article
 tags:
-publication:
+  - article
 source:
+links:
 ---
 # Full Title
 

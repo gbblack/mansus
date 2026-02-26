@@ -1,10 +1,28 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-02-26
+- [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
+- [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- [Cloudflare experiment ports most of Next.js API 'in one week' with AI](https://www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/)
+
+2026-02-25
+- [Looks Like it is Happening…](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
+- [The surprising power of daily rituals](https://www.bbc.co.uk/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
+- [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html) -> [[A simple web we own|Barnyard]]
+- Lab Notebooks -> [[Lab Notebooks|Tips&Tricks]]
+
+2026-02-24
+- [Turn Dependabot Off](https://words.filippo.io/dependabot/) -> [[Turn Dependabot Off|Tips&Tricks]]
+- [Git: Don’t create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/) -> [[Git: Don’t create .gitkeep files, use .gitignore instead|Tips&Tricks]]
+- [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html) -> [[Git's Magic Files|Tips&Tricks]]
+- [A Bug is a Bug, but a Patch is a Policy: The Case for Bootable Containers](https://tuananh.net/2026/02/20/patch-is-policy/) -> [[A Bug is a Bug, but a Patch is a Policy: The Case for Bootable Containers|Tips&Tricks]]
+
 2026-02-19
 - [The Perils of ISBN](https://rygoldstein.com/posts/perils-of-isbn) -> [[The Perils of ISBN|Note]]
+
 2026-02-17
 - [Privilege is bad grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/) -> [[Privilege is bad grammar|Barnyard]]
-- 
+
 2026-02-13
 - [The Nature of the Beast](https://cinemasojourns.com/2026/02/07/the-nature-of-the-beast/
 - [ai;dr](https://www.0xsid.com/blog/aidr)
@@ -26,7 +44,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Communities are not fungible](https://www.joanwestenberg.com/communities-are-not-fungible/) -> [[Communities are not fungible|Barnyard]]
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 - [2026-01-14: The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-- 
+
 2026-02-09
 - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) -> [[Nobody knows how the whole system works|Barnyard]]
 - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
@@ -47,7 +65,7 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-02-03
 - [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino) -> [[Something Is Rotten in the State of Cupertino|Barnyard]]
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
-- 
+
 2026-02-02
 - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 - [Surely the crash of the US economy has to be soon](https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/)
@@ -58,8 +76,10 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2026-01-27
 - [What "The Best" Looks Like ](https://www.kuril.in/blog/what-the-best-looks-like/)
+
 2026-01-26
 - [Video Games as Art](https://gwern.net/video-game-art) -> I liked this
+
 2026-01-25
 - [The '3.5% rule': How a small minority can change the world](https://www.bbc.co.uk/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
 - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) -> [[Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems|Tips&Tricks]]
@@ -79,6 +99,7 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2026-01-21
 - [The Incredible Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
+
 2026-01-20
 - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 

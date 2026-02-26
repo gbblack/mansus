@@ -1,8 +1,9 @@
 ---
-kind: book
+tags:
+  - book
 author:
-publication:
 source:
+links:
 ---
 # Full Book Title
 

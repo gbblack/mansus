@@ -1,8 +1,9 @@
 ---
-kind: dissertation
 tags:
+  - dissertation
 author:
 source:
+links:
 ---
 # Full Title
 

@@ -1,5 +1,5 @@
 ---
-kind: permanent
 tags:
+  - permanent
 ---
 # Title

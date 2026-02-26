@@ -1,9 +1,9 @@
 ---
-kind: book_index
 tags:
+  - book_index
 author:
-publication:
 source:
+links:
 ---
 # Full Book Title
 
