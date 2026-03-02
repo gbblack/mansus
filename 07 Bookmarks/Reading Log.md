@@ -1,4 +1,4 @@
-# Reading Roadmap
+# Reading Log
 
 Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
 ## Currently Reading
@@ -9,7 +9,8 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **Fellside** by M.R. Carey.
+- **The Diary of Adam and Eve** by Mark Twain.
+- **The Book Thief** by Markus Zusak.
 ## Reading List
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
@@ -76,6 +77,9 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 ### Read
 1. ==**Fahrenheit 451**== by Ray Bradbury.
 2. **Amiable with Big Teeth** by Claude McKay.
+3. **Fellside** by M.R. Carey.
+4. **What the Dog Saw** by Malcolm Gladwell.
+5. **Under Milk Wood** by Dylan Thomas.
 ## 2025
 ---
 ### Read

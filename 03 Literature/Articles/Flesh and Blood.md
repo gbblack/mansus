@@ -1,5 +1,6 @@
 ---
-kind: article
+tags:
+  - article
 links:
   - "[[political philosophy]]"
   - "[[conceptions of violence]]"

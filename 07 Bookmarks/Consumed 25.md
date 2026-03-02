@@ -159,7 +159,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [The Surprising Benefits of Giving Up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
 
 2025-11-18
-- [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books) -> [[Reading Roadmap#Short Little Difficult Books]]
+- [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books) -> [[Reading Log#Short Little Difficult Books]]
 
 2025-11-14
 - [Parkinson's Law: It's Real, So Use It](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
@@ -227,8 +227,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]]
 - [The New Three-Tier Application](https://www.dbos.dev/blog/new-three-tier-application)
 - JSON has become today's machine-readable output format (on Unix) -> [[JSON has become today's machine-readable output format (on Unix)|Barnyard]]
-- The tyranny of apps: those without smartphones are unfairly penalised, say campaigners -> [[The tyranny of apps-those without smartphones are unfairly penalised, say campaigners|Barnyard]]
-- [YOUTH](https://tolstoyan.substack.com/p/youth)
+- [The tyranny of apps: those without smartphones are unfairly penalised, say campaigners](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
 - [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/)
 - [How the British Broke Their Own Economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
 - Why writing small docs is a game changer -> [[Why writing small docs is a game changer|Tips&Tricks]]

@@ -1,10 +1,17 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2025-03-02
+- [A new California law says all operating systems, including Linux, need to have some form of age verification at account setup](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
+- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
+- [Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
+
+2026-03-01
+- [Why Doctors Hate Their Computers](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+
 2026-02-26
 - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 - [Cloudflare experiment ports most of Next.js API 'in one week' with AI](https://www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/)
-
 2026-02-25
 - [Looks Like it is Happening…](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 - [The surprising power of daily rituals](https://www.bbc.co.uk/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
@@ -94,7 +101,7 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-01-22
 - [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 - [Douglas Adams on the English–American cultural divide over “heroes”](https://shreevatsa.net/post/douglas-adams-cultural-divide/) -> [[Douglas Adams on the English–American cultural divide over heroes|Barnyard]]
-- [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/) -> [[Reading Roadmap]]
+- [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/) -> [[Reading Log]]
 - [How I Learned Everything I Know About Programming](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html) -> [[How I Learned Everything I Know About Programming|Barnyard]]
 
 2026-01-21
