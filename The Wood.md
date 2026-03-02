@@ -9,3 +9,4 @@ read 2025-03-02
 [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/
 https://www.scottsmitelli.com/articles/you-dont-have-to/
+[Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
