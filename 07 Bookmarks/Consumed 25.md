@@ -193,7 +193,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 
 2025-10-29
-- [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art) -> [[If you don't tinker, you don't have taste|Barnyard]]
+- If you don't tinker, you don't have taste -> [[If you don't tinker, you don't have taste|Barnyard]]
 
 2025-10-28
 - Simplify Your Code: Functional Core, Imperative Shell -> [[Simplify Your Code - Functional Core, Imperative Shell|Tips&Tricks]]
@@ -215,12 +215,12 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Simplicity is Wonderful, But Not a Requirement](https://prog21.dadgum.com/167.html)
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html)
-- Write Code Like You Just Learned How to Program -> [[ Write Code Like You Just Learned How to Program|Note]] (wip)
+- [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 - [Five Memorable Books About Programming](https://prog21.dadgum.com/19.html)
 - When is it better to think without words? -> [[When is it better to think without words|Note]] (wip)
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 - There is No Meritocracy Without Lottocracy -> [[There is No Meritocracy Without Lottocracy|Note]] (wip)
-- Sell Yourself Well - What Soham Parekh can teach us -> [[Sell Yourself Well - What Soham Parekh can teach us|Note]] (wip)
+- [Sell Yourself Well - What Soham Parekh can teach us](https://www.fldr.zip/blog/sell-yourself)
 - Log by Time, not by Count -> [[Log by Time, not by Count|Tips&Tricks]]
 - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
