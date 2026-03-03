@@ -31,6 +31,7 @@ Links to individual Blogs
 | https://seankhliao.com/              |                                      |
 | https://stephango.com/               | CEO of Obsidian                      |
 | https://hamatti.org/                 |                                      |
+| https://maurycyz.com/archive/        |                                      |
 ### Vaults
 Links to published Obsidian vaults
 

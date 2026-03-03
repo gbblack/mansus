@@ -197,7 +197,7 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2025-10-28
 - Simplify Your Code: Functional Core, Imperative Shell -> [[Simplify Your Code - Functional Core, Imperative Shell|Tips&Tricks]]
-- [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) -> [[Git Notes: git's coolest, most unloved­ feature|Tips&Tricks]]
+- Git Notes: git's coolest, most unloved­ feature -> [[Git Notes - git's coolest, most unloved­ feature|Tips&Tricks]]
 
 2025-10-27
 - [You already have a git server](https://maurycyz.com/misc/easy_git/) -> [[You already have a git server|Tips&Tricks]]

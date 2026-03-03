@@ -1,5 +1,12 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2025-03-03
+- [Underrated reasons to dislike AI](https://www.autodidacts.io/underrated-reasons-to-dislike-ai/)
+- [The exploitation paradox in open source](https://lwn.net/SubscriberLink/1058031/a1b77f8039faed6c/) -> [[The exploitation paradox in open source|Barnyard]]
+- [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
+- [Trap bots on your server](https://maurycyz.com/projects/trap_bots/) -> [[Trap bots on your server|Tips&Tricks]]
+- [Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+
 2025-03-02
 - [A new California law says all operating systems, including Linux, need to have some form of age verification at account setup](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
 - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
