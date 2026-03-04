@@ -42,7 +42,6 @@ Idea from: [consumed.today](https://consumed.today/)
 - [You Have to Feel It](https://mitchellh.com/writing/feel-it)
 - [you can never go back](https://geohot.github.io//blog/jekyll/update/2025/08/31/you-can-never-go-back.html)
 - [Transparent Ambition](https://take.surf/2025/06/19/transparent-ambition)
-- [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) -> [[Git Notes: git's coolest, most unloved­ feature|Tips&Tricks]]
 - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 - [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) -> [[The Humble Programmer|Note]]
 - [Tangled Mess](https://www.subbu.org/articles/2025/tangled-mess/)
@@ -197,7 +196,7 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2025-10-28
 - Simplify Your Code: Functional Core, Imperative Shell -> [[Simplify Your Code - Functional Core, Imperative Shell|Tips&Tricks]]
-- Git Notes: git's coolest, most unloved­ feature -> [[Git Notes - git's coolest, most unloved­ feature|Tips&Tricks]]
+- Git Notes: git's coolest, most unloved­ feature -> [[Git Notes - git's coolest, most unloved­ feature|Tips&Tricks]]
 
 2025-10-27
 - [You already have a git server](https://maurycyz.com/misc/easy_git/) -> [[You already have a git server|Tips&Tricks]]

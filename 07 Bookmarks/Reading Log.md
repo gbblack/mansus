@@ -9,7 +9,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **The Diary of Adam and Eve** by Mark Twain.
+- **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 - **The Book Thief** by Markus Zusak.
 ## Reading List
 ### Short Little Difficult Books
@@ -80,6 +80,7 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 3. **Fellside** by M.R. Carey.
 4. **What the Dog Saw** by Malcolm Gladwell.
 5. **Under Milk Wood** by Dylan Thomas.
+6. **The Diary of Adam and Eve** by Mark Twain.
 ## 2025
 ---
 ### Read
