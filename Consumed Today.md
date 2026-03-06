@@ -1,13 +1,33 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-2025-03-03
+2026-03-06
+- [A GitHub Issue Title Compromised 4,000 Developer Machinesr](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
+- [v2](https://charm.land/blog/v2/)
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop)
+- [Seventeen Years of Coding and Starting Over](https://www.sunilshenoy.com/2026/03/05/seventeen-years-of-coding-and.html)
+- [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
+- [Nobody ever got fired for using a struct](https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct)
+- [The Data Doesn't Speak](https://tantaman.com/2026-03-02-data-doesnt-speak.html) -> [[The Data Doesn't Speak|Note]] (related to essay beneath)
+- [The Optimization Trap: Why the Birth Rate Can't Be Fixed](https://tantaman.com/2026-03-02-fertility-is-not-economics) -> [[The Optimization Trap: Why the Birth Rate Can't Be FixedNote]]
+- [The Brand Age](https://paulgraham.com/brandage.html)
+
+2026-03-04
+- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
+- [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
+- [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
+- [The looming AI clownpocalypse](https://honnibal.dev/blog/clownpocalypse)
+- [California’s Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/) -> [[California’s Digital Age Assurance Act, and FOSS|Barnyard]]
+- [We Automated Everything Except Knowing What's Going On](https://eversole.dev/blog/we-automated-everything/) -> [[We Automated Everything Except Knowing What's Going On|Barnyard]]
+- [Someone Needs To Go To Jail](https://edwardelson.substack.com/p/someone-needs-to-go-to-jail)
+
+2026-03-03
 - [Underrated reasons to dislike AI](https://www.autodidacts.io/underrated-reasons-to-dislike-ai/)
 - [The exploitation paradox in open source](https://lwn.net/SubscriberLink/1058031/a1b77f8039faed6c/) -> [[The exploitation paradox in open source|Barnyard]]
 - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
 - [Trap bots on your server](https://maurycyz.com/projects/trap_bots/) -> [[Trap bots on your server|Tips&Tricks]]
 - [Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 
-2025-03-02
+2026-03-02
 - [A new California law says all operating systems, including Linux, need to have some form of age verification at account setup](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
 - [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
 - [Why Objective-C](https://inessential.com/2026/02/27/why-objective-c.html)
@@ -19,6 +39,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 - [Cloudflare experiment ports most of Next.js API 'in one week' with AI](https://www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/)
+
 2026-02-25
 - [Looks Like it is Happening…](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 - [The surprising power of daily rituals](https://www.bbc.co.uk/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)

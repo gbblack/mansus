@@ -32,6 +32,7 @@ Links to individual Blogs
 | https://stephango.com/               | CEO of Obsidian                      |
 | https://hamatti.org/                 |                                      |
 | https://maurycyz.com/archive/        |                                      |
+| https://tantaman.com/                | philosophy, culture, politics        |
 ### Vaults
 Links to published Obsidian vaults
 
