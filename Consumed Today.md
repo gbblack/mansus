@@ -1,5 +1,13 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-03-09
+- [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul) -> [[The Day NY Publishing Lost Its Soul|Barnyard]]
+- [a grand vision for rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
+- [This CSS Proves Me Human](https://will-keleher.com/posts/this-css-makes-me-human/)
+- [AI doesn’t replace white collar work](https://www.marble.onl/posts/ai_doesnt_replace_work.html)
+- [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/)
+- [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
+
 2026-03-06
 - [A GitHub Issue Title Compromised 4,000 Developer Machinesr](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 - [v2](https://charm.land/blog/v2/)
