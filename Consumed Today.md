@@ -1,5 +1,10 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-03-10
+- [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
+- [Deilxsya](https://geon.github.io/programming/2016/03/03/dsxyliea)
+- We need network societies, not network states -> [[We need network societies, not network states|Barnyard]]
+
 2026-03-09
 - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul) -> [[The Day NY Publishing Lost Its Soul|Barnyard]]
 - [a grand vision for rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
