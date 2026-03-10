@@ -1,12 +1,10 @@
 ---
 tags:
   - article
+source: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
 links:
   - "[[political philosophy]]"
   - "[[conceptions of violence]]"
-publication:
-  - Anarchist Library
-source: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
 ---
 # Flesh and Blood
 
@@ -31,13 +29,6 @@ While **Native American rituals showed the desire to ==seize the strength and co
 Children were to submit to their parents, wives to husbands, and subjects to rulers, whose authority came from God. In each case the superior party was expected to inflict stern chastisement when he considered it appropriate: that is, to exercise violence with impunity.
 
 Wendat torture, in the same period, created searing, unforgettable spectacles of pain and suffering to make clear that no form of physical chastisement should ever be countenanced inside a community or household. ==**Violence and care==, in the Wendat case, were to be entirely separated.**
-## Citation
----
-```
-"Flesh and Blood", Anarchist Library.
-Available: https://theanarchistlibrary.org/library/david-graeber-and-david-wengrow-flesh-and-blood
-```
 
 > [!note] Nota Bene
-> I initially found this article in the archive of the website Anarchist Library but the original is actually an article from Harper's Magazine referencing chapter 12 of the authors' book: *From the Dawn of Everything*. The reference will point to the source I actually used, Anarchist Library.
-
+> I initially found this article in the archive of the website Anarchist Library but the original is actually an article from Harper's Magazine referencing chapter 12 of the authors' book: *From the Dawn of Everything*.

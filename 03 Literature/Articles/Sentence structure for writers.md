@@ -1,12 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://blog.oup.com/2017/11/sentence-structure-for-writers/
 links:
   - "[[writing]]"
-tags:
-  - writing
-publication:
-  - OUPblog
-source: https://blog.oup.com/2017/11/sentence-structure-for-writers/
 ---
 # Sentence structure for writers: understanding weight and clarity
 
@@ -27,9 +24,3 @@ she would say such things as _see red car_ long before she said things like _red
 Taking in such a sentence, we feel the ==**extra demand being made on our memory.== We have to keep those eleven words in mind before we learn what the speaker or writer is going to do to them**.
 
 The **==sooner they get to the verb==, the sooner they will get a ==sense of what the sentence is about.==**
-## Citation
----
-```
-"Sentence structure for writers: understanding weight and clarity", OUPblog.
-Available: https://blog.oup.com/2017/11/sentence-structure-for-writers/
-```

@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://www.seangoedecke.com/on-writing/
 links:
   - "[[blogging]]"
-publication:
-  - sean goedecke
-source: https://www.seangoedecke.com/on-writing/
 ---
 # Writing a tech blog people want to read
 
@@ -23,8 +22,3 @@ I try to **be as ==clear and casual== as possible.** This is largely influenced 
 One thing I explicitly do differently from philosophical writing is I **try ==not== to include ==too many caveats.==**
 
 Sensible readers will know that of course you’re speaking from your own experience, and other readers won’t pay attention to the caveats anyway.
-## Citation
----
-```
-"Writing a tech blog people want to read." sean goedecke. https://www.seangoedecke.com/on-writing/
-```

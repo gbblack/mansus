@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+source: https://aworkinglibrary.com/writing/coming-home
 links:
   - "[[indieweb]]"
   - "[[blogging]]"
-publication:
-  - A working library
-source: https://aworkinglibrary.com/writing/coming-home
-created: 2025-06-16
 ---
 # Coming home
 
@@ -37,8 +35,3 @@ And yet: **as much as ==the Fediverse is different**== (the governing structures
 And so I remain at an unresolvable juncture: the intersection of the very strong belief that we must experiment with new modes and systems of communication, and the certain knowledge that every time I so much as glance at anything shaped like a social feed, my brain smoothes out, the web of connections and ideas I’m weaving is washed away, and I tumble downstream
 
 **But maybe we ==need more _weird_==**—not in the very recent sense of the word, but **in the sense of prophesy or potential, a spell or charm, the magic, the wild, ==the _wyrd_—that which is becoming,**== rather than that which has already passed us by.
-## Citation
----
-```
-"Coming home." A working library. https://aworkinglibrary.com/writing/coming-home
-```

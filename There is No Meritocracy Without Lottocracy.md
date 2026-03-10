@@ -1,6 +1,6 @@
 ---
-kind: barnyard
 tags:
+  - barnyard
 source: https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy
 ---
 # There is No Meritocracy Without Lottocracy

@@ -1,10 +1,9 @@
 ---
-links:
-  - GUI
-  - UI
 tags:
   - barnyard
 source: https://www.chrbutler.com/in-defense-of-text-labels
+links:
+  - "[[UI]]"
 ---
 # In Defense of Text Labels
 

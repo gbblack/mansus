@@ -1,10 +1,10 @@
 ---
-kind: article
 tags:
+  - article
   - engineering_values
-publication:
-  - LMNT
 source: https://lmnt.me/blog/nothing-left-to-solve.html
+links:
+  - "[[quality software]]"
 ---
 # Nothing Left to Solve
 
@@ -21,9 +21,3 @@ At some point, we ==**solidified the layout== of a calculator.** If we change it
 we have ==**solved some software problems**==
 
 Some things **may ==not require redesigning==. We might have simply figured them out.**
-## Citation
----
-```
-"Nothing Left to Solve", lmnt.
-Available: https://lmnt.me/blog/nothing-left-to-solve.html
-```

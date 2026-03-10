@@ -4,7 +4,7 @@ tags:
 source: https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html
 links:
   - "[[testing]]"
-  - software architecture
+  - "[[software architecture]]"
 ---
 # Simplify Your Code: Functional Core, Imperative Shell
 

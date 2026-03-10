@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://www.henrikkarlsson.xyz/p/start-a-blog
 links:
   - "[[blogging]]"
-publication:
-  - Escaping Flatland
-source: https://www.henrikkarlsson.xyz/p/start-a-blog
 ---
 # Advice for a friend who wants to start a blog
 
@@ -29,8 +28,3 @@ Don’t aim too high when you write your first posts. Maybe just do 500-word pie
 He didn’t rewrite the sentences, moving commas and phrases around—he flipped a page and wrote a new draft from scratch. This is a way to learn from your attempts without sacrificing the life that comes from writing fast.
 
 But a blog is a tiny internet house where you decide the norms. And since there are already countless places where you can't be yourself, there is no need to build another one of those. The law of the land is that everything you think is funny is funny. Those who find the texture of your mind boring or offensive can close the tab—no need to worry about them. **==It is good for the soul to have a place where being just the way you are is normal.==**
-## Citation
----
-```
-"Advice for a friend who wants to start a blog." Escaping Flatland. https://www.henrikkarlsson.xyz/p/start-a-blog
-```

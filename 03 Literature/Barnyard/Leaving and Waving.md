@@ -1,7 +1,6 @@
 ---
-kind: barnyard
 tags:
-  - attic
+  - barnyard
 source: https://deannadikeman.com/leaving-and-waving
 ---
 # Leaving and Waving

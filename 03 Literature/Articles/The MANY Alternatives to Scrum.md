@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_practices
+source: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum
 links:
   - "[[leadership]]"
-tags:
-  - engineering_practices
-publication:
-  - Rethinking Software
-source: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum
 ---
 # The MANY Alternatives to Scrum
 
@@ -32,10 +30,4 @@ source: https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum
    - **==Continuous Integration== (CI)**: … .
    **XP emphasizes ==direct collaboration.==** This **approach ==shortens feedback loops==, helps the team better ==understand the problem domain==, and enables them to ==focus on delivering the right solution.**==
 
-8. No matter how well you know Scrum —whether you’re a programmer or a certified Scrum Master, **==let the team run the show.==** Don’t cling so tightly to “your way” that the team can’t change it. Let them change whatever they think will make them more effective. Let them do irregular sprints that don’t run back-to-back; let them add items to the backlog without the PO’s permission; let them do stand-ups once a week; let them ban estimates.
-
-## Citation
----
-```
-"The MANY Alternatives to Scrum." Rethinking Sotware. https://rethinkingsoftware.substack.com/p/the-many-alternatives-to-scrum
-```
+7. No matter how well you know Scrum —whether you’re a programmer or a certified Scrum Master, **==let the team run the show.==** Don’t cling so tightly to “your way” that the team can’t change it. Let them change whatever they think will make them more effective. Let them do irregular sprints that don’t run back-to-back; let them add items to the backlog without the PO’s permission; let them do stand-ups once a week; let them ban estimates.

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: links
+    groupBy:
+      property: links
+      direction: ASC
+    order:
+      - links
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

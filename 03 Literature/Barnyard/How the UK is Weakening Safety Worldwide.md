@@ -1,8 +1,9 @@
 ---
-kind: barnyard
+tags:
+  - barnyard
+source: https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
 links:
   - "[[digital privacy]]"
-source: https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide
 ---
 # How the UK is Weakening Safety Worldwide
 

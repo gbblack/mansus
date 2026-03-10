@@ -1,12 +1,10 @@
 ---
-kind: article
-links:
-  - "[[???]]"
 tags:
+  - article
   - engineering_practices
-publication:
-  - paul-samuels.com
 source: https://paul-samuels.com/blog/2025/02/23/project-scripts/
+links:
+  - "[[quality software]]"
 ---
 # Project Scripts
 
@@ -27,26 +25,3 @@ Using languages like `Swift`/`Kotlin` **encourages me to ==write more reusable
 I’m not 100% sold on the exact naming/layout but as a reference this is what I set up. We have a shim at the root of the project called `cli`, this file’s job is to essentially `cd` into the project that has the tasks and call `swift build` followed by running the built exectuable.
 
 My other thinking is that if we come to ==**some standarisation== that in our projects you j==ust call `./cli` to be presented with all the various admin tasks**== then it’s just one thing to learn.
-## Citation
----
-```
-"Project Scripts." paul-samuels.com. https://paul-samuels.com/blog/2025/02/23/project-scripts/
-```
----
-##### Completion Checklist
-###### I. To Become Dark
-- [ ] Complete the `Citation` section.
-- [ ] Write the Full title in the heading.
-- [ ] Complete the all metadata except `tags`.
-- [ ] Read the article once in its entirety with focus, no music.
-- [ ] Add tag `status/dark`.
-###### II. From Dark to Dawn
-- [ ] Read the article again, this time copy pasting interesting sections into the note under `Highlights`.
-- [ ] **Bold** the portions of the `Highlights` you find most interesting.
-- [ ] ==Highlight== the best parts of the bolded sections.
-- [ ] Update status tag to `status/dawn`.
-###### III. From Dawn to Day
-- [ ] Write the article `Summary`.
-- [ ] Fill in the context tags for the metadata.
-- [ ] Update status tag to `status/day`.
-- [ ] Remove this checklist.

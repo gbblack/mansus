@@ -1,12 +1,9 @@
 ---
-kind: article
 tags:
-  - software/frontend
-publication:
-  - JASON Format
+  - article
 source: https://jasonformat.com/islands-architecture/
 links:
-  - "[[???]]"
+  - "[[frontend architecture]]"
 ---
 # Islands Architecture
 
@@ -29,8 +26,3 @@ The HTML returned in response to navigation **contains a ==meaningful== and imme
 the document should at least contain **the most ==essential content==.** For example: a news page’s HTML would contain the article body
 
 **All of the ==other content is secondary== to this information**, and its inclusion in the HTML becomes a product decision. How vital is this bit of information to a user visiting the page? How important is that widget to the business model?
-## Citation
----
-```
-"Islands Architecture." JASON Format. https://jasonformat.com/islands-architecture/
-```

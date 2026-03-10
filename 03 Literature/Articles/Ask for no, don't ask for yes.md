@@ -1,11 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://www.mooreds.com/wordpress/archives/3518
 links:
   - "[[workplace]]"
-publication:
-  - Dan Moore!
-source: https://www.mooreds.com/wordpress/archives/3518
-created: 2025-06-09
 ---
 # Ask for no, don’t ask for yes
 
@@ -25,8 +23,3 @@ If you have a busy boss (and most people do), this is going to require a bit of 
 Now, let’s take the alternative approach.”Hey, boss, I am going to install action X, which should solve the XYZ problems we’ve been having. Will take care of this on Monday unless I hear differently from you.”
 
 **==You are saying== (without being explicit) that ==you “got it”==** and are going to handle this issue.
-## Citation
----
-```
-"Ask for no, don’t ask for yes." Dan Moore. https://www.mooreds.com/wordpress/archives/3518
-```

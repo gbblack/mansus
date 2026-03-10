@@ -1,10 +1,10 @@
 ---
-kind: article
 tags:
+  - article
   - engineering_values
-publication:
-  - Aaron Parecki
 source: https://aaronparecki.com/2024/08/31/9/too-many-projects
+links:
+  - "[[quality software]]"
 ---
 Any Links
 # Thoughts on the Resiliency of Web Projects
@@ -26,8 +26,3 @@ Databases aren't inherently bad, but using one does **make the project slightly 
 If a database is required, is it possible to create it in a way that does not result in **ever-growing storage needs?**
 
 Is this going to store data or be a **service that ==other people== are going to use?** If so, plan on a registration form so that I have a way to **contact people eventually when I need to change it** or shut it down.
-## Citation
----
-```
-"Thoughts on the Resiliency of Web Projects." Aaron Parecki. https://aaronparecki.com/2024/08/31/9/too-many-projects
-```

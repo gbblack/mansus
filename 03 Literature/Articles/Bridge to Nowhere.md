@@ -1,10 +1,9 @@
 ---
-kind: article
 tags:
-  - individual_agency
-publication:
-  - Depth First
+  - article
 source: https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/
+links:
+  - "[[individual agency]]"
 ---
 # Bridge to Nowhere
 
@@ -35,9 +34,3 @@ Then they'll be told there's something in their brain that must be surgically re
 **They ==deserve the truth== — all of it. They deserve to be ==treated as capable adults==.** They don't need to be coddled as if the unvarnished truth will destroy their will to live. They don't deserve baseless praise for next-generation sequencing or the vaporware of personalized medicine.
 
 The current ==**dismal== state-of-the-art ==care==** means that for the vast majority of patients diagnosed with glioblastoma, surgery is a bridge to nowhere.
-## Citation
----
-```
-"Bridge to Nowhere", Depth-First.
-Available: https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/
-```

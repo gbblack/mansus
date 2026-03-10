@@ -1,7 +1,6 @@
 ---
-kind: barnyard
 tags:
-  - attic
+  - barnyard
 source: https://wiki.c2.com/?StoryOfMel
 ---
 # Story Of Mel

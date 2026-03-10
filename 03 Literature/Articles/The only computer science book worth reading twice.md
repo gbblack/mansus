@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - reading_list
+source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
 links:
   - "[[systems thinking]]"
-tags:
-  - reading_list
-publication:
-  - Simon Dobson
-source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
 ---
 # The only computer science book worth reading twice?
 
@@ -27,9 +25,3 @@ The computer revolution is a ==**revolution== in the ==way we think== and in the
 ==**Mathematics**== provides a framework f**or dealing precisely with notions of ==“what is.”**== ==**Computation**== provides a framework for **dealing precisely with notions of ==“how to."==**
 
 SICP is to computer science what Feynman’s _Lectures on Physics_ are to physics: **an ==accessible distillation of the essence== of the subject** that’s stood the test of time.
-## Citation
----
-```
-"The only computer science book worth reading twice?", Simon Dobson.
-Available: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice
-```

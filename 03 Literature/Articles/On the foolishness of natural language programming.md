@@ -1,14 +1,10 @@
 ---
-kind: article
 tags:
-  - technical_philosophy
-  - AI
-publication:
-  - The University of Texas at Austin
+  - article
 source: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
 links:
   - "[[AI]]"
-  - "[[???]]"
+  - "[[quality software]]"
 ---
 # On the foolishness of "natural language programming"
 
@@ -31,8 +27,3 @@ When all is said and told, the "naturalness" with which we use our native tongue
 Remark. As a result of the educational trend away from intellectual discipline, the last decades have shown in the Western world a sharp decline of people's mastery of their own language: many people that by the standards of a previous generation should know better, are no longer able to use their native tongue effectively, even for purposes for which it is pretty adequate.
 
 From one gut feeling I derive much consolation: ==**I suspect that machines to be programmed in our native tongues== —be it Dutch, English, American, French, German, or Swahili— ==are as damned difficult to make as they would be to use.**==
-## Citation
----
-```
-"On the foolishness of "natural language programming"." The University of Texas at Austin. https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
-```

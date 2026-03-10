@@ -1,12 +1,9 @@
 ---
-kind: article
-links:
-  - "[[cognition??]]"
 tags:
   - personal_philosophy
-publication:
-  - Paul Graham
 source: https://paulgraham.com/writes.html
+links:
+  - "[[writing as thinking]]"
 ---
 # Writes and Write-Nots
 
@@ -42,9 +39,3 @@ It will be **a world of ==thinks and think-nots.==**
 This situation is not unprecedented. In preindustrial times most people's jobs made them strong. **Now if you want to be strong, you work out. So t==here are still strong people, but only those who choose to be.**==
 
 ==**There will still be smart people, but only those who choose to be.**==
-## Citation
----
-```
-"Writes and Write-Nots", Paul Graham.
-Available: https://paulgraham.com/writes.html
-```

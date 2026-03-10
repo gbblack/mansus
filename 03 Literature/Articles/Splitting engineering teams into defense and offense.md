@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_practices
+source: https://www.greptile.com/blog/how-we-engineer
 links:
   - "[[leadership]]"
-tags:
-  - engineering_practices
-publication:
-  - greptile
-source: https://www.greptile.com/blog/how-we-engineer
 ---
 # Splitting engineering teams into defense and offense
 
@@ -37,9 +35,3 @@ it’s far **more useful to ==isolate interruptions== to a few people** rather t
 A mental model that I have found useful is to **view ==event-driven engineering as “defensive”== and ==long-running processes as “offensive”.==**
 
 ==**Defensive== engineering exists to ==maintain your product==**, whereas ==**offensive== engineering exists to ==expand it.==**
-## Citation
----
-```
-"Splitting engineering teams into defense and offense", Website Name.
-Available: https://www.greptile.com/blog/how-we-engineer
-```

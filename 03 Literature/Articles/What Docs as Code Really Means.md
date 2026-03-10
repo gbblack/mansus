@@ -1,14 +1,11 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_practices
+source: https://passo.uno/what-docs-as-code-means/
 links:
   - "[[documentation]]"
-tags:
-  - engineering_practices
-publication:
-  - passo
-source: https://passo.uno/what-docs-as-code-means/
 ---
-Any Links
 # What Docs as Code Really Means
 
 > [!abstract] Summary
@@ -32,9 +29,3 @@ Having documentation in the definition of done is _not_ enough. **There have t
 Both sides need each other: you can’t move the needle of great docs without the dedication of the entire engineering org, and **engineers struggle to create great docs without a docs architect.**
 
 we’re ==**architects of understanding==, building bridges between complex systems** and the humans who use them.
-## Citation
----
-```
-"What docs as code really means", passo.
-Available: https://passo.uno/what-docs-as-code-means/
-```

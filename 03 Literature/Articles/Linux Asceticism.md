@@ -1,13 +1,11 @@
 ---
-kind: article
+tags:
+  - article
+  - personal_philosophy
+source: https://www.rugu.dev/en/blog/linux-asceticism/
 links:
   - "[[ascetism]]"
   - "[[linux]]"
-tags:
-  - personal_philosophy
-publication:
-  - rugu
-source: https://www.rugu.dev/en/blog/linux-asceticism/
 ---
 # Linux Asceticism
 
@@ -26,9 +24,3 @@ However, there’s another often-overlooked aspect that can make using a minimal
 It will ==**force you to learn== more and more and you’ll also begin to ==appreciate the underlying elements==** that are often hidden away by the layers we rely on. **This effect will be amplified especially if you like to tinker and try to ==make things happen as you want them to be.**==
 
 In the end, **you’ll ==gain a deeper understanding== of what happens under the hood.** Your comfort zone will broaden as **you develop the ==mindset of solving problems.**==
-## Citation
----
-```
-"Linux Asceticism", rugu.
-Available: https://www.rugu.dev/en/blog/linux-asceticism/
-```

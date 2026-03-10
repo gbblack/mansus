@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.tags.containsAny("article", "barnyard", "book", "book_index", "chapter", "chapter_technical", "permanent", "reference", "tipsntricks", "dissertation")'
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - tags

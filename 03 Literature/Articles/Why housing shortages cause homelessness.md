@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/
 links:
   - "[[housing insecurity]]"
-publication:
-  - Works In Progress
-source: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/
 ---
 # Why housing shortages cause homelessness
 
@@ -74,9 +73,3 @@ Dysfunction in the formal housing market is ==**squeezing out== those who would 
 Trying to solve **homelessness ==without addressing the housing market== is like trying to ==towel a floor dry when the roof has blown off==.**
 
 Houston’s reasonable-priced market rate housing also helps **people who ==managed to stop being homeless== to stay housed even if their fortunes decline.**
-## Citation
----
-```
-"Why housing shortages cause homelessness", Works In Progress.
-Available: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness
-```

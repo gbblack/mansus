@@ -1,10 +1,10 @@
 ---
-kind: article
 tags:
+  - article
   - engineering_values
-publication:
-  - catherine jue
 source: https://www.catherinejue.com/fast
+links:
+  - "[[quality software]]"
 ---
 # fast
 
@@ -25,8 +25,3 @@ But **software that's fast changes behavior.**
 **This is because ==the effort to make software fast often requires stripping away non-essential features**.== Compare how fast a streamlined project management tool like Linear loads versus an enterprise app like Workday (or worse… Oracle). In a world obsessed with adding rather than refining, speed becomes the ultimate expression of respect. **It says, "We've thought deeply about what matters and ==eliminated everything else.=="**  
   
 In order to make things fast, you often have to do complex things behind the scenes. ... In this interview, Kevin Systrom explains how Instagram _optimistically uploaded_ users' photos while they entered their caption to make the upload experience feel instant. **Fast isn't just a technical accomplishment—==it signals prioritization and focus.** ==
-## Citation
----
-```
-"fast." catherine jue. https://www.catherinejue.com/fast
-```

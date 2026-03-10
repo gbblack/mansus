@@ -1,10 +1,10 @@
 ---
-kind: article
 tags:
+  - article
   - engineering_values
-publication:
-  - Rubenerd
 source: https://rubenerd.com/boring-tech-is-mature-not-old/
+links:
+  - "[[quality software]]"
 ---
 # Boring tech is mature, not old
 
@@ -19,9 +19,3 @@ source: https://rubenerd.com/boring-tech-is-mature-not-old/
 What it does teach is that it pays to make informed decisions, and that **often times ==the understood, reliable, boring tech will get you there== over something new,** shiny or propped up with marketing spin.
 
 I’d conclude by suggesting **boring tech isn’t old, but _mature_. ==Maturity not just in the software, but its documentation, community, and track record.**==
-## Citation
----
-```
-"Boring tech is mature, not old", Rubenerd.
-Available: https://rubenerd.com/boring-tech-is-mature-not-old/
-```

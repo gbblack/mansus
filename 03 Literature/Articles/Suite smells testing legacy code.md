@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_practices
+source: https://bitfieldconsulting.com/posts/testing-legacy-code
 links:
   - "[[testing]]"
-tags:
-  - engineering_practices
-publication:
-  - Bitfield Consulting
-source: https://bitfieldconsulting.com/posts/testing-legacy-code
 ---
 # Suite smells: testing legacy code
 
@@ -53,9 +51,3 @@ if someone is new **to writing tests, it will be a ==slow process at first==,** 
 agree with your team that **for a ==short trial== period, you’ll ==write tests for everything== you do.**.If anyone gets stuck on how to test something, the whole team will pitch in to help.
 
 If **the result is a ==correct program with robust tests==, then ==who cares what order==** those things are written in?
-## Citatibon
----
-```
-"Suite smells: testing legacy code", Bitfield Consulting.
-Available: https://bitfieldconsulting.com/posts/testing-legacy-code 
-```

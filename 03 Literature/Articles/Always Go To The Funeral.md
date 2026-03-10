@@ -1,10 +1,10 @@
 ---
-kind: article
 tags:
+  - article
   - personal_philosophy
-publication:
-  - npr
 source: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
+links:
+  - "[[personal responsibility]]"
 ---
 # Always Go To The Funeral
 
@@ -31,9 +31,3 @@ In my humdrum life, **the daily battle hasn't been good versus evil.** It's hard
 In going to funerals, I've come to believe that while I wait to make a grand heroic gesture, **I should just ==stick to the small inconveniences== that let me ==share in life's inevitable==, occasional ==calamity.==**
 
 The memory of it still takes my breath away. The most human, powerful and humbling thing I've ever seen was a church at 3:00 on a Wednesday **==full of inconvenienced people who believe in going to the funeral.==**
-## Citation
----
-```
-"Always Go To The Funeral", npr.
-Available: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
-```

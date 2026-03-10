@@ -3,7 +3,7 @@ tags:
   - tipsntricks
 source: https://johnscolaro.xyz/blog/log-by-time-not-by-count
 links:
-  - logging
+  - "[[logging]]"
 ---
 # Log by Time, not by Count
 

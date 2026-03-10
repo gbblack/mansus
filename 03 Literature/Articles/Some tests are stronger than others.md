@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_practices
+source: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
 links:
   - "[[testing]]"
-tags:
-  - engineering_practices
-publication:
-  - Computer Things
-source: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
 ---
 # Some tests are stronger than others
 
@@ -33,10 +31,4 @@ One cool thing we can do is take a property P and generate a stronger/weaker pro
 An example with tests would be mock-removal:
 `test weak {f(x) calls mock M} test strong {f(x) == y}`
 
-If you _already know there's an error_, **a ==weaker test ==can be more useful than a stronger test, because it l==ocalizes where the bug is==** more. If you're **trying to ==_determine correctness==_, though, ==stronger tests== are better.**
-## Citation
----
-```
-"Some tests are stronger than others", Computer Things.
-Available: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
-```
+If you _already know there's an error_, **a ==weaker test ==can be more useful than a stronger test, because it ==localizes where the bug is==** more. If you're **trying to ==_determine correctness==_, though, ==stronger tests== are better.**

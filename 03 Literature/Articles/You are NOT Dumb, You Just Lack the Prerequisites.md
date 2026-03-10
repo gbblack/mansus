@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - personal_philosophy
+source: https://lelouch.dev/blog/you-are-probably-not-dumb/
 links:
   - "[[learning]]"
-tags:
-  - personal_philosophy
-publication:
-  - lelouch
-source: https://lelouch.dev/blog/you-are-probably-not-dumb/
 ---
 # You are NOT Dumb, You Just Lack the Prerequisites
 
@@ -19,8 +17,3 @@ It’s like walking into a movie halfway through—**you can’t understand the 
 The gap in comprehension wasn’t due to a lack of ability but rather ==**a gap== in prerequisite knowledge**.
 
 Each ==**foundational concept== I mastered ==laid the groundwork== for more complex theories** and problems.
-## Citation
----
-```
-"You Are NOT Dumb, You Just Lack the Prerequisites." lelouch. https://lelouch.dev/blog/you-are-probably-not-dumb/
-```

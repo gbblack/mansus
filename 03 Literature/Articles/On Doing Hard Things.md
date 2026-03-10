@@ -1,10 +1,11 @@
 ---
-kind: article
 tags:
+  - article
   - personal_philosophy
-publication:
-  - parv bhadra
 source: https://parv.bearblog.dev/kayaking/
+links:
+  - "[[personal responsibility]]"
+  - "[[cultivation]]"
 ---
 # On Doing Hard Things
 
@@ -21,8 +22,3 @@ Less than a year in, I was told I’d made varsity. A few months after that, **I
 **Kayaking taught me to ==be okay== with repeatedly looking ==dumb in public.==**
 
 ==**It’s easy to over-index on success stories.**==  But I think there’s a quiet dignity in the almost-stories too.
-## Citation
----
-```
-"On Doing Hard Things." parv bhadra. https://parv.bearblog.dev/kayaking/
-```

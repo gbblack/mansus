@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_values
+source: https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork
 links:
   - "[[systems thinking]]"
-tags:
-  - engineering_values
-publication:
-  - WikiWikiWeb
-source: https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork
 ---
 # Do The Simplest Thing That Could Possibly Work
 
@@ -42,8 +40,3 @@ There are second order effects to asking yourself "What is the simplest thing th
 
 Remember, however, that "quality" is probably impossible to fully define. ... In the end, the "quality" of a software based system must be sufficient to meet the expectations of the users; the purpose of the system is really immaterial to the argument. - Wayne Mack
 Not so. Phil Crosby developed an entire school of thought on defining quality in non-fuzzy terms. **Quality, very simply, is conformance to requirements. You can measure ==how far out of conformance your system is, so you know if it is a "good" system or not.**== The hard part is establishing the measurements, but domain-knowledgeable people can always find a way to do that.
-## Citation
----
-```
-"Do The Simplest Thing That Could Possibly Work." WikiWikiWeb. https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork
-```

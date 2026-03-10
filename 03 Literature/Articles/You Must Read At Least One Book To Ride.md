@@ -1,13 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - personal_philosophy
+source: https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
 links:
   - "[[learning]]"
-  - "[[cognition??]]"
-tags:
-  - personal_philosophy
-publication:
-  - Lucidity
-source: https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
 ---
 # You Must Read At Least One Book To Ride
 
@@ -33,7 +30,7 @@ I can't help but feel that something has gone dreadfully wrong in society in tha
 
 But since they're producing nothing _anyway_, or are a net negative to society accounting for opportunity cost, I can't help but feel that they'd somehow be so much more fulfilled if they got the sack somehow and we provided them all that money to just like, take care of their children and stop fucking around with databases they keep damaging.
 
-> My worst job was my first job. It was very important to me, ... And it was everything I wanted and it made me miserable. Finally, I was so bad at it that it could no longer be concealed from the editor. I got the sack, ... I was very depressed, I thought "how will I ever recover", "I'll never get another job", "maybe I can't even keep my union card". **But I still sometimes think about it, and think =="If I had been any good at that job, I might still be doing it."**==
+My worst job was my first job. It was very important to me, ... And it was everything I wanted and it made me miserable. Finally, I was so bad at it that it could no longer be concealed from the editor. I got the sack, ... I was very depressed, I thought "how will I ever recover", "I'll never get another job", "maybe I can't even keep my union card". **But I still sometimes think about it, and think =="If I had been any good at that job, I might still be doing it."**==
 
 Something about having your skin in the game is that your relationship with sleepwalkers changes. **That is, instead of resenting them, you're _glad that they're so bad_ because they give you people to beat without having to dedicate your entire life to perfect performance.**
 
@@ -52,8 +49,3 @@ I don't think I can explain _exactly_ how I do it, or if there's a precise alg
 **Even ==_within_ a book==, you have to be able to ==discard large segments that don't have merit.==**
 
 **==Not having whatever that ability== is seems to ==cripple== many people's ==ability to learn== and better themselves.** This is why it's so concerning when you hear some executives disclose their reading material - it is typically _immediately obvious_ that there is almost no way they are actually good at their job.
-## Citation
----
-```
-"You Must Read At Least One Book To Ride." Lucidity. https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
-```

@@ -1,10 +1,10 @@
 ---
-kind: barnyard
-links:
-  - "[[???]]"
 tags:
-  - software/UX
+  - barnyard
 source: https://deanebarker.net/tech/blog/let-me-know/
+links:
+  - "[[UI]]"
+  - "[[UX]]"
 ---
 # The Missing Protocol: Let Me Know
 

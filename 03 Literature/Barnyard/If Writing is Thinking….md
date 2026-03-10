@@ -1,9 +1,10 @@
 ---
-kind: barnyard
+tags:
+  - barnyard
+source: https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking
 links:
   - "[[AI]]"
   - "[[accountability]]"
-source: https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking
 ---
 # If Writing is Thinking…
 

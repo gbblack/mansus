@@ -1,10 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+source: https://olano.dev/blog/software-design-is-knowledge-building/
 links:
   - "[[systems thinking]]"
-publication:
-  - olano
-source: https://olano.dev/blog/software-design-is-knowledge-building/
+  - "[[quality software]]"
 ---
 # Software Design is Knowledge Building
 
@@ -49,8 +49,3 @@ Knowing that revival is a plausible future need has powerful consequences for ou
 the ultimate **goal of ==software design== should be (organizational) ==knowledge building.==**
 
 rather than thinking in terms of the burden on future maintainers, think: **how much will this decision affect—how much will it help or hinder—their ==building of a mental model==** of the system, of the business, of the world.
-## Citation
----
-```
-"Software Design is Knowledge Building." olano. https://olano.dev/blog/software-design-is-knowledge-building
-```

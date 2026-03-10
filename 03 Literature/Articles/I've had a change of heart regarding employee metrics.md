@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://rachelbythebay.com/w/2024/11/03/metrics/
 links:
   - "[[leadership]]"
-publication:
-  - rachelbythebay
-source: https://rachelbythebay.com/w/2024/11/03/metrics/
 ---
 # I've had a change of heart regarding employee metrics
 
@@ -21,9 +20,3 @@ So, my new position on that sort of thing is: fuck them. **==Don't help them.==*
 Those tools I wrote 20 years ago didn't really indicate who was slacking at working tickets or whatever. **What they *actually indicated* was that the ==management== at Rackspace, by and large, ==had no clue what was going on== right under their noses.**
 
 So, why expose yourself? Suppress the urge to point out who's slacking. It will only come back on you.
-## Citation
----
-```
-"I've had a change of heart regarding employee metrics", rachelbythebay.
-https://rachelbythebay.com/w/2024/11/03/metrics/
-```

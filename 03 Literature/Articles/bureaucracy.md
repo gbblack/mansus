@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://dhruvmethi.substack.com/p/bureaucracy
 links:
   - "[[leadership]]"
-publication:
-  - Midnight Musings
-source: https://dhruvmethi.substack.com/p/bureaucracy
 ---
 # bureaucracy
 
@@ -54,9 +53,3 @@ The key here is that these **systems have to be ==malleable**==. Just because i
 None of this is easy. **To do this right, ==you have to deeply understand your organization and its purpose.== You have to be ==deliberate== with your actions and intentions, frequently revisiting things and tweaking them ==as the surrounding context changes.==**
 
 To make it harder, **it is ==not sufficient== to do something that is a ==“best practice”.==** You must **marry the ==right action== with the ==right context==** because if it’s not coupled well, you’re on the way to creating a bureaucratic maze.
-## Citation
----
-```
-"bureaucracy", Midnight Musings.
-https://dhruvmethi.substack.com/p/bureaucracy
-```

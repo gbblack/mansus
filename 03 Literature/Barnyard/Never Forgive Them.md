@@ -1,10 +1,10 @@
 ---
-kind: barnyard
-links:
-  - "[[fuck big tech]]"
 tags:
+  - barnyard
   - personal_philosophy
 source: https://www.wheresyoured.at/never-forgive-them/
+links:
+  - "[[fuck big tech]]"
 ---
 # Never Forgive Them
 

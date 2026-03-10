@@ -1,10 +1,9 @@
 ---
-kind: article
+tags:
+  - article
+source: https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 links:
   - "[[writing]]"
-publication:
-  - DILBERT.BLOG
-source: https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 ---
 # The Day You Became A Better Writer
 
@@ -21,8 +20,3 @@ Your **==first sentence== needs to ==grab the reader.==**
 **Write short sentences. ==Avoid putting multiple thoughts in one sentence.==** Readers aren’t as smart as you’d think.  
 
 **==Learn how brains organize ideas.== Readers comprehend “the boy hit the ball” quicker than “the ball was hit by the boy.”** ... . All brains work that way. (Notice I didn’t say, “That is the way all brains work”?)
-## Citation
----
-```
-"The Day You Became A Better Writer." DILBERT.BLOG. https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
-```

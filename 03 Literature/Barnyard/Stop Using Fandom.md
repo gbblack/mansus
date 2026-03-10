@@ -1,5 +1,6 @@
 ---
-kind: barnyard
+tags:
+  - barnyard
 links:
   - "[[indieweb]]"
 source: https://j3s.sh/thought/stop-using-fandom.html

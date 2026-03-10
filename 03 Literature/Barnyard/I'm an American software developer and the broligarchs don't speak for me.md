@@ -1,8 +1,10 @@
 ---
-kind: barnyard
 tags:
+  - barnyard
   - personal_philosophy
 source: https://ratfactor.com/tech-nope
+links:
+  - "[[personal responsibility]]"
 ---
 # I'm an American software developer and the "broligarchs" don't speak for me
 

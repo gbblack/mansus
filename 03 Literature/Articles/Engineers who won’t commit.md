@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - engineering_values
+source: https://www.seangoedecke.com/taking-a-position/
 links:
   - "[[leadership]]"
-tags:
-  - engineering_values
-publication:
-  - sean goedecke
-source: https://www.seangoedecke.com/taking-a-position/
 ---
 # Engineers who won’t commit
 
@@ -41,10 +39,3 @@ I’m saying **you should ==force yourself to make commitments== _when you’re
 The harder the decision, **the more ==uncertainty== you should be ==willing to accept==**
 
 It can be **==genuinely scary== to make a claim that you’re not sure about.** But you should still do it
-## Citation
----
-```
-"Engineers who won’t commit", sean goedecke.
-Available: https://www.seangoedecke.com/taking-a-position/
-```
-

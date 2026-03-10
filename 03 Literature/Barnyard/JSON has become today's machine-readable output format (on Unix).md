@@ -3,7 +3,7 @@ tags:
   - barnyard
 source: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat
 links:
-  - JSON
+  - "[[JSON]]"
 ---
 # JSON has become today's machine-readable output format (on Unix)
 

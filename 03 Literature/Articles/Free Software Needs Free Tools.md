@@ -1,13 +1,11 @@
 ---
-kind: article
-links:
-  - "[[FLOSS]]"
 tags:
+  - article
   - engineering_values
   - personal_philosophy
-publication:
-  - mako.cc
 source: https://mako.cc/writing/hill-free_tools.html
+links:
+  - "[[FLOSS]]"
 ---
 # Free Software Needs Free Tools
 
@@ -31,8 +29,3 @@ Secondly, we should realize that, going forward, ==**the software we produce is 
 In the controversial area of private software and network services, **free software ==developers should err on the side of “too much” freedom. To compromise our principles in attempts to achieve more freedom is self-defeating, unstable, and ultimately unfair,==** to our users and to the larger free software development community.
 
 Just as the early GNU maintainers first focused on creating free tools for creating free software, we should ensure that we can produce software freely and using unambiguously free tools. ==**Our failure to do so will result in software that is, indirectly, less free.== We should resist using tools that do not allow us the freedoms we are trying to provide our users in the development of _their_ software and we should apply pressure on the producers of our development tools.** Free software has not achieved success by compromising our principles. ==**We will not be well served, technically, pragmatically, or ethically, by compromising on freedom of the tools we use to build a free world.**==
-## Citation
----
-```
-"Free Software Needs Free Tools." Benjamin Mako Hill. https://mako.cc/writing/hill-free_tools.html
-```

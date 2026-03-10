@@ -1,12 +1,10 @@
 ---
-kind: article
+tags:
+  - article
+  - personal_philosophy
+source: https://ashore.io/journal/crossover-creativity/poisoning-the-day
 links:
   - "[[productivity]]"
-tags:
-  - personal_philosophy
-publication:
-  - Ashore
-source: https://ashore.io/journal/crossover-creativity/poisoning-the-day
 ---
 # Poisoning the day
 

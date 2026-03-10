@@ -1,9 +1,8 @@
 ---
-kind: article
-links: "[[accountability]]"
-publication:
-  - A working library
+tags:
+  - article
 source: https://aworkinglibrary.com/writing/accountability-sinks
+links: "[[accountability]]"
 ---
 # Accountability sinks
 
@@ -38,9 +37,3 @@ The comparisons to AI are obvious, inasmuch as **delegating ==decisions to an al
 The accountability-washing that an AI provides isn’t a new service so much as an escalated and expanded one.
 
 Any effort that’s tried and failed to hold a corporation to account isn’t likely **to have more ==success against an algorithm. We need a new bag of tricks**==
-## Citation
----
-```
-"Accountability sinks",A working library.
-Available: https://aworkinglibrary.com/writing/accountability-sinks
-```

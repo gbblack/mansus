@@ -1,10 +1,11 @@
 ---
-kind: article
 tags:
+  - article
   - engineering_values
-publication:
-  - Bobby Lockhart
 source: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
+links:
+  - "[[personal responsibility]]"
+  - "[[quality software]]"
 ---
 # Tech Takes the Pareto Principle Too Far
 
@@ -33,9 +34,3 @@ The problem is **I ==don’t think== that **the ==current methodology== is capab
 If we **took a ==more craftsmanlike view of software==, we would realize that a ==chair is not 80% done when you can sit on it.**==
 
 So while from a utilitarian standpoint something may have most of the features a person might ask for, from a humanist point of view 20% of the work still only produces 20% of the results.
-## Citation
----
-```
-"Tech Takes the Pareto Principle Too Far", Bobby Lockhart.
-Available: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
-```
