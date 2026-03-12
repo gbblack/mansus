@@ -129,7 +129,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - The Case for Embracing Cringe -> [[The Case for Embracing Cringe|Barnyard]]
 - Never Forgive Them -> [[Never Forgive Them|Barnyard]]
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
--  Hyperclay-> [[Hyperclay|Tips&Tricks]]
+-  [Hyperclay](https://hyperclay.com/)
 
 2025-12-11
 - [Your Local Dev Environment Is a Product. Treat It Like One.](https://medium.com/@jensenbox/your-local-dev-environment-is-a-product-treat-it-like-one-0666eaeed7a8) -> [[Your Local Dev Environment Is a Product. Treat It Like One.|Note]]

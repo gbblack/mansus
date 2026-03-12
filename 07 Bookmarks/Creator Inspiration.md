@@ -33,6 +33,7 @@ Links to individual Blogs
 | https://hamatti.org/                 |                                      |
 | https://maurycyz.com/archive/        |                                      |
 | https://tantaman.com/                | philosophy, culture, politics        |
+| https://cauenapier.com/              |                                      |
 ### Vaults
 Links to published Obsidian vaults
 

@@ -69,6 +69,7 @@ Links to cool projects I want to check out.
 | JSON                   | https://json5.org/                                              |
 | Org Roam               | https://www.orgroam.com/manual.html                             |
 | Hoppscotch             | https://github.com/hoppscotch/hoppscotch                        |
+| Hyperclay              | https://hyperclay.com/                                          |
 
 ### Showcase
 Links to cool stuff on the internet.

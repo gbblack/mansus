@@ -1,5 +1,21 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-03-12
+- [Nobody finishes reading my books](https://smallpotatoes.paulbloom.net/p/nobody-finishes-reading-my-books-eca)
+- [Challenging the Single-Responsibility Principle](https://kiss-and-solid.com/blog/keep-it-simple)
+- Quasar Architecture Style — TU Dresden -> [[Quasar Architecture Style — TU Dresden|Note]]
+- [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
+- Parse, don’t validate -> [[Parse, don’t validate|Note]]
+- [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/) -> [[Protobuffers Are Wrong|Barnyard]]
+- [You can make Postgres scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
+- [In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
+
+2026-03-11
+- [Every minute you aren't running 69 agents, you are falling behind](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+- [Against Vibes: When is a Generative Model Useful](https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/)
+- [You have made your bedrock, now lie in it.](https://www.loper-os.org/?p=55)
+- [A life that added up to something](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
+
 2026-03-10
 - [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
 - [Deilxsya](https://geon.github.io/programming/2016/03/03/dsxyliea)

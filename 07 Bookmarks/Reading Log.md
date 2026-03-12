@@ -4,7 +4,6 @@ Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/W
 
 Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/books#rework
 ## Currently Reading
-- [[The Rust Programming Language]] by Steve Klabnik & Carol Nichols.
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
 - [[Learning Systems Thinking]] by Diana Montalion.
 - [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
