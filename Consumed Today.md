@@ -1,5 +1,21 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2025-03-15
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+- [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
+- [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
+- [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
+
+2026-03-13
+- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+- [The Unpredicted vs the Over-Expected](https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected)
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+- [“This Is Not The Computer For You”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
+- [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) -> [[Willingness to look stupid is a genuine moat in creative work|Barnyard]]
+- [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/) -> [[In Praise of Idleness|Note]]
+- [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world) -> (lots of interesting links to look into)
+- [Give footnotes the boot](https://jakearchibald.com/2025/give-footnotes-the-boot/) -> [[Give footnotes the boot|Barnyard]]
+
 2026-03-12
 - [Nobody finishes reading my books](https://smallpotatoes.paulbloom.net/p/nobody-finishes-reading-my-books-eca)
 - [Challenging the Single-Responsibility Principle](https://kiss-and-solid.com/blog/keep-it-simple)
