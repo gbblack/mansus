@@ -10,8 +10,8 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 - **The Book Thief** by Markus Zusak.
+- **Postcolonial Love Poem** by Natalie Diaz.
 ## Reading List
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
@@ -73,6 +73,7 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 - **[We Who Are About To…](https://bookshop.org/p/books/we-who-are-about-to-joanna-russ/a7176b6dc2109f04?aid=98208&ean=9780819567598&listref=best-things-2025&next=t)** by Joanna Russ.
 - **[Fifty Forgotten Records](https://tartaruspress.com/russell-fifty-forgotten-records.html)** by R.B. Russell.
 - **[The Way of All Flesh](https://bookshop.org/p/books/the-way-of-all-flesh-samuel-butler/b5c2be53f34c9706?aid=98208&ean=9780375752490&listref=best-things-2025&next=t)** by Samuel Butler.
+- **The New Economics for Industry, Government, Education** by W. Edwards Deming
 ## 2026
 ---
 ### Read
@@ -82,6 +83,7 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 4. **What the Dog Saw** by Malcolm Gladwell.
 5. **Under Milk Wood** by Dylan Thomas.
 6. **The Diary of Adam and Eve** by Mark Twain.
+7. **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 ## 2025
 ---
 ### Read

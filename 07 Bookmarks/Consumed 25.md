@@ -125,9 +125,9 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) -> [[Get your work recognized: write a brag document|Tips&Tricks]] <- Great blog
 
 2025-12-12
-- I'm an American software developer and the "broligarchs" don't speak for me -> [[I'm an American software developer and the broligarchs don't speak for me|Barnyard]]
-- The Case for Embracing Cringe -> [[The Case for Embracing Cringe|Barnyard]]
-- Never Forgive Them -> [[Never Forgive Them|Barnyard]]
+- [I'm an American software developer and the "broligarchs" don't speak for me](https://ratfactor.com/tech-nope) -> [[I'm an American software developer and the broligarchs don't speak for me|Barnyard]]
+- [The Case for Embracing Cringe](https://www.joanwestenberg.com/the-case-for-embracing-cringe/) -> [[The Case for Embracing Cringe|Barnyard]]
+- [Never Forgive Them](https://www.wheresyoured.at/never-forgive-them/) -> [[Never Forgive Them|Barnyard]]
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 -  [Hyperclay](https://hyperclay.com/)
 
@@ -192,11 +192,11 @@ Idea from: [consumed.today](https://consumed.today/)
 - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 
 2025-10-29
-- If you don't tinker, you don't have taste -> [[If you don't tinker, you don't have taste|Barnyard]]
+- [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art) -> [[If you don't tinker, you don't have taste|Barnyard]]
 
 2025-10-28
-- Simplify Your Code: Functional Core, Imperative Shell -> [[Simplify Your Code - Functional Core, Imperative Shell|Tips&Tricks]]
-- Git Notes: git's coolest, most unloved­ feature -> [[Git Notes - git's coolest, most unloved­ feature|Tips&Tricks]]
+- [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html) -> [[Simplify Your Code - Functional Core, Imperative Shell|Tips&Tricks]]
+- [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) -> [[Git Notes - git's coolest, most unloved­ feature|Tips&Tricks]]
 
 2025-10-27
 - [You already have a git server](https://maurycyz.com/misc/easy_git/) -> [[You already have a git server|Tips&Tricks]]
@@ -216,23 +216,23 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html)
 - [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 - [Five Memorable Books About Programming](https://prog21.dadgum.com/19.html)
-- When is it better to think without words? -> [[When is it better to think without words|Note]] (wip)
+- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought) -> [[When is it better to think without words|Note]] (wip)
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
-- There is No Meritocracy Without Lottocracy -> [[There is No Meritocracy Without Lottocracy|Note]] (wip)
+- [There is No Meritocracy Without Lottocracy](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy) -> [[There is No Meritocracy Without Lottocracy|Note]] (wip)
 - [Sell Yourself Well - What Soham Parekh can teach us](https://www.fldr.zip/blog/sell-yourself)
-- Log by Time, not by Count -> [[Log by Time, not by Count|Tips&Tricks]]
+- [Log by Time, not by Count](https://johnscolaro.xyz/blog/log-by-time-not-by-count) -> [[Log by Time, not by Count|Tips&Tricks]]
 - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
 - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
-- The IndieWeb Doesn't Need to "Take Off" -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]]
+- [The IndieWeb Doesn't Need to "Take Off"](https://susam.net/indieweb-does-not-need-to-take-off.html) -> [[The IndieWeb Doesn't Need to Take Off|Barnyard]]
 - [The New Three-Tier Application](https://www.dbos.dev/blog/new-three-tier-application)
-- JSON has become today's machine-readable output format (on Unix) -> [[JSON has become today's machine-readable output format (on Unix)|Barnyard]]
+- [JSON has become today's machine-readable output format (on Unix)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat) -> [[JSON has become today's machine-readable output format (on Unix)|Barnyard]]
 - [The tyranny of apps: those without smartphones are unfairly penalised, say campaigners](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
 - [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/)
 - [How the British Broke Their Own Economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
-- Why writing small docs is a game changer -> [[Why writing small docs is a game changer|Tips&Tricks]]
-- In Defense of Text Labels -> [[In Defense of Text Labels|Barnyard]]
+- [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)-> [[Why writing small docs is a game changer|Tips&Tricks]]
+- [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels) -> [[In Defense of Text Labels|Barnyard]]
 - [Pee If You Want to go Deeper](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
-- How the UK is Weakening Safety Worldwide-> [[How the UK is Weakening Safety Worldwide|Barnyard]]
+- [How the UK is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)-> [[How the UK is Weakening Safety Worldwide|Barnyard]]
 
 2025-10-22
 - [If you’d built a “tool” that stupid, why would you advertise the fact?](https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/)
@@ -269,14 +269,14 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Does the news reflect what we die from?](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
 - [Surveillance Secrets](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 - [Updating Desktop Rust](https://tritium.legal/blog/update)
-- fast -> [[fast|Note]]
+- [fast](https://www.catherinejue.com/fast) -> [[fast|Note]]
 - [Why Superhuman is built for speed: applying the 100ms rule to email](https://blog.superhuman.com/superhuman-is-built-for-speed/?utm_source=catherinejue&utm_medium=email)
 - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 - [The Burnout Machine](https://unionize.fyi/)
 
 2025-10-14
 - [New York Times, AP, Newsmax among news outlets who say they won’t sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
-- Defining AI -> [[Defining AI|Note]]
+- [Defining AI](https://ali-alkhatib.com/blog/defining-ai) -> [[Defining AI|Note]]
 
 2025-10-09
 - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
@@ -296,7 +296,7 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2025-09-30
 - [When I say “alphabetical order”, I mean “alphabetical order”](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
-- Semantic Versioning 2.0.0 -> [[Semantic Versioning 2.0.0|Note]] (wip)
+- [Semantic Versioning 2.0.0](https://semver.org/) -> [[Semantic Versioning 2.0.0|Note]] (wip)
 
 2025-09-26
 - [GitOps Considered Harmful for MVP](https://knockdata.com/blog/gitops-considered-harmful)

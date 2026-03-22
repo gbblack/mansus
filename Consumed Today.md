@@ -1,10 +1,35 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-2025-03-15
-- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+2026-03-20
+- [‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product)
+- [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2)
+- [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem) -> [[The Accountability Problem|Note]]
+- [The explosion of choice](https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom)
+
+2026-03-19
+- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) -> [[A sufficiently detailed spec is code|Barnyard]]
+- [AI Isn’t Killing Developers—It’s Creating a $10 Trillion Maintenance Crisis](https://rakiabensassi.substack.com/p/ai-isnt-killing-developersits-creating?has_completed_unsubscribed_unlock=true)
+- [The Bulk of Software Engineering is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
+- [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/) -> [[On Long Term Software Development|Barnyard]]
+- [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
+- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+- [AI is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
+- [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+
+2026-03-18
+- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) -> [[Have a Fucking Website|Barnyard]]
+2026-03-17
+- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
+- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
+- [Highlights on "quality," and Deming's work as it applies to software development](https://apenwarr.ca/log/20161226)
+
+2026-03-16
 - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 - [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
+
+2025-03-15
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 
 2026-03-13
 - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
@@ -19,9 +44,9 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-03-12
 - [Nobody finishes reading my books](https://smallpotatoes.paulbloom.net/p/nobody-finishes-reading-my-books-eca)
 - [Challenging the Single-Responsibility Principle](https://kiss-and-solid.com/blog/keep-it-simple)
-- Quasar Architecture Style — TU Dresden -> [[Quasar Architecture Style — TU Dresden|Note]]
+- [Quasar Architecture Style — TU Dresden](https://st.inf.tu-dresden.de/files/teaching/ss11/swt/Vorlesungen/46-quasar-2x2.pdf) -> [[Quasar Architecture Style — TU Dresden|Note]]
 - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
-- Parse, don’t validate -> [[Parse, don’t validate|Note]]
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) -> [[Parse, don’t validate|Note]]
 - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/) -> [[Protobuffers Are Wrong|Barnyard]]
 - [You can make Postgres scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
 - [In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
@@ -35,7 +60,7 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-03-10
 - [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
 - [Deilxsya](https://geon.github.io/programming/2016/03/03/dsxyliea)
-- We need network societies, not network states -> [[We need network societies, not network states|Barnyard]]
+- [We need network societies, not network states](https://www.cip.org/blog/network-societies) -> [[We need network societies, not network states|Barnyard]]
 
 2026-03-09
 - [The Day NY Publishing Lost Its Soul](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul) -> [[The Day NY Publishing Lost Its Soul|Barnyard]]
@@ -246,7 +271,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [I’m a developer for a major food delivery app. The 'Priority Fee' and 'Driver Benefit Fee' go 100% to the company. The driver sees $0 of it.](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 - [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 - [Why Prefer Textfiles?](http://textfiles.com/uploads/textfiles.txt)
-- A website to destroy all websites. -> [[A website to destroy all websites.|Note]]
+- [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/) -> [[A website to destroy all websites.|Note]]
 
 2026-01-03
 - [A Complete Guide to Tagging for Personal Knowledge Management](https://fortelabs.com/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/)
