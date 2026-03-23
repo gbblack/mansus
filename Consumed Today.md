@@ -1,5 +1,14 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-03-23
+- ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/) -> [[Collaboration is bullshit.|Barnyard]]
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+- [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
+- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+- [You Are Not Your Job](https://jry.io/writing/you-are-not-your-job/)
+- [7 Common Mistakes in Architecture Diagrams](https://www.ilograph.com/blog/posts/diagram-mistakes/) -> [[7 Common Mistakes in Architecture Diagrams|Tips&Tricks]]
+- [7 More Common Mistakes in Architecture Diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/) -> [[7 Common Mistakes in Architecture Diagrams|Tips&Tricks]]
+
 2026-03-20
 - [‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product)
 - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/#fnref-2)
