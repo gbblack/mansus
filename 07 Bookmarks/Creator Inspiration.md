@@ -34,6 +34,7 @@ Links to individual Blogs
 | https://maurycyz.com/archive/        |                                      |
 | https://tantaman.com/                | philosophy, culture, politics        |
 | https://cauenapier.com/              |                                      |
+| https://blog.d11r.eu/posts/          |                                      |
 ### Vaults
 Links to published Obsidian vaults
 

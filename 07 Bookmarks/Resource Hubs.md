@@ -70,6 +70,8 @@ Links to cool projects I want to check out.
 | Org Roam               | https://www.orgroam.com/manual.html                             |
 | Hoppscotch             | https://github.com/hoppscotch/hoppscotch                        |
 | Hyperclay              | https://hyperclay.com/                                          |
+| Algorithm Visualizer   | https://algorithm-visualizer.org/                               |
+| atlas9 go web app dev  | https://atlas9.dev/                                             |
 
 ### Showcase
 Links to cool stuff on the internet.

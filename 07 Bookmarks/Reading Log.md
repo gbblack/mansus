@@ -11,7 +11,8 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
 - **The Book Thief** by Markus Zusak.
-- **Postcolonial Love Poem** by Natalie Diaz.
+- **Blind Willow, Sleeping Woman** by Haruki Murakami.
+
 ## Reading List
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
@@ -84,6 +85,7 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 5. **Under Milk Wood** by Dylan Thomas.
 6. **The Diary of Adam and Eve** by Mark Twain.
 7. **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
+8. **Postcolonial Love Poem** by Natalie Diaz.
 ## 2025
 ---
 ### Read

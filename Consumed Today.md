@@ -1,5 +1,28 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-03-27
+- [We Haven’t Seen the Worst of What Gambling and Prediction Markets Will Do to America](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+- [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html) -> [[The challenges of soft delete|Tips&Tricks]]
+- [Listen to understand](https://talk.bradwoods.io/blog/listen-to-understand/)
+2026-03-26
+- [Terms and Conditions](https://notermsnoconditions.com/)
+- [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/) -> [[Shell Tricks That Actually Make Life Easier (And Save Your Sanity)|Tips&Tricks]]
+- [A Year With The Framework 13](https://kevquirk.com/a-year-with-the-framework-13)
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+- [The Enterprise Experience](https://churchoftur.ing/the-enterprise-experience.html) -> send an email?
+- [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/) -> [[Don’t Mock What You Don’t Own in 5 Minutes|Note]]
+- [Fast tests for slow services: why you should use verified fakes](https://pythonspeed.com/articles/verified-fakes/) -> [[Fast tests for slow services: why you should use verified fakes|Tips&Tricks]]
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) -> [[Everything I know about good system design|Note]]
+- [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/) -> [[You can't design software you don't work on|Barnyard]]
+- [Rust is a disappointment](https://bykozy.me/blog/rust-is-a-disappointment/)
+
+2026-03-24
+- [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
+- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
+- [Vibecoders can't build for longevity](https://blog.d11r.eu/theory-building/)
+- [Open Source Gave Me Everything Until I Had Nothing Left to Give](https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give)
+- [OpenTelemetry for Go: measuring the overhead](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
+
 2026-03-23
 - ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/) -> [[Collaboration is bullshit.|Barnyard]]
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
@@ -27,6 +50,7 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2026-03-18
 - [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) -> [[Have a Fucking Website|Barnyard]]
+
 2026-03-17
 - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
@@ -123,7 +147,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Looks Like it is Happening…](https://www.math.columbia.edu/~woit/wordpress/?p=15500)
 - [The surprising power of daily rituals](https://www.bbc.co.uk/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
 - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html) -> [[A simple web we own|Barnyard]]
-- Lab Notebooks -> [[Lab Notebooks|Tips&Tricks]]
+- [Lab Notebooks](https://sambleckley.com/writing/lab-notebooks.html) -> [[Lab Notebooks|Tips&Tricks]]
 
 2026-02-24
 - [Turn Dependabot Off](https://words.filippo.io/dependabot/) -> [[Turn Dependabot Off|Tips&Tricks]]
@@ -158,6 +182,10 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Communities are not fungible](https://www.joanwestenberg.com/communities-are-not-fungible/) -> [[Communities are not fungible|Barnyard]]
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 - [2026-01-14: The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+- [After 25 years, Wikipedia has proved that news doesn’t need to look like news](https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/)
+- [GitHub: a case study in link maintenance and 404 pages](https://chrismorgan.info/blog/github-links-case-study/) -> [[GitHub: a case study in link maintenance and 404 pages|Barnyard]]
+- [We’re teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
+- [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 
 2026-02-09
 - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) -> [[Nobody knows how the whole system works|Barnyard]]
