@@ -1,9 +1,25 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-06
+- [Setting goals](https://www.scattered-thoughts.net/writing/setting-goals/) -> [[Setting goals|Tips&Tricks]]
+- [Speed matters](https://www.scattered-thoughts.net/writing/speed-matters/)
+- [Moving faster](https://www.scattered-thoughts.net/writing/moving-faster/) -> [[Moving faster|Tips&Tricks]]
+- [How to Read Programming Books](https://www.programmingbooks.dev/articles/reading_books/)
+
+2026-04-05
+- [Things unlearned](https://www.scattered-thoughts.net/writing/things-unlearned/)
+- [Emotional management](https://www.scattered-thoughts.net/writing/emotional-management/)
+
+2026-04-04
+- [TigerStyle! (Or How To Design Safer Systems in Less Time) by Joran Dirk Greef](https://www.youtube.com/watch?v=w3WYdYyjek4) -> [[TigerStyle! (Or How To Design Safer Systems in Less Time) by Joran Dirk Greef|Barnyard]]
+- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/) -> [[Reflections on a decade of coding|Barnyard]]
+- [On bad advice](https://www.scattered-thoughts.net/writing/on-bad-advice/)
+
 2026-03-27
 - [We Haven’t Seen the Worst of What Gambling and Prediction Markets Will Do to America](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 - [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html) -> [[The challenges of soft delete|Tips&Tricks]]
 - [Listen to understand](https://talk.bradwoods.io/blog/listen-to-understand/)
+
 2026-03-26
 - [Terms and Conditions](https://notermsnoconditions.com/)
 - [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/) -> [[Shell Tricks That Actually Make Life Easier (And Save Your Sanity)|Tips&Tricks]]

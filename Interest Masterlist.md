@@ -417,3 +417,4 @@
 61. [Learning Retro Computer Electronics Fault Finding and Restoration](https://retrogamecoders.com/learning-retrocomputer-electronics/ ) (one day)
 62. file:///Users/gabrielle/Downloads/Reticulum%20Manual.pdf (decentralised (truly) protocol)
 63. https://develop--gpvm-website.netlify.app/resources/ (graphics programming resource list)
+64. https://gameprogrammingpatterns.com/architecture-performance-and-games.html (game architecture patterns)

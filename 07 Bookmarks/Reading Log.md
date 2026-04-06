@@ -3,6 +3,8 @@
 Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
 
 Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/books#rework
+
+List of Programming Books: https://www.programmingbooks.dev/
 ## Currently Reading
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
 - [[Learning Systems Thinking]] by Diana Montalion.
