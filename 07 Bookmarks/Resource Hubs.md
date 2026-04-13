@@ -1,35 +1,33 @@
 ### Knowledge Bases
 Links to pages that are knowledge bases/wikis on a given topic. Includes all forms of documentation on a subject.
 
-| Topic                 | Link                                                                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Cyber Security        | https://cheatsheetseries.owasp.org/index.html                                                                                          |
-| Data Engineering      | https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook<br>                                                               |
-| ASCII Art             | https://oldcompcz.github.io/jgs/joan_stark/index-2.html                                                                                |
-| Bash Bible            | https://github.com/dylanaraps/pure-bash-bible                                                                                          |
-| HTML                  | https://www.htmlforpeople.com/intro/                                                                                                   |
-| Github Repos          | https://github.com/bayandin/awesome-awesomeness                                                                                        |
-| Music Metadata        | https://musicbrainz.org/                                                                                                               |
-| Typescript            | https://github.com/gibbok/typescript-book                                                                                              |
-| Typescript            | https://github.com/ellerbrock/awesome-typescript                                                                                       |
-| Go                    | https://github.com/avelino/awesome-go                                                                                                  |
-| Go Patterns           | https://github.com/tmrts/go-patterns                                                                                                   |
-| Svelte                | https://www.sveltesociety.dev/                                                                                                         |
-| React                 | https://github.com/enaqx/awesome-react                                                                                                 |
-| Distributed Systems   | https://dancres.github.io/Pages/                                                                                                       |
-| Web Security          | https://thecopenhagenbook.com/                                                                                                         |
-| Git                   | https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control                                                                   |
-| Electronic Music      | https://msp.ucsd.edu/techniques.htm                                                                                                    |
-| React Hooks for Forms | https://www.react-hook-form.com/                                                                                                       |
-| Design Patterns       | https://refactoring.guru/design-patterns                                                                                               |
-| REST API (original?)  | https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm                                                                    |
-| Hypertext as state    | https://en.wikipedia.org/wiki/HATEOAS                                                                                                  |
-| Ricing                | https://github.com/fosslife/awesome-ricing                                                                                             |
-| CSS Flexbox           | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                                          |
-| CSS Compound Grid     | https://www.smashingmagazine.com/2019/07/inspired-design-decisions-pressing-matters/<br>https://codepen.io/michellebarker/full/zYOMYWv |
-| Webmastery Links      | https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49                                                                  |
-| VanillaJS             | http://vanilla-js.com/                                                                                                                 |
-| Goodot                | https://catlikecoding.com/godot/                                                                                                       |
+| Topic                | Link                                                                                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Cyber Security       | https://cheatsheetseries.owasp.org/index.html                                                                                          |
+| Data Engineering     | https://www.kifinity.com/github/dataexpert-io/data-engineer-handbook<br>                                                               |
+| ASCII Art            | https://oldcompcz.github.io/jgs/joan_stark/index-2.html                                                                                |
+| Bash Bible           | https://github.com/dylanaraps/pure-bash-bible                                                                                          |
+| HTML                 | https://www.htmlforpeople.com/intro/                                                                                                   |
+| Github Repos         | https://github.com/bayandin/awesome-awesomeness                                                                                        |
+| Music Metadata       | https://musicbrainz.org/                                                                                                               |
+| Typescript           | https://github.com/gibbok/typescript-book                                                                                              |
+| Typescript           | https://github.com/ellerbrock/awesome-typescript                                                                                       |
+| Go                   | https://github.com/avelino/awesome-go                                                                                                  |
+| Go Patterns          | https://github.com/tmrts/go-patterns                                                                                                   |
+| Svelte               | https://www.sveltesociety.dev/                                                                                                         |
+| Distributed Systems  | https://dancres.github.io/Pages/                                                                                                       |
+| Web Security         | https://thecopenhagenbook.com/                                                                                                         |
+| Git                  | https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control                                                                   |
+| Electronic Music     | https://msp.ucsd.edu/techniques.htm                                                                                                    |
+| Design Patterns      | https://refactoring.guru/design-patterns                                                                                               |
+| REST API (original?) | https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm                                                                    |
+| Hypertext as state   | https://en.wikipedia.org/wiki/HATEOAS                                                                                                  |
+| Ricing               | https://github.com/fosslife/awesome-ricing                                                                                             |
+| CSS Flexbox          | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                                          |
+| CSS Compound Grid    | https://www.smashingmagazine.com/2019/07/inspired-design-decisions-pressing-matters/<br>https://codepen.io/michellebarker/full/zYOMYWv |
+| Webmastery Links     | https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49                                                                  |
+| VanillaJS            | http://vanilla-js.com/                                                                                                                 |
+| Godot                | https://catlikecoding.com/godot/                                                                                                       |
 
 ### Tools
 Links to tools that I might want to look into.
@@ -48,7 +46,6 @@ Links to tools that I might want to look into.
 | Dev Tool Manager   | https://github.com/jdx/mise                                      |
 | Email Manager      | https://github.com/pimalaya/himalaya                             |
 | Color Generator    | https://www.iamsajid.com/colors/                                 |
-| Python UI          | https://github.com/Textualize/textual?tab=readme-ov-file         |
 | OAuth              | https://github.com/openauthjs/openauth                           |
 | Git Branching      | https://learngitbranching.js.org/                                |
 | Linux Server Admin | https://github.com/livialima/linuxupskillchallenge               |

@@ -1,5 +1,31 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-13
+- [The Economics of Software Teams: Why Most Organizations Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
+
+2026-04-09
+- [What Does It Mean to "Write Like You Talk"?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you)
+- [Still Alive](https://www.astralcodexten.com/p/still-alive)
+- [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) -> [[The Git Commands I Run Before Reading Any Code|Tips&Tricks]]
+- [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) -[[The Importance of Being Idle|Barnyard]]
+
+2026-04-08
+- [For The Love of Internet](https://ankshilp.in/posts/for-the-love-of-internet/)
+- [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- [How to Get Better at Guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/
+- [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- [The Cult Of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- [Dropping Cloudflare for bunny.net](https://jola.dev/posts/dropping-cloudflare)
+- [Are We Legacy Computing Yet?](https://arewelegacycomputingyet.com/) -> cool
+- [Own Your Invoicing: The Channel Nobody Designs For](https://www.withsahel.com/blog/own-your-invoicing-value-communication) -> [[Own Your Invoicing: The Channel Nobody Designs For|Tips&Tricks]]
+- [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+
+2026-04-07
+- [THE LAST QUIET THING](https://www.terrygodier.com/the-last-quiet-thing)
+- [Coding](https://www.scattered-thoughts.net/writing/coding/) -> [[Coding|Note]]
+- [Testing](https://www.scattered-thoughts.net/writing/testing/) -> [[Testing - thoughts|Barnyard]]
+- [Writing](https://www.scattered-thoughts.net/writing/writing/) -> [[Writing - thoughts|Barnyard]]
+
 2026-04-06
 - [Setting goals](https://www.scattered-thoughts.net/writing/setting-goals/) -> [[Setting goals|Tips&Tricks]]
 - [Speed matters](https://www.scattered-thoughts.net/writing/speed-matters/)
