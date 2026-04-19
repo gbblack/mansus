@@ -36,6 +36,7 @@ Links to individual Blogs
 | https://cauenapier.com/               |                                      |
 | https://blog.d11r.eu/posts/           |                                      |
 | https://www.jakeworth.com/start-here/ |                                      |
+| https://mitchellh.com/                | creator of ghostty                   |
 ### Vaults
 Links to published Obsidian vaults
 

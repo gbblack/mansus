@@ -7,7 +7,6 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 List of Programming Books: https://www.programmingbooks.dev/
 ## Currently Reading
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
-- [[Learning Systems Thinking]] by Diana Montalion.
 - [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 - [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
@@ -88,6 +87,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 6. **The Diary of Adam and Eve** by Mark Twain.
 7. **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 8. **Postcolonial Love Poem** by Natalie Diaz.
+9. [[Learning Systems Thinking]] by Diana Montalion.
 ## 2025
 ---
 ### Read

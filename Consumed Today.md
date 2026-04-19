@@ -1,5 +1,36 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-19
+- [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
+- [We are destroying software](https://antirez.com/news/145) -> [[We are destroying software|Barnyard]]
+- [TypeScript: the satisfies operator](https://2ality.com/2025/02/satisfies-operator.html) -> [[TypeScript: the satisfies operator|Tips&Tricks]]
+- [You might not need Redis](https://www.viblo.se/posts/no-need-redis/) -> [[You might not need Redis|Barnyard]]
+- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go) -> [[Idiomatic Go|Tips &Tricks]]
+- [https://mitchellh.com/writing/building-large-technical-projects](https://mitchellh.com/writing/building-large-technical-projects) -> [[https://mitchellh.com/writing/building-large-technical-projects|Note]]
+- [Why Self-host?](https://romanzipp.com/blog/why-a-homelab-why-self-host) -> [[Why Self-host?|Tips&Tricks]]
+- [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
+- [On the benefits of learning in public](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts) -> [[On the benefits of learning in public|Barnyard]]
+- [We Replaced Our React Frontend with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go/) -> [[We Replaced Our React Frontend with Go and WebAssembly|Tips&Tricks]]
+
+2026-04-18
+- [Anna’s Archive Loses $322 Million Spotify Piracy Case Without a Fight](console.firebase.google.com/u/0/project/developer-insights-354e6/firestore/databases/-default-/data/~2Faccounts~2Fgabrielle_geeiq)
+- [The paper computer](https://jsomers.net/blog/the-paper-computer)
+- [Code Review is the New Bottleneck For Engineering Teams](https://newsletter.eng-leadership.com/p/code-review-is-the-new-bottleneck)
+- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
+
+2026-04-15
+- [FUCK THE CLOUD](https://ascii.textfiles.com/archives/1717) -> [[FUCK THE CLOUD|Barnyard]]
+- [Dancing on Magnolia’s Grave: Fuck the Cloud II](https://ascii.textfiles.com/archives/1839)
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+
+2026-04-14
+- [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
+- [Your Startup Is Probably Dead On Arrival](https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/)
+- [Make tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) -> [[Make tmux Pretty and Usable|Tips&Tricks]]
+- [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
+- [Make an Org Chart You Want to Ship — Advice from Linear on How Heirloom Tomatoes Should Inspire Team Design](https://review.firstround.com/make-an-org-chart-you-want-to-ship-advice-from-linear-on-how-heirloom-tomatoes-should-inspire-team-design/) -> [[Make an Org Chart You Want to Ship — Advice from Linear on How Heirloom Tomatoes Should Inspire Team Design|Note]]
+- [Why and how we do work trials at Linear](https://linear.app/now/why-and-how-we-do-work-trials-at-linear)
+
 2026-04-13
 - [The Economics of Software Teams: Why Most Organizations Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 
