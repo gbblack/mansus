@@ -1,5 +1,13 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-20
+- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/) -> [[Stop trying to engineer your way out of listening to people|Barnyard]]
+- [Six levels of dark mode](https://cssence.com/2024/six-levels-of-dark-mode/) -> [[Six levels of dark mode|Tips&Tricks]]
+- [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/) -> [[When moving fast, talking is the first thing to break|Barnyard]]
+- [It’s cool to care](https://alexwlchan.net/2025/cool-to-care/)
+- [Parsing JSON in Go with a required field](https://alexwlchan.net/notes/2025/json-with-required-field-in-golang/) -> [[Parsing JSON in Go with a required field|Tips&Tricks]]
+- [Hyrum's Law in Golang](https://www.abenezer.ca/blog/hyrum-law-in-golang) -> [[Hyrum's Law in Golang|Barnyard]]
+
 2026-04-19
 - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
 - [We are destroying software](https://antirez.com/news/145) -> [[We are destroying software|Barnyard]]

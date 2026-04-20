@@ -37,6 +37,7 @@ Links to individual Blogs
 | https://blog.d11r.eu/posts/           |                                      |
 | https://www.jakeworth.com/start-here/ |                                      |
 | https://mitchellh.com/                | creator of ghostty                   |
+| https://zetcode.com/golang/           | suite of Go tutorials                |
 ### Vaults
 Links to published Obsidian vaults
 
