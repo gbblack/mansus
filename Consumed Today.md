@@ -1,5 +1,11 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-21
+- [how a roblox cheat and one AI tool brought down vercel's entire platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+- [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
+- [Inside GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
+- [How I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
+- 
 2026-04-20
 - [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/) -> [[Stop trying to engineer your way out of listening to people|Barnyard]]
 - [Six levels of dark mode](https://cssence.com/2024/six-levels-of-dark-mode/) -> [[Six levels of dark mode|Tips&Tricks]]
