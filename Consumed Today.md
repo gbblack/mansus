@@ -1,11 +1,24 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-04-27
+- [An AI Agent Just Destroyed Our Production Data. It Confessed in Writing.](https://x.com/lifeof_jer/status/2048103471019434248)
+- [Dear Sir, You Have Built a Compiler](https://people.csail.mit.edu/rachit/post/you-have-built-a-compiler/)
+- [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
+- [Work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up) -> [[Work with the garage door up|Barnyard]]
+- [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
+- [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area) -> [[How to increase your surface area for luck|Barnyard]]
+- [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
+- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/) -> [[React Won by Default – And It's Killing Frontend Innovation|Barnyard]]
+
+2026-04-22
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+
 2026-04-21
 - [how a roblox cheat and one AI tool brought down vercel's entire platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 - [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
 - [Inside GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 - [How I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
-- 
+
 2026-04-20
 - [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/) -> [[Stop trying to engineer your way out of listening to people|Barnyard]]
 - [Six levels of dark mode](https://cssence.com/2024/six-levels-of-dark-mode/) -> [[Six levels of dark mode|Tips&Tricks]]
