@@ -43,6 +43,6 @@ Restructuring mental models out of OOP pitfalls:
 - ECS: Entity Component System (Composition over Inheritance, OOP encapsulation around a system not an object)
   [breakdown](https://softwareengineering.stackexchange.com/questions/186696/is-it-reasonable-to-build-applications-not-games-using-a-component-entity-syst)
   [the case for it](https://www.youtube.com/watch?v=wo84LFzx5nI)
-  Go package is a process -> verb based booking system which does everything plus interface. pacage can be an adapter such as http at the boundary or infrastructure that says HOW something is done such as postgres package to handle the other side of the app boundary
+  Go package is a process -> verb based booking system which does everything plus interface. pacage can be an adapter such as http at the boundary or infrastructure that says HOW something is done such as postgres package to handle the other side of the app boundary [[ECS full stack]].
 - Discriminated Unions, tagged union or sum type
 - Hexagonal Architecture?
