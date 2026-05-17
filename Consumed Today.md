@@ -1,5 +1,8 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-16
+- [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI) -> [[Shoebox]] (too large, contains many great ideas)
+
 2026-05-15
 - [The Enterprise Experience](https://churchoftur.ing/the-enterprise-experience.html)
 - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
