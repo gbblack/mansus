@@ -107,21 +107,3 @@ tags:
 ```
 J. Gough, D. Bryant, M. Auburn, "Design, Build, and Specify APIs" in *Mastering API Architecture*, 1st. M. Duffield, V. Wilson, C. Laylock, K. Cofer, Eds. Sebastopol, CA, USA: O'Reilly, 2022, pp. 41-63.
 ```
-
----
-
-##### Completion Checklist
-###### II. From Dark to Dawn
-- [x] Wait at least 5mins before beginning this section.
-- [ ] In bullet points, under each section and sub section heading summarise the major points of that section. In these bullet point make links to anything that could be referenced in a permanent note. This will take awhile.
-- [ ] While summating the sections copy paste interesting sections into the note under `Highlights`. Include the page number right above the block. These highlights should only be the author's own reflections that you think are interesting, nothing definitive like a statement of fact. There may be nothing.
-- [ ] Update status tag to `status/dawn`.
-###### III. From Dawn to Day
-- [ ]  **Bold** the portions of the `Highlights` you find most interesting.
-- [ ] ==Highlight== the best parts of the bolded sections.
-- [ ] Write the chapter `Summary`.
-- [ ] Recreate any figures in Excalidraw if possible, link them in the note.
-- [ ] Remove or complete the `Nota Bene` as necessary.
-- [ ] Fill in the context tags for the metadata.
-- [ ] Update status tag to `status/day`.
-- [ ] Remove this checklist.
