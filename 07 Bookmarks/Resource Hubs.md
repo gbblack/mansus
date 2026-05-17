@@ -72,21 +72,23 @@ Links to cool projects I want to check out.
 | Hyperclay              | https://hyperclay.com/                                          |
 | Algorithm Visualizer   | https://algorithm-visualizer.org/                               |
 | atlas9 go web app dev  | https://atlas9.dev/                                             |
+| self hosted git host?  | https://tangled.org/                                            |
 
 ### Showcase
 Links to cool stuff on the internet.
 
-| Focus                     | Link                                                                                      |
-| ------------------------- | ----------------------------------------------------------------------------------------- |
-| Tunnel of Blue Sky tweets | https://firehose3d.theo.io/                                                               |
-| List of Public APIs       | https://publicapis.dev/                                                                   |
-| History of NBA Jerseys    | https://pudding.cool/2024/10/nba-uniforms/                                                |
-| Collection of cool fonts  | https://devfonts.gafi.dev/                                                                |
-| CSS animal exhibit        | http://species-in-pieces.com/                                                             |
-| Aztec Pantheon            | https://pudding.cool/2022/06/aztec-gods/                                                  |
-| Cleaning Supplies         | https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen |
-| Random Indie Blogs        | https://indieblog.page/                                                                   |
-|                           |                                                                                           |
+| Focus                               | Link                                                                                      |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- |
+| Tunnel of Blue Sky tweets           | https://firehose3d.theo.io/                                                               |
+| List of Public APIs                 | https://publicapis.dev/                                                                   |
+| History of NBA Jerseys              | https://pudding.cool/2024/10/nba-uniforms/                                                |
+| Collection of cool fonts            | https://devfonts.gafi.dev/                                                                |
+| CSS animal exhibit                  | http://species-in-pieces.com/                                                             |
+| Aztec Pantheon                      | https://pudding.cool/2022/06/aztec-gods/                                                  |
+| Cleaning Supplies                   | https://aftermath.site/industrial-cleaning-kimwipes-tergazyme-fast-orange-thymol-lens-pen |
+| Random Indie Blogs                  | https://indieblog.page/                                                                   |
+| The HTML Review                     | https://thehtml.review/04/#                                                               |
+| olduse.net (no idea looks cool tho) | https://olduse.net/                                                                       |
 
 ## Dissertations
 

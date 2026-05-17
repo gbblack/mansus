@@ -1,5 +1,107 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-15
+- [The Enterprise Experience](https://churchoftur.ing/the-enterprise-experience.html)
+- [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
+- [What My Father’s Emails Taught Me About the Craft of Writing](https://lithub.com/what-my-fathers-emails-taught-me-about-the-craft-of-writing/)
+
+2026-05-14
+- [The limits of Rust, or why you should probably not follow Amazon, Cloudflare and Discord](https://kerkour.com/the-limits-of-rust)
+- [Go Exceptions for the Unconvinced](https://kristoff.it/blog/go-exceptions-unconvinced/)
+- [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
+- [How to avoid the thundering herd problem in Go with the singleflight package](https://kerkour.com/golang-singleflight-package-thundering-herd)
+- [The Three Hardest Problems in Software Engineering](https://kristoff.it/blog/three-hardest-problems/)
+- [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) -> [[Why senior developers fail to communicate their expertise|Barnyard]]
+- [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
+- [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
+- [Databases Were Not Designed For This](https://arpitbhayani.me/blogs/defensive-databases/)
+- [Rust the Process](https://www.amalbansode.com/writing/2025-12-24-rust-the-process/)
+- [How To Care About Your Job When It Doesn't Care About You](https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/)
+- [Are People Bad At Their Jobs....or Are The Jobs Just Bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
+
+2026-05-13
+- [The Job Market Is Frozen](https://www.theatlantic.com/economy/archive/2025/02/jobs-unemployment-big-freeze/681831/)
+- [When the Job Search Becomes Impossible: Three Phases of Burnout](https://www.jeffwofford.com/wp/?p=2240)
+- [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/) -> [[Asynchrony is not Concurrency|Note]]
+- [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)-> [[Contributor Poker and Zig's AI Ban|Barnyard]]
+- [I Hate Screenshots of Text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+- [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
+- [The School Car Pickup Line Is a National Embarrassment](https://www.collegetowns.org/p/the-school-car-pickup-line-is-a-national)
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- 
+2026-05-12
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) -> [[Learning Software Architecture|Barnyard]]
+- [The Generic Dilemma](https://research.swtch.com/generic)
+- [Programmer migration patterns](https://apenwarr.ca/log/20190318)
+- [The Greatest Shot in Television: Science Historian James Burke Had One Chance to Nail This Scene … and Nailed It](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- [Developer experience is a performance feature](https://www.echooff.dev/blog/developer-experience-is-a-performance-feature) -> [[Developer experience is a performance feature|Barnyard]]
+- [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) -> spoiler: no he's not
+
+2026-05-11
+- [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
+- [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
+- [Appearing Productive in The Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+- [permacomputing/ principles](https://permacomputing.net/principles/)
+
+2026-05-10
+- [I Want to Live Like Costco People](https://tastecooking.com/i-want-to-live-like-costco-people/)
+
+2026-05-07
+- [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+- [Programming Still Sucks.](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+
+2025-05-06
+- [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+- [The Boring Internet](https://www.terrygodier.com/the-boring-internet) -> [[The Boring Internet|Barnyard]]
+- [It's still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
+
+2026-05-05
+- [Building Websites With LLMS](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/) -> [[Building Websites With LLMS|Tips&Tricks]]
+- [Issue 45 - Markdown is Holding You Back](https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/) -> [[Issue 45 - Markdown is Holding You Back|Tips&Tricks]]
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
+- [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/) -> [[Replacing JS with just HTML|Tips&Tricks]]
+- [Why I Write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) -> [[Why I Write|Barnyard]]
+- [Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html) -> [[Fragments: April 2|Barnyard]]
+- [Paul Graham and the Cult of the Founder](https://davekarpf.substack.com/p/paul-graham-and-the-cult-of-the-founder) -> [[Paul Graham and the Cult of the Founder|Note]]
+- [Why Reliability Demands Functional Programming: ADTs, Safety, and Critical Infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure) -> [[Why Reliability Demands Functional Programming: ADTs, Safety, and Critical Infrastructure|Tips&Tricks]] (TS Result implementation and Algebraic Data Types)
+
+2026-05-03
+- [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
+
+2026-05-01
+- [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
+- [Your Biggest Vulnerability is your Shitty Compensation](https://green.spacedino.net/your-biggest-vulnerability-is-your-shitty-compensation/)
+- [It’s Toasted](https://yadin.com/notes/toasted/)
+- [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
+- [I Got Sick of Remembering Port Numbers](https://gregraiz.com/blog/local-vibe/
+- [Maladaptive frugality](https://herbertlui.net/maladaptive-frugality/)
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+- [Dealing with abandonware](https://blog.hris.to/dealing-with-abandonware.html)
+- [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
+- [How market design can feed the poor](https://worksinprogress.co/issue/how-market-design-can-feed-the-poor/)
+
+2026-04-30
+- [The Zig project's rationale for their anti-AI contribution policy ](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) -> I like this (the quote from Zig community)
+- [Parse, don't validate through the years with C++](https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/)
+- [we need a federation of forges](https://blog.tangled.org/federation/)
+- [Zed is 1.0](https://zed.dev/download-success?asset=Zed-aarch64.dmg&version=1.0.0&channel=stable)
+
+2026-04-29
+- [How I Forgot How to Code](https://reggieescobar.com/blog/how-i-forgot-to-code)
+- [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html) -> [[Carrot disclosure: Forgejo|Barnyard]] forgejo unsafe
+- [Migrating from GitHub to SourceHut](https://davideisinger.com/journal/migrating-from-github-to-sourcehut/) -> [[Migrating from GitHub to SourceHut|Barnyard]]
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) -> [[Before GitHub|Barnyard]]
+
+2026-04-28
+- [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734) -> [[Meetings are forcing functions|Barnyard]]
+- [Integrated by Design — Launch Day](https://vivianvoss.net/blog/integrated-by-design-launch)
+- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html) -> [[Push Ifs Up And Fors Down|Tips&Tricks]]
+- [Docs-as-code in very basic terms](https://deborahwrites.co.uk/blog/docs-like-code-basic-intro/#how-to-learn) -> [[Docs-as-code in very basic terms|Tips&Tricks]]
+- [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/) -> [[If it is worth keeping, save it in Markdown|Barnyard]]
+
 2026-04-27
 - [An AI Agent Just Destroyed Our Production Data. It Confessed in Writing.](https://x.com/lifeof_jer/status/2048103471019434248)
 - [Dear Sir, You Have Built a Compiler](https://people.csail.mit.edu/rachit/post/you-have-built-a-compiler/)
@@ -161,7 +263,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 - [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
 
-2025-03-15
+2026-03-15
 - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 
 2026-03-13

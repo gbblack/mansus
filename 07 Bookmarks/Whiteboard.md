@@ -33,9 +33,3 @@ local-first app development:
 coding practices:
 - [[The Perfect Commit]]
 
-Concepts:
-- ZII: Zero as Initialization
-- ECS: Entity Component System (Composition over Inheritance, OOP encapsulation around a system not an object)
-  [breakdown](https://softwareengineering.stackexchange.com/questions/186696/is-it-reasonable-to-build-applications-not-games-using-a-component-entity-syst)
-  [the case for it](https://www.youtube.com/watch?v=wo84LFzx5nI)
-- Discriminated Unions, tagged union or sum type

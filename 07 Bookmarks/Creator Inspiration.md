@@ -38,6 +38,10 @@ Links to individual Blogs
 | https://www.jakeworth.com/start-here/ |                                      |
 | https://mitchellh.com/                | creator of ghostty                   |
 | https://zetcode.com/golang/           | suite of Go tutorials                |
+| https://vivianvoss.net/               | cool look                            |
+| https://drewdevault.com/              | FOSS champ                           |
+| https://kristoff.it/                  | king of kings, Zig VP community      |
+
 ### Vaults
 Links to published Obsidian vaults
 
