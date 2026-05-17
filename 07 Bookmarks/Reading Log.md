@@ -8,13 +8,13 @@ List of Programming Books: https://www.programmingbooks.dev/
 ## Currently Reading
 - [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
 - [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
-- [[The Rules of Programming]] by Chris Zimmerman.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
 - **The Book Thief** by Markus Zusak.
-- **Blind Willow, Sleeping Woman** by Haruki Murakami.
-
+- **Brave New World** by Aldous Huxley.
 ## Reading List
+
+- **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
 - **The Trial** by Franz Kafka.
@@ -48,7 +48,6 @@ List of Programming Books: https://www.programmingbooks.dev/
 - **A Long Way Gone** by Ishmael Beah.
 - **Angela's Ashes** by Frank McCourt.
 - **The Alchemist** by Paulo Coelho.
-- **Brave New World** by Aldous Huxley.
 - **Consider Phlebas** by Iain M Banks.
 - **The Player of Games** by Iain M Banks.
 - **Use of Weapons** by Iain M Banks.
@@ -88,6 +87,8 @@ List of Programming Books: https://www.programmingbooks.dev/
 7. **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 8. **Postcolonial Love Poem** by Natalie Diaz.
 9. [[Learning Systems Thinking]] by Diana Montalion.
+10. [The Rules of Programming](The%20Rules%20of%20Programming) by Chris Zimmerman.
+11. **Blind Willow, Sleeping Woman** by Haruki Murakami.
 ## 2025
 ---
 ### Read

@@ -28,6 +28,8 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | Webmastery Links     | https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49                                                                  |
 | VanillaJS            | http://vanilla-js.com/                                                                                                                 |
 | Godot                | https://catlikecoding.com/godot/                                                                                                       |
+| Beej's Guides        | https://beej.us/guide/                                                                                                                 |
+| Visualise ALgorithms | https://visualgo.net/en                                                                                                                |
 
 ### Tools
 Links to tools that I might want to look into.
@@ -52,6 +54,7 @@ Links to tools that I might want to look into.
 | Arch Distro        | https://omarchy.org/                                             |
 | Accounting         | https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/ |
 | Web  Dev           | https://webdev.bryanhogan.com/                                   |
+| Go Cheatsheet      | https://programming-idioms.org/cheatsheet/Go                     |
 ### Projects
 Links to cool projects I want to check out.
 
