@@ -29,7 +29,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | VanillaJS            | http://vanilla-js.com/                                                                                                                 |
 | Godot                | https://catlikecoding.com/godot/                                                                                                       |
 | Beej's Guides        | https://beej.us/guide/                                                                                                                 |
-| Visualise ALgorithms | https://visualgo.net/en                                                                                                                |
+| Visualise Algorithms | https://visualgo.net/en                                                                                                                |
 
 ### Tools
 Links to tools that I might want to look into.
