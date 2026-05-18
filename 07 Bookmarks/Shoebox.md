@@ -14,6 +14,7 @@ Writing and Thinking:
 - [[As a developer, my most important tools are a pen and a notebook]]
 - [[Thoughts on thinking]]
 - [[The IndieWeb Doesn't Need to Take Off]]
+
 Learning:
 - [[You are NOT Dumb, You Just Lack the Prerequisites]]
 - [[You Must Read At Least One Book To Ride]]
@@ -46,3 +47,10 @@ Restructuring mental models out of OOP pitfalls:
   Go package is a process -> verb based booking system which does everything plus interface. pacage can be an adapter such as http at the boundary or infrastructure that says HOW something is done such as postgres package to handle the other side of the app boundary [[ECS full stack]].
 - Discriminated Unions, tagged union or sum type
 - Hexagonal Architecture?
+- More generic term for ECS is data oriented design ([primer](https://gamesfromwithin.com/data-oriented-design), [book](https://www.dataorienteddesign.com/dodbook/))
+- Process oriented (procedural) programming
+- In classic contexts the world is the datastore (in small projects we can keep it in memory)
+
+Data Design (WIP)
+- Need to check if map reduce is still relevant (check Intro to 2nd edition of Designing Data Intensive Applications)
+- Collection of data oriented design [links](https://github.com/dbartolini/data-oriented-design)

@@ -1,5 +1,15 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+206-05-18
+- [I worry.](https://x.com/mitchellh/status/2055380239711457578)
+- [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/)
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+- [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)- > [[Moving away from Tailwind, and learning to structure my CSS|Tips&Tricks]]
+- [Modeling business logic with ECS in Ruby](https://katafrakt.me/2023/03/21/modeling-business-login-ecs-ruby/)
+-  [Is Data-Oriented Design a Paradigm?](https://solid-angle.blogspot.com/2010/12/is-data-oriented-design-paradigm.html)
+- [Out of the Tar Pit: a Summary](https://kmdouglass.github.io/posts/summary-out-of-the-tar-pit/)
+
 2026-05-16
 - [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI) -> [[Shoebox]] (too large, contains many great ideas)
 
