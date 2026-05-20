@@ -1,5 +1,17 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-20
+- [My .config Ship of Theseus](https://shift1w.com/blog/config-of-theseus/)
+- [The West Forgot How to Make Things. Now It’s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
+- [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/) -> [[This page is under construction|Barnyard]]
+- [The Efficiency of Vim](https://bencornia.com/blog/the-efficiency-of-vim)
+- [Three Virtues](https://thethreevirtues.com/)
+- [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
+- [A career ending mistake: time for an exit strategy?](https://bitfieldconsulting.com/posts/career)
+- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) -< [[How to Test|Tips&Tricks]]
+- [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/)
+- [Message Passing Is Shared Mutable State](https://causality.blog/essays/message-passing-is-shared-mutable-state/) -> [[Message Passing Is Shared Mutable State|Note]]
+
 2026-05-19
 - [The Soul of an Old Machine: revisiting the von Neumann architecture](https://ankush.dev/p/neumann_architecture)
 - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
