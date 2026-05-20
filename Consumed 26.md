@@ -1,6 +1,14 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-206-05-18
+2026-05-19
+- [The Soul of an Old Machine: revisiting the von Neumann architecture](https://ankush.dev/p/neumann_architecture)
+- [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
+- [Serious fun](Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ)
+- [Iterated log coding](https://adam.scherl.is/blog/iterlog-coding/)
+- [Math reveals the one game of chance you should always accept](https://www.scientificamerican.com/article/math-reveals-the-one-game-of-chance-you-should-always-accept/)
+- [Let's talk about AI slop](https://archestra.ai/blog/only-responsible-ai)
+
+2026-05-18
 - [I worry.](https://x.com/mitchellh/status/2055380239711457578)
 - [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/)
 - [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
