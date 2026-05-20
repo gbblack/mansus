@@ -7,6 +7,10 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Iterated log coding](https://adam.scherl.is/blog/iterlog-coding/)
 - [Math reveals the one game of chance you should always accept](https://www.scientificamerican.com/article/math-reveals-the-one-game-of-chance-you-should-always-accept/)
 - [Let's talk about AI slop](https://archestra.ai/blog/only-responsible-ai)
+- [Semantic Compression](https://caseymuratori.com/blog_0015) -> [[Semantic Compression|Barnyard]]
+- [Immediate-Mode Graphical User Interfaces (2005)](https://caseymuratori.com/blog_0001) -> [[Immediate-Mode Graphical User Interfaces (2005)|Note]]
+- [The Beauty of Programming](https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming) -> [[The Beauty of Programming|Barnyard]]
+- [Surely you're joking, Mr. Feynman](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html) -> [[Surely you're joking, Mr. Feynman|Barnyard]]
 
 2026-05-18
 - [I worry.](https://x.com/mitchellh/status/2055380239711457578)
@@ -17,6 +21,8 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Modeling business logic with ECS in Ruby](https://katafrakt.me/2023/03/21/modeling-business-login-ecs-ruby/)
 -  [Is Data-Oriented Design a Paradigm?](https://solid-angle.blogspot.com/2010/12/is-data-oriented-design-paradigm.html)
 - [Out of the Tar Pit: a Summary](https://kmdouglass.github.io/posts/summary-out-of-the-tar-pit/)
+- [Sure it's hard but at least give it a try first](https://seagin.me/sure-its-hard-but-at-least-give-it-a-try-first/)
+- [Things That Aren't Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 
 2026-05-16
 - [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI) -> [[Shoebox]] (too large, contains many great ideas)

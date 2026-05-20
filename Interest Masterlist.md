@@ -407,3 +407,5 @@
 71. https://propertesting.com/toc.html (property based testing book)
 72. https://en.wikipedia.org/wiki/Gopher_(protocol) (gopher protocol)
 73. https://www.cs.unc.edu/techreports/86-020.pdf (no silver bullet in SE, book)
+74. https://www.learnix-os.com/Introduction.html (build an OS book)
+75. https://www.akkadia.org/drepper/cpumemory.pdf (paper on CPU memory)
