@@ -1,5 +1,24 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-27
+- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+- [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Long Names Are Long](https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
+
+2026-05-26
+- [defeating git rigour fatigue with jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+- [Don't Roll Your Own ...](https://susam.net/do-not-roll-your-own.html) -> [[Don't Roll Your Own ...|Barnyard]]
+- [Most RESTful APIs aren't really RESTful](https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html) -> [[Most RESTful APIs aren't really RESTful|Note]]
+- [HATEOAS](https://htmx.org/essays/hateoas/) -> [[HATEOAS|Barnyard]]
+- [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
+- [You Might Be Better Off Without Pull Requests](https://hamvocke.com/blog/better-off-without-pull-requests/) -> [[You Might Be Better Off Without Pull Requests|Note]]
+- [Open and closed universes](https://sunshowers.io/posts/open-closed-universes/)
+- [Programming In The Age Of Abundance](https://guyren.me/2025/04/16/programming-in-the-age-of-abundance.html)
+- [Designing and Evaluating Reusable Components (2004)](https://caseymuratori.com/blog_0024) -> [[Designing and Evaluating Reusable Components (2004)|Note]]
+
+2026-05-21
+- [What is happening to publishing?](https://resobscura.substack.com/p/what-is-happening-to-publishing)
+
 2026-05-20
 - [My .config Ship of Theseus](https://shift1w.com/blog/config-of-theseus/)
 - [The West Forgot How to Make Things. Now It’s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
