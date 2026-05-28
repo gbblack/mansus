@@ -1,5 +1,16 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-28
+- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+- [Welcome to the world of Statecharts](https://statecharts.dev/) -> [[Welcome to the world of Statecharts|Note]]
+- [The Real Cost of Owning a Home](https://ericturner.dev/posts/cost-of-home-ownership/)
+- [Productive procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
+- [Now is the best time to write code by hand](https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/)
+- [func to functional: Map, Filter, and Reduce with Go generics](https://bitfieldconsulting.com/posts/functional) -> [[func to functional: Map, Filter, and Reduce with Go generics|Tips&Tricks]]
+- [Constraints in Go: tightening up your type parameters](https://bitfieldconsulting.com/posts/constraints) -> [[Constraints in Go: tightening up your type parameters|Tips&Tricks]]
+- [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/) -> [[Playground Wisdom: Threads Beat Async/Await|Note]]
+- [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) -> [[Communicating with Slip Boxes|Note]]
+- 
 2026-05-27
 - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
