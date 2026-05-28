@@ -6,7 +6,6 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 
 List of Programming Books: https://www.programmingbooks.dev/
 ## Currently Reading
-- [[Mastering API Architecture]] by James Gough, Daniel Bryant & Matthew Auburn.
 - [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
@@ -91,6 +90,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 9. [[Learning Systems Thinking]] by Diana Montalion.
 10. [The Rules of Programming](The%20Rules%20of%20Programming) by Chris Zimmerman.
 11. **Blind Willow, Sleeping Woman** by Haruki Murakami.
+12. [Mastering API Architecture](Mastering%20API%20Architecture) by James Gough, Daniel Bryant & Matthew Auburn.
 ## 2025
 ---
 ### Read

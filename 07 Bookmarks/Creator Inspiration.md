@@ -43,6 +43,7 @@ Links to individual Blogs
 | https://drewdevault.com/              | FOSS champ                                                                      |
 | https://kristoff.it/                  | king of kings, Zig VP community                                                 |
 | https://causality.blog/               | concurrency series, i wanna see what it eventually says about Zig (if anything) |
+| https://andrewkelley.me/              | creator of zig                                                                  |
 
 ### Vaults
 Links to published Obsidian vaults

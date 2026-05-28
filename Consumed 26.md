@@ -10,7 +10,12 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Constraints in Go: tightening up your type parameters](https://bitfieldconsulting.com/posts/constraints) -> [[Constraints in Go: tightening up your type parameters|Tips&Tricks]]
 - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/) -> [[Playground Wisdom: Threads Beat Async/Await|Note]]
 - [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) -> [[Communicating with Slip Boxes|Note]]
-- 
+- [After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won. ](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
+- [Why is Email So Hard?](https://httpus.net/why-is-email-so-hard/)
+- [Intro to Data Oriented Design for Games](https://www.youtube.com/watch?v=WwkuAqObplU) -> [[Intro to Data Oriented Design for Games|Tips&Tricks]]
+- [Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c) -> [[Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)|Tips&Tricks]]
+- [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) -> [[Handles are the better pointers|Note]]
+
 2026-05-27
 - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
