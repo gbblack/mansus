@@ -1,5 +1,13 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-29
+- [garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
+- [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
+- [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
+- [I hated writing—until I learned there’s a science to it](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it)
+- [Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/) -> [[Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS|Note]]
+- [A Data-Oriented Programming Approach to REST APIs](https://www.youtube.com/watch?v=fmToimoSF4s)
+
 2026-05-28
 - [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 - [Welcome to the world of Statecharts](https://statecharts.dev/) -> [[Welcome to the world of Statecharts|Note]]

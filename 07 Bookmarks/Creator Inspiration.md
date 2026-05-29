@@ -7,6 +7,7 @@ Links to lists of interesting people
 | https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file                            |
 | https://blogscroll.com/                                                                           |
 | https://themahjong.guide/ (a guide to mahjong, really cool)                                       |
+| https://bombadillo.colorfield.space/ (terminal browser)                                           |
 
 ### Blogs
 Links to individual Blogs
@@ -44,6 +45,7 @@ Links to individual Blogs
 | https://kristoff.it/                  | king of kings, Zig VP community                                                 |
 | https://causality.blog/               | concurrency series, i wanna see what it eventually says about Zig (if anything) |
 | https://andrewkelley.me/              | creator of zig                                                                  |
+| https://brennan.day/                  | independent web blogger                                                         |
 
 ### Vaults
 Links to published Obsidian vaults

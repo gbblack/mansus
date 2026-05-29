@@ -33,6 +33,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | CSS Tricks                                  | https://css-tricks.com/                                                                                                                |
 | Vim hero                                    | https://www.vim-hero.com/                                                                                                              |
 | IMGUI implementation<br>(also look at egui) | https://imgui-bundle.pages.dev/                                                                                                        |
+| Garnix CI source code                       | https://github.com/garnix-io/garnix-ci                                                                                                 |
 
 ### Tools
 Links to tools that I might want to look into.
