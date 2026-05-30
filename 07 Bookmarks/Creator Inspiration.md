@@ -12,40 +12,45 @@ Links to lists of interesting people
 ### Blogs
 Links to individual Blogs
 
-| Link                                  |                                                                                 |
-| ------------------------------------- | ------------------------------------------------------------------------------- |
-| https://worksinprogress.co/           |                                                                                 |
-| https://terriblesoftware.org/         |                                                                                 |
-| https://shilin.ca/                    | cool colours                                                                    |
-| https://matklad.github.io/            | rust analyzer dev's original blog                                               |
-| https://blog.x-e.ro/                  |                                                                                 |
-| https://lilymara.xyz/pages/blogroll/  |                                                                                 |
-| https://seirdy.one/                   |                                                                                 |
-| https://www.scattered-thoughts.net/   |                                                                                 |
-| https://eddyerburgh.me/               |                                                                                 |
-| https://olano.dev/blog/               |                                                                                 |
-| https://andrewwalpole.com/blog/       | His codepens are interesting for CSS                                            |
-| https://herman.bearblog.dev/          |                                                                                 |
-| https://sunshowers.io/                |                                                                                 |
-| https://www.trevorlasn.com/           |                                                                                 |
-| https://reillyspitzfaden.com/         |                                                                                 |
-| https://notes.volution.ro/            |                                                                                 |
-| https://seankhliao.com/               |                                                                                 |
-| https://stephango.com/                | CEO of Obsidian                                                                 |
-| https://hamatti.org/                  |                                                                                 |
-| https://maurycyz.com/archive/         |                                                                                 |
-| https://tantaman.com/                 | philosophy, culture, politics                                                   |
-| https://cauenapier.com/               |                                                                                 |
-| https://blog.d11r.eu/posts/           |                                                                                 |
-| https://www.jakeworth.com/start-here/ |                                                                                 |
-| https://mitchellh.com/                | creator of ghostty                                                              |
-| https://zetcode.com/golang/           | suite of Go tutorials                                                           |
-| https://vivianvoss.net/               | cool look                                                                       |
-| https://drewdevault.com/              | FOSS champ                                                                      |
-| https://kristoff.it/                  | king of kings, Zig VP community                                                 |
-| https://causality.blog/               | concurrency series, i wanna see what it eventually says about Zig (if anything) |
-| https://andrewkelley.me/              | creator of zig                                                                  |
-| https://brennan.day/                  | independent web blogger                                                         |
+| Link                                           |                                                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------------- |
+| https://worksinprogress.co/                    |                                                                                 |
+| https://terriblesoftware.org/                  |                                                                                 |
+| https://shilin.ca/                             | cool colours                                                                    |
+| https://matklad.github.io/                     | rust analyzer dev's original blog                                               |
+| https://blog.x-e.ro/                           |                                                                                 |
+| https://lilymara.xyz/pages/blogroll/           |                                                                                 |
+| https://seirdy.one/                            |                                                                                 |
+| https://www.scattered-thoughts.net/            |                                                                                 |
+| https://eddyerburgh.me/                        |                                                                                 |
+| https://olano.dev/blog/                        |                                                                                 |
+| https://andrewwalpole.com/blog/                | His codepens are interesting for CSS                                            |
+| https://herman.bearblog.dev/                   |                                                                                 |
+| https://sunshowers.io/                         |                                                                                 |
+| https://www.trevorlasn.com/                    |                                                                                 |
+| https://reillyspitzfaden.com/                  |                                                                                 |
+| https://notes.volution.ro/                     |                                                                                 |
+| https://seankhliao.com/                        |                                                                                 |
+| https://stephango.com/                         | CEO of Obsidian                                                                 |
+| https://hamatti.org/                           |                                                                                 |
+| https://maurycyz.com/archive/                  |                                                                                 |
+| https://tantaman.com/                          | philosophy, culture, politics                                                   |
+| https://cauenapier.com/                        |                                                                                 |
+| https://blog.d11r.eu/posts/                    |                                                                                 |
+| https://www.jakeworth.com/start-here/          |                                                                                 |
+| https://mitchellh.com/                         | creator of ghostty                                                              |
+| https://zetcode.com/golang/                    | suite of Go tutorials                                                           |
+| https://vivianvoss.net/                        | cool look                                                                       |
+| https://drewdevault.com/                       | FOSS champ                                                                      |
+| https://kristoff.it/                           | king of kings, Zig VP community                                                 |
+| https://causality.blog/                        | concurrency series, i wanna see what it eventually says about Zig (if anything) |
+| https://andrewkelley.me/                       | creator of zig                                                                  |
+| https://brennan.day/                           | independent web blogger                                                         |
+| https://fabiensanglard.net/usbcheat/index.html | USB cheatsheet                                                                  |
+| https://マリウス.com/                              | just super cool looking personal site                                           |
+| https://www.makingsoftware.com/                | a stylised reference manual about computers for "people who design software"    |
+| https://pluralistic.net/                       | interesting tech(?) magazine(?)                                                 |
+| https://hamvocke.com/                          | really good posts                                                               |
 
 ### Vaults
 Links to published Obsidian vaults

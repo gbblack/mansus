@@ -1,12 +1,23 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-30
+- [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc) -> [[How Clay's UI Layout Algorithm Works|Tips&Tricks]]
+- [Introducing Clay - High Performance UI Layout in C](https://www.youtube.com/watch?v=DYWTw19_8r4) -> [[Introducing Clay - High Performance UI Layout in C|Tips&Tricks]]
+- [Programming - The Single Source of Truth Principle](https://www.youtube.com/watch?v=O-zPsGqbGkc)
+- [I wrote a compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
+- [Just say no to JavaScript](https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html)
+- [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
+
 2026-05-29
+- [Programming - Naming Things Is Easy](https://www.youtube.com/watch?v=SEp0NrXWwoo)
 - [garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
 - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 - [I hated writing—until I learned there’s a science to it](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it)
 - [Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/) -> [[Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS|Note]]
 - [A Data-Oriented Programming Approach to REST APIs](https://www.youtube.com/watch?v=fmToimoSF4s)
+- [Reduce system complexity with Data-Oriented Programming by Yehonathan Sharvit](https://www.youtube.com/watch?v=VDf7ndlkQCw&t=3468s)
+- [Domain Driven, Data Oriented Architecture with Bill Kennedy](https://www.youtube.com/watch?v=bQgNYK1Z5ho)
 
 2026-05-28
 - [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
@@ -224,7 +235,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [We Replaced Our React Frontend with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go/) -> [[We Replaced Our React Frontend with Go and WebAssembly|Tips&Tricks]]
 
 2026-04-18
-- [Anna’s Archive Loses $322 Million Spotify Piracy Case Without a Fight](console.firebase.google.com/u/0/project/developer-insights-354e6/firestore/databases/-default-/data/~2Faccounts~2Fgabrielle_geeiq)
+- [Anna’s Archive Loses $322 Million Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
 - [The paper computer](https://jsomers.net/blog/the-paper-computer)
 - [Code Review is the New Bottleneck For Engineering Teams](https://newsletter.eng-leadership.com/p/code-review-is-the-new-bottleneck)
 - [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
@@ -476,7 +487,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 
 2026-02-08
-- [How to write](https://garden.bradwoods.io/notes/story/how-to-write) -> [[Note|How to write]]
+- [How to write](https://garden.bradwoods.io/notes/story/how-to-write) -> [[How to write|Note]]
  
 2026-02-05
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/) -> [[GitHub Actions Is Slowly Killing Your Engineering Team|Bookmark]]

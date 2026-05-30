@@ -60,7 +60,9 @@ Links to tools that I might want to look into.
 | Web  Dev                               | https://webdev.bryanhogan.com/                                   |
 | Go Cheatsheet                          | https://programming-idioms.org/cheatsheet/Go                     |
 | Hytradboi (links to interesting talks) | https://www.hytradboi.com/2025                                   |
-| Linux From Scratchq                    | https://www.linuxfromscratch.org/                                |
+| Linux From Scratch                     | https://www.linuxfromscratch.org/                                |
+| Typst, typesetting tool                | https://github.com/typst/typst                                   |
+|                                        |                                                                  |
 ### Projects
 Links to cool projects I want to check out.
 

@@ -134,7 +134,7 @@ Idea from: [consumed.today](https://consumed.today/)
 2025-12-11
 - [Your Local Dev Environment Is a Product. Treat It Like One.](https://medium.com/@jensenbox/your-local-dev-environment-is-a-product-treat-it-like-one-0666eaeed7a8) -> [[Your Local Dev Environment Is a Product. Treat It Like One.|Note]]
 - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com/)
-- [The Hidden Job Market: How to Access the Roles No One Posts](https://medium.com/@sangram_navale/the-hidden-job-market-how-to-access-the-roles-no-one-posts-7a3d59629f9c) -> [[Tips&Tricks Template]]
+- [The Hidden Job Market: How to Access the Roles No One Posts](https://medium.com/@sangram_navale/the-hidden-job-market-how-to-access-the-roles-no-one-posts-7a3d59629f9c)
 
 2025-12-10
 - [How to read like a Booker Prize judge – according to Chris Power](https://thebookerprizes.com/the-booker-library/features/how-to-read-like-a-booker-prize-judge)
@@ -178,12 +178,12 @@ Idea from: [consumed.today](https://consumed.today/)
 
 2025-11-04
 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-- [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) -> [[Tips&Tricks Template]]
+- [At the end you use `git bisect`](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) -> [[At the end you use `git bisect`|Tips&Tricks]]
 - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) -> [[My Truck Desk|Barnyard]]
 
 2025-10-31
-- [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html) -> [[Tips&Tricks Template]]
+- [Result is all I need](https://rockyj-blogs.web.app/2025/10/25/result-monad.html) -> [[Result is all I need|Tips&Tricks]]
 - [Free software scares normal people](https://danieldelaney.net/normal/)
 - [A Classic Graphic Reveals Nature’s Most Efficient Traveler](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/)
 - [A heatmap diff viewer for code reviews](https://0github.com/)
