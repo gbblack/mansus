@@ -10,6 +10,9 @@ Idea from: [consumed.today](https://consumed.today/)
 - [I Made a Terminal Pager](https://theleo.zone/posts/pager/) -> [[I Made a Terminal Pager|Tips&Tricks]]
 - [Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
 
+2026-05-31
+- [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc) -> [[CppCon 2014: Mike Acton "Data-Oriented Design and C++"|Note]] (the OG data oriented design talk)
+
 2026-05-30
 - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc) -> [[How Clay's UI Layout Algorithm Works|Tips&Tricks]]
 - [Introducing Clay - High Performance UI Layout in C](https://www.youtube.com/watch?v=DYWTw19_8r4) -> [[Introducing Clay - High Performance UI Layout in C|Tips&Tricks]]
@@ -27,7 +30,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/) -> [[Gemini, Gophers, and Fingers. Oh My! Alternative Internets Beyond HTTPS|Note]]
 - [A Data-Oriented Programming Approach to REST APIs](https://www.youtube.com/watch?v=fmToimoSF4s)
 - [Reduce system complexity with Data-Oriented Programming by Yehonathan Sharvit](https://www.youtube.com/watch?v=VDf7ndlkQCw&t=3468s)
-- [Domain Driven, Data Oriented Architecture with Bill Kennedy](https://www.youtube.com/watch?v=bQgNYK1Z5ho)
+- [Domain Driven, Data Oriented Architecture with Bill Kennedy](https://www.youtube.com/watch?v=bQgNYK1Z5ho) -> [[[Domain Driven, Data Oriented Architecture with Bill Kennedy](https://www.youtube.com/watch?v=bQgNYK1Z5ho)|Note]]
 
 2026-05-28
 - [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
