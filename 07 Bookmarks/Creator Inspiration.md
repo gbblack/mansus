@@ -51,6 +51,8 @@ Links to individual Blogs
 | https://www.makingsoftware.com/                | a stylised reference manual about computers for "people who design software"    |
 | https://pluralistic.net/                       | interesting tech(?) magazine(?)                                                 |
 | https://hamvocke.com/                          | really good posts                                                               |
+| https://blainsmith.com/                        | dev blog                                                                        |
+| https://lexi-lambda.github.io/                 | alexis king (parse dont validate) blog                                          |
 
 ### Vaults
 Links to published Obsidian vaults

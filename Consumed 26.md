@@ -1,5 +1,15 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-01
+- [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)
+- [Learn SQL Once, Use It for 30 Years](https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03)
+- [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a) -> [[Shift from a Leader-Follower to a Leader-Leader Approach|Barnyard]]
+- [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) -> [[Just Fucking Use Go|Tips&Tricks]]
+- [Tracing HTTP Requests with Go's net/http/httptrace](https://blainsmith.com/articles/httptrace-with-go/) -> [[Tracing HTTP Requests with Go's net/http/httptrace|Tips&Tricks]]
+- [I Made a Terminal Pager](https://theleo.zone/posts/pager/) -> [[I Made a Terminal Pager|Tips&Tricks]]
+- [Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
+
 2026-05-30
 - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc) -> [[How Clay's UI Layout Algorithm Works|Tips&Tricks]]
 - [Introducing Clay - High Performance UI Layout in C](https://www.youtube.com/watch?v=DYWTw19_8r4) -> [[Introducing Clay - High Performance UI Layout in C|Tips&Tricks]]
