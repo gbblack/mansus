@@ -55,6 +55,7 @@ Data Design (WIP)
 - Need to check if map reduce is still relevant (check Intro to 2nd edition of Designing Data Intensive Applications)
 - Collection of data oriented design [links](https://github.com/dbartolini/data-oriented-design)
 - https://github.com/kousen/dataorientedprogramming/blob/master/src/main/java/com/kousenit/anthropic/ClaudeRecords.java (an example for http client of a rest api with java)
+- https://www.youtube.com/watch?v=bUOOaXf9qIM talk on making a high performant native app from scratch, implicitly follows DoD.
 
 CLI design and implementation
 - https://bettercli.org/ -> website decdicated to the desgin of CLIs

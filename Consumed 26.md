@@ -1,5 +1,14 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-02
+- [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html)
+- [github and the crime against software](https://eblog.fly.dev/githubbad.html) -> [[github and the crime against software|Tips&Tricks]] (mostly for the resources linked)
+- [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- [Every byte matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+- [Using git's rerere feature to escape recurring conflict hell](https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928) -> [[Using git's rerere feature to escape recurring conflict hell|Tips&Tricks]]
+- [Brainwash An Executive Today!](https://ludic.mataroa.blog/blog/brainwash-an-executive-today/)
+- [Software Talmud #00: Anatomy of Automation](https://eblog.fly.dev/swtalmud.html) -> [[Software Talmud #00: Anatomy of Automation|Note]] (treasure trove of a bibliography)
+- [Vjekoslav Krajačić – File Pilot: Inside the Engine – BSC 2025](https://www.youtube.com/watch?v=bUOOaXf9qIM) -> [[Vjekoslav Krajačić – File Pilot: Inside the Engine – BSC 2025|Tips&Tricks]]
 2026-06-01
 - [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)
 - [Learn SQL Once, Use It for 30 Years](https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03)

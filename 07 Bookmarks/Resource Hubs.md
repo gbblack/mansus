@@ -37,6 +37,7 @@ Links to pages that are knowledge bases/wikis on a given topic. Includes all for
 | tsx                                         | https://tsx.hirok.io/                                                                                                                  |
 | public api list                             | https://github.com/public-apis/public-apis                                                                                             |
 | comprehensive makefile guide                | http://makefiletutorial.com/                                                                                                           |
+| Learn Linux                                 | https://github.com/ahegazy0/linux-basics-for-hackers-notes                                                                             |
 
 ### Tools
 Links to tools that I might want to look into.

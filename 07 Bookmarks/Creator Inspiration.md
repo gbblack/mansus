@@ -53,6 +53,10 @@ Links to individual Blogs
 | https://hamvocke.com/                          | really good posts                                                               |
 | https://blainsmith.com/                        | dev blog                                                                        |
 | https://lexi-lambda.github.io/                 | alexis king (parse dont validate) blog                                          |
+| https://ludic.mataroa.blog/                    | Lucidity blog, writing goals                                                    |
+| https://eblog.fly.dev/index.html               | real 10x engineer, full of go tips                                              |
+| https://www.gingerbill.org/                    | odin lang dev                                                                   |
+| https://www.dgtlgrove.com/                     | blog on programming basics (kinda)                                              |
 
 ### Vaults
 Links to published Obsidian vaults
