@@ -1,5 +1,28 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-05-04
+- [Patreon CEO Refuses To Remove YouTuber’s Viral Lego Investigation Despite Takedown Notice And Lawsuit: ‘Bricks & Minifigs Can Stuff It’](https://kotaku.com/lego-star-wars-reckless-ben-youtube-bricks-minifigs-patreon-mormon-mafia-2000701942)
+- [Stop Killing Games](https://jxself.org/stop-killing-games.shtml)
+- [The Hierarchy of Controls (or how to stop devs from dropping prod)](https://www.hillelwayne.com/post/hoc/)
+- [Bertrand Russell: The Triumph of Stupidity](https://russell-j.com/0583TS.HTM) -> [[Bertrand Russell: The Triumph of Stupidity|Barnyard]]
+- [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height) -> [[Styling an HTML dialog modal to take the full height of the viewport|Tips&Tricks]] (helpful for html parser)
+- [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04) -> [[The Unreasonable Effectiveness of Naming Integers|Tips&Tricks]] (could help integers as ids instead of strings)
+- [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) -> [[Choices|Barnyard]]
+- [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
+- [Front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+- [Luck Is a Probability Distribution](https://tantaman.com/2026-01-27-manufacturing-luck.html) -> [[Luck Is a Probability Distribution|Barnyard]]
+- [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) -> [[Rules for Writing Software Tutorials|Tips&Tricks]]
+
+2026-05-03
+- [Stop ruining it](https://seths.blog/2026/06/stop-ruining-it/)
+- [Gmail Thinks I'm Stupid, So I Left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
+- [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
+- [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
+- [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
+- [The hidden world beneath the shadows of YouTube's algorithm](https://www.bbc.co.uk/future/article/20250306-inside-youtubes-hidden-world-of-forgotten-videos)
+- [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/) -> [[Layered Design in Go|Note]] (I don't get it yet)
+
 2026-06-02
 - [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html)
 - [github and the crime against software](https://eblog.fly.dev/githubbad.html) -> [[github and the crime against software|Tips&Tricks]] (mostly for the resources linked)
@@ -9,6 +32,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Brainwash An Executive Today!](https://ludic.mataroa.blog/blog/brainwash-an-executive-today/)
 - [Software Talmud #00: Anatomy of Automation](https://eblog.fly.dev/swtalmud.html) -> [[Software Talmud #00: Anatomy of Automation|Note]] (treasure trove of a bibliography)
 - [Vjekoslav Krajačić – File Pilot: Inside the Engine – BSC 2025](https://www.youtube.com/watch?v=bUOOaXf9qIM) -> [[Vjekoslav Krajačić – File Pilot: Inside the Engine – BSC 2025|Tips&Tricks]]
+
 2026-06-01
 - [Two Ways to Draw Infinite Jest's Sierpinski Gasket](https://www.chiply.dev/post-ij-sierpinski)
 - [Learn SQL Once, Use It for 30 Years](https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03)

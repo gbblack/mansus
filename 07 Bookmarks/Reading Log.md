@@ -16,6 +16,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 - **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
 - **The Mythical Man-Month** by Fred Brooks.
 - **Toyota Way** by Jeffrey Liker.
+- **Mortals and Others** by Bertand Russel.
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
 - **The Trial** by Franz Kafka.

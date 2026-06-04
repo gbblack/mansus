@@ -57,6 +57,7 @@ Links to individual Blogs
 | https://eblog.fly.dev/index.html               | real 10x engineer, full of go tips                                              |
 | https://www.gingerbill.org/                    | odin lang dev                                                                   |
 | https://www.dgtlgrove.com/                     | blog on programming basics (kinda)                                              |
+| https://jxself.org/about.shtml                 | tech bloc, lobre software bent                                                  |
 
 ### Vaults
 Links to published Obsidian vaults
@@ -83,3 +84,5 @@ Links to Digital Gardens
 https://martinfowler.com/
 
 https://garden.bradwoods.io/ this whole thing is incredible
+
+https://github.com/nicbarker/clay/tree/main (ideal of a library, immediate mode UI, in a data oriented fashion)

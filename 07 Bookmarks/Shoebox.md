@@ -60,3 +60,6 @@ Data Design (WIP)
 CLI design and implementation
 - https://bettercli.org/ -> website decdicated to the desgin of CLIs
 - https://theleo.zone/posts/pager/ -> interesting and helpful breakdown on viewport in TUI w/ bubbletea
+
+Luck as a surface
+- https://tantaman.com/2026-01-27-manufacturing-luck.html
