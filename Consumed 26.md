@@ -1,6 +1,16 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-2026-05-04
+2026-06-05
+- [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
+- [Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
+- [The Rise and Fall of a Midwest Princess](https://explosion-scratch.github.io/locusts/)
+- [What is Vim?](https://blog.jonas.foo/blog/whats-vim/)
+- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
+- [Ontology is Overrated: Categories, Links, and Tags](https://web.archive.org/web/20190729120538/http://www.shirky.com/writings/ontology_overrated.html) -> [[Ontology is Overrated: Categories, Links, and Tags|Note]] (about tags an links but can be understood under the lens of knowledge management but also as case against oop and creating compile time hierarchies)
+- [The Man Who Reads Books For a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+
+2026-06-04
 - [Patreon CEO Refuses To Remove YouTuber’s Viral Lego Investigation Despite Takedown Notice And Lawsuit: ‘Bricks & Minifigs Can Stuff It’](https://kotaku.com/lego-star-wars-reckless-ben-youtube-bricks-minifigs-patreon-mormon-mafia-2000701942)
 - [Stop Killing Games](https://jxself.org/stop-killing-games.shtml)
 - [The Hierarchy of Controls (or how to stop devs from dropping prod)](https://www.hillelwayne.com/post/hoc/)

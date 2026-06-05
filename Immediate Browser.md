@@ -574,3 +574,6 @@ game engine job system+ compiler pipeline+ network stream processor
 than a traditional JS browser.
 
 So yes: **you can design it to fully leverage concurrency**, and rejecting a single JS mutation thread is one of the clearest paths to making it faster, more predictable, and more scalable.
+
+
+https://github.com/evanw/esbuild/tree/main -> css parser and lexer in go, good example
