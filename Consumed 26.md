@@ -1,5 +1,11 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-08
+- [Wow, if it's this easy in 1998, I bet it'll be even easier in 2026](https://retro.social/@ifixcoinops/116711332505710610)
+- [My Software North Star](https://kristoff.it/blog/north-star/)
+- [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse) -> [[Using Uninitialized Memory for Fun and Profit|Note]]
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+
 2026-06-05
 - [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
 - [Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
