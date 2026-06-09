@@ -1,5 +1,13 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-09
+- [Zig structs of arrays](https://andreashohmann.com/zig-struct-of-arrays/) -> [[Zig structs of arrays|Note]]
+- [Using XDG-compliant Config Files](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
+- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+- [“Then suddenly we were boring, bloated, and not particularly interesting.”](https://unsung.aresluna.org/then-suddenly-we-were-boring-bloated-and-not-particularly-interesting/)
+- [Shotgun Semantics](https://donnywinston.com/posts/shotgun-semantics/)
+
 2026-06-08
 - [Wow, if it's this easy in 1998, I bet it'll be even easier in 2026](https://retro.social/@ifixcoinops/116711332505710610)
 - [My Software North Star](https://kristoff.it/blog/north-star/)
