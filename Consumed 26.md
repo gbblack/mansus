@@ -1,5 +1,10 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-10
+- [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
+- [IT'S DEATH](https://jesseduffield.com/ITS-DEATH/)
+- [Architecting LARGE software projects.](https://www.youtube.com/watch?v=sSpULGNHyoI) -> [[Architecting LARGE software projects.|Note]] (10/10 video)
+
 2026-06-09
 - [Zig structs of arrays](https://andreashohmann.com/zig-struct-of-arrays/) -> [[Zig structs of arrays|Note]]
 - [Using XDG-compliant Config Files](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
