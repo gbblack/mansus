@@ -1,5 +1,17 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-11
+- [The Case for Free Online Books (FOBs): Experiences with "Operating Systems: Three Easy Pieces"](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html) -> (I just like this)
+- [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html) -> [[CSS: Unavoidable Bad Parts|Tips&Tricks]]
+- [Lies We Tell Ourselves About Email Addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/) -> [[Lies We Tell Ourselves About Email Addresses|Tips&Tricks]]
+- [A pointable we 1/3](https://craigmod.com/essays/pointable_01/)
+- [A pointable we 2/3](https://craigmod.com/essays/pointable_02/)
+- [A pointable we 3/3](https://craigmod.com/essays/pointable_03/)
+- [The Collaborative Book](https://craigmod.com/essays/collaborative_book/)
+- [Platforming Books](https://craigmod.com/journal/platforming_books/)
+- [Tom's Namespaces: An Odin Fanfic](https://www.gingerbill.org/article/2026/05/13/aesthetic-namespacing/)
+- [The Aesthetic Problem of Namespacing](https://www.gingerbill.org/article/2026/05/13/aesthetic-namespacing/)
+
 2026-06-10
 - [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
 - [IT'S DEATH](https://jesseduffield.com/ITS-DEATH/)
