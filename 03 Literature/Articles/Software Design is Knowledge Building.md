@@ -1,6 +1,6 @@
 ---
 tags:
-  - article
+  - lit-note
 source: https://olano.dev/blog/software-design-is-knowledge-building/
 links:
   - "[[systems thinking]]"

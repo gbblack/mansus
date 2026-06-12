@@ -4,6 +4,10 @@ Idea from: [consumed.today](https://consumed.today/)
 - [If You are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/)
 - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
+- [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
+- [Ask for no, don’t ask for yes](https://www.mooreds.com/wordpress/archives/3518)
+- [Bridge to Nowhere](https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/)
+- [On the foolishness of "natural language programming".](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) -> [[On the foolishness of natural language programming|Note]]
 
 2026-06-11
 - [The Case for Free Online Books (FOBs): Experiences with "Operating Systems: Three Easy Pieces"](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html) -> (I just like this)

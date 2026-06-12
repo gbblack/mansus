@@ -10,7 +10,7 @@ links:
 
 > [!abstract] Summary
 > An article explaining the author's ethos for hosting and making her independent blog and not engaging with her work (writing) primarily through social media. She believes that the very format of social media disrupts our ability to think and therefore write. As such the inverse is also true, in building her own site she is able to create a format designed to improve, uniquely, her own thinking and writing. The medium transforms the message and messenger.
-## Highlights
+
 ---
 I’ve written before about the ==**restlessness inherent to screens==, the inability to ever linger or pause or catch your breath. It’s a strangely disembodied experience**, a sense of ceaseless, rustling motion when nothing is moving at all
 

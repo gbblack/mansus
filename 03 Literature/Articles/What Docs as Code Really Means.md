@@ -1,10 +1,9 @@
 ---
 tags:
-  - article
-  - engineering_practices
 source: https://passo.uno/what-docs-as-code-means/
 links:
   - "[[documentation]]"
+  - "[[best practices]]"
 ---
 # What Docs as Code Really Means
 

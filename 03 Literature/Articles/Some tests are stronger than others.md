@@ -1,10 +1,10 @@
 ---
 tags:
-  - article
-  - engineering_practices
+  - lit-note
 source: https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/
 links:
   - "[[testing]]"
+  - "[[best practices]]"
 ---
 # Some tests are stronger than others
 

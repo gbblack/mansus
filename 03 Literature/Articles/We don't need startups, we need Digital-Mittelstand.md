@@ -1,6 +1,6 @@
 ---
 tags:
-  - article
+  - lit-note
 source: https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/
 links:
   - "[[leadership]]"

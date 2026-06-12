@@ -1,9 +1,10 @@
 ---
 tags:
-  - tipsntricks
+  - lit-note
 source: https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/
 links:
   - "[[documentation]]"
+  - "[[best practices]]"
 ---
 # Why writing small docs is a game changer
 

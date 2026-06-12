@@ -1,7 +1,6 @@
 ---
 tags:
-  - article
-  - personal_philosophy
+  - lit-note
 source: https://lelouch.dev/blog/you-are-probably-not-dumb/
 links:
   - "[[learning]]"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - article
+  - lit-note
 source: https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/
 links:
   - "[[housing insecurity]]"

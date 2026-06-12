@@ -1,7 +1,7 @@
 ---
 tags:
-  - article
   - reading_list
+  - lit-note
 source: https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/
 links:
   - "[[systems thinking]]"

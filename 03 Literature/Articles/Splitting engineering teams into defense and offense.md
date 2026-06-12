@@ -1,10 +1,10 @@
 ---
 tags:
-  - article
-  - engineering_practices
+  - lit-note
 source: https://www.greptile.com/blog/how-we-engineer
 links:
   - "[[leadership]]"
+  - "[[best practices]]"
 ---
 # Splitting engineering teams into defense and offense
 

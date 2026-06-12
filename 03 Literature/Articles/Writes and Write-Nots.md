@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal_philosophy
+  - lit-note
 source: https://paulgraham.com/writes.html
 links:
   - "[[writing as thinking]]"

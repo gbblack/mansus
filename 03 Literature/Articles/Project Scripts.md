@@ -1,10 +1,10 @@
 ---
 tags:
-  - article
-  - engineering_practices
+  - lit-note
 source: https://paul-samuels.com/blog/2025/02/23/project-scripts/
 links:
   - "[[quality software]]"
+  - "[[best practices]]"
 ---
 # Project Scripts
 

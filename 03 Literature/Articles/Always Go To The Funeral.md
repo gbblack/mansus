@@ -1,7 +1,6 @@
 ---
 tags:
-  - article
-  - personal_philosophy
+  - lit-note
 source: https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral
 links:
   - "[[personal responsibility]]"

@@ -1,7 +1,6 @@
 ---
 tags:
-  - article
-  - engineering_values
+  - lit-note
 source: https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/
 links:
   - "[[personal responsibility]]"

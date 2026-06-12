@@ -1,10 +1,10 @@
 ---
 tags:
-  - article
-  - engineering_practices
+  - lit-note
 source: https://bitfieldconsulting.com/posts/testing-legacy-code
 links:
   - "[[testing]]"
+  - "[[best practices]]"
 ---
 # Suite smells: testing legacy code
 

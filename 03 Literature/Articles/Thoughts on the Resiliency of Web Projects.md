@@ -1,7 +1,6 @@
 ---
 tags:
-  - article
-  - engineering_values
+  - lit-note
 source: https://aaronparecki.com/2024/08/31/9/too-many-projects
 links:
   - "[[quality software]]"

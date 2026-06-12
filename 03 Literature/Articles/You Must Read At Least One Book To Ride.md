@@ -1,7 +1,6 @@
 ---
 tags:
-  - article
-  - personal_philosophy
+  - lit-note
 source: https://ludic.mataroa.blog/blog/you-must-read-at-least-one-book-to-ride/
 links:
   - "[[learning]]"

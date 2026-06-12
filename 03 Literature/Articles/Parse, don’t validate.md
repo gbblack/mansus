@@ -7,9 +7,9 @@ links:
   - "[[type-driven design]]"
 ---
 # Parse, don’t validate
-**Parsing:** is a process that transforms input data into a more precise output. The transformation inherently validates the input while preserving the validation result in the more precise output.
+Parsing is a process that transforms input data into a more precise output. The transformation inherently validates the input while preserving the resulting valid state in the precise output, the invalid input fails to parse.
 
-The information is stored inside the type system. The unvalidated input state is one type which is parsed into a more explicit output type.
+This information is stored inside the type system. Every valid state of the data is its own type.
 ### How to apply this pattern?  -> Data types.
 
 - Make data structures that make illegal states unrepresentable. Model these states with the most precise structures you can manage.
