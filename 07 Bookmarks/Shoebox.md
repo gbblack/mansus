@@ -63,3 +63,7 @@ CLI design and implementation
 
 Luck as a surface
 - https://tantaman.com/2026-01-27-manufacturing-luck.html
+
+Parsing as validation
+ - [[Parse, don’t validate]]
+ - [[Parsing data is nicer than only validating it]]

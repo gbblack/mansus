@@ -1,9 +1,9 @@
 ---
 tags:
-  - tipsntricks
+  - lit-note
 source: https://mtsknn.fi/blog/parse-dont-just-validate/
 links:
-  - "[[Parse, don’t validate]]"
+  - "[[type-driven design]]"
 ---
 # Parsing data is nicer than only validating it
 

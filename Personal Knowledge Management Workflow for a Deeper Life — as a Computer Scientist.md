@@ -1,9 +1,9 @@
 ---
-kind: article
 tags:
-publication:
-  - ssp
+  - lit-note
 source: https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/
+links:
+  - "[[knowledge management]]"
 ---
 # Personal Knowledge Management Workflow for a Deeper Life — as a Computer Scientist
 

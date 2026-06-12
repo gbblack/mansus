@@ -1,6 +1,6 @@
 ---
 tags:
-  - article
+  - lit-note
 source: https://aworkinglibrary.com/writing/accountability-sinks
 links: "[[accountability]]"
 ---

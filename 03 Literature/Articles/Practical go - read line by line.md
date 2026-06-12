@@ -1,4 +1,11 @@
-[source: https://www.practical-go-lessons.com/post/how-to-read-a-file-line-by-line-with-go](https://www.practical-go-lessons.com/post/how-to-read-a-file-line-by-line-with-go-cbmaj47rttts70kq7c9g#:~:text=Scan
+---
+tags:
+  - tipsntricks
+source: https://www.practical-go-lessons.com/post/how-to-read-a-file-line-by-line-with-go-cbmaj47rttts70kq7c9g#:~:text=Scan
+links:
+  - "[[go examples]]"
+---
+# How to read a file line by line with Go
 
 ```go
 package main

@@ -1,5 +1,10 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-12
+- [If You are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/)
+- [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
+
 2026-06-11
 - [The Case for Free Online Books (FOBs): Experiences with "Operating Systems: Three Easy Pieces"](https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html) -> (I just like this)
 - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html) -> [[CSS: Unavoidable Bad Parts|Tips&Tricks]]
@@ -459,7 +464,7 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-03-12
 - [Nobody finishes reading my books](https://smallpotatoes.paulbloom.net/p/nobody-finishes-reading-my-books-eca)
 - [Challenging the Single-Responsibility Principle](https://kiss-and-solid.com/blog/keep-it-simple)
-- [Quasar Architecture Style — TU Dresden](https://st.inf.tu-dresden.de/files/teaching/ss11/swt/Vorlesungen/46-quasar-2x2.pdf) -> [[Quasar Architecture Style — TU Dresden|Note]]
+- [Quasar Architecture Style — TU Dresden](https://st.inf.tu-dresden.de/files/teaching/ss11/swt/Vorlesungen/46-quasar-2x2.pdf)
 - [One year of keeping a tada list](https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) -> [[Parse, don’t validate|Note]]
 - [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/) -> [[Protobuffers Are Wrong|Barnyard]]
