@@ -56,6 +56,14 @@ Data Design (WIP)
 - Collection of data oriented design [links](https://github.com/dbartolini/data-oriented-design)
 - https://github.com/kousen/dataorientedprogramming/blob/master/src/main/java/com/kousenit/anthropic/ClaudeRecords.java (an example for http client of a rest api with java)
 - https://www.youtube.com/watch?v=bUOOaXf9qIM talk on making a high performant native app from scratch, implicitly follows DoD.
+- Struct of Arrays
+- Swapback Array
+- Cache misses?
+- Out of band?
+- Sparse set pattern?
+- Registry pattern?
+- Memory management with arenas
+- Encoding strategy?
 
 CLI design and implementation
 - https://bettercli.org/ -> website decdicated to the desgin of CLIs

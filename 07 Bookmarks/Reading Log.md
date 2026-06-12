@@ -10,9 +10,8 @@ List of Programming Books: https://www.programmingbooks.dev/
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
 - **The Book Thief** by Markus Zusak.
-- **Brave New World** by Aldous Huxley.
+- **The Song of Achilles** by Madeline Miller.
 ## Reading List
-
 - **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
 - **The Mythical Man-Month** by Fred Brooks.
 - **Toyota Way** by Jeffrey Liker.
@@ -92,6 +91,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 10. [The Rules of Programming](The%20Rules%20of%20Programming) by Chris Zimmerman.
 11. **Blind Willow, Sleeping Woman** by Haruki Murakami.
 12. [Mastering API Architecture](Mastering%20API%20Architecture) by James Gough, Daniel Bryant & Matthew Auburn.
+13. **Brave New World** by Aldous Huxley.
 ## 2025
 ---
 ### Read
