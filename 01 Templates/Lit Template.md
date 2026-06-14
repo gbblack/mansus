@@ -1,13 +1,13 @@
 ---
 tags:
-  - tipsntricks
+  - lit-note
 source:
 links:
 ---
-# Title
+# Full Title
 
 > [!abstract] Summary
-## Why
-## How
+> optional
 
-> [!quote]
+---
+ any quote
