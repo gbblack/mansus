@@ -1,5 +1,8 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-14
+- [Compiling C with Zig](https://www.mitchellhanberg.com/compiling-c-with-zig/)
+
 2026-06-12
 - [If You are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/)
