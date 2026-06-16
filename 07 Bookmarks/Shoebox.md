@@ -75,3 +75,10 @@ Luck as a surface
 Parsing as validation
  - [[Parse, don’t validate]]
  - [[Parsing data is nicer than only validating it]]
+
+Tech Governance
+- IETF -> internet protocol. HTTP, QUIC, TLS, ...
+- W3C -> standards body. HTML, CSS, XML, ...
+- WHATWG -> also HTML? they made HTML5. Living standards not RFC based. Started by browsers.
+- Unicode Consortium
+- ICANN and IANA -> administrator of domains and DNS

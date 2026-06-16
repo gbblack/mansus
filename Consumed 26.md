@@ -1,7 +1,26 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-16
+- [If You Stop Hiring Juniors, Your Senior Engineers Own You](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
+- 
+2026-06-15
+- [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) -> [[Your EPUB Is Fine. Kobo Disagrees. Blame Adobe|Tips&Tricks]]
+- [write for 1 person](https://wizardzines.com/comics/write-for-one-person/)
+- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
+- [Testing on the Toilet: Don't Put Logic in Tests](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) -> [[Testing on the Toilet: Don't Put Logic in Tests|Tips&Tricks]]
+- [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
+- [The deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
+- [The End Of Independent Publishing And Giant Freakin Robot](https://www.giantfreakinrobot.com/ent/independent-ends.html)
+- [Codin' Dirty](https://htmx.org/essays/codin-dirty/) -> [[Codin' Dirty|Note]]
+- [Writes large correct programs](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) -> [[The Joel Test: 12 Steps to Better Code|Note]]
+- [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
+- [The coming coordination calamity](https://surfingcomplexity.blog/2026/05/24/the-coming-coordination-calamity/)
+
 2026-06-14
 - [Compiling C with Zig](https://www.mitchellhanberg.com/compiling-c-with-zig/)
+- [A Systems-Minded Approach to Creating a Music Player Application by Andrew Kelley](https://www.youtube.com/watch?v=SCLrNqc9jdE)
+- [Making Systems Programming Accessible by Andrew Kelley](https://www.youtube.com/watch?v=Qncdi-Fg0-I)
 
 2026-06-12
 - [If You are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)

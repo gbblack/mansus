@@ -37,6 +37,8 @@ Links to projects or tools that interest me enough to learn
 | [vimhero](https://www.vim-hero.com/)                      | Browser game to teach and learn vim                                                         |
 | [Clay](https://github.com/nicbarker/clay/tree/main)       | A UI layout library in C. Ideal of a library, immediate mode UI, in a data oriented fashion |
 | [Typescript Execute (tsx)](https://tsx.hirok.io/)         | Node enhancement to better run TypeScript                                                   |
+| [Tracy](https://github.com/wolfpld/tracy)                 | Realtime CPU and GPU profiler                                                               |
+| [river](https://isaacfreund.com/software/river/)          | Implementation of the Wayland compositor                                                    |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -69,19 +71,20 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)                                                                 | GitHub awesome repo for TypeScript                                                                     |
 | [public-apis](https://github.com/public-apis/public-apis)                                                                              | GitHub repo with links to public APIs                                                                  |
 | [CSS-Tricks](https://css-tricks.com/)                                                                                                  | Collection of excellent CSS resources                                                                  |
+| [Wayland](https://wayland.freedesktop.org/)                                                                                            | Full spec and documentation of the Wayland system protocol.                                            |
 
 ### Blogs
 Links to individual blogs
 
 | Blog                                                                                        | Description                                                                     |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| https://worksinprogress.co/                                                                 |                                                                                 |
+| [Works in Progress](https://worksinprogress.co/)                                            | Digital magazine, owned by Stripe.                                              |
 | https://terriblesoftware.org/                                                               |                                                                                 |
 | https://shilin.ca/                                                                          | cool colours                                                                    |
-| https://matklad.github.io/                                                                  | rust analyzer dev's original blog                                               |
+| [matklad](https://matklad.github.io/)                                                       | Tigerbeetle and Rust language dev                                               |
 | https://blog.x-e.ro/                                                                        |                                                                                 |
 | https://lilymara.xyz/pages/blogroll/                                                        |                                                                                 |
-| https://seirdy.one/                                                                         |                                                                                 |
+| [Seirdy’s Home](https://seirdy.one/)                                                        | Personal site                                                                   |
 | https://www.scattered-thoughts.net/                                                         |                                                                                 |
 | https://eddyerburgh.me/                                                                     |                                                                                 |
 | https://olano.dev/blog/                                                                     |                                                                                 |
@@ -118,9 +121,10 @@ Links to individual blogs
 | https://eblog.fly.dev/index.html                                                            | real 10x engineer, full of go tips                                              |
 | https://www.gingerbill.org/                                                                 | odin lang dev                                                                   |
 | https://www.dgtlgrove.com/                                                                  | blog on programming basics (kinda)                                              |
-| https://jxself.org/about.shtml                                                              | tech bloc, lobre software bent                                                  |
-| https://martinfowler.com/<br><br>                                                           |                                                                                 |
+| https://jxself.org/about.shtml                                                              | tech blog, libre software bent                                                  |
+| [Martin Fowler](https://martinfowler.com/)                                                  | Pioneer of Agile, CI/CD, TDD , and OOP                                          |
 | [https://garden.bradwoods.io/](https://garden.bradwoods.io/) this whole thing is incredible |                                                                                 |
+| [Andre Klein](https://andreklein.net/)                                                      | Dev who works a lot with ebooks.                                                |
 
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
