@@ -6,6 +6,8 @@ Idea from: [consumed.today](https://consumed.today/)
 - [The forge we deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
 - [Full-stack ReScript. Architecture Overview](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git) -> [[How Core Git Developers Configure Git|Tips&Tricks]]
+- [Why The Web Sucks (You Just Don't Know It)](https://nothings.org/writing/websucks.html) -> [[Why The Web Sucks (You Just Don't Know It)|Barnyard]]
+- 
 
 2026-06-17
 - [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)

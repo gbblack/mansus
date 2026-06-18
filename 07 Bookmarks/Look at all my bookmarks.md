@@ -2,20 +2,21 @@
 ### Showcase
 Links to cool stuff on the internet. Mostly include direct links to a project, but can also include a list of further links.
 
-| Link                                                                                                                           | Description                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [Blue Sky Firehose](https://firehose3d.theo.io/)                                                                               | Live stream of blue sky tweets flowing through a tunnel                     |
-| [nba jersey colors](https://pudding.cool/2024/10/nba-uniforms/)                                                                | A history of NBA jerseys                                                    |
-| [In Pieces](http://species-in-pieces.com/)                                                                                     | Illustrated animals in raw CSS                                              |
-| [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)                                               | In depth explanation of Aztec iconography                                   |
-| [indieblog.page](https://indieblog.page/)                                                                                      | Click a button to be sent to a random indie blog post                       |
-| [The HTML Review](https://thehtml.review/04/#)                                                                                 | digital first literary journal                                              |
-| [olduse.net](https://olduse.net/)                                                                                              | An archive of old usenet articles                                           |
-| [Learn mahjong, A visual guide](https://themahjong.guide/)                                                                     | anything you could possible want to know about mahjong, stunningly rendered |
-| [BLOGSBROLL](https://blogscroll.com/)                                                                                          | Open directory of personal sites and blogs                                  |
-| [Quartz Community Showcase](https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f/docs/showcase.md) | List of digital gardens that use Quartz to publish                          |
-| [Dev Fonts](https://devfonts.gafi.dev/)                                                                                        | Collection of coding fonts                                                  |
-| [best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens?tab=readme-ov-file)                              | GitHub list of digital gardens                                              |
+| Link                                                                                                                           | Description                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Blue Sky Firehose](https://firehose3d.theo.io/)                                                                               | Live stream of blue sky tweets flowing through a tunnel                                   |
+| [nba jersey colors](https://pudding.cool/2024/10/nba-uniforms/)                                                                | A history of NBA jerseys                                                                  |
+| [In Pieces](http://species-in-pieces.com/)                                                                                     | Illustrated animals in raw CSS                                                            |
+| [A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)                                               | In depth explanation of Aztec iconography                                                 |
+| [indieblog.page](https://indieblog.page/)                                                                                      | Click a button to be sent to a random indie blog post                                     |
+| [The HTML Review](https://thehtml.review/04/#)                                                                                 | digital first literary journal                                                            |
+| [olduse.net](https://olduse.net/)                                                                                              | An archive of old usenet articles                                                         |
+| [Learn mahjong, A visual guide](https://themahjong.guide/)                                                                     | anything you could possible want to know about mahjong, stunningly rendered               |
+| [BLOGSBROLL](https://blogscroll.com/)                                                                                          | Open directory of personal sites and blogs                                                |
+| [Quartz Community Showcase](https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f/docs/showcase.md) | List of digital gardens that use Quartz to publish                                        |
+| [Dev Fonts](https://devfonts.gafi.dev/)                                                                                        | Collection of coding fonts                                                                |
+| [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)                                                              | A cool and approachable cheatsheet for USB                                                |
+| [Making Software](https://www.makingsoftware.com/)                                                                             | Stylised (and stunning) reference manual about computers for "people who design software" |
 ### Projects/Tools
 Links to projects or tools that interest me enough to learn
 
@@ -76,59 +77,56 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [CSS-Tricks](https://css-tricks.com/)                                                                                                  | Collection of excellent CSS resources                                                                  |
 | [Wayland](https://wayland.freedesktop.org/)                                                                                            | Full spec and documentation of the Wayland system protocol.                                            |
 | [Reasonable Company](https://www.reasonable.work/artifacts/)                                                                           | Reasonable defaults for CSS and semantic HTML                                                          |
+| [ZetCode](https://zetcode.com/golang/)                                                                                                 | Suite of Go tutorials                                                                                  |
 
 ### Blogs
 Links to individual blogs
 
-| Blog                                                                                        | Description                                                                     |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Works in Progress](https://worksinprogress.co/)                                            | Digital magazine, owned by Stripe.                                              |
-| https://terriblesoftware.org/                                                               |                                                                                 |
-| https://shilin.ca/                                                                          | cool colours                                                                    |
-| [matklad](https://matklad.github.io/)                                                       | Tigerbeetle and Rust language dev                                               |
-| https://blog.x-e.ro/                                                                        |                                                                                 |
-| https://lilymara.xyz/pages/blogroll/                                                        |                                                                                 |
-| [Seirdy’s Home](https://seirdy.one/)                                                        | Personal site                                                                   |
-| https://www.scattered-thoughts.net/                                                         |                                                                                 |
-| https://eddyerburgh.me/                                                                     |                                                                                 |
-| https://olano.dev/blog/                                                                     |                                                                                 |
-| https://andrewwalpole.com/blog/                                                             | His codepens are interesting for CSS                                            |
-| https://herman.bearblog.dev/                                                                |                                                                                 |
-| https://sunshowers.io/                                                                      |                                                                                 |
-| https://www.trevorlasn.com/                                                                 |                                                                                 |
-| https://reillyspitzfaden.com/                                                               |                                                                                 |
-| https://notes.volution.ro/                                                                  |                                                                                 |
-| https://seankhliao.com/                                                                     |                                                                                 |
-| https://stephango.com/                                                                      | CEO of Obsidian                                                                 |
-| https://hamatti.org/                                                                        |                                                                                 |
-| https://maurycyz.com/archive/                                                               |                                                                                 |
-| https://tantaman.com/                                                                       | philosophy, culture, politics                                                   |
-| https://cauenapier.com/                                                                     |                                                                                 |
-| https://blog.d11r.eu/posts/                                                                 |                                                                                 |
-| https://www.jakeworth.com/start-here/                                                       |                                                                                 |
-| https://mitchellh.com/                                                                      | creator of ghostty                                                              |
-| https://zetcode.com/golang/                                                                 | suite of Go tutorials                                                           |
-| https://vivianvoss.net/                                                                     | cool look                                                                       |
-| https://drewdevault.com/                                                                    | FOSS champ                                                                      |
-| https://kristoff.it/                                                                        | king of kings, Zig VP community                                                 |
-| https://causality.blog/                                                                     | concurrency series, i wanna see what it eventually says about Zig (if anything) |
-| https://andrewkelley.me/                                                                    | creator of zig                                                                  |
-| https://brennan.day/                                                                        | independent web blogger                                                         |
-| https://fabiensanglard.net/usbcheat/index.html                                              | USB cheatsheet                                                                  |
-| https://マリウス.com/                                                                           | just super cool looking personal site                                           |
-| https://www.makingsoftware.com/                                                             | a stylised reference manual about computers for "people who design software"    |
-| https://pluralistic.net/                                                                    | interesting tech(?) magazine(?)                                                 |
-| https://hamvocke.com/                                                                       | really good posts                                                               |
-| https://blainsmith.com/                                                                     | dev blog                                                                        |
-| https://lexi-lambda.github.io/                                                              | alexis king (parse dont validate) blog                                          |
-| https://ludic.mataroa.blog/                                                                 | Lucidity blog, writing goals                                                    |
-| https://eblog.fly.dev/index.html                                                            | real 10x engineer, full of go tips                                              |
-| https://www.gingerbill.org/                                                                 | odin lang dev                                                                   |
-| https://www.dgtlgrove.com/                                                                  | blog on programming basics (kinda)                                              |
-| https://jxself.org/about.shtml                                                              | tech blog, libre software bent                                                  |
-| [Martin Fowler](https://martinfowler.com/)                                                  | Pioneer of Agile, CI/CD, TDD , and OOP                                          |
-| [https://garden.bradwoods.io/](https://garden.bradwoods.io/) this whole thing is incredible |                                                                                 |
-| [Andre Klein](https://andreklein.net/)                                                      | Dev who works a lot with ebooks.                                                |
+| Blog                                                                        | Description                                                                     |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [Works in Progress](https://worksinprogress.co/)                            | Digital magazine, owned by Stripe.                                              |
+| [Terrible Software](https://terriblesoftware.org/)                          | Personal blog                                                                   |
+| [Shilin typing...](https://shilin.ca/)                                      | Personal blog                                                                   |
+| [matklad](https://matklad.github.io/)                                       | Personal blog, Tigerbeetle and Rust language dev                                |
+| [xero](https://blog.x-e.ro/)                                                | Personal site, radical 90s aesthetic                                            |
+| [Seirdy’s Home](https://seirdy.one/)                                        | Personal site                                                                   |
+| [Jamie Brandon](https://www.scattered-thoughts.net/)                        | Personal site, Tigerbeetle maintainer                                           |
+| [olano.dev](https://olano.dev/blog/)                                        | Personal blog                                                                   |
+| [Andrew Walpole](https://andrewwalpole.com/blog/)                           | Personal blog, focus on design, UI, and CSS                                     |
+| [ᕕ( ᐛ )ᕗ Herman's blog](https://herman.bearblog.dev/)                       | Personal blog, creator of Bear blogging platform                                |
+| [Trevor I. Lasn](https://www.trevorlasn.com/)                               | Personal blog                                                                   |
+| [Reilly Spitzfaden](https://reillyspitzfaden.com/)                          | Personal site, music focus                                                      |
+| [Volution Notes](https://notes.volution.ro/)                                | Personal site, privacy and security focus                                       |
+| [SEAN K. H. LIAO](https://seankhliao.com/)                                  | Personal blog, cool layout                                                      |
+| [Steph Ango](https://stephango.com/)                                        | Personal blog, CEO of Obsidian                                                  |
+| [Juha-Matti Santala](https://hamatti.org/)                                  | Personal site                                                                   |
+| [My corner of the internet](https://maurycyz.com/archive/)                  | Personal site, a tinkerer                                                       |
+| [Tantaman](https://tantaman.com/)                                           | Personal blog, focus on philosophy, culture, politics                           |
+| [cauenapier](https://cauenapier.com/)                                       | Personal blog                                                                   |
+| [d11r](https://blog.d11r.eu/posts/)                                         | Personal blog                                                                   |
+| [Jake Worth](https://www.jakeworth.com/start-here/)                         | Personal blog                                                                   |
+| [Mitchell Hashimoto](https://mitchellh.com/)                                | Personal blog, creator of ghostty and HashiCorp                                 |
+| [Vivian Voss](https://vivianvoss.net/)                                      | Personal blog, very cool look                                                   |
+| [Drew's website](https://drewdevault.com/)                                  | Personal site, FOSS champ                                                       |
+| [Andrew Kelley](https://andrewkelley.me/)                                   | Peronal site, creator of Zig programming langiage                               |
+| [Loris Cro ](https://kristoff.it/)                                          | Personal site, Zig VP community                                                 |
+| [Causality](https://causality.blog/)                                        | Concurrency series, i wanna see what it eventually says about Zig (if anything) |
+| [Brennan's Weblog](https://brennan.day/)                                    | Personal site, independent web focus                                            |
+| [Fabien Sanglard 's Website](https://fabiensanglard.net/)                   | Personal site, recorded explorations of a tinkerer                              |
+| [マリウス](https://マリウス.com/)                                                   | Personal site, very cool                                                        |
+| [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)     | Personal site, host permalinks links to excellent aritcles                      |
+| [Ham Vocke](https://hamvocke.com/)                                          | Personal blog                                                                   |
+| [Blain Smith](https://blainsmith.com/)                                      | Personal blog                                                                   |
+| [Alexis King](https://lexi-lambda.github.io/)                               | Personal blog                                                                   |
+| [Ludicity](https://ludic.mataroa.blog/)                                     | Personal blog, writing goals                                                    |
+| [eblog: software articles by efron licht](https://eblog.fly.dev/index.html) | Personal site, full of go tips                                                  |
+| [gingerBill](https://www.gingerbill.org/)                                   | Personal blog, creator of Odin programming language                             |
+| [Digital Grove](https://www.dgtlgrove.com/)                                 | Paid substack, focused on data oriented programming                             |
+| [jxself.org](https://jxself.org/about.shtml)                                | Personal blog, libre software bend                                              |
+| [Martin Fowler](https://martinfowler.com/)                                  | Pioneer of Agile, CI/CD, TDD , and OOP                                          |
+| [Brad Woods Digital Garden](https://garden.bradwoods.io/)                   | High quality UX/UI concept breakdowns                                           |
+| [Andre Klein](https://andreklein.net/)                                      | Dev who works a lot with ebooks                                                 |
+| [nothings](https://nothings.org/)                                           | Site of old school game developer, excellent low level resource                 |
 
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
