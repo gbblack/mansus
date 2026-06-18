@@ -19,26 +19,29 @@ Links to cool stuff on the internet. Mostly include direct links to a project, b
 ### Projects/Tools
 Links to projects or tools that interest me enough to learn
 
-| Project                                                   | Description                                                                                 |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Bombadillo](https://bombadillo.colorfield.space/)        | Terminal operated non-web browser, focused on protocols outside the web                     |
-| [Hyperclay](https://hyperclay.com/)                       | Build interactive apps with just HTML                                                       |
-| [Typst](https://github.com/typst/typst)                   | Mark up based typestting system                                                             |
-| [Omarchy](https://omarchy.org/)                           | Opinionated Keyboard first Linux distro with good defaults                                  |
-| [Dear ImGui](https://imgui-bundle.pages.dev/)             | Immediate mode GUI framework, for the web or desktop                                        |
-| [Garnix](https://github.com/garnix-io/garnix-ci)          | Garnix CI source code for nix deployments                                                   |
-| [visualgo](https://visualgo.net/en)                       | Algorithm and data structures animations                                                    |
-| [Music Brainz](https://musicbrainz.org/)                  | Open music encyclopaedia                                                                    |
-| [Dependency Tree Tracker](https://musicbrainz.org/)       | Site that will expose your projects full dependency tree                                    |
-| [atlas9](https://atlas9.dev/)                             | Toolkit for web apps in Go                                                                  |
-| [lazydocker](https://github.com/jesseduffield/lazydocker) | Terminal UI for docker and docker-compose                                                   |
-| [egui](https://github.com/emilk/egui)                     | Immediate mode GUI library for the web                                                      |
-| [Fish](https://fishshell.com/)                            | Modern command line shell for UNIX                                                          |
-| [vimhero](https://www.vim-hero.com/)                      | Browser game to teach and learn vim                                                         |
-| [Clay](https://github.com/nicbarker/clay/tree/main)       | A UI layout library in C. Ideal of a library, immediate mode UI, in a data oriented fashion |
-| [Typescript Execute (tsx)](https://tsx.hirok.io/)         | Node enhancement to better run TypeScript                                                   |
-| [Tracy](https://github.com/wolfpld/tracy)                 | Realtime CPU and GPU profiler                                                               |
-| [river](https://isaacfreund.com/software/river/)          | Implementation of the Wayland compositor                                                    |
+| Project                                                                     | Description                                                                                                                        |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [Bombadillo](https://bombadillo.colorfield.space/)                          | Terminal operated non-web browser, focused on protocols outside the web                                                            |
+| [Hyperclay](https://hyperclay.com/)                                         | Build interactive apps with just HTML                                                                                              |
+| [Typst](https://github.com/typst/typst)                                     | Mark up based typestting system                                                                                                    |
+| [Omarchy](https://omarchy.org/)                                             | Opinionated Keyboard first Linux distro with good defaults                                                                         |
+| [Dear ImGui](https://imgui-bundle.pages.dev/)                               | Immediate mode GUI framework, for the web or desktop                                                                               |
+| [Garnix](https://github.com/garnix-io/garnix-ci)                            | Garnix CI source code for nix deployments                                                                                          |
+| [visualgo](https://visualgo.net/en)                                         | Algorithm and data structures animations                                                                                           |
+| [Music Brainz](https://musicbrainz.org/)                                    | Open music encyclopaedia                                                                                                           |
+| [Dependency Tree Tracker](https://musicbrainz.org/)                         | Site that will expose your projects full dependency tree                                                                           |
+| [atlas9](https://atlas9.dev/)                                               | Toolkit for web apps in Go                                                                                                         |
+| [lazydocker](https://github.com/jesseduffield/lazydocker)                   | Terminal UI for docker and docker-compose                                                                                          |
+| [egui](https://github.com/emilk/egui)                                       | Immediate mode GUI library for the web                                                                                             |
+| [Fish](https://fishshell.com/)                                              | Modern command line shell for UNIX                                                                                                 |
+| [vimhero](https://www.vim-hero.com/)                                        | Browser game to teach and learn vim                                                                                                |
+| [Clay](https://github.com/nicbarker/clay/tree/main)                         | A UI layout library in C. Ideal of a library, immediate mode UI, in a data oriented fashion                                        |
+| [Typescript Execute (tsx)](https://tsx.hirok.io/)                           | Node enhancement to better run TypeScript                                                                                          |
+| [Tracy](https://github.com/wolfpld/tracy)                                   | Realtime CPU and GPU profiler                                                                                                      |
+| [river](https://isaacfreund.com/software/river/)                            | Implementation of the Wayland compositor                                                                                           |
+| [PASETO](https://paseto.io/)                                                | JWT alternative?                                                                                                                   |
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT missing semester "course". teaches you computer things that aren't covered in CS degrees like tooling, debugging and deploying |
+| [Tangled](https://tangled.org/)                                             | Open source, social first VCS                                                                                                      |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -72,6 +75,7 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [public-apis](https://github.com/public-apis/public-apis)                                                                              | GitHub repo with links to public APIs                                                                  |
 | [CSS-Tricks](https://css-tricks.com/)                                                                                                  | Collection of excellent CSS resources                                                                  |
 | [Wayland](https://wayland.freedesktop.org/)                                                                                            | Full spec and documentation of the Wayland system protocol.                                            |
+| [Reasonable Company](https://www.reasonable.work/artifacts/)                                                                           | Reasonable defaults for CSS and semantic HTML                                                          |
 
 ### Blogs
 Links to individual blogs

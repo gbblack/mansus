@@ -82,3 +82,7 @@ Tech Governance
 - WHATWG -> also HTML? they made HTML5. Living standards not RFC based. Started by browsers.
 - Unicode Consortium
 - ICANN and IANA -> administrator of domains and DNS
+
+Fast software
+- [[Fast Software, the Best Software]]
+- [[fast]]

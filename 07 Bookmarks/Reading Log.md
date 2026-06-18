@@ -9,7 +9,6 @@ List of Programming Books: https://www.programmingbooks.dev/
 - [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **The Book Thief** by Markus Zusak.
 - **The Song of Achilles** by Madeline Miller.
 ## Reading List
 - **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
@@ -92,6 +91,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 11. **Blind Willow, Sleeping Woman** by Haruki Murakami.
 12. [Mastering API Architecture](Mastering%20API%20Architecture) by James Gough, Daniel Bryant & Matthew Auburn.
 13. **Brave New World** by Aldous Huxley.
+14. **The Book Thief** by Markus Zusak.
 ## 2025
 ---
 ### Read

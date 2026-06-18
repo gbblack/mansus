@@ -1,8 +1,24 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2-26-06-18
+- [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
+- [Cache Directory Tagging Specification](https://bford.info/cachedir/)
+- [The forge we deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
+- [Full-stack ReScript. Architecture Overview](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git) -> [[How Core Git Developers Configure Git|Tips&Tricks]]
+
+2026-06-17
+- [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
+- [How I got better at debugging](https://jvns.ca/blog/2015/11/22/how-i-got-better-at-debugging/)
+- [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/) -> [[Fast Software, the Best Software|Barnyard]]
+- [Stop using JWTs!](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) -> [[Stop using JWTs!|Tips&Tricks]]
+- [Knowing CSS is mastery to Frontend Development](https://anselm-hannemann.com/writings/knowing-css-is-mastery-to-frontend-development)
+
 2026-06-16
 - [If You Stop Hiring Juniors, Your Senior Engineers Own You](https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/)
-- 
+- [Zig Build System & How to Build Software From Source](https://www.youtube.com/watch?v=wFlyUzUVFhw)
+- [Intro to the Zig Programming Language](https://www.youtube.com/watch?v=YXrb-DqsBNU)
+
 2026-06-15
 - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) -> [[Your EPUB Is Fine. Kobo Disagrees. Blame Adobe|Tips&Tricks]]
 - [write for 1 person](https://wizardzines.com/comics/write-for-one-person/)
