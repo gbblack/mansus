@@ -86,3 +86,43 @@ Tech Governance
 Fast software
 - [[Fast Software, the Best Software]]
 - [[fast]]
+
+Column stores look like struct of arrays???
+Classic Row based table
+```
+[id_1, name_1, age_1]
+[id_2, name_2, age_2]
+[id_3, name_3, age_3]
+```
+Column based table
+```
+[id_1, id_2, id_3]
+[name_1, name_2, name_3]
+[age_1, age_2, age_3]
+```
+Classic Array of Structs
+```c
+struct Vector3 {
+    float x;
+    float y;
+    float z;
+};
+struct Vector3 points[N];
+
+float get_point_x(size_t i) {
+    return points[i].x;
+}
+```
+Struct of Array
+```c
+struct Vector3List {
+    float x[N];
+    float y[N];
+    float z[N];
+};
+struct Vector3List points;
+
+float get_point_x(size_t i) {
+    return points.x[i];
+}
+```

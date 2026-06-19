@@ -1,13 +1,24 @@
 Idea from: [consumed.today](https://consumed.today/)
 
-2-26-06-18
+2029-06-19
+- [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- [To study how chips really work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+- [.gitignore Isn’t the Only Way To Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/) -> [[.gitignore Isn’t the Only Way To Ignore Files in Git|Tips&Tricks]]
+- [If your product is Great, it doesn't need to be Good.](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) -> [[If your product is Great, it doesn't need to be Good.|Barnyard]]
+- [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
+- [DuckDB Internals: Why is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+- [You don’t have to if you don’t want to.](https://www.scottsmitelli.com/articles/you-dont-have-to/) -> I liked this
+- [AI is Making Junior Devs Useless](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+- [Parse, don't Validate and Type-Driven Design in Rust](https://harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/) -> the second half maybe
+- [In praise of ffmpeg](https://drewdevault.com/blog/In-praise-of-ffmpeg/)
+
+2026-06-18
 - [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
 - [Cache Directory Tagging Specification](https://bford.info/cachedir/)
 - [The forge we deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
 - [Full-stack ReScript. Architecture Overview](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git) -> [[How Core Git Developers Configure Git|Tips&Tricks]]
 - [Why The Web Sucks (You Just Don't Know It)](https://nothings.org/writing/websucks.html) -> [[Why The Web Sucks (You Just Don't Know It)|Barnyard]]
-- 
 
 2026-06-17
 - [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)

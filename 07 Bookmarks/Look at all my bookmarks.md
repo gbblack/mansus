@@ -43,6 +43,8 @@ Links to projects or tools that interest me enough to learn
 | [PASETO](https://paseto.io/)                                                | JWT alternative?                                                                                                                   |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT missing semester "course". teaches you computer things that aren't covered in CS degrees like tooling, debugging and deploying |
 | [Tangled](https://tangled.org/)                                             | Open source, social first VCS                                                                                                      |
+| [Apache Arrow](https://arrow.apache.org/?ref=greybeam-blog.ghost.io)        | A language-independent columnar memory format for flat and nested data                                                             |
+| [DuckDB](https://duckdb.org/)                                               | Super fast lightweight database                                                                                                    |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
