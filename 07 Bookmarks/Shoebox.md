@@ -75,6 +75,7 @@ Luck as a surface
 Parsing as validation
  - [[Parse, don’t validate]]
  - [[Parsing data is nicer than only validating it]]
+ - [[Excessive nil pointer checks in Go]] same idea of making undesired state impossible at the boundary rather than continuously handling and checking throughout the program
 
 Tech Governance
 - IETF -> internet protocol. HTTP, QUIC, TLS, ...
@@ -87,6 +88,7 @@ Fast software
 - [[Fast Software, the Best Software]]
 - [[fast]]
 
+### Structs of Arrays
 Column stores look like struct of arrays???
 Classic Row based table
 ```
@@ -126,3 +128,88 @@ float get_point_x(size_t i) {
     return points.x[i];
 }
 ```
+
+[[2000 words about arrays and tables]] the math of it i guess. Argues that arrays and table and tables are just functions actually
+
+ChatGPT help
+```
+The useful programmer mental model is:
+
+Struct of arrays = “turn fields into columns.”
+
+The article frames arrays as functions from indexes to values, like:
+
+index -> value
+
+A normal array of structs is:
+
+i -> { x: number, y: number, alive: boolean }
+
+A struct of arrays flips that into:
+
+{
+  x:     i -> number,
+  y:     i -> number,
+  alive: i -> boolean
+}
+
+Hillel’s key point: this works because a table/row is “array index + named fields,” and an array-of-structs is isomorphic to a struct-of-arrays. You can access by row or by column.
+
+For a programmer, the insight is: choose the layout that matches the question you ask most often.
+
+If your code usually says:
+
+for entity in entities:
+  entity.position.x += entity.velocity.x
+
+array-of-structs feels natural.
+
+But if your code usually says:
+
+for i in entities:
+  x[i] += vx[i]
+
+struct-of-arrays is natural, and often faster because each loop touches dense same-typed memory.
+
+A good mental model:
+
+// Array of structs: row-first
+players[i].health
+players[i].position
+players[i].name
+
+// Struct of arrays: column-first
+players.health[i]
+players.position[i]
+players.name[i]
+
+The article’s deeper idea is that homogeneous fields can become dimensions, but heterogeneous fields cannot fully become one clean multidimensional array. RGB pixels can be treated like:
+
+row -> col -> colorChannel -> int
+
+because R, G, and B are all ints. But airport data like name, flights, and revenue cannot become one clean axis because those fields have different types. Instead, you split it into columns: name column, flights column, revenue column.
+
+So the practical takeaway:
+
+Struct-of-arrays is not just an optimization trick. It is a change in perspective from “I have many objects” to “I have several aligned datasets sharing the same index.”
+
+Use it when:
+
+you process one/few fields across many items;
+you want cache-friendly tight loops;
+you want SIMD/vectorization;
+you are building ECS/game/data-processing systems;
+you think in columns, filters, masks, joins, or batches.
+
+Avoid it when:
+
+you frequently need whole individual objects;
+records have lots of optional/irregular fields;
+clarity matters more than batch performance;
+object identity/lifetimes dominate the design.
+
+The programmer-friendly slogan:
+
+AoS is object thinking. SoA is table thinking.
+```
+

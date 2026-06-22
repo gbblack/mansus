@@ -1,5 +1,15 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-22
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) -> [[The Wrong Abstraction|Tips&Tricks]]
+- [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) -> [[Excessive nil pointer checks in Go|Tips&Tricks]]
+- [2000 words about arrays and tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/) -> [[2000 words about arrays and tables|Note]]
+- [That XOR Trick](https://florian.github.io//xor-trick/) -> [[That XOR Trick|Tips&Tricks]]
+- [A succesful Git branching model considered harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/) -> [[A succesful Git branching model considered harmful|Tips&Tricks]]
+- [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/) -> [[Why We Designed TigerBeetle's Docs from Scratch|Tips&Tricks]]
+- [Stack Traces are Underrated](https://www.karl.berlin/stacktraces.html)
+- [Tmux - the essentials](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
+- 
 2029-06-19
 - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 - [To study how chips really work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)

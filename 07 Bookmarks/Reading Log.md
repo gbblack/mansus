@@ -6,7 +6,6 @@ Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/boo
 
 List of Programming Books: https://www.programmingbooks.dev/
 ## Currently Reading
-- [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 - [[Unit Testing]] by Vladimir Khorikov.
 - [[Every Layout]] by Heydon Pickering & Andy Bell.
 - **The Song of Achilles** by Madeline Miller.
@@ -92,6 +91,7 @@ List of Programming Books: https://www.programmingbooks.dev/
 12. [Mastering API Architecture](Mastering%20API%20Architecture) by James Gough, Daniel Bryant & Matthew Auburn.
 13. **Brave New World** by Aldous Huxley.
 14. **The Book Thief** by Markus Zusak.
+15. [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
 ## 2025
 ---
 ### Read

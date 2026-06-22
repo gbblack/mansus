@@ -80,6 +80,12 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [Wayland](https://wayland.freedesktop.org/)                                                                                            | Full spec and documentation of the Wayland system protocol.                                            |
 | [Reasonable Company](https://www.reasonable.work/artifacts/)                                                                           | Reasonable defaults for CSS and semantic HTML                                                          |
 | [ZetCode](https://zetcode.com/golang/)                                                                                                 | Suite of Go tutorials                                                                                  |
+| [Command Line Interface Guidelines](https://clig.dev/)                                                                                 | Guidelines to designing CLI                                                                            |
+| [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)                                                                     | Book all about logarithms                                                                              |
+| [Logic for Programmers](https://leanpub.com/logic/)                                                                                    | Book on mathematical logic but for a programmer audience                                               |
+| [The Debugging Book](https://www.debuggingbook.org/)                                                                                   | Debugging                                                                                              |
+| [Writing An Interpreter In Go](https://interpreterbook.com/)                                                                           | Guide to interperters in Go                                                                            |
+| [PropEr Testing](https://propertesting.com/toc.html)                                                                                   | Property based testing                                                                                 |
 
 ### Blogs
 Links to individual blogs
@@ -129,7 +135,8 @@ Links to individual blogs
 | [Brad Woods Digital Garden](https://garden.bradwoods.io/)                   | High quality UX/UI concept breakdowns                                           |
 | [Andre Klein](https://andreklein.net/)                                      | Dev who works a lot with ebooks                                                 |
 | [nothings](https://nothings.org/)                                           | Site of old school game developer, excellent low level resource                 |
-
+| [Konrad Reiche](https://konradreiche.com/)                                  | Personal blog, focus on the idiosyncrasies of Go                                |
+| [Computer Things](https://buttondown.com/hillelwayne)                       | Newsletter by the author of *Logic for Programmers*                             |
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
 
