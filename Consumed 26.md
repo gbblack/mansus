@@ -3,7 +3,8 @@ Idea from: [consumed.today](https://consumed.today/)
 2026-06-23
 - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 - [A Reply to The Road to Zig 1.0](https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/)
-- 
+- [In praise of Plan 9](https://drewdevault.com/blog/In-praise-of-Plan-9/)
+
 2026-06-22
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) -> [[The Wrong Abstraction|Tips&Tricks]]
 - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) -> [[Excessive nil pointer checks in Go|Tips&Tricks]]
