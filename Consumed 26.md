@@ -1,5 +1,9 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-23
+- [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
+- [A Reply to The Road to Zig 1.0](https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/)
+- 
 2026-06-22
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) -> [[The Wrong Abstraction|Tips&Tricks]]
 - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) -> [[Excessive nil pointer checks in Go|Tips&Tricks]]
@@ -9,7 +13,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/) -> [[Why We Designed TigerBeetle's Docs from Scratch|Tips&Tricks]]
 - [Stack Traces are Underrated](https://www.karl.berlin/stacktraces.html)
 - [Tmux - the essentials](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
-- 
+
 2029-06-19
 - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 - [To study how chips really work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)

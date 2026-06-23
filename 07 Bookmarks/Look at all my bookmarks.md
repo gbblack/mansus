@@ -4,6 +4,7 @@ Links to cool stuff on the internet. Mostly include direct links to a project, b
 
 | Link                                                                                                                           | Description                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Learn mahjong, A visual guide](https://themahjong.guide/)                                                                     | anything you could possible want to know about mahjong, stunningly rendered               |
 | [Blue Sky Firehose](https://firehose3d.theo.io/)                                                                               | Live stream of blue sky tweets flowing through a tunnel                                   |
 | [nba jersey colors](https://pudding.cool/2024/10/nba-uniforms/)                                                                | A history of NBA jerseys                                                                  |
 | [In Pieces](http://species-in-pieces.com/)                                                                                     | Illustrated animals in raw CSS                                                            |
@@ -11,12 +12,12 @@ Links to cool stuff on the internet. Mostly include direct links to a project, b
 | [indieblog.page](https://indieblog.page/)                                                                                      | Click a button to be sent to a random indie blog post                                     |
 | [The HTML Review](https://thehtml.review/04/#)                                                                                 | digital first literary journal                                                            |
 | [olduse.net](https://olduse.net/)                                                                                              | An archive of old usenet articles                                                         |
-| [Learn mahjong, A visual guide](https://themahjong.guide/)                                                                     | anything you could possible want to know about mahjong, stunningly rendered               |
 | [BLOGSBROLL](https://blogscroll.com/)                                                                                          | Open directory of personal sites and blogs                                                |
 | [Quartz Community Showcase](https://github.com/xy-241/CS-Notes/blob/2a74c9893809dbea7e49d43bbb4d7b326661407f/docs/showcase.md) | List of digital gardens that use Quartz to publish                                        |
 | [Dev Fonts](https://devfonts.gafi.dev/)                                                                                        | Collection of coding fonts                                                                |
 | [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)                                                              | A cool and approachable cheatsheet for USB                                                |
 | [Making Software](https://www.makingsoftware.com/)                                                                             | Stylised (and stunning) reference manual about computers for "people who design software" |
+| [tildeverse.org](https://tildeverse.org/)                                                                                      | Collection of tilde communities (not sure what tilde is)                                  |
 ### Projects/Tools
 Links to projects or tools that interest me enough to learn
 
@@ -45,6 +46,14 @@ Links to projects or tools that interest me enough to learn
 | [Tangled](https://tangled.org/)                                             | Open source, social first VCS                                                                                                      |
 | [Apache Arrow](https://arrow.apache.org/?ref=greybeam-blog.ghost.io)        | A language-independent columnar memory format for flat and nested data                                                             |
 | [DuckDB](https://duckdb.org/)                                               | Super fast lightweight database                                                                                                    |
+| [Vim Master](https://renzorlive.github.io/vimmaster/)                       | In browser vim game                                                                                                                |
+| [presenterm](https://github.com/mfontanini/presenterm)                      | Markdown presentation in your terminal                                                                                             |
+| [Quire](https://quire.getty.edu/)                                           | Open source publishing tool                                                                                                        |
+| [Radicle](https://radicle.dev/)                                             | Open source P2P code forge on top of Git                                                                                           |
+| [PrettyFish](https://pretty.fish/)                                          | Mermaid chart renderer in browser                                                                                                  |
+| [File Pilot](https://filepilot.tech/)                                       | Windows file manager                                                                                                               |
+| [Fastmail](https://www.fastmail.com/)                                       | email hosting alternative                                                                                                          |
+| [Roomy](https://a.weird.one/)                                               | A federated(?) discord alternative                                                                                                 |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -86,7 +95,18 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [The Debugging Book](https://www.debuggingbook.org/)                                                                                   | Debugging                                                                                              |
 | [Writing An Interpreter In Go](https://interpreterbook.com/)                                                                           | Guide to interperters in Go                                                                            |
 | [PropEr Testing](https://propertesting.com/toc.html)                                                                                   | Property based testing                                                                                 |
-
+| [Swimming in Tech Debt](https://helpthisbook.com/lou-franco/swimming-in-tech-debt)                                                     | Tech debt book                                                                                         |
+| [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                                                        | Operating system textbook                                                                              |
+| [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/)                                                                 | Book on designing system atomically, not tech specific                                                 |
+| [The Learnix Operating System](https://www.learnix-os.com/Introduction.html)                                                           | In progress book on implementing a Linux OS                                                            |
+| [The Internet Gopher Protocol](https://datatracker.ietf.org/doc/html/rfc1436)                                                          | The Gopher protocol spec                                                                               |
+| [Good sleep, good learning, good life](https://super-memory.com/articles/sleep.htm)                                                    | Compendium of knowledge on sleep                                                                       |
+| [HAM Radio 101](https://www.onallbands.com/category/ham-radio-101/)                                                                    | A series of articles on HAM radio                                                                      |
+| [The Level Design Book](https://book.leveldesignbook.com/)                                                                             | In progress level design book                                                                          |
+| [Welcome to Zsh](https://www.zsh.org/)                                                                                                 | Full spec on zsh                                                                                       |
+| [How to build a PC, the last guide you'll ever need!](https://www.youtube.com/watch?v=BL4DCEp7blY)                                     | Build your own PC video                                                                                |
+| [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)                       | White-paper on Google's monorepo                                                                       |
+| [The HTML Hobbyist](https://www.htmlhobbyist.com/)                                                                                     | Site for the basics of making your own personal site                                                   |
 ### Blogs
 Links to individual blogs
 
@@ -122,7 +142,7 @@ Links to individual blogs
 | [Brennan's Weblog](https://brennan.day/)                                    | Personal site, independent web focus                                            |
 | [Fabien Sanglard 's Website](https://fabiensanglard.net/)                   | Personal site, recorded explorations of a tinkerer                              |
 | [マリウス](https://マリウス.com/)                                                   | Personal site, very cool                                                        |
-| [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)     | Personal site, host permalinks links to excellent aritcles                      |
+| [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)     | Personal site, hosts permalinks links to excellent articles                     |
 | [Ham Vocke](https://hamvocke.com/)                                          | Personal blog                                                                   |
 | [Blain Smith](https://blainsmith.com/)                                      | Personal blog                                                                   |
 | [Alexis King](https://lexi-lambda.github.io/)                               | Personal blog                                                                   |
