@@ -14,6 +14,23 @@ List of Programming Books: https://www.programmingbooks.dev/
 - **The Mythical Man-Month** by Fred Brooks.
 - **Toyota Way** by Jeffrey Liker.
 - **Mortals and Others** by Bertand Russel.
+### Dissertations and Papers
+- [Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- [Design Tradeoffs of Data Access Methods](https://dl.acm.org/doi/pdf/10.1145/2882903.2912569)
+- [A Mathematician’s Lament](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
+- [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [No Silver Bullet Essence and Accidents of Software Engineering](https://www.cs.unc.edu/techreports/86-020.pdf)
+- [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
+- [A Spiral Model of Software Development and Enhancement](https://www.cse.msu.edu/~cse435/Homework/HW3/boehm.pdf)
+- [Textbooks and Methods of Note-Taking in Early Modern Europe](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e342-6bd4-e053-0100007fdf3b/content)
+- [Handwriting but not typewriting leads to widespread brain connectivity: a high-density EEG study with implications for the classroom](https://www.openread.academy/en/paper/reading?corpusId=503252214)
+- [Immutability Changes Everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+- [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
+- [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
+- [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
+- [Languages recognised by finite semigroups](https://www.mimuw.edu.pl/~bojan/papers/algebra-26-aug-2020.pdf)
+- [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4)
+- [Peter Naur, Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 ### Short Little Difficult Books
 - **Patriotism** by Yukio Mishima.
 - **The Trial** by Franz Kafka.

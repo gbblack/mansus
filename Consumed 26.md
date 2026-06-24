@@ -1,5 +1,13 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-24
+- [The Map](https://www.jerrysmap.com/the-map)
+- [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
+- [Signs you're a dangerous terrorist: using Signal, moving zines](https://werd.io/signs-youre-a-dangerous-terrorist-using-signal-moving-zines/)
+- [Measuring Software Engineering](https://fffej.substack.com/p/measuring-engineering)
+- [An early social un-network](https://paperstack.com/an_early_social_unnetwork/)
+- [Thinking About Memory and Allocation](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/) -> [[Memory Allocation Strategies|Note]] (several articles in a series but one note)
+
 2026-06-23
 - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 - [A Reply to The Road to Zig 1.0](https://www.gingerbill.org/article/2019/05/13/a-reply-to-the-road-to-zig/)

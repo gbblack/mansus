@@ -107,6 +107,8 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [How to build a PC, the last guide you'll ever need!](https://www.youtube.com/watch?v=BL4DCEp7blY)                                     | Build your own PC video                                                                                |
 | [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)                       | White-paper on Google's monorepo                                                                       |
 | [The HTML Hobbyist](https://www.htmlhobbyist.com/)                                                                                     | Site for the basics of making your own personal site                                                   |
+| [9Front](https://9front.org/)                                                                                                          | Modern fork of the Plan 9 OS, and community resources                                                  |
+| [zig-by-example](https://github.com/boringcollege/zig-by-example)                                                                      | GitHub repository of Zig exercises                                                                     |
 ### Blogs
 Links to individual blogs
 
