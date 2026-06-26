@@ -1,5 +1,30 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-26
+- [Introduction to making Makefiles](https://www.jfranken.de/homepages/johannes/vortraege/make.en.html)
+- [Paul Graham, proto-techbro.](https://davekarpf.substack.com/p/paul-graham-proto-techbro)
+- [How to setup self hosted wiki for your startup](https://themythicalengineer.com/how-to-setup-self-hosted-wiki-for-your-startup.html)
+- [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
+- [My Zig Configuration for VS Code](https://mtlynch.io/notes/zig-vscode-nix/)
+- [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
+- [The Tragedy of Stafford Beer](https://kevinmunger.substack.com/p/the-tragedy-of-stafford-beer)
+- [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
+- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres) -> [[What I Wish Someone Told Me About Postgres|Tips&Tricks]]
+- [We All Depend on Open Source. We Will Defend It Together.](https://akrites.org/letter/)
+- [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
+
+2026-06-25
+- [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
+- [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
+- [Programming Deflation](https://newsletter.kentbeck.com/p/programming-deflation)
+- [What sets great managers apart](https://www.hellmayr.com/blog/2025-08-17-great-managers)
+- [The value of institutional memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
+- [The Worst Programmer I Know](https://dannorth.net/blog/the-worst-programmer/)
+- [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
+- [Rich Text, Poor Text](https://laemeur.sdf.org/words/D29.html)
+- [I Think It's Time to Give Nix a Chance](https://maych.in/blog/its-time-to-give-nix-a-chance/) -> [[I Think It's Time to Give Nix a Chance|Note]]
+- [What is Local-first Web Development?](https://alexop.dev/posts/what-is-local-first-web-development/) -> [[What is Local-first Web Development?|Note]] (another several articles in a series but one note)
+
 2026-06-24
 - [The Map](https://www.jerrysmap.com/the-map)
 - [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
@@ -314,7 +339,7 @@ Idea from: [consumed.today](https://consumed.today/)
 - [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
 - [Programming Still Sucks.](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 
-2025-05-06
+2026-05-06
 - [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
 - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
 - [The Boring Internet](https://www.terrygodier.com/the-boring-internet) -> [[The Boring Internet|Barnyard]]

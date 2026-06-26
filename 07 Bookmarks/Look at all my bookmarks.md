@@ -18,6 +18,7 @@ Links to cool stuff on the internet. Mostly include direct links to a project, b
 | [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)                                                              | A cool and approachable cheatsheet for USB                                                |
 | [Making Software](https://www.makingsoftware.com/)                                                                             | Stylised (and stunning) reference manual about computers for "people who design software" |
 | [tildeverse.org](https://tildeverse.org/)                                                                                      | Collection of tilde communities (not sure what tilde is)                                  |
+| [Walkman Land](https://walkman.land/)                                                                                          | Tribute to the Walkman                                                                    |
 ### Projects/Tools
 Links to projects or tools that interest me enough to learn
 
@@ -54,6 +55,7 @@ Links to projects or tools that interest me enough to learn
 | [File Pilot](https://filepilot.tech/)                                       | Windows file manager                                                                                                               |
 | [Fastmail](https://www.fastmail.com/)                                       | email hosting alternative                                                                                                          |
 | [Roomy](https://a.weird.one/)                                               | A federated(?) discord alternative                                                                                                 |
+| [direnv](https://direnv.net/)                                               | Tool to automatically load/unload `env` variables when you change directory                                                        |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -109,6 +111,7 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [The HTML Hobbyist](https://www.htmlhobbyist.com/)                                                                                     | Site for the basics of making your own personal site                                                   |
 | [9Front](https://9front.org/)                                                                                                          | Modern fork of the Plan 9 OS, and community resources                                                  |
 | [zig-by-example](https://github.com/boringcollege/zig-by-example)                                                                      | GitHub repository of Zig exercises                                                                     |
+| [Postgres Is Enough](https://postgresisenough.dev/resources)                                                                           | List of resources to use Postgres for everything rather than a suite of specialized tools              |
 ### Blogs
 Links to individual blogs
 
@@ -159,6 +162,8 @@ Links to individual blogs
 | [nothings](https://nothings.org/)                                           | Site of old school game developer, excellent low level resource                 |
 | [Konrad Reiche](https://konradreiche.com/)                                  | Personal blog, focus on the idiosyncrasies of Go                                |
 | [Computer Things](https://buttondown.com/hillelwayne)                       | Newsletter by the author of *Logic for Programmers*                             |
+| [Simon Hellmayr](https://www.hellmayr.com/blog)                             | Personal blog, engineer at Sentry, I like the minimalistic style                |
+| [LÆMEUR's Home Page @ SDF](https://laemeur.sdf.org/index.html)              | Personal site, cool design and minimalist design                                |
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
 
@@ -171,6 +176,7 @@ Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains w
 7. [Shichao's Notes](https://notes.shichao.io/)
 8. [foreverlikethis](https://foreverliketh.is/)
 9. [Second Brain](https://www.ssp.sh/brain/)
+10. [Liam O'Connor](https://liamoc.net/forest/index/index.xml) -> not a vault but similar concept, different execution. Mostly excellent math notes
 
 
 

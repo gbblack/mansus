@@ -1,19 +1,12 @@
 # Reading Log
 
-Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
-
-Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/books#rework
-
-List of Programming Books: https://www.programmingbooks.dev/
-## Currently Reading
-- [[Unit Testing]] by Vladimir Khorikov.
-- [[Every Layout]] by Heydon Pickering & Andy Bell.
-- **The Song of Achilles** by Madeline Miller.
-## Reading List
-- **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
-- **The Mythical Man-Month** by Fred Brooks.
-- **Toyota Way** by Jeffrey Liker.
-- **Mortals and Others** by Bertand Russel.
+## To Read List
+### Lists of Books
+- Dan's Reading List: https://www.columbuslibrary.org/wp-content/uploads/2025/07/What-Dan-Read-Booklist.pdf
+- Basecamp books: highlights are Rework and Getting Real: https://basecamp.com/books#rework
+- List of Programming Books: https://www.programmingbooks.dev/
+- List of books/papers on distributed systems: https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
+- Books by Niklaus Wirth: https://people.inf.ethz.ch/wirth/
 ### Dissertations and Papers
 - [Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 - [Design Tradeoffs of Data Access Methods](https://dl.acm.org/doi/pdf/10.1145/2882903.2912569)
@@ -56,6 +49,12 @@ List of Programming Books: https://www.programmingbooks.dev/
 - **The Famished Road** by Ben Okri.
 - **The God of Small Things** by Arundhati Roy.
 ### My List
+- **100 Go Mistakes and How to Avoid Them** by Teiva Harsanyi.
+- **The Mythical Man-Month** by Fred Brooks.
+- **Toyota Way** by Jeffrey Liker.
+- **Mortals and Others** by Bertand Russel.
+- **The Human Use of Human Beings** by Norbert Wiener.
+- **Platform for Change** by Stafford Beer.
 - **Moby Dick; or, The Whale** by Herman Melville.
 - **Siddhartha an Indian tale** by Hermann Hesse.
 - **Frankenstein** by Mary Shelley.
@@ -91,6 +90,10 @@ List of Programming Books: https://www.programmingbooks.dev/
 - **[Fifty Forgotten Records](https://tartaruspress.com/russell-fifty-forgotten-records.html)** by R.B. Russell.
 - **[The Way of All Flesh](https://bookshop.org/p/books/the-way-of-all-flesh-samuel-butler/b5c2be53f34c9706?aid=98208&ean=9780375752490&listref=best-things-2025&next=t)** by Samuel Butler.
 - **The New Economics for Industry, Government, Education** by W. Edwards Deming
+## Currently Reading
+- [[Unit Testing]] by Vladimir Khorikov.
+- [[Every Layout]] by Heydon Pickering & Andy Bell.
+- **The Song of Achilles** by Madeline Miller.
 ## 2026
 ---
 ### Read
@@ -102,13 +105,13 @@ List of Programming Books: https://www.programmingbooks.dev/
 6. **The Diary of Adam and Eve** by Mark Twain.
 7. **The Japanese Mind** by Roger J. Davies & Osamu Ikeno.
 8. **Postcolonial Love Poem** by Natalie Diaz.
-9. [[Learning Systems Thinking]] by Diana Montalion.
-10. [The Rules of Programming](The%20Rules%20of%20Programming) by Chris Zimmerman.
+9. **Learning Systems Thinking** by Diana Montalion.
+10. **The Rules of Programming** by Chris Zimmerman.
 11. **Blind Willow, Sleeping Woman** by Haruki Murakami.
-12. [Mastering API Architecture](Mastering%20API%20Architecture) by James Gough, Daniel Bryant & Matthew Auburn.
+12. **Mastering API Architecture** by James Gough, Daniel Bryant & Matthew Auburn.
 13. **Brave New World** by Aldous Huxley.
 14. **The Book Thief** by Markus Zusak.
-15. [[Fundamentals of Software Architecture]] by Mark Richards & Neal Ford.
+15. **Fundamentals of Software Architecture** by Mark Richards & Neal Ford.
 ## 2025
 ---
 ### Read
