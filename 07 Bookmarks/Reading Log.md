@@ -89,10 +89,10 @@
 - **[We Who Are About To…](https://bookshop.org/p/books/we-who-are-about-to-joanna-russ/a7176b6dc2109f04?aid=98208&ean=9780819567598&listref=best-things-2025&next=t)** by Joanna Russ.
 - **[Fifty Forgotten Records](https://tartaruspress.com/russell-fifty-forgotten-records.html)** by R.B. Russell.
 - **[The Way of All Flesh](https://bookshop.org/p/books/the-way-of-all-flesh-samuel-butler/b5c2be53f34c9706?aid=98208&ean=9780375752490&listref=best-things-2025&next=t)** by Samuel Butler.
-- **The New Economics for Industry, Government, Education** by W. Edwards Deming
+- **The New Economics for Industry, Government, Education** by W. Edwards Deming.
+- [[Every Layout]] by Heydon Pickering & Andy Bell.
 ## Currently Reading
 - [[Unit Testing]] by Vladimir Khorikov.
-- [[Every Layout]] by Heydon Pickering & Andy Bell.
 - **The Song of Achilles** by Madeline Miller.
 ## 2026
 ---

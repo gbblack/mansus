@@ -1,5 +1,12 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-06-29
+- [Turning music into a chore is how I became a musician](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
+- [Get Numb Before You Get Good](https://commoncog.com/get-numb-get-good/)
+- [Dunning-Kruger](https://danluu.com/dunning-kruger/?ref=commoncog.com)
+- [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
+- [The Power of the XDG Base Directory Specification](https://farbenmeer.de/blog/xdg-basisverzeichnis-spezifikation)
+
 2026-06-26
 - [Introduction to making Makefiles](https://www.jfranken.de/homepages/johannes/vortraege/make.en.html)
 - [Paul Graham, proto-techbro.](https://davekarpf.substack.com/p/paul-graham-proto-techbro)
