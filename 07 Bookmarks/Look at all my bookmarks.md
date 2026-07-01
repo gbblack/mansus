@@ -56,6 +56,7 @@ Links to projects or tools that interest me enough to learn
 | [Fastmail](https://www.fastmail.com/)                                       | email hosting alternative                                                                                                          |
 | [Roomy](https://a.weird.one/)                                               | A federated(?) discord alternative                                                                                                 |
 | [direnv](https://direnv.net/)                                               | Tool to automatically load/unload `env` variables when you change directory                                                        |
+| [Software Internals Book Club](https://eatonphil.com/bookclub.html)         | A bookclub for software books                                                                                                      |
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -111,6 +112,7 @@ Links to learning materials on a given subject. Usually text but may also be lin
 | [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)                                                                 | GitHub awesome repo for TypeScript                                                                     |
 | [public-apis](https://github.com/public-apis/public-apis)                                                                              | GitHub repo with links to public APIs                                                                  |
 | [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)                                                                     | Book all about logarithms                                                                              |
+| [Go Concurrency Exercises](https://github.com/loong/go-concurrency-exercises/tree/main)                                                | GitHub repo with a set of concurrency practice exercises                                               |
 ### Blogs
 Links to individual blogs
 
@@ -163,6 +165,8 @@ Links to individual blogs
 | [Computer Things](https://buttondown.com/hillelwayne)                       | Newsletter by the author of *Logic for Programmers*                             |
 | [Simon Hellmayr](https://www.hellmayr.com/blog)                             | Personal blog, engineer at Sentry, I like the minimalistic style                |
 | [LÆMEUR's Home Page @ SDF](https://laemeur.sdf.org/index.html)              | Personal site, cool design and minimalist design                                |
+| [Bob Doto](https://writing.bobdoto.computer/)                               | Personal Blog, Zettelkasten focus                                               |
+| [Bryan Cantrill](https://bcantrill.dtrace.org/)                             | Personal Blog, Founder of Oxide Computer Company                                |
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
 

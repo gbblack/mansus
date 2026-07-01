@@ -76,6 +76,7 @@ Parsing as validation
  - [[Parse, don’t validate]]
  - [[Parsing data is nicer than only validating it]]
  - [[Excessive nil pointer checks in Go]] same idea of making undesired state impossible at the boundary rather than continuously handling and checking throughout the program
+ - [[The Typestate Pattern in Rust]] from this article https://cliffle.com/blog/rust-typestate/
 
 Tech Governance
 - IETF -> internet protocol. HTTP, QUIC, TLS, ...
@@ -212,4 +213,199 @@ The programmer-friendly slogan:
 
 AoS is object thinking. SoA is table thinking.
 ```
+---
+mental model help
+I actually think these ideas fit **data-oriented programming (DOP)** better than they fit classical OOP.
 
+The article uses methods because it's written in Rust, but neither **typestate** nor **parse, don't validate** require objects with encapsulated behavior. They're fundamentally about **types and transformations**, not methods.
+
+A DOP way of thinking is:
+
+- Data is plain structs.
+- Functions transform one kind of data into another.
+- Types express invariants.
+- Systems operate over collections of data.
+
+That's almost exactly what "parse, don't validate" encourages.
+
+## Instead of objects, think of pipelines
+
+Instead of
+
+```
+connection.connect();connection.authenticate();connection.send();
+```
+
+think
+
+```
+RawConnection    ↓ connect()ConnectedConnection    ↓ authenticate()AuthenticatedConnection    ↓ send()
+```
+
+Each function consumes one representation and produces another.
+
+No object owns the logic.
+
+## Data stays dumb
+
+For example:
+
+```
+const RawPacket = struct {    bytes: []const u8,};const ParsedPacket = struct {    header: Header,    payload: []const u8,};fn parsePacket(raw: RawPacket) !ParsedPacket {    ...}
+```
+
+No methods.
+
+Just data.
+
+Then another system:
+
+```
+fn verify(packet: ParsedPacket) !VerifiedPacket {    ...}
+```
+
+Then
+
+```
+fn execute(packet: VerifiedPacket) void {    ...}
+```
+
+This is much closer to functional programming than OOP.
+
+---
+
+## Typestate becomes "typed transformations"
+
+Instead of thinking
+
+> "An object changes state."
+
+think
+
+> "A transformation produces different data."
+
+```
+FileOnDisk      │      ▼LoadedFile      │      ▼ParsedScene      │      ▼OptimizedScene      │      ▼GPUMeshes
+```
+
+Each stage has different guarantees.
+
+Nothing mutates its identity.
+
+---
+
+## ECS is already like this
+
+Suppose an ECS has
+
+```
+EntityPositionVelocityHealth
+```
+
+You might also have
+
+```
+RawNetworkPacketParsedNetworkPacketVerifiedCommand
+```
+
+The network system never accepts `RawNetworkPacket`.
+
+It only accepts `VerifiedCommand`.
+
+The parser system is responsible for producing that.
+
+That's typestate.
+
+---
+
+## Data-oriented doesn't mean "everything is one struct"
+
+People sometimes think DOP means:
+
+```
+struct Thing {    bool parsed;    bool validated;    bool authenticated;}
+```
+
+and every function checks flags.
+
+That's actually _less_ data-oriented in many situations because every consumer must branch on runtime state.
+
+Instead:
+
+```
+RawThingParsedThingAuthenticatedThing
+```
+
+lets the compiler know exactly what stage you're at.
+
+---
+
+## Even better with SoA
+
+Suppose you're processing thousands of packets.
+
+Instead of
+
+```
+ParsedPacketParsedPacketParsedPacket
+```
+
+you'd store
+
+```
+Headers[]Payloads[]
+```
+
+(Structure of Arrays)
+
+Your parser produces those arrays.
+
+Your validator consumes those arrays and produces
+
+```
+VerifiedHeaders[]VerifiedPayloads[]
+```
+
+The typestate applies to the **entire collection**, not just individual objects.
+
+So DOP and typestate complement each other nicely.
+
+---
+
+## The main shift
+
+OOP tends to say:
+
+> Objects change over time.
+
+DOP + parse-don't-validate says:
+
+> Data flows through transformations.
+
+Each transformation strengthens the guarantees.
+
+```
+Untrusted bytes        │        ▼Parsed data        │        ▼Validated data        │        ▼Optimized data        │        ▼Rendered data
+```
+
+Each arrow is just a function.
+
+Each box is just a struct.
+
+No methods are required.
+
+## I think this is a particularly natural style in Zig
+
+One of Zig's design philosophies is to make data layout explicit and avoid hidden behavior. That meshes well with this approach:
+
+- Plain structs represent facts about the world.
+- Free functions perform transformations.
+- Different structs represent different invariants.
+- `comptime` can encode stage information when it's useful.
+- Ownership is explicit but not baked into the object model.
+
+So if you dislike the "objects with methods" style, you don't need to throw away typestate or "parse, don't validate." Instead, reinterpret them as **typed data pipelines**: every function consumes data with one set of guarantees and produces data with a stronger set of guarantees. That's arguably closer to the original intent of both ideas than the object-oriented presentation often used in examples.
+---
+## Concepts
+Concepts or words i've heard of that could be useful but I truly have no idea what they mean/are:
+- [Coloured Petri net](https://en.wikipedia.org/wiki/Coloured_Petri_net)

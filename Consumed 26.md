@@ -1,5 +1,27 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-07-01
+- [Open source game engine Godot will no longer accept AI-authored code contributions: 'We can't trust heavy users of AI to understand their code enough to fix it'](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+- [Stroustrup's Rule](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
+- [A short introduction to Interval Tree Clocks](https://blog.separateconcerns.com/2017-05-07-itc.html)
+- [The meme-ification of the "Demon Core"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
+- [Structural Correctness](https://blog.sao.dev/structural-correctness/)
+- [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
+- [The Power of a Pronoun](https://bcantrill.dtrace.org/2013/11/30/the-power-of-a-pronoun/)
+- [Compensation as a reflection of values](https://bcantrill.dtrace.org/2021/03/03/compensation-as-a-reflection-of-values/)
+- [Engineering a culture](https://bcantrill.dtrace.org/2024/03/31/engineering-a-culture/)
+- [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
+- [The Typestate Pattern in Rust](https://cliffle.com/blog/rust-typestate/) -> [[The Typestate Pattern in Rust|Note]]
+
+2026-06-30
+- [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
+- [Dr. Alan Kay on the Meaning of "Object-Oriented Programming"](https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/)
+- [The Return of Aspect Oriented Programming](https://thomaswc.com/blog/the_return_of_aop.html)
+- [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+- [font-family recommendations](https://chrismorgan.info/font-family) -> [[font-family recommendations|Tips&Tricks]]
+- [How to write a good design document](https://grantslatton.com/how-to-design-document) -> [[How to write a good design document|Tips&Tricks]]
+- [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/)
+
 2026-06-29
 - [Turning music into a chore is how I became a musician](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
 - [Get Numb Before You Get Good](https://commoncog.com/get-numb-get-good/)
